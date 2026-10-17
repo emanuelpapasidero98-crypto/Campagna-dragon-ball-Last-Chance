@@ -3,7 +3,7 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 1 (non ancora iniziata)
+- **Sessione corrente**: 1 (in corso)
 - **Data in gioco**: anno 777, giorno 1, sera
 - **Luogo**: casa di Akira, nella foresta di Nova City (Terra Nova)
 - **Scena**: Akira è a cena con Syntia e Zemi (incipit)
