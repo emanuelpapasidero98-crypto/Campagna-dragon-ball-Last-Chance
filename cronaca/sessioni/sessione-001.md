@@ -1,5 +1,5 @@
 # Sessione 001 — <titolo, da decidere a fine sessione>
-- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine …
+- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine … (in corso: giorno 2, mattina)
 - Luogo iniziale: casa di Akira, foresta di Nova City (Terra Nova)
 
 ## Resoconto
@@ -34,6 +34,12 @@
 - [s1 · g1 sera] **L'invito della U.A.C.** (Facoltà di Scienze Naturali, firmato dalla preside **prof.ssa Cannella**): ciclo di sei lezioni pubbliche sull'"Atlante della foresta di Nova" in tre settimane, a partire da 12 giorni da oggi (giorno 13), e incarico di dare i nomi alle specie del nuovo **Orto Botanico dell'Est**, costruito nella parte di Arcorp City ricostruita dopo il 774. Alloggio universitario offerto. Risposta entro 3 giorni (entro il giorno 4), altrimenti chiamano un autore di Levo City che ha scritto un libro sui funghi.
 - [s1 · g1 sera] Dalla casa nella foresta ad Arcorp City: quasi tre ore di aeromobile.
 - [s1 · g1 sera] Syntia ha tenuto l'invito per sé cinque giorni, e lo ammette.
+- [s1 · g1 notte] Syntia: «Prima di conoscermi dormivi con gli stivali.» (Akira glielo raccontò la prima sera che rimase da lei.)
+- [s1 · g1 notte] Il negoziante di Nova City ("il signor coso") abbassa la serranda quando arriva Akira; Syntia ci va da sola.
+- [s1 · g1 notte] Zemi ha chiesto a Pancotto di giocare a nascondino (ha vinto Pancotto).
+- [s1 · g1 notte] Syntia decide: domattina scrive alla preside Cannella che accetta e che verrà "con la famiglia". Ad Arcorp c'è Tights ("lo sa entro un'ora"); l'università è finanziata per metà dalla Capsule.
+- [s1 · g1 notte] Notte d'amore tra Akira e Syntia. Verso l'alba Akira ha un incubo (Lace sul pianeta delle piante carnivore, poi la mano di Zaraya), si sveglia sudato ma **senza aura**. Syntia non si sveglia.
+- [s1 · g2 mattina] Zemi è entrata di nascosto all'alba e ha appeso il disegno (papà con due braccia) con una puntina sulla parete davanti al letto, storto.
 - [s1 · g1 sera] Syntia tiene in tasca del grembiule una busta color crema con il sigillo blu dell'Università di Arcorp City (un arco stilizzato e le lettere U.A.C.). Il suo comunicatore, sul ripiano, lampeggia due volte durante la cena.
 
 ### Battute memorabili dei PNG
@@ -51,6 +57,8 @@
 - Syntia: «Lo so chi era. C'ero anch'io. Ero sul balcone, con lei in braccio.»
 - Syntia: «Sono io che devo… cosa? Finiscila, avanti. Sparire?»
 - Syntia: «Hai tre giorni. Come me.»
+- Syntia: «Un po' sì. Non *tu*. Questa cosa qui.»
+- Syntia: «Se mi tolgono l'invito perché mio marito si siede in terza fila… allora se lo meritano, il libro sui funghi.»
 
 ### Momenti chiave nei rapporti
 - Zemi chiede ad Akira chi è Lace, davanti a Syntia. Akira le dice una bugia gentile (gita nello spazio). Syntia non lo contraddice, ma abbassa gli occhi.
@@ -59,6 +67,7 @@
 - Akira bacia Syntia con passione mentre Zemi è in bagno: lei risponde, ride, lo ferma per via della bambina. Dopo l'occhiolino il sorriso le resta, ma la mano torna sulla tasca con la busta.
 - Syntia confessa ad Akira l'invito e che vorrebbe andarci; si sente egoista. Gli chiede cosa sente lui davvero, non "fai come ti senti".
 - Akira dice a Syntia che deve andare, che la sostiene, che lei e Zemi meritano una vita normale (Zemi dovrebbe andare a scuola) e lascia a metà "sono io che devo…". Syntia è sollevata dal "devi andare", dice un "No" secco sulla scuola per Zemi ("te lo ricordi cosa le dicevano"), poi si arrabbia, calma e precisa, contro l'idea che lui si tiri fuori: "una vita nuova senza di te dentro non la voglio". Rilancia: vuole che **Akira e Zemi vengano ad Arcorp con lei**, almeno alla prima lezione. Gli dà tre giorni per pensarci.
+- Akira ammette di sentirsi come se impedisse loro di vivere. Syntia risponde "un po' sì" (non lui: l'isolamento) e ammette di aver taciuto anche lei per non pesargli. Akira accetta di andare ad Arcorp con Zemi. Notte d'amore.
 - Akira le prende la mano per rassicurarla: lei stringe forte e non lascia. Alla domanda "perché dovrei pensare a qualcosa di brutto?" risponde che è "una cosa mia, di lavoro" e che vuole il suo parere vero, "non la faccia da va bene tutto".
 
 ## Contatore metafore (massimo 1 per PNG a sessione)

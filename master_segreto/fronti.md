@@ -86,3 +86,4 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G1 sera-notte (s1) | F4 Anomalia | 1 → 3 | Tiro 10 (critico, +2). Gli analisti trovano l'oggetto; Tights chiede una seduta urgente del Consiglio per il giorno 2 |
 | G1 sera-notte (s1) | F3 Caccia | 1 → 2 | Tiro 5. Shin e Kibith individuano la navicella (vedono la sfera portata a bordo) |
 | G1 sera-notte (s1) | F2 Scoperta intrusi | 0 → 1 | Tiro 9 (+1 con vantaggio). Due cacciatori dei Senza Cielo trovano i corpi dei servitori uccisi da Dabura e portano una prova a Tyros, non alla regina |
+| Notte G1→G2 (s1) | F5 Incubi | tiro 6 | Incubo (Lace, Zaraya), nessuna aura. La sorveglianza non registra niente |

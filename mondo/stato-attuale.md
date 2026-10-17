@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 1 (in corso)
-- **Data in gioco**: anno 777, giorno 1, sera
+- **Data in gioco**: anno 777, giorno 2, mattina
 - **Luogo**: casa di Akira, nella foresta di Nova City (Terra Nova)
-- **Scena**: Akira è a cena con Syntia e Zemi (incipit)
+- **Scena**: risveglio dopo la notte con Syntia. Syntia sta per scrivere all'università che accetta e che verrà con la famiglia
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -18,4 +18,4 @@
 - Babidi è sulla vecchia Terra (Akira non lo sa).
 
 ## Ultimi eventi
-- Nessuno: la campagna deve ancora iniziare.
+- G1 sera: cena in famiglia. Zemi chiede chi è Lace. Syntia rivela l'invito della U.A.C. (6 lezioni in 3 settimane ad Arcorp City, dal giorno 13; risposta entro il giorno 4). Akira accetta di andare con lei e Zemi.
