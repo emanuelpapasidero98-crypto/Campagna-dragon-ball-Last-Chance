@@ -15,9 +15,12 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @personaggi/akira.md
 @personaggi/conoscenze-di-akira.md
 
+@mondo/fatti-stabiliti.md
+
 ## Memoria segreta del master (caricata sempre: il giocatore non la vede)
 @master_segreto/fronti.md
 @master_segreto/verita-del-mondo.md
+@master_segreto/png/voci-e-diario.md
 
 ## Mappa dei file
 | Dove | Cosa | Pubblico? |
@@ -25,11 +28,12 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 | `regole/` | Regole del master, sistema di gioco, stile, metodo | sì |
 | `mondo/ambientazione.md` | Fatti stabiliti del mondo | sì |
 | `mondo/stato-attuale.md` · `mondo/calendario.md` | Dove, quando, cosa | sì |
+| `mondo/fatti-stabiliti.md` | Dettagli inventati in gioco, da non contraddire | sì |
 | `personaggi/akira.md` · `personaggi/conoscenze-di-akira.md` | Scheda e conoscenze del PG | sì |
 | `cronaca/riepilogo-campagna.md` | Riassunto progressivo della campagna (solo ciò che Akira ha vissuto) | sì |
 | `cronaca/sessioni/` | Un file per sessione | sì |
 | `cronaca/registro-dadi.md` | Tutti i tiri pubblici | sì |
-| `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, tiri segreti | **NO** |
+| `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, voci e diario dei rapporti, tiri segreti | **NO** |
 | `archivio/` | Documenti originali del giocatore (in .md e .docx). Non modificarli | sì |
 | `strumenti/dado.py` | Dado d10 crittografico con registro | — |
 
@@ -38,6 +42,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 - **Durante il gioco**: segui la procedura del messaggio in `regole/04-metodo-mondo-vivo.md` §6. Prima di far parlare un PNG, leggi la sua scheda in `master_segreto/png/`.
 - **Dadi del giocatore**: li tira **solo lui** (`/tira` o `python3 strumenti/dado.py`). Se serve un tiro, chiedilo indicando il modificatore e **fermati**, senza narrare l'esito. Mai tirare per Akira.
 - **Dadi dei PNG**: `python3 strumenti/dado.py --chi "<PNG>" --mod <N> --motivo "<azione>"`. Per gli eventi fuori scena aggiungi `--segreto`.
+- **Salvataggio intermedio**: `/salva` → `.claude/skills/salva/SKILL.md`.
 - **Fine**: quando il giocatore dice che vuole chiudere ("fine sessione", "chiudiamo", "basta per oggi", `/fine-sessione`…), segui `.claude/skills/fine-sessione/SKILL.md`. Salva e fai il push su GitHub **senza chiedere conferma**: il giocatore ha già dato il permesso.
 - **Fuori gioco**: le note fuori dal personaggio vanno tra parentesi quadre `[OOC: …]`. Se il giocatore scrive tra parentesi quadre, sta parlando al master, non ad Akira. I comandi fuori gioco (`[scheda]`, `[stato]`, `[riepilogo]`, `[cosa sa Akira]`, `[regole: …]`, `[calcolo]`, `[salto temporale: …]`, `[correzione: …]`, `[nuova regola: …]`, `[torna all'ultimo salvataggio]`…) sono descritti in `Comandi chat.md`: rispondi come lì indicato. `[correzione]` e `[nuova regola]` vanno scritte subito nei file di `regole/`. `[torna all'ultimo salvataggio]` richiede una conferma esplicita prima di fare il `git reset` all'ultimo commit di sessione.
 - **Memoria ufficiale = ramo `main`**: il giocatore ha autorizzato in modo permanente il salvataggio diretto su `main` a ogni fine sessione.

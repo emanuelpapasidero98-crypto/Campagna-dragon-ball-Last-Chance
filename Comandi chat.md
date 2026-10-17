@@ -43,11 +43,22 @@ Il comando va scritto **all'inizio del messaggio**.
 
 **Quando tirare:** quando il master scrive "Tira" e ti indica il modificatore. Il master si ferma e aspetta il tuo tiro prima di raccontare cosa succede.
 
+### `/salva`
+**Cosa fa:** salvataggio intermedio su GitHub (`main`) **senza chiudere la sessione**.
+- Aggiorna lo stato attuale, gli appunti della sessione, i fatti stabiliti e, se serve, i segreti del master.
+- Ti risponde con una sola riga di conferma e la scena resta ferma dov'era.
+- Utile nelle sessioni lunghe, prima di un combattimento importante o se temi che la chat si interrompa.
+
+**Esempio:** `/salva`
+
 ### `/fine-sessione`
-**Cosa fa:** chiude la sessione e **salva tutto su GitHub, sul ramo `main`**, senza chiederti conferma.
-- Scrive il resoconto della sessione in `cronaca/sessioni/`.
-- Aggiorna il riepilogo della campagna, il calendario, lo stato attuale, la scheda di Akira e ciò che Akira sa.
-- Aggiorna in segreto PNG, fazioni, orologi e il giornale degli eventi fuori scena.
+**Cosa fa:** chiude la sessione e **salva tutto su GitHub, sul ramo `main`**, senza chiederti conferma. La chat successiva non ricorderà nulla di questa, quindi `/fine-sessione` scrive nei file tutto ciò che serve per riprendere identici.
+- **Resoconto della sessione** in `cronaca/sessioni/`, più il riepilogo della campagna, il calendario, lo stato attuale (con la scena esatta in sospeso), la scheda di Akira e ciò che Akira sa.
+- **Fatti stabiliti** (`mondo/fatti-stabiliti.md`): ogni dettaglio inventato durante il gioco (luoghi, nomi, oggetti, cibi, ferite, abitudini), così una chat futura non lo contraddice.
+- **Voce dei PNG**: le battute più rappresentative che ogni PNG ha detto davvero, salvate parola per parola. La chat successiva le usa come riferimento e i personaggi non cambiano voce.
+- **Diario dei rapporti**: litigi, promesse, rancori e momenti chiave tra Akira e ogni PNG. Se qualcuno si è arrabbiato, se lo ricorderà.
+- **Contatore delle metafore** e **errori che hai segnalato**, registrati nel file della sessione.
+- In segreto: schede dei PNG (parametri, cosa sanno, prossime mosse), fazioni, orologi e il giornale degli eventi fuori scena.
 - Ti saluta con il titolo dell'episodio, la data in gioco raggiunta, la conferma del salvataggio e un'anticipazione senza spoiler.
 
 **Esempio:** `/fine-sessione`
@@ -78,7 +89,8 @@ Tutto quello che scrivi tra parentesi quadre è rivolto **al master**, non ad Ak
 ## Cose da sapere
 - **Akira lo muovi solo tu.** Il master non lo fa mai parlare né agire senza una tua dichiarazione.
 - **Salti temporali:** il master non li fa mai di sua iniziativa. Te li propone e aspetta il tuo sì.
-- **Salvataggio:** avviene solo con `/fine-sessione`. Se chiudi la chat senza, quello che hai giocato in quella chat può andare perso. Ogni salvataggio è un punto a cui si può tornare.
+- **Le chat non comunicano tra loro.** Ogni nuova chat ricorda solo ciò che è scritto nei file. Per questo conviene **una chat per sessione**, chiusa sempre con `/fine-sessione`.
+- **Salvataggio:** avviene solo con `/salva` o `/fine-sessione`. Se chiudi la chat senza, quello che hai giocato dall'ultimo salvataggio va perso. Ogni salvataggio è un punto a cui si può tornare.
 - **⛔ `master_segreto/`:** è la cartella con i piani e i segreti del master. Ti sei impegnato a non aprirla.
 - **Dal terminale** (solo se usi Claude Code sul computer) puoi tirare il dado anche senza passare dal master:
   `! python3 strumenti/dado.py --mod -3 --motivo "Kamehameha"`

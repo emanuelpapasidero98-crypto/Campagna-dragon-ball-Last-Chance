@@ -10,10 +10,32 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
    - `CLAUDE.md` (con le regole importate);
    - `mondo/stato-attuale.md`, `mondo/calendario.md`;
    - `cronaca/riepilogo-campagna.md` e l'ultimo file in `cronaca/sessioni/`;
+   - `mondo/fatti-stabiliti.md`;
    - `master_segreto/fronti.md`, `master_segreto/giornale-fuori-scena.md` (le ultime voci), `master_segreto/verita-del-mondo.md`;
+   - `master_segreto/png/voci-e-diario.md` (sezioni dei PNG presenti o probabili);
    - le schede in `master_segreto/png/` dei PNG presenti nella scena da riprendere.
 3. **Verifica la coerenza**: se dall'ultima sessione erano previsti avanzamenti fuori scena non ancora annotati, annotali ora nei file segreti.
-4. **Determina il numero di sessione** (l'ultimo in `cronaca/sessioni/` + 1) e crea `cronaca/sessioni/sessione-NNN.md` con data reale, data in gioco iniziale e luogo.
+4. **Determina il numero di sessione** (l'ultimo in `cronaca/sessioni/` + 1) e crea `cronaca/sessioni/sessione-NNN.md` con questo modello:
+   ```
+   # Sessione NNN — <titolo, da decidere a fine sessione>
+   - Data reale: AAAA-MM-GG · Data in gioco: inizio … / fine …
+   - Luogo iniziale: …
+
+   ## Resoconto
+   (da scrivere a fine sessione, dal punto di vista di Akira)
+
+   ## Appunti in corso di sessione
+   ### Fatti stabiliti (dettagli inventati)
+   ### Battute memorabili dei PNG
+   ### Momenti chiave nei rapporti
+
+   ## Contatore metafore (massimo 1 per PNG a sessione)
+   | PNG | Metafore usate |
+   |---|---|
+
+   ## Errori segnalati dal giocatore
+   ```
+   Durante la sessione aggiorna gli **appunti** e il **contatore** man mano: protegge la memoria se la chat viene riassunta in automatico.
 5. **Presenta al giocatore**:
    - un breve **"Nelle puntate precedenti"** in stile anime, solo con ciò che **Akira sa**, mai i segreti;
    - lo stato di Akira (HP, Ki, condizioni rilevanti);

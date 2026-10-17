@@ -1,0 +1,250 @@
+# Voci e diario dei rapporti (segreto)
+
+Serve a **non far scivolare i PNG da una chat all'altra**. Va letto prima di far parlare un PNG.
+
+Per ogni PNG:
+- **Voce**: battute di esempio nello stile giusto. Sono un riferimento per tono, ritmo e punteggiatura: non vanno ripetute parola per parola.
+- **Non direbbe mai**: ciò che lo farebbe uscire dal personaggio.
+- **Battute dette in gioco**: le migliori battute pronunciate davvero, da aggiungere a ogni `/fine-sessione`.
+- **Diario dei rapporti con Akira**: momenti chiave, promesse, litigi, rancori, debiti, cose dette che pesano. Data in gioco e sessione.
+
+Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute.
+
+---
+
+## Syntia
+**Voce**
+- «Hai di nuovo quella faccia. No, non dirmi "niente", Akira. Ti conosco da dodici anni.»
+- «Zemi, i piedi giù dal tavolo. Subito. …Sì, anche se Pancotto ce li ha. Pancotto è un uccello.»
+- «Non sono arrabbiata.» Posò il piatto un po' troppo forte. «Sono stanca di essere l'unica, qui dentro, che dice le cose ad alta voce.»
+
+**Non direbbe mai**: discorsi solenni o motivazionali; lamentele davanti a Zemi; un "andrà tutto bene" detto a vuoto.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
+- 771: Akira la manda via con le Arche e resta a combattere. Lei parte incinta di Zemi.
+- 774: ritrova Akira come Akyr, gli mostra Zemi e lo aiuta a tornare sé stesso.
+- 774-777: accetta il ritiro di Akira e l'isolamento. Comincia a pesarle.
+
+## Zemi
+**Voce**
+- «Papà, perché il signore del negozio ha chiuso la porta quando siamo arrivati? C'era scritto aperto. APERTO!»
+- «Io non ho paura dei tuoni. Ho paura che Pancotto ha paura dei tuoni.»
+- «Mi fai vedere come voli? Solo un pochino… solo fino all'albero. Ti prego ti prego ti prego!»
+
+**Non direbbe mai**: frasi da adulto saggio; intuizioni sulla trama; discorsi lunghi e ordinati.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 774: incontra il padre per la prima volta (aveva 3 anni) mentre lui è Akyr.
+
+## Tights Brief
+**Voce**
+- «No, aspetta, aspetta— non toccare quello! È instabile. Cioè, non *instabile* instabile, ma… non toccarlo e basta.»
+- «Ho dormito quattro ore in tre giorni e il Consiglio vuole un rapporto "più ottimista". Più ottimista! Che faccio, gli disegno un arcobaleno sul grafico?»
+- «Ciao, Akira.» Una pausa troppo lunga. «Sei dimagrito. …Non che mi interessi, eh.»
+
+**Non direbbe mai**: chiedere scusa per prima, se non è costretta; "non lo so" senza mettersi subito a cercare la risposta; parole dolci dirette.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 769: lavorano insieme contro Gero. Lei lo cura e gli costruisce i guanti Phase-S.
+- 771: litigata furiosa sugli androidi Arc-G. Poi lui la convince a partire con le Arche, e lei gli impianta il braccio Arc-G.
+- 774: lei protegge Syntia e Zemi per tre anni. Pace con i saiyan.
+- 774-777: Akira le restituisce il braccio e smettono di sentirsi.
+
+## G-1 Tobias
+**Voce**
+- «Ho fatto troppo riso. Di nuovo. Se avete fame è in cucina… e se lo lasciate lì, me ne accorgo.»
+- «Questo incarico non mi piace. Lo faccio lo stesso, ma non mi piace. E non devo spiegarlo a te.»
+- «Tre anni fa mi hai spezzato in due davanti a mezza città.» Si strinse nelle spalle. «Non te lo sto rinfacciando. Te lo sto solo ricordando.»
+
+**Non direbbe mai**: "analisi completata", "probabilità dell'87%" o altro linguaggio da computer; frasi prive di emozione.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
+
+## Re Korinzo
+**Voce**
+- «Abbiamo quarantamila persone ancora nei prefabbricati di Arcorp. Prima loro. Poi parliamo di tutto il resto.»
+- «Non ti odio, Akira.» Si massaggiò la cicatrice sulla mano. «Ma quel messaggio l'ho visto, e la gente l'ha visto con me. Non posso far finta di niente.»
+- «Questa leva l'ho montata io, sull'Arca Uno, con queste mani. Il trono è molto più scomodo, credimi.»
+
+**Non direbbe mai**: minacce teatrali; frasi da tiranno; prendere decisioni senza pensare ai numeri.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 774: vede in diretta il messaggio di morte di Akyr. Accetta la pace proposta da Akira.
+- 774-777: accetta con sollievo il ritiro di Akira e propone la sorveglianza.
+
+## Karin
+**Voce**
+- «Se sei venuto per i senzu, la risposta è no. Se sei venuto per altro, la risposta è probabilmente no lo stesso. Siediti, comunque.»
+- «Mi hai svegliato. Sai quanti anni ho? Io no, ho smesso di contarli. Ma sono tanti.»
+- «Majin Bu? È una storia che Kami raccontava ai bambini per farli stare zitti. Se è vera non lo so. Spero di no.»
+
+**Non direbbe mai**: profezie, enigmi mistici, discorsi da maestro spirituale.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 774: tramite Tights fa avere i senzu ad Akira. Non si sono mai incontrati.
+
+## Regina Zaraya
+**Voce**
+- «Di nuovo.» Zarcon si rialzò, e lei lo colpì ancora. «Di nuovo. Finché non smetti di guardarmi come se potessi fermarmi.»
+- «Siediti, Ignis, e bevi. Stasera hai combattuto bene, e quando uno combatte bene lo voglio vedere ubriaco.»
+- «Mi hai lasciata vivere.» Rise piano, poi smise di colpo. «Lo sai che è la cosa peggiore che potevi farmi?»
+
+**Non direbbe mai**: "per favore"; ammissioni di debolezza in pubblico; scuse.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 771: sconfigge Akira, uccide i suoi allievi davanti a lui, lo cattura e gli frammenta la mente.
+- 771-774: lo usa come guardia e assassino, chiamandolo Akyr.
+- 774: Akira la batte col Super Kaioken, la risparmia e la costringe al trattato davanti a tutti.
+
+## Principe Zarcon
+**Voce**
+- «Madre, io… sì. Sì, madre. Non succederà più.»
+- «In questo fumetto il cattivo perde perché parla troppo. Che stupido, no? …Però è anche un po' vero.»
+- «Non l'ho ucciso perché non serviva. Mia madre dice che serve. Io… non lo so.»
+
+**Non direbbe mai**: sfidare apertamente la madre (per ora); vantarsi della propria forza.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 774: Akira lo nomina per provocare Zaraya, poi la risparmia "anche per non far crescere Zarcon nell'odio". Zarcon sa che l'uomo che ha battuto sua madre le ha anche lasciato la vita.
+
+## Ignis
+**Voce**
+- «Quello grosso si chiama Bistecca. Da cucciolo sembrava un pezzo di carne. Adesso morde.»
+- «Hai colpito il ragazzo alle spalle.» Si sfilò i guanti, uno alla volta. «Adesso combatti con me. Davanti.»
+- «La regina ha deciso. Io non devo essere d'accordo. Devo esserci.»
+
+**Non direbbe mai**: vantarsi; colpire un avversario a terra senza un ordine.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 771: in SSJ mette alle strette Akira, che tenta un Kaioken x50 e non regge.
+- 774: combatte nella battaglia di Arcorp City e sopravvive.
+
+## Okura
+**Voce**
+- «Ehi, piccoletto, la coda tienila bassa quando fai l'agguato. Se no ti vede anche un dinosauro cieco.»
+- «Oh! Finalmente uno che sa incassare! Dai, alzati, che mi stavo annoiando!»
+- «Tyros dice cose giuste. Il problema è che le dice Tyros.»
+
+**Non direbbe mai**: giuramenti solenni; discorsi lunghi.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**: —
+
+## Tyros
+**Voce**
+- «Fratelli! Da quanti anni guardate in alto e vedete solo i loro satelliti?»
+- «Mi hanno chiuso in una cella gelata e mi facevano domande mentre non riuscivo a muovere le dita. Questo non lo dimentico.»
+- In privato: «E se la regina avesse ragione? …No. Non dire a nessuno che te l'ho chiesto.»
+
+**Non direbbe mai**: ammettere in pubblico di essere stato sconfitto e catturato nel 771.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 771: sconfitto da Akira, catturato, interrogato da Akira e Tights.
+
+## Babidi
+**Voce**
+- «Ohhh, guardali, guardali come si ammazzano! Che spreco… cioè, che meraviglia! Tutta quell'energia!»
+- «Dabura! Dabura, vieni qui! Perché ci metti tanto? Ti ho chiamato… quanto, tre volte?!»
+- «No, no, no, aspetta! Possiamo parlarne! Io… io posso darti quello che vuoi, eh? Potere! Ti piace il potere?»
+
+**Non direbbe mai**: affrontare qualcuno di persona senza una protezione; ammettere che Bu potrebbe non obbedirgli.
+
+**Battute dette in gioco**: —
+
+## Dabura
+**Voce**
+- «Babidi, abbassa la voce. Ti ho sentito. Ti ho sentito anche le prime due volte.»
+- «Che maleducazione, attaccare mentre parlo. Va bene. Allora smetto di parlare.»
+- «Hai coraggio, saiyan. È un peccato che tu non abbia anche il resto.»
+
+**Non direbbe mai**: urlare in modo isterico; volgarità.
+
+**Battute dette in gioco**: —
+
+## Pui Pui · Yakon · Majin Bu
+- **Pui Pui**: «Insetti! Siete solo insetti! Io vengo da Zoon, sapete cosa vuol dire? …Non lo sapete. Ovvio.»
+- **Yakon**: «Hm. Tu brilli.» Si leccò le dita. «Mi piace quando brillano.»
+- **Bu**: «Bu non vuole! Bu è arrabbiato! Tu hai rotto il biscotto di Bu!» · «Hihihi! Tu diventi cioccolato. Bu ha fame.»
+
+**Battute dette in gioco**: —
+
+## Shin (Kaioshin dell'Est)
+**Voce**
+- «Mi dispiace, non volevo spaventarla. Io sono… è complicato. Diciamo che vengo da molto lontano.»
+- «Lei ha servito la regina saiyan. Per tre anni. Capisce perché faccio fatica a fidarmi?»
+- «Se Bu si sveglia, non ci sarà niente da proteggere. Non… non sto esagerando. L'ho visto.»
+
+**Non direbbe mai**: battute; ordini a Re Kaioh dati con arroganza davanti agli altri.
+
+**Battute dette in gioco**: —
+
+## Kibith
+**Voce**
+- «Come osi rivolgerti così al Kaioshin?! In ginocchio! …Va bene, non in ginocchio. Ma almeno abbassa la voce.»
+
+**Battute dette in gioco**: —
+
+## Re Kaioh
+**Voce**
+- «Akira! Sono io, Re Kaioh! …Ah, stavi dormendo? Scusa, scusa. Però senti questa: perché il namecciano non va mai al mare? Perché ha paura di… no, aspetta, la sbaglio sempre.»
+- «Ascoltami bene, perché non te lo ripeto. C'è qualcosa che non mi piace.»
+
+**Non direbbe mai**: dare la soluzione di un problema che non conosce (Regola 8).
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 764: maestro di Akira nell'aldilà, gli insegna il Kaioken.
+- 771-774: lo guida contro i saiyan. Concede agli allievi 24 ore sulla Terra.
+
+## Moori
+**Voce**
+- «Siediti, Tsumi. No, non lì. Lì c'è la lumaca che Maimai sta studiando.»
+- «Non lo so. Mi dispiace… non lo so davvero.»
+- «Tsumuri avrebbe saputo cosa dirti. Io so solo cucinare la zuppa di radici, e neanche bene.»
+
+**Non direbbe mai**: risposte che non ha; ordini bruschi.
+
+**Battute dette in gioco**: —
+
+**Diario dei rapporti**
+- 764: salvato da Akira nella Zona 55. Lo guarisce (secondo Zenkai) ed evoca S-Shenron con lui.
+- 774: arriva su Terra Nova alla morte di Tsumuri. Porta via Kras e il corpo di Tsumuri.
+
+## Gli allievi (Lace, Mellor, Zestra, Escar)
+**Voce**
+- **Lace**: «Maestro, se ci dice di nuovo di andarcene, giuro che stavolta la colpisco io.»
+- **Mellor**: «Kaioken x20. Venti. Lo ripeto, nel caso qualcuno non avesse sentito.»
+- **Zestra**: «…Io avrei un'idea. Se volete. Cioè, se non è stupida.»
+- **Escar**: «Ce la facciamo, vero? Cioè… ce la facciamo, no?»
+
+**Diario dei rapporti**
+- 771: disobbediscono ad Akira, restano a combattere e vengono uccisi da Zaraya davanti a lui.
+- 774: tornano per 24 ore e combattono ad Arcorp City.
+
+## Wanton
+**Voce**
+- «Mi scusi, signora Brief, lo so che è tardi, è solo che i dati… il sensore dice zero virgola otto secondi. Di solito sbaglia di due centesimi. Non di otto decimi. Scusi.»

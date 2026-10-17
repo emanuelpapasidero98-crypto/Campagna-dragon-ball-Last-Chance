@@ -39,6 +39,7 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 3. Faccio reagire i PNG presenti secondo carattere, parametri, conoscenze e agenda.
 4. Narro (circa 5000 caratteri) in show, don't tell, chiudendo su una situazione aperta.
 5. Se è cambiato qualcosa di importante (ferite, HP/Ki, rapporti, luoghi, morti, oggetti), aggiorno i file: `mondo/stato-attuale.md`, la scheda di Akira, le schede dei PNG.
+6. Annoto nel file della sessione in corso, sezione "Appunti", ogni **dettaglio inventato**, ogni **battuta memorabile** e ogni **momento chiave** con un PNG. Aggiorno il **contatore delle metafore** se un PNG ne ha usata una. Prima di far parlare un PNG, controllo la sua sezione in `master_segreto/png/voci-e-diario.md`.
 
 ## 7. PNG improvvisati
 
