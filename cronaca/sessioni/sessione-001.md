@@ -16,14 +16,21 @@
 - [s1 · g1 sera] Pancotto vive in una cassetta di legno accanto alla stufa, con l'ala sinistra fasciata da una striscia di uno strofinaccio a quadretti. Fa «Krooo».
 - [s1 · g1 sera] Zemi ha disegnato il papà che vola sopra la foresta **con due braccia** (il destro colorato di verde "perché il nero era finito") e Pancotto con due ali sane: «Vi ho guariti tutti e due.»
 - [s1 · g1 sera] La notte prima (giorno 0) Akira ha parlato nel sonno e ha detto il nome **"Lace"**. Zemi l'ha sentito.
+- [s1 · g1 sera] Dietro l'orto c'è una **serra** di Syntia, con le pareti di vetro, e un fosso con piante dalle foglie grandi.
+- [s1 · g1 sera] Pancotto l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti". Syntia pensa che abbia sbattuto contro il vetro della serra (il giorno dopo c'era una piuma attaccata).
+- [s1 · g1 sera] Akira racconta a Zemi che Lace "è andata a fare una lunga gita nello spazio". Zemi ora vuole la storia completa, "con la navicella e i mostri".
 - [s1 · g1 sera] Syntia tiene in tasca del grembiule una busta color crema con il sigillo blu dell'Università di Arcorp City (un arco stilizzato e le lettere U.A.C.). Il suo comunicatore, sul ripiano, lampeggia due volte durante la cena.
 
 ### Battute memorabili dei PNG
 - Zemi: «Infatti. Sono tristi perché nessuno li mangia. Se li mangio diventano più tristi. …L'ho pensata oggi. Tutto il pomeriggio.»
 - Zemi: «Il braccio l'ho fatto verde. Il nero era finito.»
+- Zemi: «Ma tu da piccolo gli alberi tristi non c'erano. C'era la Terra vecchia. E sei diventato grande lo stesso.»
+- Syntia: «Gli uccelli non hanno i denti, tesoro.» / Zemi: «Quello cattivo sì.»
 
 ### Momenti chiave nei rapporti
-- Zemi chiede ad Akira chi è Lace, davanti a Syntia.
+- Zemi chiede ad Akira chi è Lace, davanti a Syntia. Akira le dice una bugia gentile (gita nello spazio). Syntia non lo contraddice, ma abbassa gli occhi.
+- Zemi dice che, se Lace è forte, le insegnerà "le cose forti" e a volare. Syntia la zittisce in modo troppo brusco ("Mangia"): è la sua paura (F5).
+- Akira fa notare il comunicatore. Syntia ammette che è "l'università" e promette di parlargliene dopo, quando Zemi dorme.
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |

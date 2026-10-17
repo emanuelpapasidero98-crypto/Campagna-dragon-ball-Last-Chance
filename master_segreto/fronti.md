@@ -79,3 +79,4 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | pre-campagna | F5 Ki di Zemi | 0 → 1 | Episodio della lampada (Syntia ha visto) |
 | pre-campagna | F5 Segreto di Syntia | 0 → 1 | Invito ricevuto 5 giorni fa |
 | pre-campagna | F4 Braccio Mk II | 0 → 4 | Tre anni di lavoro di Tights |
+| G1 sera (s1) | F5 Segreto di Syntia | 1 → 1 (svolta) | Akira nota il comunicatore: Syntia decide di dirgli dell'invito stanotte, quando Zemi dorme. Il messaggio era un sollecito della segreteria U.A.C. (risposta attesa entro 3 giorni) |
