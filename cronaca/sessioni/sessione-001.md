@@ -1,9 +1,27 @@
-# Sessione 001 — <titolo, da decidere a fine sessione>
-- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine … (in corso: giorno 13, mattina — salto temporale g2→g13 richiesto dal giocatore)
-- Luogo iniziale: casa di Akira, foresta di Nova City (Terra Nova)
+# Sessione 001 — Terza fila
+- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine anno 777, giorno 13, mattina (salto temporale g2→g13 richiesto dal giocatore)
+- Luogo iniziale: casa di Akira, foresta di Nova City (Terra Nova) · Luogo finale: Aula Magna dell'Università di Arcorp City
 
 ## Resoconto
-(da scrivere a fine sessione, dal punto di vista di Akira)
+**Giorno 1, sera.** Ero a cena con Syntia e Zemi, nella nostra casa nel bosco: stufato di patatrac, gli alberi tristi che Zemi aveva messo in fila sul bordo del piatto come un muro, Pancotto che faceva *krooo* dalla cassetta accanto alla stufa. Zemi mi ha mostrato un disegno: io che volo sopra la foresta, con due braccia (il destro verde, "perché il nero era finito"), e Pancotto con le ali sane. "Vi ho guariti tutti e due."
+
+Poi, a bruciapelo, mi ha chiesto chi è Lace: la notte prima l'avevo chiamata nel sonno, due volte. Le ho detto che era una guerriera fortissima e che adesso è "in una lunga gita nello spazio". Syntia non mi ha contraddetto, ma ha abbassato gli occhi. Quando Zemi ha detto che, se Lace è forte, le insegnerà a volare, Syntia l'ha zittita in modo troppo brusco.
+
+Ho visto il comunicatore di Syntia lampeggiare più volte, e una busta dell'università che lei si è infilata nel grembiule. Gliel'ho fatto notare: mi ha detto che era "una cosa sua, di lavoro", e che me ne avrebbe parlato quando Zemi dormiva.
+
+Ho promesso a Zemi un dolcetto e una storia: se mangiava composta e andava a letto all'ora giusta. Ha nascosto l'ultimo pezzo di broccolo sotto il cucchiaio; l'ho visto e non ho detto niente, e poi l'ha trovato Syntia. Prima di metterla a letto ho baciato Syntia. A Zemi ho raccontato una storia inventata: Lace, Mellor, Zestra ed Escar contro androidi terribili su un pianeta fatto solo di piante carnivore. Syntia ha ascoltato un pezzo dalla porta, poi se n'è andata in silenzio. Mezza addormentata, Zemi mi ha chiesto: "Se Lace è in gita… perché di notte la chiami così forte?" Le ho risposto: "Perché mi manca, piccola." Non so se mi ha sentito.
+
+**Giorno 1, notte.** In cucina, con una tazza di ronfolina al miele, Syntia mi ha detto tutto. L'Università di Arcorp City (la preside Cannella) l'ha invitata a tenere sei lezioni pubbliche sul suo *Atlante della foresta di Nova*, in tre settimane a partire dal giorno 13, e a dare i nomi alle specie del nuovo Orto Botanico dell'Est, che sorge nella parte di Arcorp ricostruita dopo la battaglia del 774. Aveva la lettera da cinque giorni. Vorrebbe andarci, e si sente un'egoista.
+
+Le ho detto che deve andare, che io la sostengo, che lei e Zemi meritano una vita normale: Zemi dovrebbe andare a scuola con altri bambini. Sulla scuola mi ha detto subito di no ("te lo ricordi cosa le dicevano"). Poi ho detto "sono io che devo…" e mi sono fermato. Lei si è arrabbiata, a voce bassa: non vuole una vita nuova senza di me dentro, e non devo azzardarmi a regalargliela. Mi ha ricordato che c'era anche lei, sul balcone, quando ero Akyr, e che ha scelto chi è tornato indietro. Mi ha chiesto di venire con lei ad Arcorp, con Zemi, in terza fila alla prima lezione. Le ho confessato che mi sento come se impedissi loro di vivere. Lei mi ha risposto onestamente "un po' sì": non io, ma il nascondersi. E ha ammesso che anche lei ha taciuto, per non pesarmi. Ho accettato di andare, pur sapendo che ci saranno problemi. Lei ha riso: se le tolgono l'invito per colpa mia, il libro sui funghi del tizio di Levo City "se lo meritano". Mi ha fatto notare che ad Arcorp c'è Tights: lo saprà entro un'ora. Abbiamo passato la notte insieme. All'alba ho avuto un incubo (Lace tra le piante carnivore, poi la mano di Zaraya); mi sono svegliato sudato, Syntia ha continuato a dormire.
+
+**Giorno 2.** Zemi ha appeso il disegno davanti al nostro letto, storto. Syntia ha scritto alla preside che accetta e che verrà con la famiglia.
+
+**Giorni 2-12 (salto temporale).** Cannella ha risposto entusiasta, con un poscritto sulla "sicurezza dell'Ateneo". Tights ha scritto a Syntia: ci ha trovato lei la casa ad Arcorp, e le ha detto "non dirlo a lui". Il giorno 6, mentre spaccavo legna, ho percepito per mezzo secondo un ki piccolo e acceso, lontano, verso Nova City. Poco dopo Syntia e Zemi sono tornate prima del previsto, senza il vestito: secondo Zemi "il vetro del negozio del signor Bottone si è rotto da solo". Syntia ha parlato di un sasso e ha cambiato discorso, e per due notti ha dormito male. Nei notiziari: "seduta straordinaria del Consiglio", "nessun problema allo scudo". Il giorno 11 siamo partiti con l'aeromobile giallo (Pancotto in una scatola bucata). Arcorp ha la zona est ricostruita, con le cupole dell'Orto dove tre anni fa c'era un cratere. Le pattuglie di Arc-G2 sono raddoppiate, la gente mi riconosce e si scansa. Al mercato si dice che i saiyan costruiscano una nave. Ci hanno dato un attico della Capsule con terrazza, e nel frigo c'erano solo dodici lattine di caffè.
+
+**Giorno 13, mattina.** Aula Magna. Io e Zemi (vestito giallo, matite nelle tasche) eravamo in terza fila, con i posti vuoti ai lati; una coppia si è spostata più indietro. La preside Cannella mi ha stretto la mano e mi ha detto che in fondo c'era "un signore del governatorato, per la sicurezza". Era Tobias, in borghese, in ultima fila, con un contenitore di riso, e mi fissava. Non sento il suo ki. Syntia è salita sul palco, il microfono ha fischiato e lei ha cominciato: "Il primo animale che ho visto su Terra Nova mi ha morso."
+
+Nessun combattimento e nessun tiro di Akira in questa sessione.
 
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
@@ -84,5 +102,7 @@
 |---|---|
 | Syntia | 0 |
 | Zemi | 0 |
+| Prof.ssa Cannella | 0 |
 
 ## Errori segnalati dal giocatore
+- Nessuno. (Domanda OOC del giocatore: se il master annota in segreto gli eventi fuori scena. Risposto di sì, senza rivelarne il contenuto.)

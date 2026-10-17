@@ -8,6 +8,7 @@
 - **Sa**: dove era la sfera, che sulla Terra ci sono i saiyan, l'esistenza dei Kaioshin. **Non sa**: Terra Nova (non la vede), Akira, Kras, Varda.
 - **Parametri** (verso Akira, quando lo conoscerà): Rispetto 2 · Amore 1 · Odio 3 · Spietatezza 6 · Lealtà 1 (solo a sé stesso e alla memoria del padre)
 - **Combattimento**: HP 30 · Ki 80 · Attacco 5 · Difesa 5 · **BP 30.000** · Magia (vedi `verita-del-mondo.md`): marchio Majin, telepatia, esplosione dei marchiati, sfera di cristallo, barriere (Utility Avanzata: blocca un attacco fino all'Intermedia di avversari sotto i 10M), teletrasporto breve, "stanza di Zoon"
+- **Aggiornamento (s1, g13)**: la sfera di Bu è a bordo (g1). Energia 1/12 (scontro Dabura-Kibith). Sa che i Kaioshin sono sulla Terra: ha paura, ha alzato barriere magiche attorno al canyon e tiene Pui Pui e Yakon vicini. Ha visto con la sfera di cristallo Tyros e la sua sfida alla regina: **lo vuole marchiare**. Ha capito che "qualcuno dal cielo" lo spia (la sonda), ma vede solo i satelliti. **Prossimo passo**: mandare Pui Pui da Tyros con un'offerta di potere, appena Dabura accetta di restare di guardia.
 
 ## Dabura, Re del Regno dei Demoni
 - **Aspetto**: pelle rossa, corna corte, mantello bianco, portamento regale.
@@ -19,6 +20,7 @@
   - Volo · Raggio oculare (Base, +10%) · Lancia demoniaca (Avanzata, +40%) · Fiamma del Male (Avanzata, ad area, +35%) · Barriera Repulsiva (+25% difesa)
   - **Sputo pietrificante** (Utility Suprema, 4 Ki): se vince lo scambio con un successo pieno o critico, il bersaglio è **pietrificato**. Si spezza solo alla morte di Dabura. Se la statua si rompe, la vittima muore
   - Portale sul Regno dei Demoni (Utility Suprema)
+- **Aggiornamento (s1, g13)**: ha lasciato scappare Shin e Kibith la prima volta (g4-5) "per vedere dove corrono". La seconda ha ferito gravemente Kibith. Si annoia. Rifiuta di fare "il cane da guardia e il cacciatore insieme".
 
 ## Pui Pui
 - **Aspetto**: corazza viola e cranio liscio con antenne, dal pianeta Zoon.

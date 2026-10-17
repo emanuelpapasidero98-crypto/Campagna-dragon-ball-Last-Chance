@@ -20,13 +20,20 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 **Non direbbe mai**: discorsi solenni o motivazionali; lamentele davanti a Zemi; un "andrà tutto bene" detto a vuoto.
 
-**Battute dette in gioco**: —
+**Battute dette in gioco**
+- (s1) «Sono io che devo… cosa?» Aspetta. «Finiscila, avanti.»
+- (s1) «Una vita nuova senza di te dentro non la voglio. Non te la sto chiedendo, e non ti azzardare a regalarmela.»
+- (s1) «Se mi tolgono l'invito perché mio marito si siede in terza fila… allora se lo meritano, il libro sui funghi.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
 - 771: Akira la manda via con le Arche e resta a combattere. Lei parte incinta di Zemi.
 - 774: ritrova Akira come Akyr, gli mostra Zemi e lo aiuta a tornare sé stesso.
 - 774-777: accetta il ritiro di Akira e l'isolamento. Comincia a pesarle.
+- s1 · g1: Akira mente a Zemi su Lace ("gita nello spazio"); lei non lo contraddice. Gli rivela l'invito della U.A.C. dopo averlo tenuto nascosto cinque giorni.
+- s1 · g1: Akira le dice "devi andare" (lei piange di sollievo) ma accenna a tirarsi fuori ("sono io che devo…"). Lei si arrabbia: lo vuole dentro la vita nuova. Gli chiede di venire ad Arcorp con Zemi; lui accetta. Si dicono a vicenda di aver taciuto per non pesare all'altro. Notte d'amore.
+- s1 · g6: dopo la vetrina di Nova City mente ad Akira ("un sasso"). Il segreto sul ki di Zemi le pesa sempre di più: due notti senza dormire.
+- s1 · g13: prima lezione, con Akira e Zemi in terza fila come voleva.
 
 ## Zemi
 **Voce**
@@ -36,10 +43,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 **Non direbbe mai**: frasi da adulto saggio; intuizioni sulla trama; discorsi lunghi e ordinati.
 
-**Battute dette in gioco**: —
+**Battute dette in gioco**
+- (s1) «Infatti. Sono tristi perché nessuno li mangia. Se li mangio diventano *più* tristi.»
+- (s1) «Il braccio l'ho fatto verde. Il nero era finito.»
+- (s1) «Se Lace è in gita… perché di notte la chiami così forte?»
 
 **Diario dei rapporti**
 - 774: incontra il padre per la prima volta (aveva 3 anni) mentre lui è Akyr.
+- s1 · g1: gli chiede chi è Lace. Lui le racconta la storia degli allievi contro gli androidi sul pianeta delle piante carnivore. Disegna il papà con due braccia e lo appende davanti al suo letto, "dove lo vedi quando ti svegli".
+- s1 · g13: in terza fila all'Aula Magna, con il vestito giallo. Nota subito Tobias e il suo riso.
 
 ## Tights Brief
 **Voce**
@@ -56,6 +68,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - 771: litigata furiosa sugli androidi Arc-G. Poi lui la convince a partire con le Arche, e lei gli impianta il braccio Arc-G.
 - 774: lei protegge Syntia e Zemi per tre anni. Pace con i saiyan.
 - 774-777: Akira le restituisce il braccio e smettono di sentirsi.
+- s1 · g4 (fuori scena): saputo da Syntia che vengono ad Arcorp, procura loro un attico della Capsule e scrive "non dirlo a lui". Riempie il frigo di caffè. Il g8 finisce il braccio Mk II.
 
 ## G-1 Tobias
 **Voce**
@@ -69,6 +82,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 **Diario dei rapporti**
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
+- s1 · g13: in borghese in ultima fila all'Aula Magna, con un contenitore di riso. Sorveglia Akira di persona per ordine del re. Si sono visti; non si sono ancora parlati.
 
 ## Re Korinzo
 **Voce**
@@ -248,3 +262,29 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 ## Wanton
 **Voce**
 - «Mi scusi, signora Brief, lo so che è tardi, è solo che i dati… il sensore dice zero virgola otto secondi. Di solito sbaglia di due centesimi. Non di otto decimi. Scusi.»
+
+**Battute dette in gioco**: —
+
+## Prof.ssa Cannella *(nuova, s1)*
+**Voce**
+- «Lei è il marito! Ma certo che è il marito, che domanda.» (s1, detta in gioco)
+- «Ha trovato posto? Sì, vedo che l'ha trovato. La signorina vede bene? Vuole un cuscino? Le porto un cuscino.» (s1, detta in gioco)
+- «Tutto bene, eh. Tutto benissimo. C'è anche un signore del governatorato, là in fondo. Per la sicurezza. Normale, normalissimo. Si figuri.» (s1, detta in gioco)
+
+**Non direbbe mai**: un insulto diretto; aspettare in silenzio la risposta a una domanda; dare del tu.
+
+**Diario dei rapporti**
+- s1 · g13: stringe la mano sinistra ad Akira senza fare una piega. Gli segnala, nervosa, la presenza di "un signore del governatorato".
+
+## Signor Bottone *(nuovo, s1, solo fuori scena)*
+**Voce**
+- «Prego, signora, prego! Abbiamo il giallo, il verde, il rosa… per la bambina, il rosa.» E poi, a mezza voce: «Speriamo non abbia preso dal padre.»
+
+## Governatore Ganascia di Clod City *(nuovo, s1, solo fuori scena)*
+**Voce**
+- «Coincidenza. Certo. E io sono una ballerina.» Masticò la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui dal cielo cade una cosa che non sappiamo cos'è. Io lo dico e basta.»
+
+## Rapan e Cipoll *(nuovi, s1, solo fuori scena — saiyan dei Senza Cielo)*
+- **Rapan**: «Una mano! Con quattro dita! Generale, giuro sulla mia coda, era grigia come una pietra e puzzava di… di niente. Non puzzava di niente. È questo il problema!»
+- **Cipoll** (con la bocca piena): «Io gliel'avevo detto di stare zitto. Gliel'ho detto due volte.»
+

@@ -13,6 +13,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Garlick Gun (Intermedia, +20%) · Barriera Repulsiva (+25% difesa) · Final Flash (Avanzata, +50%, ricarica 3 turni) · Luna Artificiale (5 Ki)
   - Oozaru cosciente (×10, +5%/+5%) · SSJ (×50, +15%/+15%, 1 Ki/turno) · SSJ Full Power (×65, +25%/+25%, gratuito)
   - Zenkai: 3 disponibili (non ancora usati)
+- **Aggiornamento (s1, g13)**: g12, al torneo, Tyros le ha gettato davanti la mano aliena e l'ha sfidata a parole davanti a tutti. Lei non ha risposto in pubblico. Sa della mano e della scia luminosa vista a nord. **Prossimo passo**: il g14 manda Ignis e Okura nelle Distese del Nord (F2 Scoperta 2/3 → 3). Medita come punire Tyros senza farne un martire.
 
 ## Principe Zarcon
 - **Età**: 15. **Aspetto**: alto per l'età, magro e nervoso, capelli neri lunghi legati, lividi perenni, coda. Occhi neri molto espressivi, che tiene bassi davanti alla madre.
@@ -24,6 +25,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Combattimento**: HP 55 · Ki 40 · Attacco 30 · Difesa 26 · **BP 7.000.000** (+5/+5)
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Barriera (+10% difesa) · **Falce Crescente** (sua tecnica: lama di ki a mezzaluna lanciata dalla coda e dal braccio; Intermedia, +20%)
   - Oozaru cosciente (×10) · SSJ: **potenziale non sbloccato** (F2) · Zenkai 3 disponibili
+- **Aggiornamento (s1, g13)**: F2 Crepa 2/6. Tra il g2 e il g5 la madre gli ha fatto giustiziare un ladro saiyan davanti alla corte; ha obbedito e poi ha vomitato di nascosto. Da allora è chiuso in sé stesso. Era al torneo del g12, quando Tyros ha sfidato la madre.
 
 ## Ignis — Guardia Reale (rossa)
 - **Aspetto**: sui 40, massiccio, testa rasata, coda avvolta in vita, armatura oro e rosso scuro.
@@ -48,6 +50,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Parametri**: Rispetto 2 · Amore 1 · **Odio 5** · Spietatezza 5 · Lealtà 2 (verso Zaraya; 5 verso i Senza Cielo)
 - **Combattimento**: HP 45 · Ki 35 · Attacco 28 · Difesa 24 · **BP 6.000.000** (+5/+5) · Volo, Ki Blast, Raffica, Barriera, Oozaru (perde coscienza)
 - **I Senza Cielo**: circa 40 saiyan scontenti, in maggioranza giovani adulti ed elite.
+- **Aggiornamento (s1, g13)**: F2 Fronda 4/6. Ha la mano grigia a quattro dita portata da Rapan e Cipoll. Prima l'ha ignorata, poi ha mandato una squadra a nord (g6-8, niente trovato). Il g12 l'ha gettata nell'arena: "C'è qualcosa al nord, Terra Nova manda sonde nel nostro cielo, e la regina guarda i tornei." Molti giovani lo acclamano. **Babidi lo ha scelto** come primo bersaglio. **Prossimo passo**: tornare a nord con più uomini prima delle guardie della regina.
 
 ## Modelli di truppa
 - **Soldato semplice**: HP 20 · Ki 15 · Att 10 · Dif 8 · BP 500.000–1.000.000 (dopo anni di tornei) · Oozaru senza coscienza · scouter
