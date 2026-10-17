@@ -19,13 +19,19 @@ Il giocatore ha già dato il permesso permanente di salvare su GitHub: **non chi
 - `master_segreto/giornale-fuori-scena.md`: tutto ciò che è successo altrove durante il tempo trascorso, compresi i salti temporali.
 - Se il giocatore ha dato nuove indicazioni su regole o stile, aggiornale in `regole/`.
 
-## 2. Salva su GitHub
+## 2. Salva su GitHub (il giocatore ha autorizzato in modo permanente il salvataggio su `main`)
 ```
 git add -A
 git commit -m "Sessione NNN: <titolo breve dell'episodio>"
 git push -u origin <ramo corrente>
+git fetch origin main
+git checkout main && git merge --ff-only origin/main
+git merge <ramo corrente> --no-edit
+git push origin main
+git checkout <ramo corrente>
 ```
-- Se `main` è il ramo della memoria ufficiale e il giocatore ha autorizzato il salvataggio su `main`, porta lì il lavoro: `git checkout main && git pull origin main && git merge <ramo> && git push origin main`, poi torna sul ramo.
+- Se il ramo corrente è già `main`, basta `git pull origin main` prima del commit e poi `git push origin main`.
+- In caso di conflitto nel merge, vince la versione della sessione appena giocata per i file di memoria (`mondo/`, `personaggi/`, `cronaca/`, `master_segreto/`). Avvisa il giocatore.
 - Se il push fallisce per un problema di rete, riprova fino a 4 volte (attese di 2, 4, 8 e 16 s).
 
 ## 3. Saluta il giocatore
