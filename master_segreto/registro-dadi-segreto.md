@@ -1,0 +1,2 @@
+# Registro dei dadi segreti
+
