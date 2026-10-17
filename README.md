@@ -8,9 +8,9 @@ Campagna in solitario: tu sei **Akira**, Claude è il **Master**.
 | `/inizia-sessione` | Claude rilegge la memoria, ti fa il riassunto ("Nelle puntate precedenti…") e riprende la scena |
 | `/tira [mod] [azione]` | Tiri tu il d10 per Akira. Es.: `/tira -3 Lancia della Giustizia al fianco` |
 | `/fine-sessione` (o scrivi "chiudiamo") | Claude aggiorna cronaca, schede e mondo, poi salva tutto su GitHub (ramo `main`) |
+| `[testo tra parentesi quadre]` | Parli al master fuori dal gioco |
 
 Guida completa ai comandi: **`Comandi chat.md`**.
-| `[testo tra parentesi quadre]` | Parli al master fuori dal gioco |
 
 Dal terminale puoi tirare anche direttamente: `python3 strumenti/dado.py --mod -3 --motivo "Kamehameha"`.
 
