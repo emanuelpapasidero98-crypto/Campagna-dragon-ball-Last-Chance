@@ -48,6 +48,9 @@
 - Zemi: «Mellor? Come il melone?»
 - Syntia: «C'è un tizio di Levo City che ha scritto un libro sui funghi. Secondo me non distingue un fungo da un sasso.»
 - Syntia: «Mi manca parlare con della gente che non sia un uccello col becco a pala.»
+- Syntia: «Lo so chi era. C'ero anch'io. Ero sul balcone, con lei in braccio.»
+- Syntia: «Sono io che devo… cosa? Finiscila, avanti. Sparire?»
+- Syntia: «Hai tre giorni. Come me.»
 
 ### Momenti chiave nei rapporti
 - Zemi chiede ad Akira chi è Lace, davanti a Syntia. Akira le dice una bugia gentile (gita nello spazio). Syntia non lo contraddice, ma abbassa gli occhi.
@@ -55,6 +58,7 @@
 - Akira fa notare il comunicatore. Syntia ammette che è "l'università" e promette di parlargliene dopo, quando Zemi dorme.
 - Akira bacia Syntia con passione mentre Zemi è in bagno: lei risponde, ride, lo ferma per via della bambina. Dopo l'occhiolino il sorriso le resta, ma la mano torna sulla tasca con la busta.
 - Syntia confessa ad Akira l'invito e che vorrebbe andarci; si sente egoista. Gli chiede cosa sente lui davvero, non "fai come ti senti".
+- Akira dice a Syntia che deve andare, che la sostiene, che lei e Zemi meritano una vita normale (Zemi dovrebbe andare a scuola) e lascia a metà "sono io che devo…". Syntia è sollevata dal "devi andare", dice un "No" secco sulla scuola per Zemi ("te lo ricordi cosa le dicevano"), poi si arrabbia, calma e precisa, contro l'idea che lui si tiri fuori: "una vita nuova senza di te dentro non la voglio". Rilancia: vuole che **Akira e Zemi vengano ad Arcorp con lei**, almeno alla prima lezione. Gli dà tre giorni per pensarci.
 - Akira le prende la mano per rassicurarla: lei stringe forte e non lascia. Alla domanda "perché dovrei pensare a qualcosa di brutto?" risponde che è "una cosa mia, di lavoro" e che vuole il suo parere vero, "non la faccia da va bene tutto".
 
 ## Contatore metafore (massimo 1 per PNG a sessione)

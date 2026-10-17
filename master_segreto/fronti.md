@@ -81,3 +81,4 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | pre-campagna | F4 Braccio Mk II | 0 → 4 | Tre anni di lavoro di Tights |
 | G1 sera (s1) | F5 Segreto di Syntia | 1 → 1 (svolta) | Akira nota il comunicatore: Syntia decide di dirgli dell'invito stanotte, quando Zemi dorme. Il messaggio era un sollecito della segreteria U.A.C. (risposta attesa entro 3 giorni) |
 | G1 notte (s1) | F5 Segreto di Syntia | 1 → svelato | Syntia racconta l'invito ad Akira. L'orologio non si riempie "da sola": la decisione è condivisa. Scadenza della risposta: giorno 4. Paura non detta: lasciare Zemi sola con Akira per tre settimane (il ki) |
+| G1 notte (s1) | F5 Segreto di Syntia | nota | Akira le dice di andare. Syntia vuole che vada con lei con Zemi (risolve la sua paura non detta: niente Zemi sola con Akira per tre settimane). Se Akira va ad Arcorp: sorveglianza (F4) e opinione pubblica entrano in gioco, e Arcorp è la città di Tights |
