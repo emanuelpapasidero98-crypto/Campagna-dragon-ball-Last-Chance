@@ -9,3 +9,32 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 - **Desiderio**: essere preso sul serio. **Paura**: aver segnalato un errore stupido.
 - **Sa**: ha visto i dati grezzi dell'anomalia di 0,8 s e non lo convincono.
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 4
+
+## Prof.ssa Cannella *(cannella)*
+- **Ruolo**: preside della Facoltà di Scienze Naturali dell'Università di Arcorp City (U.A.C.). Ha firmato l'invito a Syntia.
+- **Età**: 58. **Aspetto**: bassa e robusta, capelli grigi a caschetto, occhiali a mezzaluna appesi a una catenella di perline, scarpe da trekking sotto la gonna.
+- **Voce**: sbrigativa e allegra, fa domande a raffica senza aspettare la risposta. Ride forte. Dà del lei a tutti, anche agli studenti.
+- **Desiderio**: che l'Orto Botanico dell'Est apra con un nome importante (Syntia) e porti gente nella zona ricostruita. **Paura**: che il Consiglio tagli i fondi all'università.
+- **Sa**: chi è il marito di Syntia. Ha deciso che non è un problema suo… finché non diventa un problema dell'università.
+- **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 3
+
+## Rapan *(rapa)* e Cipoll *(cipolla)* — saiyan dei Senza Cielo
+- **Rapan**: 19 anni, alto e magro, coda sempre in movimento, una cicatrice che gli taglia il sopracciglio. Spaccone, vuole farsi notare da Tyros. BP 1.200.000. Parametri verso Akira: Rispetto 2 · Amore 1 · Odio 3 · Spietatezza 4 · Lealtà 3 (a Tyros).
+- **Cipoll**: 17 anni, tarchiato, mangia di continuo, più prudente e sveglio di Rapan, lo segue lo stesso. BP 900.000. Parametri verso Akira: Rispetto 2 · Amore 1 · Odio 2 · Spietatezza 3 · Lealtà 4 (a Rapan).
+- **Sanno**: hanno trovato due cadaveri di creature sconosciute nelle Distese del Nord. Akira lo conoscono solo come "il mezzosangue che ha piegato la regina".
+
+## Signor Bottone *(bottone)*
+- **Ruolo**: negoziante di stoffe e vestiti a Nova City. È "il signor coso" che abbassa la serranda quando arriva Akira.
+- **Età**: 60. **Aspetto**: piccolo, calvo, metro da sarto sempre al collo, gilet con troppi bottoni.
+- **Voce**: cortese in modo untuoso con i clienti, maligno a mezza voce.
+- **Desiderio**: tranquillità, buoni affari. **Paura**: Akira (ha perso un fratello ad Arcorp nel 774).
+- **Sa**: g6, la vetrina si è crepata "da sola" vicino alla bambina. Pensa a un sasso.
+- **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 3 · Spietatezza 1 · Lealtà 2
+
+## Governatore di Clod City — **Ganascia** *(ganascia)*
+- **Ruolo**: membro del Consiglio. Il più ostile ad Akira.
+- **Aspetto**: largo, mascella enorme, voce tonante, mastica sempre qualcosa (liquirizia).
+- **Desiderio**: sicurezza per la sua città, che ha accolto molti sfollati di Arcorp; prestigio. **Paura**: un altro Akyr.
+- **Sa**: ciò che sa il Consiglio. Ha notato la "coincidenza" dell'arrivo di Akira ad Arcorp.
+- **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 4 · Spietatezza 3 · Lealtà 3
+

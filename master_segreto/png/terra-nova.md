@@ -10,6 +10,7 @@
 - **Segreti**: il braccio Arc-G Mk II (F4). Ha votato contro la sorveglianza di Akira, ma non l'ha avvertito.
 - **Sa**: anomalia (rapporto di Wanton), sorveglianza, tutto della tecnologia di Terra Nova. **Non sa**: cosa sia l'anomalia; nulla di Babidi o dei Kaioshin.
 - **Parametri**: Rispetto 5 · Amore 4 · Odio 2 · Spietatezza 3 · Lealtà 4
+- **Aggiornamento (s1, g13)**: ha trovato l'oggetto (F4) e ha visto i 4 secondi della sonda (cupola organica pulsante, figura bassa col mantello). Ha procurato l'attico ad Akira e famiglia. **Braccio Mk II completato (g8)**: in una capsula nel cassetto della scrivania del laboratorio privato. Più leggero; Kaioken −20% di costi; fusione Kaioken+SSJ di nuovo possibile. Non sa cosa farne. Al Consiglio ha detto lei stessa che Akira arrivava ad Arcorp e se n'è pentita. **Prossimo passo**: seduta d'emergenza del Consiglio, sera del g13. Spingerà, a modo suo, per "cercare Akira", senza ammettere perché.
 
 ## G-1 Tobias (bio-androide)
 - **Aspetto**: capelli biondi fino alle spalle, fisico da combattente, occhi viola.
@@ -23,6 +24,7 @@
   - Fusione meccanica (con 3 Arc-G: BP ×25 per 5 turni, +8% danni e difesa; poi perde metà HP)
   - Impercettibile (solo gli scouter lo rilevano) · Rigenerazione (3 HP/turno; il nucleo nel cervello è il punto debole)
   - Autodistruzione (raggio di 2 km, +1000% danni)
+- **Aggiornamento (s1, g13)**: g4-g8 in orbita sulla vecchia Terra con la sonda; ha visto la sonda disintegrarsi e il video. Dal g10, per ordine del re, **sorveglia Akira di persona** ad Arcorp ("Non mi piace. Lo faccio."). All'Aula Magna in borghese, con il riso. Ha l'ordine di non intervenire salvo pericolo per i civili e di riferire.
 
 ## Re Korinzo *(improvvisato dal master)*
 - **Età**: 58. **Aspetto**: basso e massiccio, barba grigia corta, mani da meccanico con una cicatrice da ustione sul dorso sinistro. Veste semplice, tranne nelle cerimonie.
@@ -32,6 +34,7 @@
 - **Desiderio**: che nessuno debba mai più fuggire. **Paura**: Akira che impazzisce, i saiyan, il cielo.
 - **Sa**: il passato pubblico di Akira, il trattato, la sorveglianza (l'ha proposta lui). **Non sa**: l'anomalia (la saprà a F4 = 3).
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 2 · Spietatezza 3 · Lealtà 5 (al popolo)
+- **Aggiornamento (s1, g13)**: sa dell'anomalia, della sonda e del video. Ha ordinato la ricognizione, raddoppiato le pattuglie e messo Tobias su Akira. Ganascia gli ha messo in testa la "coincidenza". **Prossimo passo**: seduta d'emergenza la sera del g13 (F4 6/6): cannoni, chiusura dello scudo, cercare Akira o farne un capro espiatorio.
 
 ## Karin *(improvvisato: diverso dal canone)*
 - **Aspetto**: gatto bianco antichissimo e magro, pelo arruffato, un occhio velato di cataratta. Bastone di legno nodoso. Porta un mantello di foglie intrecciate.
