@@ -10,7 +10,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| Recupero della sfera di Bu | `[■■■□]` 3/4 | La sfera è a bordo. Inizia la raccolta di energia |
+| Recupero della sfera di Bu | `[■■■■]` 4/4 ✅ (G1 notte) | La sfera è a bordo. Inizia la raccolta di energia |
 | Primo contatto coi saiyan | `[□□□□]` 0/4 | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
 | Esercito Majin | `[□□□□□□]` 0/6 | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
 | **Energia di Bu** | `[□□□□□□□□□□□□]` 0/12 | **Majin Bu si risveglia** |
@@ -25,7 +25,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| Scoperta degli intrusi | `[□□□]` 0/3 | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
+| Scoperta degli intrusi | `[■□□]` 1/3 | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
 | Fronda dei Senza Cielo (Tyros) | `[■■□□□□]` 2/6 | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
 | La crepa di Zarcon | `[■□□□□□]` 1/6 | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
 | Zaraya e Babidi | — | Ramo da decidere al contatto: Zaraya cerca di **usare** Babidi (i cannoni) e Babidi di **marchiarla**. Tiro contrapposto, con Zaraya a +2 per l'orgoglio |
@@ -35,14 +35,14 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| La caccia | `[■□□□□□]` 1/6 | 2: individuano la navicella · 3: tentano un colpo e trovano Dabura · 4: battuta d'arresto (Kibith ferito o pietrificato, a seconda dei tiri) · 5: Shin chiede a Re Kaioh chi sia il guerriero più forte e affidabile · 6: **Shin va su Terra Nova a cercare Akira** |
+| La caccia | `[■■□□□□]` 2/6 | 2: individuano la navicella · 3: tentano un colpo e trovano Dabura · 4: battuta d'arresto (Kibith ferito o pietrificato, a seconda dei tiri) · 5: Shin chiede a Re Kaioh chi sia il guerriero più forte e affidabile · 6: **Shin va su Terra Nova a cercare Akira** |
 
 ## F4 — Terra Nova: "L'anomalia"
 **Il re vuole**: proteggere 2 miliardi di persone senza dipendere da Akira. **Tights vuole**: la verità e la sicurezza, e (non lo ammetterà mai) ricucire con Akira.
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| L'anomalia | `[■□□□□□]` 1/6 | 2: Tights fa rianalizzare i dati e trova un oggetto · 3: Tights porta la cosa al Consiglio · 4: il re ordina una ricognizione segreta (Tobias e una sonda) · 5: incidente con la vecchia Terra (la sonda viene vista o distrutta) · 6: crisi: il Consiglio deve decidere (cannoni, chiusura totale dello scudo, cercare Akira o farne un capro espiatorio) |
+| L'anomalia | `[■■■□□□]` 3/6 | 2: Tights fa rianalizzare i dati e trova un oggetto · 3: Tights porta la cosa al Consiglio · 4: il re ordina una ricognizione segreta (Tobias e una sonda) · 5: incidente con la vecchia Terra (la sonda viene vista o distrutta) · 6: crisi: il Consiglio deve decidere (cannoni, chiusura totale dello scudo, cercare Akira o farne un capro espiatorio) |
 | Sorveglianza di Akira | attiva | Se Akira fa qualcosa di "allarmante" (aura alta, voli, scontri), il Consiglio lo sa entro poche ore |
 | Il braccio Mk II | `[■■■■□]` 4/5 | Tights lo completa. Cosa farne dipende dal rapporto con Akira |
 
@@ -82,3 +82,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G1 sera (s1) | F5 Segreto di Syntia | 1 → 1 (svolta) | Akira nota il comunicatore: Syntia decide di dirgli dell'invito stanotte, quando Zemi dorme. Il messaggio era un sollecito della segreteria U.A.C. (risposta attesa entro 3 giorni) |
 | G1 notte (s1) | F5 Segreto di Syntia | 1 → svelato | Syntia racconta l'invito ad Akira. L'orologio non si riempie "da sola": la decisione è condivisa. Scadenza della risposta: giorno 4. Paura non detta: lasciare Zemi sola con Akira per tre settimane (il ki) |
 | G1 notte (s1) | F5 Segreto di Syntia | nota | Akira le dice di andare. Syntia vuole che vada con lei con Zemi (risolve la sua paura non detta: niente Zemi sola con Akira per tre settimane). Se Akira va ad Arcorp: sorveglianza (F4) e opinione pubblica entrano in gioco, e Arcorp è la città di Tights |
+| G1 sera-notte (s1) | F1 Recupero sfera | 3 → 4 ✅ | Tiro 5. La sfera di Bu è a bordo della navicella. Comincia la raccolta di energia |
+| G1 sera-notte (s1) | F4 Anomalia | 1 → 3 | Tiro 10 (critico, +2). Gli analisti trovano l'oggetto; Tights chiede una seduta urgente del Consiglio per il giorno 2 |
+| G1 sera-notte (s1) | F3 Caccia | 1 → 2 | Tiro 5. Shin e Kibith individuano la navicella (vedono la sfera portata a bordo) |
+| G1 sera-notte (s1) | F2 Scoperta intrusi | 0 → 1 | Tiro 9 (+1 con vantaggio). Due cacciatori dei Senza Cielo trovano i corpi dei servitori uccisi da Dabura e portano una prova a Tyros, non alla regina |

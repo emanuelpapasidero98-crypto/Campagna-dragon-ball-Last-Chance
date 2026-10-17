@@ -18,3 +18,8 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 - **Sa**: chi è il marito di Syntia. Ha deciso che non è un problema suo… finché non diventa un problema dell'università.
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 3
 
+## Rapan *(rapa)* e Cipoll *(cipolla)* — saiyan dei Senza Cielo
+- **Rapan**: 19 anni, alto e magro, coda sempre in movimento, una cicatrice che gli taglia il sopracciglio. Spaccone, vuole farsi notare da Tyros. BP 1.200.000. Parametri verso Akira: Rispetto 2 · Amore 1 · Odio 3 · Spietatezza 4 · Lealtà 3 (a Tyros).
+- **Cipoll**: 17 anni, tarchiato, mangia di continuo, più prudente e sveglio di Rapan, lo segue lo stesso. BP 900.000. Parametri verso Akira: Rispetto 2 · Amore 1 · Odio 2 · Spietatezza 3 · Lealtà 4 (a Rapan).
+- **Sanno**: hanno trovato due cadaveri di creature sconosciute nelle Distese del Nord. Akira lo conoscono solo come "il mezzosangue che ha piegato la regina".
+
