@@ -52,7 +52,7 @@
 | Zaraya | 18.000.000 | SSJ 900M · SSJ FP 1,17 miliardi · Oozaru 180M |
 | Zarcon | 7.000.000 | non SSJ |
 | Ignis (guardia rossa) | 7.500.000 | SSJ 375M |
-| Guardia viola | 7.200.000 | SSJ 360M |
+| Okura (guardia viola) | 7.200.000 | SSJ 360M |
 | Tyros | 6.000.000 | Oozaru 60M |
 | Dabura | 600.000.000 | col marchio **900M effettivi** |
 | Yakon | 6.500.000 | col marchio 9,75M |

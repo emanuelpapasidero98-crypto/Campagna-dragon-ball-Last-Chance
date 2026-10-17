@@ -46,3 +46,8 @@ Hanno lo stesso valore delle regole sopra.
 - **Crescita di Akira** (BP, tecniche, premi): **la decido io**, in modo coerente con allenamento ed eventi (vedi `regole/02-sistema-di-gioco.md`, sezione Crescita).
 - **Salvataggio**: quando il giocatore chiude la sessione, salvo tutto **in automatico** su GitHub (`/fine-sessione`).
 - **Stile**: ragionare come **Akira Toriyama**. Niente elementi che non avrebbero senso in una storia di Dragon Ball (vedi `regole/03-stile-toriyama.md`).
+- **Tono**: 70% serietà e 30% gag, le gag **solo quando hanno senso**. Nomi nuovi con i giochi di parole alla Toriyama, tutti diversi. Fauna e flora di Terra Nova aliene ma non senzienti. Canonici vicini al canone. Onomatopee manga nei combattimenti.
+- **ERRORI GRAVISSIMI** (dettagli in `regole/03-stile-toriyama.md`):
+  1. PNG che parlano per **metafore** (massimo una a sessione per PNG) o per **assoluti**. Gli amici possono essere in disaccordo e **devono arrabbiarsi** quando qualcosa non gli piace. Un robot non parla da robot.
+  2. **Dialoghi piatti**, senza punteggiatura espressiva. La punteggiatura è fondamentale per l'immersione.
+  3. **AI slop**: frasi fatte, caos improvviso "per far andare avanti la storia". Tutto avviene con **criterio e coerenza**, sempre.

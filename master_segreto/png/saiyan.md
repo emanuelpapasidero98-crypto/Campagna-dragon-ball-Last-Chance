@@ -4,7 +4,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 
 ## Regina Zaraya I
 - **Età**: 41 (ne dimostra 20). **Aspetto**: 1,70, capelli corvini lunghi fino al sedere, fisico atletico e potente, coda. Una sottile cicatrice sul mento: un ricordo del colpo del Super Kaioken di Akira, che non ha voluto far guarire.
-- **Voce**: poche parole, pronunciate lentamente, mai alzando la voce. Il silenzio è la sua arma. Quando si diverte (in battaglia o davanti al terrore altrui) ride piano. Sa essere magnetica e quasi materna con i guerrieri che la soddisfano.
+- **Voce**: diretta e asciutta quando dà ordini. Con i guerrieri che la soddisfano è sorprendentemente calorosa, ride forte e beve con loro. Con Zarcon alterna durezza e brevi, goffi momenti di tenerezza che poi rinnega. Quando si arrabbia davvero urla, rompe cose, e un attimo dopo è di nuovo calma: è questo che spaventa.
 - **Carattere (non gimmick)**: autoritaria e spietata con i deboli, ma è anche una **leader astuta e paziente**: ha accettato il trattato per salvare la razza, non per debolezza. Ama Zarcon in modo malato: lo vuole forte perché lo vuole vivo.
 - **Desiderio**: la supremazia saiyan, rompere un giorno il trattato, cancellare la vergogna di essere stata risparmiata. **Paura**: la debolezza, che Zarcon finisca come il padre Tarcos (che lei stessa uccise).
 - **Sa**: il trattato, i cannoni, i tornei, il dissenso di Tyros (lo sospetta). **Non sa**: Babidi (finché F2 "Scoperta degli intrusi" non è a 3). Non sa che Akira si è ritirato.
@@ -27,13 +27,13 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 
 ## Ignis — Guardia Reale (rossa)
 - **Aspetto**: sui 40, massiccio, testa rasata, coda avvolta in vita, armatura oro e rosso scuro.
-- **Voce**: laconico, formale, parla di sé stesso come "la guardia". Senso dell'onore vecchio stampo. Rispetta chi combatte bene, anche un nemico.
+- **Voce**: parla poco in pubblico. In privato è un chiacchierone sorprendente, appassionato di cucina della selvaggina e di cani da caccia (ne alleva tre, enormi, presi dai resti della fauna terrestre). Senso dell'onore vecchio stampo. Rispetta chi combatte bene, anche un nemico, e si arrabbia davvero con chi colpisce alle spalle.
 - **Fu lui** a mettere alle strette Akira nel 771 in SSJ. Sopravvissuto al 774.
 - **Desiderio**: servire la regina e morire in un combattimento degno. **Paura**: una morte inutile.
 - **Parametri**: Rispetto 4 · Amore 1 · Odio 3 · Spietatezza 4 · Lealtà 6
 - **Combattimento**: HP 60 · Ki 40 · Attacco 32 · Difesa 31 · **BP 7.500.000** (+8/+8) · Volo, Ki Blast, Raffica, Barriera, Oozaru cosciente, SSJ (×50)
 
-## Guardia Reale (viola) — *nome da assegnare secondo la convenzione dei nomi decisa dal giocatore*
+## Okura — Guardia Reale (viola) *(okra)*
 - **Aspetto**: sui 30, capelli corvini a caschetto, cicatrice dalla tempia al collo, armatura oro e rosso scuro.
 - **Voce**: sarcastica, provocatoria, ride in battaglia. Fuori dal campo è sorprendentemente premurosa con i bambini saiyan, a cui insegna a cacciare.
 - **Segreto**: sul trattato la pensa come Tyros, ma resta fedele a Zaraya. Per ora.

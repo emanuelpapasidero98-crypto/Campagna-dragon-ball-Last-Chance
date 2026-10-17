@@ -2,7 +2,7 @@
 
 Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da tutti gli altri.
 
-## Pell Hadok
+## Wanton *(wonton)*
 - **Ruolo**: tecnico del turno di notte, monitoraggio orbitale, Capsule Corporation.
 - **Età**: 26. **Aspetto**: allampanato, occhiali spessi, felpa sopra la divisa, tazza con un dinosauro disegnato.
 - **Voce**: pedante, logorroico sui dettagli tecnici, si scusa in continuazione. Davanti a Tights balbetta.

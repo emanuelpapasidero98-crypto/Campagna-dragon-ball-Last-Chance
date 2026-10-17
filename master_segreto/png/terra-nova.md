@@ -8,13 +8,13 @@
 - **Desiderio**: sicurezza totale per Terra Nova, rimettere in piedi Arcorp (metà città è ancora in ricostruzione). **Paura**: che i suoi sistemi falliscano di nuovo. Di aver perso Akira per sempre.
 - **Prossimo passo**: rianalisi dell'anomalia orbitale (F4).
 - **Segreti**: il braccio Arc-G Mk II (F4). Ha votato contro la sorveglianza di Akira, ma non l'ha avvertito.
-- **Sa**: anomalia (rapporto di Pell), sorveglianza, tutto della tecnologia di Terra Nova. **Non sa**: cosa sia l'anomalia; nulla di Babidi o dei Kaioshin.
+- **Sa**: anomalia (rapporto di Wanton), sorveglianza, tutto della tecnologia di Terra Nova. **Non sa**: cosa sia l'anomalia; nulla di Babidi o dei Kaioshin.
 - **Parametri**: Rispetto 5 · Amore 4 · Odio 2 · Spietatezza 3 · Lealtà 4
 
 ## G-1 Tobias (bio-androide)
 - **Aspetto**: capelli biondi fino alle spalle, fisico da combattente, occhi viola.
-- **Voce**: frasi brevi, precise, nessuna parola di troppo. Chiama le persone per nome e cognome. Rarissimi lampi di ironia secca. Da umano amava cucinare, e ne conserva l'abitudine di annusare il cibo prima di mangiarlo (non ne ha bisogno).
-- **Carattere**: freddo e distaccato, ma con emozioni umane sepolte. È stato umiliato da Akyr nel 774 e ha nei suoi confronti una diffidenza professionale, non odio. Ama Tights come una madre e il popolo di Terra Nova come un dovere sacro.
+- **Voce**: **parla come una persona, non come una macchina.** È riservato e un po' brusco con chi non conosce, e ha un'ironia secca che tira fuori quando si sente a suo agio. Quando è a disagio parla troppo e si interrompe da solo. Da umano amava cucinare: lo fa ancora per i tecnici della Capsule Corp e si offende se qualcuno lascia il piatto pieno.
+- **Carattere**: distaccato con gli estranei, ma con emozioni umane vive (rabbia, imbarazzo, orgoglio ferito). È stato umiliato da Akyr nel 774 e ha nei suoi confronti una diffidenza professionale, non odio. Ama Tights come una madre e il popolo di Terra Nova come un dovere sacro.
 - **Desiderio**: proteggere Terra Nova e Tights. **Paura**: essere solo una macchina. Il nucleo nel cervello.
 - **Incarico segreto**: controlli periodici della casa di Akira (sorveglianza del Consiglio). Lo fa con scrupolo e un vago disagio.
 - **Parametri**: Rispetto 3 · Amore 1 · Odio 2 · Spietatezza 5 · Lealtà 6
@@ -27,7 +27,7 @@
 ## Re Korinzo *(improvvisato dal master)*
 - **Età**: 58. **Aspetto**: basso e massiccio, barba grigia corta, mani da meccanico con una cicatrice da ustione sul dorso sinistro. Veste semplice, tranne nelle cerimonie.
 - **Storia**: ingegnere navale, poi **comandante dell'Arca Uno** durante l'esodo del 771. Ha tenuto in vita 300 milioni di persone per un anno nello spazio. Al momento dell'atterraggio il popolo lo ha voluto re.
-- **Voce**: lenta, calma, paterna. Usa metafore da nave ("tenere la rotta", "chiudere le paratie"). Quando parla la paura, diventa improvvisamente duro e secco.
+- **Voce**: lenta, calma, paterna, concreta. Parla di numeri e problemi pratici (scorte, alloggi, turni), non per immagini. Ricorda i nomi delle persone. Quando parla la paura, diventa improvvisamente duro e secco. Ogni tanto gli scappa una battuta da officina, e poi si ricorda di essere re.
 - **Carattere**: ama davvero il suo popolo ed è onesto, ma ha **visto il messaggio di morte di Akyr** in diretta nel 774 e non riesce a dimenticarlo. Non è un cattivo: è un uomo spaventato con una responsabilità enorme.
 - **Desiderio**: che nessuno debba mai più fuggire. **Paura**: Akira che impazzisce, i saiyan, il cielo.
 - **Sa**: il passato pubblico di Akira, il trattato, la sorveglianza (l'ha proposta lui). **Non sa**: l'anomalia (la saprà a F4 = 3).

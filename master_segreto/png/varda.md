@@ -12,8 +12,8 @@
 
 ## I piccoli namecciani (circa 300, aspetto da bambini di 5 anni)
 - **Tsumi**: casta guerriera, testa calda, vuole essere "come Tsumuri" (di cui porta il nome). Si allena di nascosto e si fa male.
-- **Kalto**: casta magica, curiosissimo, fa domande su tutto. **Gira intorno al santuario del sigillo** (F6).
-- **Erva**: casta magica, silenziosa e materna con i più piccoli. Aiuta Moori.
+- **Maimai**: casta magica, curiosissimo, fa domande su tutto. **Gira intorno al santuario del sigillo** (F6).
+- **Elix**: casta magica, silenziosa e materna con i più piccoli. Aiuta Moori.
 - I guerrieri hanno BP tra 50.000 e 400.000 (crescono in fretta). I magici sono deboli in combattimento ma imparano guarigione e piccoli incantesimi.
 
 ## Kras (sigillato)

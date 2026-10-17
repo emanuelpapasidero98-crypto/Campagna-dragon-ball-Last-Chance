@@ -2,7 +2,7 @@
 
 ## Babidi
 - **Aspetto**: basso, pelle giallastra e rugosa, testa enorme con una "M" sulla fronte, mantello. Mani piccole e nervose.
-- **Voce**: stridula, melliflua con chi gli serve, isterica quando qualcosa va storto. Ride di gioia davanti alla sofferenza e piagnucola quando ha paura. Ripete spesso "Papà…" quando parla a sé stesso.
+- **Voce**: stridula, melliflua con chi gli serve, isterica quando qualcosa va storto. Ride di gioia davanti alla sofferenza e piagnucola quando ha paura. Quando è solo, a volte parla al padre morto (non è un tic: succede nei momenti di trionfo o di panico).
 - **Carattere**: vigliacco, viscido, crudele, vendicativo, **geniale nella magia**. Non è un idiota: osserva, prepara, manipola. Tratta Dabura come un trofeo e Pui Pui e Yakon come attrezzi.
 - **Desiderio**: Bu sveglio, vendetta per Bibidi, l'universo ai suoi piedi. **Paura**: morire senza averlo fatto. I Kaioshin. Che Bu non gli obbedisca (un dubbio che non ammette).
 - **Sa**: dove era la sfera, che sulla Terra ci sono i saiyan, l'esistenza dei Kaioshin. **Non sa**: Terra Nova (non la vede), Akira, Kras, Varda.
