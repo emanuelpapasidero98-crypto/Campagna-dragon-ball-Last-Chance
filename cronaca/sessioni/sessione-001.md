@@ -19,6 +19,10 @@
 - [s1 · g1 sera] Dietro l'orto c'è una **serra** di Syntia, con le pareti di vetro, e un fosso con piante dalle foglie grandi.
 - [s1 · g1 sera] Pancotto l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti". Syntia pensa che abbia sbattuto contro il vetro della serra (il giorno dopo c'era una piuma attaccata).
 - [s1 · g1 sera] Akira racconta a Zemi che Lace "è andata a fare una lunga gita nello spazio". Zemi ora vuole la storia completa, "con la navicella e i mostri".
+- [s1 · g1 sera] Secondo Syntia, Akira smette di masticare quando si preoccupa.
+- [s1 · g1 sera] Zemi la sera prima ha solo bagnato lo spazzolino senza lavarsi i denti (Syntia l'ha scoperto toccandolo).
+- [s1 · g1 sera] Akira ha promesso a Zemi un dolcetto dopo cena e, se va a letto all'ora giusta, la storia delle "gesta di Lace e dei suoi compagni di avventura". Syntia ha concesso: un dolcetto solo, piccolo, poi denti lavati.
+- [s1 · g1 sera] Dalla finestra della cucina, di notte, si vedono scorrere i puntini luminosi dei satelliti dello scudo.
 - [s1 · g1 sera] Syntia tiene in tasca del grembiule una busta color crema con il sigillo blu dell'Università di Arcorp City (un arco stilizzato e le lettere U.A.C.). Il suo comunicatore, sul ripiano, lampeggia due volte durante la cena.
 
 ### Battute memorabili dei PNG
@@ -26,11 +30,15 @@
 - Zemi: «Il braccio l'ho fatto verde. Il nero era finito.»
 - Zemi: «Ma tu da piccolo gli alberi tristi non c'erano. C'era la Terra vecchia. E sei diventato grande lo stesso.»
 - Syntia: «Gli uccelli non hanno i denti, tesoro.» / Zemi: «Quello cattivo sì.»
+- Syntia: «La mamma è seduta qui. A trenta centimetri. Ti sente.»
+- Syntia: «Perché quando ha lampeggiato hai smesso di masticare. Lo fai quando ti preoccupi.»
+- Zemi: «Puah. Vi tenete la mano. A tavola.»
 
 ### Momenti chiave nei rapporti
 - Zemi chiede ad Akira chi è Lace, davanti a Syntia. Akira le dice una bugia gentile (gita nello spazio). Syntia non lo contraddice, ma abbassa gli occhi.
 - Zemi dice che, se Lace è forte, le insegnerà "le cose forti" e a volare. Syntia la zittisce in modo troppo brusco ("Mangia"): è la sua paura (F5).
 - Akira fa notare il comunicatore. Syntia ammette che è "l'università" e promette di parlargliene dopo, quando Zemi dorme.
+- Akira le prende la mano per rassicurarla: lei stringe forte e non lascia. Alla domanda "perché dovrei pensare a qualcosa di brutto?" risponde che è "una cosa mia, di lavoro" e che vuole il suo parere vero, "non la faccia da va bene tutto".
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |
