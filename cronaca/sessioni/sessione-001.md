@@ -1,5 +1,5 @@
 # Sessione 001 — <titolo, da decidere a fine sessione>
-- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine … (in corso: giorno 2, mattina)
+- Data reale: 2026-10-17 · Data in gioco: inizio anno 777, giorno 1, sera / fine … (in corso: giorno 13, mattina — salto temporale g2→g13 richiesto dal giocatore)
 - Luogo iniziale: casa di Akira, foresta di Nova City (Terra Nova)
 
 ## Resoconto
@@ -40,6 +40,15 @@
 - [s1 · g1 notte] Syntia decide: domattina scrive alla preside Cannella che accetta e che verrà "con la famiglia". Ad Arcorp c'è Tights ("lo sa entro un'ora"); l'università è finanziata per metà dalla Capsule.
 - [s1 · g1 notte] Notte d'amore tra Akira e Syntia. Verso l'alba Akira ha un incubo (Lace sul pianeta delle piante carnivore, poi la mano di Zaraya), si sveglia sudato ma **senza aura**. Syntia non si sveglia.
 - [s1 · g2 mattina] Zemi è entrata di nascosto all'alba e ha appeso il disegno (papà con due braccia) con una puntina sulla parete davanti al letto, storto.
+- [s1 · salto g2-13] La preside Cannella risponde entro un'ora con tre punti esclamativi e un P.S. sulla "sicurezza dell'Ateneo".
+- [s1 · salto g2-13] Pancotto viaggia in una scatola di cartone con i buchi. L'ala sta guarendo: riesce ad aprirla a metà.
+- [s1 · salto g2-13] G6: a Nova City, dal signor Bottone, "la vetrina si è rotta da sola" (versione di Zemi). Syntia è tornata senza il vestito e ha cambiato discorso. Quel pomeriggio Akira, a casa, ha percepito per mezzo secondo un ki piccolo e acceso verso Nova City, poi più niente.
+- [s1 · salto g2-13] Tights ha fatto avere alla famiglia un attico della Capsule nella zona est di Arcorp, con terrazza sulle cupole dell'Orto dell'Est ("ordini dall'alto"). Nel frigo, dodici lattine di caffè. Syntia: «Non dirlo a lui», ha scritto Tights. Syntia gliel'ha detto lo stesso.
+- [s1 · salto g2-13] L'aeromobile di famiglia: giallo, a capsula, con un'ammaccatura sulla portiera sinistra. Lo guida Syntia.
+- [s1 · salto g2-13] Ad Arcorp: pattuglie di Arc-G2 a coppie agli incroci, molte più di prima. Schermi: "Seduta straordinaria del Consiglio", "Il governatorato: nessun problema allo scudo".
+- [s1 · g12] Vestito di Zemi per la lezione: giallo, con le tasche per le matite colorate, comprato ad Arcorp.
+- [s1 · g13] Aula Magna della U.A.C.: anfiteatro di legno chiaro, finestre alte, striscione "ATLANTE DELLA FORESTA DI NOVA — Ciclo di lezioni pubbliche". Ai lati di Akira e Zemi, in terza fila, i posti restano vuoti; una coppia si sposta due file indietro.
+- [s1 · g13] Tobias è in ultima fila, in borghese (giacca grigia stretta sulle spalle, capelli legati), con un contenitore di riso sulle ginocchia. Cannella: "un signore del governatorato, per la sicurezza".
 - [s1 · g1 sera] Syntia tiene in tasca del grembiule una busta color crema con il sigillo blu dell'Università di Arcorp City (un arco stilizzato e le lettere U.A.C.). Il suo comunicatore, sul ripiano, lampeggia due volte durante la cena.
 
 ### Battute memorabili dei PNG

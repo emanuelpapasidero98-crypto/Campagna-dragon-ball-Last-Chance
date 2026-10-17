@@ -22,3 +22,8 @@
 | Data in gioco | Scoperta | Come |
 |---|---|---|
 | Anno 777, g1 notte | Syntia è stata invitata dall'Università di Arcorp City per sei lezioni in tre settimane (da 12 giorni da oggi) e per dare i nomi alle piante del nuovo Orto Botanico dell'Est. Ha tenuto la lettera per sé cinque giorni. Vorrebbe andarci. Risposta entro 3 giorni | Gliel'ha detto lei, dopo cena |
+| g6 | A Nova City "la vetrina si è rotta da sola" vicino a Zemi (versione di Zemi). Quel pomeriggio ha percepito per mezzo secondo un ki piccolo e acceso verso Nova City | Zemi; percezione del ki |
+| g4 | Tights sa che vengono ad Arcorp e ha procurato loro un alloggio della Capsule ("non dirlo a lui") | Syntia |
+| g9-12 | Il Consiglio è in seduta straordinaria; il governatorato smentisce problemi allo scudo. Ad Arcorp le pattuglie di Arc-G2 sono molte più di prima. Al mercato si dice che i saiyan costruiscono una nave (voce) | Notiziari, città |
+| g13 | Tobias è all'Aula Magna, in borghese, in ultima fila. Cannella: "un signore del governatorato, per la sicurezza" | L'ha visto |
+
