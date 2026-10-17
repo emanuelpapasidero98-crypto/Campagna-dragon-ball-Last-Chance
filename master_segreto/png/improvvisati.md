@@ -9,3 +9,12 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 - **Desiderio**: essere preso sul serio. **Paura**: aver segnalato un errore stupido.
 - **Sa**: ha visto i dati grezzi dell'anomalia di 0,8 s e non lo convincono.
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 4
+
+## Prof.ssa Cannella *(cannella)*
+- **Ruolo**: preside della Facoltà di Scienze Naturali dell'Università di Arcorp City (U.A.C.). Ha firmato l'invito a Syntia.
+- **Età**: 58. **Aspetto**: bassa e robusta, capelli grigi a caschetto, occhiali a mezzaluna appesi a una catenella di perline, scarpe da trekking sotto la gonna.
+- **Voce**: sbrigativa e allegra, fa domande a raffica senza aspettare la risposta. Ride forte. Dà del lei a tutti, anche agli studenti.
+- **Desiderio**: che l'Orto Botanico dell'Est apra con un nome importante (Syntia) e porti gente nella zona ricostruita. **Paura**: che il Consiglio tagli i fondi all'università.
+- **Sa**: chi è il marito di Syntia. Ha deciso che non è un problema suo… finché non diventa un problema dell'università.
+- **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 3
+

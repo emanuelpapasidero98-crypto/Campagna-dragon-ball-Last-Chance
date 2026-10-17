@@ -29,6 +29,11 @@
 - [s1 · g1 sera] Zemi vuole che il disegno con "papà con due braccia" sia appeso in camera dei genitori, "dove lo vedi quando ti svegli".
 - [s1 · g1 sera] **Storia della buonanotte (inventata da Akira)**: Lace, Mellor, Zestra ed Escar combattono degli androidi terribili su un pianeta fatto solo di piante carnivore. Zemi: «Mellor come il melone?»; le piante carnivore "non possono mangiare gli androidi perché sono di ferro… a meno che non hanno i denti di ferro". Syntia ha ascoltato un pezzo della storia dalla porta (lei conosceva gli allievi: gestiva la Scuola della Speranza).
 - [s1 · g1 sera] Ultima domanda di Zemi, mezza addormentata: «Se Lace è in gita… perché di notte la chiami così forte?»
+- [s1 · g1 sera] Akira, a Zemi addormentata (forse): «Perché mi manca, piccola…»
+- [s1 · g1 sera] **Ronfolina**: erba di Terra Nova (nel libro di Syntia), infuso che concilia il sonno, sa di fieno e limone. Syntia la prepara ad Akira la sera, con il miele.
+- [s1 · g1 sera] **L'invito della U.A.C.** (Facoltà di Scienze Naturali, firmato dalla preside **prof.ssa Cannella**): ciclo di sei lezioni pubbliche sull'"Atlante della foresta di Nova" in tre settimane, a partire da 12 giorni da oggi (giorno 13), e incarico di dare i nomi alle specie del nuovo **Orto Botanico dell'Est**, costruito nella parte di Arcorp City ricostruita dopo il 774. Alloggio universitario offerto. Risposta entro 3 giorni (entro il giorno 4), altrimenti chiamano un autore di Levo City che ha scritto un libro sui funghi.
+- [s1 · g1 sera] Dalla casa nella foresta ad Arcorp City: quasi tre ore di aeromobile.
+- [s1 · g1 sera] Syntia ha tenuto l'invito per sé cinque giorni, e lo ammette.
 - [s1 · g1 sera] Syntia tiene in tasca del grembiule una busta color crema con il sigillo blu dell'Università di Arcorp City (un arco stilizzato e le lettere U.A.C.). Il suo comunicatore, sul ripiano, lampeggia due volte durante la cena.
 
 ### Battute memorabili dei PNG
@@ -41,12 +46,15 @@
 - Zemi: «Puah. Vi tenete la mano. A tavola.»
 - Syntia (dopo il bacio): «Ehi… c'è una bambina a tre metri con lo spazzolino in bocca.»
 - Zemi: «Mellor? Come il melone?»
+- Syntia: «C'è un tizio di Levo City che ha scritto un libro sui funghi. Secondo me non distingue un fungo da un sasso.»
+- Syntia: «Mi manca parlare con della gente che non sia un uccello col becco a pala.»
 
 ### Momenti chiave nei rapporti
 - Zemi chiede ad Akira chi è Lace, davanti a Syntia. Akira le dice una bugia gentile (gita nello spazio). Syntia non lo contraddice, ma abbassa gli occhi.
 - Zemi dice che, se Lace è forte, le insegnerà "le cose forti" e a volare. Syntia la zittisce in modo troppo brusco ("Mangia"): è la sua paura (F5).
 - Akira fa notare il comunicatore. Syntia ammette che è "l'università" e promette di parlargliene dopo, quando Zemi dorme.
 - Akira bacia Syntia con passione mentre Zemi è in bagno: lei risponde, ride, lo ferma per via della bambina. Dopo l'occhiolino il sorriso le resta, ma la mano torna sulla tasca con la busta.
+- Syntia confessa ad Akira l'invito e che vorrebbe andarci; si sente egoista. Gli chiede cosa sente lui davvero, non "fai come ti senti".
 - Akira le prende la mano per rassicurarla: lei stringe forte e non lascia. Alla domanda "perché dovrei pensare a qualcosa di brutto?" risponde che è "una cosa mia, di lavoro" e che vuole il suo parere vero, "non la faccia da va bene tutto".
 
 ## Contatore metafore (massimo 1 per PNG a sessione)

@@ -21,3 +21,4 @@
 ## Scoperte durante la campagna
 | Data in gioco | Scoperta | Come |
 |---|---|---|
+| Anno 777, g1 notte | Syntia è stata invitata dall'Università di Arcorp City per sei lezioni in tre settimane (da 12 giorni da oggi) e per dare i nomi alle piante del nuovo Orto Botanico dell'Est. Ha tenuto la lettera per sé cinque giorni. Vorrebbe andarci. Risposta entro 3 giorni | Gliel'ha detto lei, dopo cena |
