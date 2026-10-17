@@ -6,7 +6,7 @@ Campagna in solitario: tu sei **Akira**, Claude è il **Master**.
 | Comando | Cosa fa |
 |---|---|
 | `/inizia-sessione` | Claude rilegge la memoria, ti fa il riassunto ("Nelle puntate precedenti…") e riprende la scena |
-| `/tira [mod] [azione]` | Tiri tu il d10 per Akira. Es.: `/tira -3 Lancia della Giustizia al fianco` |
+| `/tira [mod] [azione]` | Tiri tu il d10 per Akira, in combattimento o nelle prove di abilità con CD chiamate dal master. Es.: `/tira -3 Lancia della Giustizia al fianco` · `/tira +1 cd 8 convinco Tights` |
 | `/salva` | Salvataggio intermedio su GitHub senza chiudere la sessione |
 | `/fine-sessione` (o scrivi "chiudiamo") | Claude aggiorna cronaca, schede e mondo, poi salva tutto su GitHub (ramo `main`) |
 | `[testo tra parentesi quadre]` | Parli al master fuori dal gioco |

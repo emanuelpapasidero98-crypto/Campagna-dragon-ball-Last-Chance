@@ -12,7 +12,7 @@ Obiettivo: la prossima chat, che non ricorderà nulla di questa, deve poter ripr
 ## 1. Cronaca e stato (pubblici)
 - **`cronaca/sessioni/sessione-NNN.md`**: resoconto dettagliato **dal punto di vista di Akira**: cosa ha fatto, detto e scoperto; combattimenti con esito e tiri chiave; PNG incontrati; decisioni prese; data in gioco di inizio e di fine. Completa il **contatore delle metafore** e la sezione "Errori segnalati dal giocatore".
 - **`cronaca/riepilogo-campagna.md`**: un paragrafo di sintesi della sessione.
-- **`mondo/stato-attuale.md`**: data, luogo, scena in sospeso (esattamente dove si è interrotta, compresa l'ultima cosa detta o fatta), condizioni di Akira, fili aperti noti al giocatore.
+- **`mondo/stato-attuale.md`**: data, luogo, scena in sospeso (esattamente dove si è interrotta, compresa l'ultima cosa detta o fatta), condizioni di Akira, fili aperti noti al giocatore, **Tentativi falliti** (aggiungi quelli nuovi e togli quelli sbloccati da un cambiamento reale della situazione).
 - **`mondo/calendario.md`**: una riga per ogni giorno trascorso.
 - **`mondo/fatti-stabiliti.md`**: **ogni dettaglio inventato** in questa sessione (luoghi, nomi, oggetti, cibi, animali, ferite, abitudini, frasi rituali, aspetto di PNG minori). Prendili dagli appunti del file di sessione e rileggi la chat per non perderne nessuno.
 - **`personaggi/akira.md`**: HP, Ki, ferite, oggetti, crescita (con il motivo).

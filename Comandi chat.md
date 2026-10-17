@@ -43,6 +43,20 @@ Il comando va scritto **all'inizio del messaggio**.
 
 **Quando tirare:** quando il master scrive "Tira" e ti indica il modificatore. Il master si ferma e aspetta il tuo tiro prima di raccontare cosa succede.
 
+#### Prove di abilità (fuori dal combattimento)
+Quando Akira prova a fare qualcosa di incerto che non è combattere (convincere, intimidire, ingannare, notare, cercare, nascondersi, controllare il ki…), **è il master a chiamare la prova**. Ti scrive:
+- il **tipo di prova** (es. Persuasione);
+- la **CD**, cioè il numero da raggiungere: 4 facile, 6 media, 8 difficile, 10 molto difficile, 12 quasi impossibile;
+- i **modificatori** voce per voce: rapporto con il PNG (rispetto, amore, odio), situazione, reputazione, potere percepito, ferite…
+
+Tu tiri: **d10 + modificatori ≥ CD → riesci**, altrimenti no. Un 10 naturale riesce sempre e dà qualcosa in più. Un 1 naturale fallisce sempre e, se la situazione è seria, ha conseguenze.
+
+**Se fallisci, non puoi ritentare la stessa azione**: stesso obiettivo, stessa persona, stesso approccio. Puoi riprovare solo se la situazione cambia davvero (una prova nuova, un fatto nuovo, tempo trascorso, un rapporto cambiato). Cambiare solo le parole non basta. I tentativi bloccati restano scritti nei file e valgono anche nelle chat successive.
+
+**Esempi:**
+- `/tira +1 cd 8 convinco Tights a farmi vedere i dati`
+- `/tira -1 intimidisco il guardiano del magazzino` (la CD l'ha già indicata il master)
+
 ### `/salva`
 **Cosa fa:** salvataggio intermedio su GitHub (`main`) **senza chiudere la sessione**.
 - Aggiorna lo stato attuale, gli appunti della sessione, i fatti stabiliti e, se serve, i segreti del master.
@@ -88,6 +102,7 @@ Tutto quello che scrivi tra parentesi quadre è rivolto **al master**, non ad Ak
 
 ## Cose da sapere
 - **Akira lo muovi solo tu.** Il master non lo fa mai parlare né agire senza una tua dichiarazione.
+- **Nessuno è al sicuro.** I PNG possono fare scelte contro Akira: un personaggio caro può morire, restare ferito per sempre, essere rapito, tradire. Il master non salva nessuno all'ultimo secondo per comodità.
 - **Salti temporali:** il master non li fa mai di sua iniziativa. Te li propone e aspetta il tuo sì.
 - **Le chat non comunicano tra loro.** Ogni nuova chat ricorda solo ciò che è scritto nei file. Per questo conviene **una chat per sessione**, chiusa sempre con `/fine-sessione`.
 - **Salvataggio:** avviene solo con `/salva` o `/fine-sessione`. Se chiudi la chat senza, quello che hai giocato dall'ultimo salvataggio va perso. Ogni salvataggio è un punto a cui si può tornare.

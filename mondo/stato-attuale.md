@@ -14,6 +14,10 @@
 - Non si allena da 3 anni. Incubi ricorrenti sulla morte di Tsumuri e degli allievi
 - Equipaggiamento con sé: nessuno di rilievo
 
+## Tentativi falliti (non ripetibili finché la situazione non cambia davvero)
+| Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
+|---|---|---|---|
+
 ## Fili aperti noti al giocatore
 - Babidi è sulla vecchia Terra (Akira non lo sa).
 

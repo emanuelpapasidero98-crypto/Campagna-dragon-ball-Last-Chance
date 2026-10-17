@@ -8,7 +8,7 @@ description: Salvataggio intermedio della partita su GitHub (main) senza chiuder
 Il giocatore ha autorizzato in modo permanente il salvataggio su `main`: **non chiedere conferma**.
 
 1. Aggiorna rapidamente:
-   - `mondo/stato-attuale.md` (dove, quando, scena in sospeso, condizioni di Akira);
+   - `mondo/stato-attuale.md` (dove, quando, scena in sospeso, condizioni di Akira, tentativi falliti);
    - il file della sessione in corso in `cronaca/sessioni/` (appunti fino a questo punto);
    - `mondo/fatti-stabiliti.md` (dettagli inventati finora);
    - `master_segreto/fronti.md` e `master_segreto/giornale-fuori-scena.md`, se è passato tempo;

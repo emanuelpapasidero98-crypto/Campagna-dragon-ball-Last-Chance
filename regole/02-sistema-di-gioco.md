@@ -19,7 +19,56 @@ Si usa un d10 per prove di abilità, combattimento e prove sociali.
 - **Scambio**: vince il **totale più alto**. Esempio: Akira fa 5, il PNG fa 6, vince il PNG.
 - **Parità [raccordo]**: nessuno prevale, i colpi si neutralizzano (scontro di forze). Se entrambi hanno ottenuto almeno un successo pieno, possono andare a segno tutti e due, a giudizio narrativo.
 - **Più avversari [raccordo]**: Akira tira una volta per round e il suo totale si confronta con il tiro di ciascun avversario coinvolto in quel round.
-- **Prove fuori combattimento**: le tira il giocatore. Contro un PNG che si oppone attivamente, tiro anche per il PNG e confronto. Se la prova non ha senso (impossibile, o banale e senza rischio), non si tira.
+- **Prove fuori combattimento**: usano il sistema separato delle **Prove di abilità con CD** (sezione 1-bis). Lì il PNG non tira: le sue capacità e la sua volontà sono già dentro la CD.
+
+## 1-bis. Prove di abilità (fuori combattimento)
+
+Sistema **separato dal combattimento**, deciso dal giocatore il 17/10/2026.
+
+### Quando si tira
+- **La prova la chiama il master**, in base al contesto, quando Akira tenta qualcosa di **incerto e con una posta in gioco**: convincere, intimidire, ingannare, notare, cercare, nascondersi, sopportare, controllare il ki, ricordare, curare, pilotare…
+- Se l'azione è banale e senza rischio riesce senza tiro. Se è impossibile fallisce senza tiro. Il master lo dice chiaramente.
+- Il giocatore dichiara cosa fa Akira, e il master risponde **senza narrare l'esito**, con:
+  1. **tipo di prova** (es. Persuasione);
+  2. **CD**;
+  3. **modificatori**, voce per voce, con il totale;
+  4. l'invito a tirare: `/tira <mod> <azione>`.
+  Poi **si ferma** e aspetta il tiro.
+
+### Come si risolve
+- **d10 + modificatori ≥ CD → riesce.** Sotto la CD → non riesce.
+- **10 naturale**: riesce sempre, anche con CD 11-12, e ottiene qualcosa in più (un'informazione extra, un favore, un'impressione duratura).
+- **1 naturale**: fallisce sempre. Ha conseguenze negative **dove ha senso** (Regola 4): convincere qualcuno a pulire una stanza non crea un nemico eterno, un bluff fallito davanti a Zaraya sì.
+
+### Scala delle CD
+| CD | Difficoltà | Esempio |
+|---|---|---|
+| 4 | Facile | Convincere un amico a darti un passaggio |
+| 6 | Media | Ottenere un'informazione da un estraneo diffidente |
+| 8 | Difficile | Convincere il Consiglio a darti ascolto |
+| 10 | Molto difficile | Intimidire una guardia reale saiyan |
+| 12 | Quasi impossibile | Convincere Zaraya ad arrendersi |
+
+La CD dipende da **cosa** si chiede e da **chi** lo si chiede: volontà, carattere, interessi e paure del PNG.
+
+### Modificatori (li stabilisce il master; totale massimo ±5)
+- **Rispetto del PNG verso Akira**: 1 = la prova fallisce in automatico (fa il contrario); 2 = −2; 3 = 0; 4 = +1; 5 = +2; 6 = nessun tiro per richieste ragionevoli.
+- **Amore**: 4+ dà +1 quando Akira chiede aiuto o sostegno; 1-2 dà −1 se chiede un sacrificio.
+- **Odio**: 3 dà −1, 4+ dà −2 a Persuasione e Inganno. Per l'Intimidazione l'odio può dare −1 (il PNG si irrigidisce) o +1 (gli fa paura), a seconda del carattere.
+- **Situazione**: argomenti validi, prove in mano, un favore fatto, il momento giusto o sbagliato, testimoni, fretta, stanchezza, ferite, ubriachezza, paura (da −3 a +3).
+- **Reputazione**: su Terra Nova Akira è temuto. In genere dà −1 alla Persuasione con estranei e autorità, e +1 all'Intimidazione.
+- **Potere percepito** (Intimidazione): solo se il PNG **percepisce o vede** la forza di Akira (Regola 7), da +1 a +3.
+- **Braccio mancante**: −1 o −2 alle prove fisiche che richiedono due mani.
+- **Coerenza della dichiarazione**: un'azione descritta in modo concreto e sensato può valere +1; una pretesa vaga o assurda −1.
+
+### Niente secondo tentativo
+- Se la prova fallisce, **Akira non può ritentare la stessa azione**: stesso obiettivo, stesso bersaglio, stesso approccio. Il PNG ha detto no, la serratura ha resistito, l'occasione è passata.
+- **[raccordo]** Un tentativo nuovo è possibile solo se la situazione cambia **davvero**: una prova nuova in mano, un fatto nuovo, giorni trascorsi, un rapporto cambiato, un'altra persona da convincere. Il master decide se il cambiamento basta. Cambiare solo tono o parole **non basta**.
+- **[raccordo]** Cambiare abilità sullo stesso bersaglio e obiettivo (es. da Persuasione a Intimidazione) è consentito solo se ha senso nella scena, con **−2**, perché il PNG ha già detto no e se lo ricorda.
+- Ogni tentativo fallito e bloccato va annotato in `mondo/stato-attuale.md` → **Tentativi falliti**, così vale anche nelle chat successive.
+
+### Tipi di prova (elenco indicativo)
+Persuasione · Intimidazione · Inganno · Intuizione (capire se qualcuno mente o cosa prova) · Percezione · Indagine · Furtività · Atletica/Resistenza · Controllo del ki (sopprimere l'aura, percepire, dosare) · Conoscenze · Medicina · Pilotaggio/Tecnologia · Sopravvivenza.
 
 ## 2. Danni
 

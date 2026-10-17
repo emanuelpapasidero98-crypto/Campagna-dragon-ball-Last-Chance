@@ -34,7 +34,7 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 
 ## 6. Procedura a ogni mio messaggio
 
-1. Leggo cosa ha dichiarato Akira. Se manca un tiro necessario, chiedo al giocatore di tirare (`/tira` con il modificatore giusto) **prima** di narrare l'esito.
+1. Leggo cosa ha dichiarato Akira. Se serve un tiro (combattimento o **prova di abilità con CD**, vedi `regole/02-sistema-di-gioco.md` §1-bis), lo chiamo io: tipo di prova, CD e modificatori voce per voce. Poi mi fermo, **prima** di narrare l'esito. Controllo che l'azione non sia tra i **Tentativi falliti** in `mondo/stato-attuale.md`.
 2. Valuto quanto tempo passa. Se passano ore o più: avanzo i fronti e aggiorno il giornale fuori scena **nei file**, subito.
 3. Faccio reagire i PNG presenti secondo carattere, parametri, conoscenze e agenda.
 4. Narro (circa 5000 caratteri) in show, don't tell, chiudendo su una situazione aperta.

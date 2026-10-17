@@ -8,6 +8,7 @@ Esempi:
   python3 strumenti/dado.py --chi Akira --mod -2 --motivo "Kamehameha a una mano"
   python3 strumenti/dado.py --chi "Guardia Ignis" --mod 0 --motivo "difesa"
   python3 strumenti/dado.py --segreto --chi Babidi --motivo "trova il bozzolo"
+  python3 strumenti/dado.py --chi Akira --mod +1 --cd 8 --motivo "Persuasione: convinco Tights"
 """
 
 import argparse
@@ -34,11 +35,21 @@ def grado(naturale: int, totale: int) -> str:
     return "Successo Pieno"
 
 
+def esito_prova(naturale: int, totale: int, cd: int) -> str:
+    # Prove di abilita': il 10 naturale riesce sempre, l'1 naturale fallisce sempre.
+    if naturale == 10:
+        return f"CD {cd} → PROVA SUPERATA (successo critico)"
+    if naturale == 1:
+        return f"CD {cd} → PROVA FALLITA (fallimento critico)"
+    return f"CD {cd} → PROVA SUPERATA" if totale >= cd else f"CD {cd} → PROVA FALLITA"
+
+
 def main() -> None:
     p = argparse.ArgumentParser(description="Tira 1d10 (o piu') con modificatore.")
     p.add_argument("--chi", default="Akira", help="chi tira (default: Akira)")
     p.add_argument("--mod", type=int, default=0, help="modificatore al dado (es. -3, +2)")
     p.add_argument("--motivo", default="", help="azione o prova")
+    p.add_argument("--cd", type=int, default=None, help="classe di difficolta' per le prove di abilita'")
     p.add_argument("--n", type=int, default=1, help="numero di tiri separati")
     p.add_argument("--segreto", action="store_true", help="registra nel registro segreto del master")
     a = p.parse_args()
@@ -48,8 +59,8 @@ def main() -> None:
     for _ in range(max(1, a.n)):
         nat = secrets.randbelow(10) + 1
         tot = nat + a.mod
-        g = grado(nat, tot)
         segno = f"{a.mod:+d}" if a.mod else "+0"
+        g = esito_prova(nat, tot, a.cd) if a.cd is not None else grado(nat, tot)
         riga = f"🎲 {a.chi}: d10 = {nat} | mod {segno} → totale {tot} | {g}"
         if a.motivo:
             riga += f" | {a.motivo}"

@@ -26,6 +26,13 @@ Solo chi ha uno scouter o un dispositivo di rilevamento conosce il BP. Chi non �
 ## Regola 8 — I PNG non sono onniscienti
 **Una delle più importanti.** I PNG rispondono in base al loro carattere e a **ciò che sanno davvero**. Non suggeriscono soluzioni brillanti né piani elaborati che non potrebbero concepire. Niente "aspetta… non trovi che il reattore si comporta in modo strano?". Ogni PNG ha limiti, dubbi, errori, e a volte sbaglia del tutto.
 
+## Regola 9 — I PNG scelgono anche contro Akira (nessuna protezione di trama)
+**Molto importante.** I PNG prendono decisioni che possono andare **completamente contro** Akira e i suoi interessi, se è coerente con il loro carattere, la loro agenda e la situazione.
+- **Nessuno ha l'armatura di trama**: né gli affetti di Akira (Syntia, Zemi, Tights…), né i PNG canonici, né i PNG amati dal giocatore.
+- Se un PNG **deve morire**, muore. Se deve restare **ferito in modo irrimediabile** (mutilazioni, paralisi, cicatrici, poteri perduti), resta così. Se qualcuno deve essere **rapito**, viene rapito. Se un alleato deve **tradire, andarsene, mentire o rompere un patto**, lo fa.
+- Il master **non salva nessuno all'ultimo secondo** per comodità, non annacqua le conseguenze e non "aggiusta" dopo. Gli esiti nascono dai fronti, dalle agende dei PNG, dai dadi e dalle scelte (o non scelte) di Akira.
+- Vale la coerenza (Regola 2 e Regola 8): un PNG agisce contro Akira perché ne ha i motivi e i mezzi, non per creare dramma gratuito (vedi il divieto di "caos di comodo" in `regole/03-stile-toriyama.md`).
+
 ---
 
 # Preferenze del giocatore (risposte del 17/10/2026)
