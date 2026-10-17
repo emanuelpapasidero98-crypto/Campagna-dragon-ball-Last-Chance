@@ -36,7 +36,7 @@ Sistema **separato dal combattimento**, deciso dal giocatore il 17/10/2026.
   Poi **si ferma** e aspetta il tiro.
 
 ### Come si risolve
-- **d10 + modificatori ≥ CD → riesce.** Sotto la CD → non riesce.
+- **d10 + modificatori ≥ CD → riesce** (raggiungere la CD basta; confermato dal giocatore). Sotto la CD → non riesce.
 - **10 naturale**: riesce sempre, anche con CD 11-12, e ottiene qualcosa in più (un'informazione extra, un favore, un'impressione duratura).
 - **1 naturale**: fallisce sempre. Ha conseguenze negative **dove ha senso** (Regola 4): convincere qualcuno a pulire una stanza non crea un nemico eterno, un bluff fallito davanti a Zaraya sì.
 
@@ -63,8 +63,8 @@ La CD dipende da **cosa** si chiede e da **chi** lo si chiede: volontà, caratte
 
 ### Niente secondo tentativo
 - Se la prova fallisce, **Akira non può ritentare la stessa azione**: stesso obiettivo, stesso bersaglio, stesso approccio. Il PNG ha detto no, la serratura ha resistito, l'occasione è passata.
-- **[raccordo]** Un tentativo nuovo è possibile solo se la situazione cambia **davvero**: una prova nuova in mano, un fatto nuovo, giorni trascorsi, un rapporto cambiato, un'altra persona da convincere. Il master decide se il cambiamento basta. Cambiare solo tono o parole **non basta**.
-- **[raccordo]** Cambiare abilità sullo stesso bersaglio e obiettivo (es. da Persuasione a Intimidazione) è consentito solo se ha senso nella scena, con **−2**, perché il PNG ha già detto no e se lo ricorda.
+- **[confermato dal giocatore]** Un tentativo nuovo è possibile solo se la situazione cambia **davvero**: una prova nuova in mano, un fatto nuovo, giorni trascorsi, un rapporto cambiato, un'altra persona da convincere. Il master decide se il cambiamento basta. Cambiare solo tono o parole **non basta**.
+- **[confermato dal giocatore]** Cambiare abilità sullo stesso bersaglio e obiettivo (es. da Persuasione a Intimidazione) è consentito solo se ha senso nella scena, con **−2**, perché il PNG ha già detto no e se lo ricorda.
 - Ogni tentativo fallito e bloccato va annotato in `mondo/stato-attuale.md` → **Tentativi falliti**, così vale anche nelle chat successive.
 
 ### Tipi di prova (elenco indicativo)
