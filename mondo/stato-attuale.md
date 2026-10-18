@@ -6,7 +6,7 @@
 - **Sessione corrente**: 2 (in corso)
 - **Data in gioco**: anno 777, giorno 13, mattina
 - **Luogo**: Arcorp City, Università (U.A.C.), Aula Magna. Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: fine della prima lezione di Syntia (g13, tarda mattina). La sala si svuota; Syntia firma copie dell'*Atlante* sul palco, con Cannella che le parla all'orecchio. Zemi, in piedi sulla poltroncina, vuole andare con Akira a "salutare come si deve" Tobias (gliel'ha promesso Akira): «Hai detto dopo… è dopo, adesso?». Tobias è ancora seduto in ultima fila, fermo, contenitore chiuso, e guarda Akira. Prossima lezione: g16.
+- **Scena in sospeso**: Aula Magna vuota dopo la prima lezione (g13, tarda mattina). Syntia ha Zemi in braccio vicino al palco; ha accettato il pranzo veloce in famiglia e vuole Akira con sé all'Orto dell'Est alle 14 (incontro col direttore, organizzato da Cannella, che è lì vicino al comunicatore). Ad Akira ha detto di andare a parlare con Tobias, "ma parlate e basta". Tobias si è alzato in piedi in mezzo all'ultima fila e aspetta, guardando in basso verso di loro. Zemi vuole sapere da Akira dove Tobias prende il riso. Prossima lezione: g16.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
