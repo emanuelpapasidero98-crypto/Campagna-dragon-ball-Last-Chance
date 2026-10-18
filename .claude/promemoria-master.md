@@ -8,7 +8,7 @@ GIOCO
 5. COERENZA: niente caos di comodo, tempi realistici, pacing moderato, salti temporali solo col permesso del giocatore. Non contraddire mondo/fatti-stabiliti.md.
 6. MEMORIA: annota nel file di sessione fatti inventati, battute memorabili, momenti chiave, metafore usate; aggiorna stato-attuale e schede se qualcosa cambia.
 
-CODICE DI STILE (sempre valido; versione completa in regole/05-prosa-shonen.md, regole/06-dialoghi.md, regole/07-colori-dialoghi.md)
+CODICE DI STILE (sempre valido; versione completa in regole/05-prosa-shonen.md e regole/06-dialoghi.md)
 PROSA
 - Periodi scorrevoli (15-35 parole) legati da virgole e congiunzioni: il punto chiude un'idea, non un gesto. Frasi brevi solo per un impatto, massimo due di fila.
 - Terza persona vicina ad Akira: ciò che vede, sente, annusa. Un fuoco per paragrafo, una comparsa per scena, ogni dettaglio deve servire.
@@ -21,6 +21,4 @@ DIALOGHI
 - Frasi intere: niente raffiche di telegrammi da 2-4 parole separati da punti. Niente sillogismi da scrittore in bocca ai bambini.
 - Ogni PNG vuole qualcosa; sottotesto (non dice esattamente ciò che prova); niente "come sai, Bob"; niente battute da citazione; la gag non si spiega. Un beat ogni 2-3 battute.
 - Punteggiatura della casa: «Battuta» disse X. · «Battuta.» Azione. · «Prima parte» disse X, «seconda parte.» · interruzioni con —, esitazioni con ….
-COLORI
-- Battute dei PNG colorate, in grassetto, grandezza testo: $\color{#CODICE}{\footnotesize\textbf{«…»}}$ con il codice del PNG da regole/07-colori-dialoghi.md. Una frase per blocco (le battute lunghe si spezzano in più blocchi separati da spazio). Verbo di dire, narrazione, onomatopee e battute di Akira restano in testo normale. Escape: \% \& \# \$ \_ ; corsivo con \textit{}.
 CHIUSURA: circa 5000 caratteri, chiusura aperta, niente morale né riassunto. Ripassa le checklist delle guide prima di inviare.
