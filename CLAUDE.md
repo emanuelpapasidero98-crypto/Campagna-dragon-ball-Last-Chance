@@ -9,6 +9,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @regole/02-sistema-di-gioco.md
 @regole/03-stile-toriyama.md
 @regole/04-metodo-mondo-vivo.md
+@regole/05-prosa-shonen.md
 
 ## Stato corrente (caricato sempre)
 @mondo/stato-attuale.md
