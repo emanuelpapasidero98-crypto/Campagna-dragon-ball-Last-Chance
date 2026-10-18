@@ -19,6 +19,10 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s2 · g13] **Mercato coperto della zona est** di Arcorp: al banco quattordici, quello col tendone blu, Tobias compra il riso.
 - [s2 · g13] La mensa del governatorato ha un riso che "sa di colla" (Tobias).
 
+- [s3 · g13] Dalle finestre dell'Aula Magna si vedono due Arc-G2 fermi all'incrocio sul viale sotto l'università, con le linee luminose spente.
+- [s3 · g13] Una **tavola calda in fondo al viale** dell'università, consigliata da Cannella: a mezzogiorno e mezzo si riempie.
+- [s3 · g13] L'appuntamento all'Orto dell'Est è alle **14 meno dieci, all'ingresso delle cupole**; il direttore è "puntualissimo" (Cannella).
+
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
 - [s1 · g1] Pancotto: l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti"; Syntia pensa che abbia sbattuto contro il vetro della serra (c'era una piuma attaccata). Ala sinistra fasciata con uno strofinaccio a quadretti (quello buono). Vive in una cassetta di legno accanto alla stufa. Fa «Krooo». Al g11 apre l'ala a metà: sta guarendo. Viaggia in una scatola di cartone bucata.
@@ -46,6 +50,8 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g12] Il vestito di Zemi per le lezioni: giallo, con due tasche davanti per le matite colorate.
 - [s1 · g13] Syntia, alla prima lezione: capelli raccolti e una camicia verde nuova.
 - [s2 · g13] Le razioni delle Arche (771-772): barrette grigie con un numero stampato sopra; solo dal numero si capiva il gusto. Tutti su Terra Nova se le ricordano, e non con piacere.
+- [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia; quando scrive inclina lo schermo contro il ginocchio e muove le labbra mentre rilegge.
+- [s3 · g13] Syntia, dopo le firme, ha un pennarello blu in mano e una borsa con le copie dell'*Atlante* appoggiata a una gamba.
 
 ## Fauna e flora di Terra Nova
 *(aliene, non senzienti)*

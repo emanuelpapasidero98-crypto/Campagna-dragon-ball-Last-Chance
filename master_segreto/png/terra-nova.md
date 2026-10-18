@@ -11,6 +11,7 @@
 - **Sa**: anomalia (rapporto di Wanton), sorveglianza, tutto della tecnologia di Terra Nova. **Non sa**: cosa sia l'anomalia; nulla di Babidi o dei Kaioshin.
 - **Parametri**: Rispetto 5 · Amore 4 · Odio 2 · Spietatezza 3 · Lealtà 4
 - **Aggiornamento (s1, g13)**: ha trovato l'oggetto (F4) e ha visto i 4 secondi della sonda (cupola organica pulsante, figura bassa col mantello). Ha procurato l'attico ad Akira e famiglia. **Braccio Mk II completato (g8)**: in una capsula nel cassetto della scrivania del laboratorio privato. Più leggero; Kaioken −20% di costi; fusione Kaioken+SSJ di nuovo possibile. Non sa cosa farne. Al Consiglio ha detto lei stessa che Akira arrivava ad Arcorp e se n'è pentita. **Prossimo passo**: seduta d'emergenza del Consiglio, sera del g13. Spingerà, a modo suo, per "cercare Akira", senza ammettere perché.
+- **Aggiornamento (s3, g13 mezzogiorno)**: riceve il messaggio di Tobias («Akira mi ha chiesto cosa succede. Gli ho detto di chiederlo a te… Si è scusato per il 774»). Non risponde: scrive due risposte e le cancella. Sa che Akira la cercherà e che ha chiesto scusa; non farà il primo passo.
 
 ## G-1 Tobias (bio-androide)
 - **Aspetto**: capelli biondi fino alle spalle, fisico da combattente, occhi viola.
@@ -26,6 +27,7 @@
   - Autodistruzione (raggio di 2 km, +1000% danni)
 - **Aggiornamento (s1, g13)**: g4-g8 in orbita sulla vecchia Terra con la sonda; ha visto la sonda disintegrarsi e il video. Dal g10, per ordine del re, **sorveglia Akira di persona** ad Arcorp ("Non mi piace. Lo faccio."). All'Aula Magna in borghese, con il riso. Ha l'ordine di non intervenire salvo pericolo per i civili e di riferire.
 - **Aggiornamento (s2, g13 tarda mattina)**: scoperto e affrontato da Akira in ultima fila. Non si nasconde più. Ha ammesso la sorveglianza, ha accettato le scuse per Akyr (Odio 2 → 1), ma non ha rivelato niente della crisi e lo ha rimandato a Tights. Gli è sfuggito che vorrebbe "guardare da tutt'altra parte" (la vecchia Terra, la cupola del video). **Sa ora**: Akira ha detto di non voler fare del male a nessuno; Akira non usa i poteri da Kras; Akira e Tights non si parlano. **Prossimo passo**: seguire la famiglia (pranzo, Orto alle 14) a distanza, senza più fingere; stasera il rapporto per il re prima della seduta d'emergenza, con le parole di Akira e le sue scuse. Non scrive della propria frase sfuggita. Dentro di sé spera che il Consiglio decida di "cercare Akira": così smetterebbe di fare la balia.
+- **Aggiornamento (s3, g13 mezzogiorno)**: appena Akira ha finito, ha scritto apertamente a Tights dal comunicatore (Akira l'ha visto, non ha letto): gli ha detto di chiedere a lei, non gli ha detto niente, si è scusato per il 774. Alza tre dita verso Zemi (il riso va lavato tre volte). Resta seduto in ultima fila a guardare le cupole; poi seguirà la famiglia a distanza.
 
 ## Re Korinzo *(improvvisato dal master)*
 - **Età**: 58. **Aspetto**: basso e massiccio, barba grigia corta, mani da meccanico con una cicatrice da ustione sul dorso sinistro. Veste semplice, tranne nelle cerimonie.

@@ -112,3 +112,16 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa**: Akira chiede a Tobias cosa sta succedendo e gli chiede scusa per Akyr. Tobias non parla (prova fallita), ma le scuse lo colpiscono. Nel rapporto di stasera scriverà, parola per parola, che Akira dice di non voler distruggere né ferire nessuno, che gli ha chiesto scusa per il 774 e che ha fatto domande su saiyan e Consiglio. Non scrive della propria frase sfuggita ("guardare da tutt'altra parte").
 - **Conseguenze**: alla seduta, Ganascia userà le domande di Akira ("vuole sapere cosa sappiamo"); Tights userà le scuse e la calma. Il rapporto resta lievemente favorevole ad Akira.
 - **Come Akira può scoprirlo**: dall'esito della seduta; da Tights, se ci parla.
+
+---
+## Sessione 3
+
+### G13 tarda mattina (verso mezzogiorno) · Aula Magna, ultima fila → Capsule Corp, laboratorio di Tights
+- **Cosa**: appena Akira finisce di parlargli, Tobias manda un messaggio breve a Tights: «Akira mi ha chiesto cosa succede. Gli ho detto di chiederlo a te, non a me. Non gli ho detto niente. Si è scusato per il 774. Fai come ti pare.» (Tobias ama Tights come una madre: non vuole che l'altro la colga alla sprovvista. Lo fa apertamente, non si nasconde più.)
+- **Conseguenze**: Tights legge il messaggio durante la preparazione della seduta della sera. Non risponde. Scrive due volte una risposta e la cancella (orgoglio: non farà il primo passo). Da qui sa che Akira la cercherà, e che Akira ha chiesto scusa. Questo cambia come arriverà alla seduta: spingerà ancora di più per "cercare Akira", senza ammetterne il motivo.
+- **Chi lo sa**: Tobias, Tights.
+- **Come Akira può scoprirlo**: ha visto Tobias scrivere al comunicatore (non il contenuto). Se cerca Tights, lei sarà già stata avvisata, e lo lascerà capire con una battuta secca o con un'attesa troppo lunga prima di rispondere.
+
+### G13 mezzogiorno · Aula Magna / U.A.C.
+- **Cosa**: Cannella lascia l'Aula Magna di corsa (ha già avvisato il direttore dell'Orto che la "signora" arriva alle 14; non ha detto niente del marito) e passa sotto l'ultima fila senza alzare gli occhi. Intende arrivare con Syntia all'ingresso delle cupole alle 13:50.
+- **Chi lo sa**: Cannella, Syntia.
