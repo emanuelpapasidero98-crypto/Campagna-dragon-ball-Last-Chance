@@ -3,7 +3,7 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 1 conclusa. Prossima: 2
+- **Sessione corrente**: 2 (in corso)
 - **Data in gioco**: anno 777, giorno 13, mattina
 - **Luogo**: Arcorp City, Università (U.A.C.), Aula Magna. Alloggio: attico della Capsule nella zona est
 - **Scena in sospeso**: prima lezione di Syntia all'Aula Magna (mattina). Akira e Zemi in terza fila, con i posti vuoti ai lati. Il microfono ha appena fischiato. Syntia ha detto: «Buongiorno. Il primo animale che ho visto su Terra Nova mi ha morso. Quindi direi di cominciare da lui.» Zemi aveva appena bisbigliato, fortissimo: «Papà, il signore coi capelli lunghi mangia il riso. Qui si può mangiare il riso?» In ultima fila Tobias (in borghese, contenitore di riso) ha posato le bacchette e guarda Akira. La preside Cannella è vicino alla cattedra.
