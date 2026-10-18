@@ -128,7 +128,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Principe Zarcon
 **Voce**
-- «Madre, io… sì, madre, non succederà più.»
+- «Madre, io… va bene, madre, non succederà più.»
 - «In questo fumetto il cattivo perde perché parla troppo. Che stupido, no? …Però è anche un po' vero.»
 - «Non l'ho ucciso perché non serviva, anche se mia madre dice di sì… io non lo so.»
 
@@ -268,7 +268,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 ## Prof.ssa Cannella *(nuova, s1)*
 **Voce**
 - «Lei è il marito! Ma certo che è il marito, che domanda.» (s1, detta in gioco)
-- «Ha trovato posto? Ah, sì, vedo che l'ha trovato! La signorina ci vede bene da lì, o le porto un cuscino?» (s1, detta in gioco, riformulata)
+- «Ha trovato posto? Ah, ecco, vedo che l'ha trovato! La signorina ci vede bene da lì, o le porto un cuscino?» (s1, detta in gioco, riformulata)
 - «Tutto bene, eh, tutto benissimo! C'è anche un signore del governatorato, là in fondo, per la sicurezza, una cosa normalissima, si figuri.» (s1, detta in gioco, riformulata)
 
 **Non direbbe mai**: un insulto diretto; aspettare in silenzio la risposta a una domanda; dare del tu.
