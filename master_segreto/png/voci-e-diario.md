@@ -295,6 +295,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - «Tutto bene, eh, tutto benissimo! C'è anche un signore del governatorato, là in fondo, per la sicurezza, una cosa normalissima, si figuri.» (s1, detta in gioco, riformulata)
 
 **Non direbbe mai**: un insulto diretto; aspettare in silenzio la risposta a una domanda; dare del tu.
+**Attenzione al cartellino**: la parlantina è il suo modo, non il suo argomento. A s3 ha ripetuto «puntualissimi» due volte nella stessa scena: una volta basta.
 
 **Battute dette in gioco**
 - (s2) «Bene! Benissimo, grazie, bellissima domanda— cioè, no, bellissima proprio no, ma insomma.»
@@ -321,30 +322,33 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - Studente della U.A.C., seconda fila all'Aula Magna. Alla prima lezione si gira per sorridere a Zemi, vede Akira e si rigira. Alle domande chiede a Syntia dello scudo e del Consiglio, guardando Akira; lei lo zittisce («Magari io cosa?») e lui si siede rosso. Senza nome. Probabilmente tornerà alle lezioni.
 
 ## Direttore Mirtillo *(nuovo, s3)*
-**Voce**
-- «Due meno dieci in punto, e io che temevo il traffico dei viali, benvenuta, signora, benvenuti, sono Mirtillo.»
+**Voce** (il modo: frasi lunghe e ordinate, dà del lei, si scusa quando si corregge; quando è nervoso accumula precisazioni invece di dire la cosa)
 - «Scusi, scusi, l'abitudine… la sinistra, certo.»
-- «Qui sotto c'era il fondo del cratere, trentacinque metri, abbiamo riportato terra fino a questo piano.»
+- «Allora, le spiego come sono messe le cose, anche se non so da dove cominciare, perché ieri ne ho parlato con la caposquadra e non è andata come speravo.»
+- «Sono mortificato, davvero, ma preferirei che questa parte la vedessimo un'altra volta, se a lei sta bene.»
 
-**Non direbbe mai**: una battuta sarcastica; ometterebbe un'ora o un numero. Quando è agitato conta.
+**Non direbbe mai**: una battuta sarcastica; un ordine secco; spiegazioni brevi.
+**Attenzione al cartellino**: l'orologio e la puntualità sono **un** tratto suo, da mostrare una volta nella scena e basta (a s3 sono comparsi in quattro voci e cinque sguardi). Una cosa sua che non c'entra col ruolo: le scarpe nuove gli fanno male.
 
 **Battute dette in gioco**
-- (s3) «Per ora la chiamiamo N-34.»
+- (s3) «Scusi, scusi, l'abitudine… la sinistra, certo.»
+- (s3, cartellino: puntualità; non usare come modello) «Due meno dieci in punto, e io che temevo il traffico dei viali, benvenuta, signora, benvenuti, sono Mirtillo.»
 
 **Diario dei rapporti**
 - s3 · g13: riceve Syntia con puntualità assoluta e un po' di panico (sapeva che Lattuga non voleva Akira). Tende la destra ad Akira per riflesso e si corregge. Spera di evitare la piazza centrale; fallisce. Dopo l'esplosione conta i pannelli incrinati.
 
 ## Zia Lattuga *(nuova, s3)*
-**Voce**
+**Voce** (il modo: bassa e rauca, non alza mai la voce; attacca dritto le persone e i fatti, con frasi lunghe e lente che non cambiano tono nemmeno quando fanno male)
 - «Direttore, mi aveva detto che veniva solo la signora.»
-- «Mio marito aveva il banco della frutta in via dei Tigli.»
-- «Questo muro lo pulisco io alle sei, prima di aprire, e le rose le ho piantate io.»
+- «Con lei non ce l'ho, signora, ma lui qui non ce lo voglio.»
+- «Due giorni, e lei adesso viene qui a passeggio con la famiglia, come uno qualunque.»
 
-**Non direbbe mai**: urlare; usare metafore; insultare con parole volgari. Dice cose precise e le dice piano.
+**Non direbbe mai**: urlare; usare metafore o battute da cartolina; insultare con parole volgari; parlare del proprio lavoro quando accusa. Nei momenti forti parla della persona (il marito), dell'attesa e di chi accusa.
+**Attenzione al cartellino**: il suo mestiere sta nella narrazione (cazzuola, ginocchiere, rose), non in bocca a lei. Una cosa sua che non c'entra col ruolo: il ginocchio destro non le tiene più le scale, e non lo dice a nessuno.
 
 **Battute dette in gioco**
-- (s3) «La mattina che lei ha detto in televisione che la città sarebbe bruciata è andato ad aprire la serranda lo stesso, perché diceva che le pesche non aspettano.»
-- (s3) «Lei i nomi li dia pure alle sue piante, signora, che non ce l'ho con lei, ma quello lì in mezzo alle mie aiuole non lo voglio.»
+- (s3, cartellino: banco, serranda, pesche, aiuole, piante di Syntia; non usare come modello) «La mattina che lei ha detto in televisione che la città sarebbe bruciata è andato ad aprire la serranda lo stesso, perché diceva che le pesche non aspettano.»
+- (s3) «Direttore, mi aveva detto che veniva solo la signora.»
 
 **Diario dei rapporti**
 - s3 · g13: Odio 5 verso Akira. Lo accusa per la morte del marito nel 774. Dice alla madre della bambina che un giorno le racconteranno cos'ha fatto suo padre. Il ki di Zemi la spinge contro il muro dei nomi; resta a guardare la bambina a bocca aperta, la cazzuola a terra.

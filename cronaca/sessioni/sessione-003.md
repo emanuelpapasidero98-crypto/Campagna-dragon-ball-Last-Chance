@@ -55,3 +55,8 @@
 | Direttore Mirtillo | 0 |
 
 ## Errori segnalati dal giocatore
+- Dopo l'Orto il giocatore ha aggiornato le regole su `main` (principio 20 di `06-dialoghi.md` e §3-bis, `07-dialoghi-shonen.md` §2 reg. 4-5, `04-metodo-mondo-vivo.md` §7) citando come errori proprio la scena dell'Orto:
+  - **PNG-cartellino**: Lattuga parlava del banco della frutta, della serranda, delle pesche, del muro pulito alle sei, delle rose, delle «mie aiuole» e perfino delle «piante» di Syntia, invece di parlare del marito, dell'attesa e dell'accusa ad Akira; «le pesche non aspettano» è una battuta da cartolina. Mirtillo guardava l'orologio cinque volte.
+  - **Concetto ripetuto nella scena**: la puntualità detta da Syntia, dal narratore, da Mirtillo e da Cannella («puntualissimi» due volte).
+  - Il controllo automatico non vede il cartellino: va verificato a occhio (checklist `06-dialoghi.md` §5, punto 15).
+- Dalla prossima scena valgono le regole nuove: un solo rimando al mestiere per PNG per scena, nei momenti emotivi si parla della persona, ogni PNG improvvisato ha anche una cosa che non c'entra col ruolo.
