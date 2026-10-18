@@ -37,7 +37,7 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 1. Leggo cosa ha dichiarato Akira. Se serve un tiro (combattimento o **prova di abilità con CD**, vedi `regole/02-sistema-di-gioco.md` §1-bis), lo chiamo io: tipo di prova, CD e modificatori voce per voce. Poi mi fermo, **prima** di narrare l'esito. Controllo che l'azione non sia tra i **Tentativi falliti** in `mondo/stato-attuale.md`.
 2. Valuto quanto tempo passa. Se passano ore o più: avanzo i fronti e aggiorno il giornale fuori scena **nei file**, subito.
 3. Faccio reagire i PNG presenti secondo carattere, parametri, conoscenze e agenda.
-4. Narro (circa 5000 caratteri) in show, don't tell, chiudendo su una situazione aperta, con la prosa di `regole/05-prosa-shonen.md`. Prima di inviare, ripasso la **checklist** del §5 di quel file.
+4. Narro (circa 5000 caratteri) in show, don't tell, chiudendo su una situazione aperta, con la prosa di `regole/05-prosa-shonen.md`. Prima di inviare, ripasso la **checklist** del §5 di quel file e passo la bozza a `strumenti/controlla_dialoghi.py` (vedi `regole/07-dialoghi-shonen.md` §5): con anche un solo errore, riscrivo.
 5. Se è cambiato qualcosa di importante (ferite, HP/Ki, rapporti, luoghi, morti, oggetti), aggiorno i file: `mondo/stato-attuale.md`, la scheda di Akira, le schede dei PNG.
 6. Annoto nel file della sessione in corso, sezione "Appunti", ogni **dettaglio inventato**, ogni **battuta memorabile** e ogni **momento chiave** con un PNG. Aggiorno il **contatore delle metafore** se un PNG ne ha usata una. Prima di far parlare un PNG, controllo la sua sezione in `master_segreto/png/voci-e-diario.md`.
 

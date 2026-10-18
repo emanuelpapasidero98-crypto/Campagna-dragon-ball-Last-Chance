@@ -59,7 +59,7 @@ Esempio del testo bocciato:
   - ✅ «Davvero?» chiese. · «Basta!» urlò.
   - ❌ «Papà.» Bisbigliò.
 - **Battuta spezzata da un inciso**: la seconda parte riprende in minuscolo.
-  - ✅ «Due passi» ripeté Syntia, «alle due di notte.»
+  - ✅ «Sono le due di notte» disse Syntia, «e tu torni adesso?»
 - **Battuta + azione** (non è un verbo di dire): punto dentro, poi l'azione con la maiuscola.
   - ✅ «Sei dimagrito.» Posò la tazza sul tavolo.
 - **Interruzioni**: trattino lungo attaccato. ✅ «Io non volevo—» · «Zitto.»
@@ -77,7 +77,7 @@ Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**
 
 > La cena, a casa di Akira, aveva sempre lo stesso sottofondo: il crepitio della legna nella stufa, la pioggia che tamburellava sui vetri e Zemi che raccontava qualcosa con la bocca piena, agitando la forchetta per aria. Quella sera l'argomento era Pancotto, l'uccello dal becco a pala che dormiva nella sua cassetta accanto alla stufa e che, secondo lei, aveva imparato a parlare.
 >
-> «Ha detto ciao, giuro! Cioè, ha fatto tipo… *krooo-ao*. Ma era ciao!»
+> «Ha detto ciao, giuro! Ha fatto tipo… *krooo-ao*, che sarebbe ciao detto da un uccello!»
 >
 > Syntia non alzò gli occhi dal piatto, ma le spalle le tremavano per la risata trattenuta. «Ieri aveva detto "pappa", l'altro ieri "Zemi". Quell'uccello ha più parole di te, signorina, quindi mangia i broccoli prima che ti superi anche in matematica.»
 >
@@ -95,7 +95,7 @@ Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**
 
 *(Il giocatore ha scritto: Akira dice che è andato solo a fare due passi.)*
 
-> «Due passi.» Syntia lo ripeté piano, come per sentire che suono facevano quelle parole dette ad alta voce. Era in piedi accanto al lavello, con lo strofinaccio ancora in mano, e non aveva nessuna intenzione di posarlo. «Sono le due di notte, Akira. Mi sono svegliata, il letto era freddo e la finestra della camera era spalancata. Sai a cosa ho pensato? Lo sai, vero?»
+> Syntia era in piedi accanto al lavello, con lo strofinaccio ancora in mano, e non aveva nessuna intenzione di posarlo. «Sono le due di notte, Akira, mi sono svegliata col letto freddo e la finestra della camera spalancata… lo sai a cosa ho pensato, vero?»
 >
 > Non aspettò la risposta. Gettò lo strofinaccio sul piano di lavoro e si passò le mani sul viso, e quando le abbassò aveva gli occhi lucidi, ma la voce era ferma, perfino troppo.
 >
@@ -103,10 +103,10 @@ Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**
 >
 > Dalla cameretta arrivò un fruscio di lenzuola. Syntia si bloccò, trattenne il fiato e restò in ascolto finché la casa non tornò silenziosa; poi riprese a voce più bassa, ma senza ammorbidirsi di un millimetro.
 >
-> «Dimmi dove sei stato. Davvero, stavolta.»
+> «Dimmi dove sei stato, e stavolta dimmelo davvero.»
 
 **Come replicarlo**
-- Si parte dalla **battuta dichiarata dal giocatore**, ripresa dal PNG: è lei che reagisce, non il narratore che riassume.
+- Si parte dalla **reazione** alla battuta dichiarata dal giocatore, senza ripeterla: lei non raccoglie la scusa dei "due passi", va dritta a ciò che le brucia.
 - Il PNG arrabbiato fa **battute lunghe**, piene di fatti concreti (il letto freddo, la finestra aperta, le urla nel sonno), con domande retoriche ed esclamativi. Le **cose specifiche** fanno male: "sei sempre così" invece no, ed è anche un assoluto vietato.
 - Fra le battute metti **un gesto carico** (lo strofinaccio gettato, gli occhi lucidi ma la voce ferma). Uno, non cinque.
 - Un **dettaglio di contesto** (Zemi che si muove nel sonno) cambia il volume della scena senza fermarla.
@@ -182,14 +182,14 @@ Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**
 >
 > Rimase zitto per un po', a guardare la pioggia che riempiva le crepe della strada. Quando riprese a parlare, la voce gli si era abbassata.
 >
-> «C'era un bambino, laggiù, all'incrocio. Gli ho gridato di correre verso di me e lui è scappato dall'altra parte, perché aveva più paura di me che di quella cosa.» Strinse le labbra. «Non so se ce l'ha fatta. Non sono riuscito a vedere.»
+> «C'era un bambino, laggiù, all'incrocio. Gli ho gridato di correre verso di me e lui è scappato dall'altra parte, perché aveva più paura di me che di quella cosa.» Strinse le labbra. «Non so se ce l'ha fatta, non sono riuscito a vedere.»
 
 **Come replicarlo**
 - **Periodi lunghi e lenti** e dettagli sensoriali pesanti (fumo, odore, pioggia, cavi che sfrigolano): il ritmo rallenta e la scena pesa.
 - Il **PNG rompe le aspettative** in modo coerente: Tobias stava per essere brusco e invece ride, sfinito. Un androide che parla come una persona: ironia, offesa, senso di colpa, frasi normali.
 - Il dolore passa per **una storia piccola e concreta** (il bambino che scappa), non per dichiarazioni ("mi sento inutile"). Niente metafore.
 - **Silenzi descritti** ("Rimase zitto per un po', a guardare…") invece di battute di riempimento.
-- Si chiude sull'**incertezza** ("Non sono riuscito a vedere."), che lascia spazio ad Akira.
+- Si chiude sull'**incertezza** ("non sono riuscito a vedere"), che lascia spazio ad Akira.
 
 ### Esempio 6 — La scena bocciata, riscritta
 

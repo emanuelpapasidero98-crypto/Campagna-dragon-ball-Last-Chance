@@ -65,6 +65,15 @@ Tu tiri: **d10 + modificatori ≥ CD → riesci**, altrimenti no. Un 10 naturale
 
 **Esempio:** `/salva`
 
+### `/aggiorna-regole`
+**Cosa fa:** applica alla sessione in corso le regole nuove salvate su GitHub (`main`), **senza chiuderla**. Serve quando hai migliorato regole, stile o voci dei PNG in un'altra chat e vuoi usarle subito.
+- Prima salva la partita, così non perdi niente.
+- Scarica le regole aggiornate e le unisce alla partita. In caso di conflitti, regole e strumenti prendono la versione nuova, mentre la memoria della partita (stato, cronaca, PNG, fatti stabiliti) tiene quella della sessione.
+- Il master rilegge per intero tutte le regole e le voci dei PNG: da quel momento valgono solo le versioni nuove.
+- Ti conferma in una riga, ti elenca le novità principali e la scena resta ferma dov'era.
+
+**Esempio:** `/aggiorna-regole`
+
 ### `/fine-sessione`
 **Cosa fa:** chiude la sessione e **salva tutto su GitHub, sul ramo `main`**, senza chiederti conferma. La chat successiva non ricorderà nulla di questa, quindi `/fine-sessione` scrive nei file tutto ciò che serve per riprendere identici.
 - **Resoconto della sessione** in `cronaca/sessioni/`, più il riepilogo della campagna, il calendario, lo stato attuale (con la scena esatta in sospeso), la scheda di Akira e ciò che Akira sa.
