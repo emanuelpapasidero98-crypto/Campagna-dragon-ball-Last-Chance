@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 3 in corso
-- **Data in gioco**: anno 777, giorno 13, primo pomeriggio (circa le 14:10)
-- **Luogo**: Arcorp City, Orto Botanico dell'Est, piazza centrale (ai piedi del muro dei nomi). Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: cancello delle cupole dell'Orto dell'Est (circa le 14:40). Akira aspetta Syntia (nella stanza con Mirtillo e Cannella, ha detto «faccio presto»). Ha in braccio Zemi, che si è addormentata dopo il pianto e il picco di ki. Tobias è accanto al pilastro del cancello, con lo sguardo sul viale: ha accettato di scrivere subito a Tights che Akira l'aspetta **stasera all'una di notte all'attico, da sola con lui**, senza garantire che verrà; resterà fuori dalla porta dell'attico per ordine ma non entrerà. Gli Arc-G2 sono tornati all'incrocio (la coppia di sempre). Sul viale una donna con il carrello della spesa ha cambiato marciapiede. Akira non ha ancora detto a Zemi dove Tobias compra il riso. Prossima lezione: g16. Stasera il Consiglio è in seduta d'emergenza (Akira sa solo che Tights è in riunione fino a notte). Stasera, quando Zemi dorme: confronto con Syntia.
+- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:00)
+- **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
+- **Scena in sospeso**: attico, terrazza e soggiorno, circa le 21:00 del g13. Salto temporale dalle 14:45 (chiesto dal giocatore). Nel frattempo: Syntia è uscita dalle serre dopo 25 minuti e ha riferito l'esito (la lezione del g16 si fa; il direttore Mirtillo scrive la segnalazione come «anomalia di pressione» senza fare nomi; lei può tornare all'Orto a dare i nomi, ma Akira e Zemi per ora no, perché i giardinieri non entrano in serra finché ci sono loro). Sono tornati a piedi all'attico (4 isolati); Tobias li ha seguiti a 50 m e si è fermato sul marciapiede opposto. Zemi ha dormito fino alle 17; poi non ha più chiesto del riso, ha chiesto se il papà era ancora arrabbiato e si è messa a disegnare. Alle 19:30 il notiziario ha dato un comunicato del governatorato (anomalia di pressione all'Orto, nessun ferito, area chiusa); Syntia ha spento lo schermo quando è partito il servizio sulla seduta straordinaria del Consiglio (iniziata alle 19, «in corso»). Alle 21 Zemi dorme nella cameretta (Dino Dino, il disegno con due braccia appeso con due puntine nuove). Syntia è seduta al tavolino sulla terrazza con due tazze di caffè fatto con le lattine di Tights e gira la sua di un quarto di giro alla volta: aspetta che Akira le dica quello che ha da dirle. Sul pianerottolo qualcuno si è seduto contro la parete (Tobias, con il fruscio della giacca stretta sulle spalle). Dalla terrazza si vedono le cupole dell'Orto illuminate e il pannello incrinato della cupola grande. All'una di notte è atteso Tights (non è sicuro che venga). Akira non ha ancora detto a Zemi dove Tobias compra il riso.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -35,6 +35,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G13 15:00-21:00 (s3, salto): vedi scena in sospeso. Comunicato del governatorato su un'«anomalia di pressione» all'Orto. Seduta straordinaria del Consiglio in corso dalle 19.
 - G13 ~14:40 (s3): Akira, con Zemi addormentata in braccio, chiede a Tobias di dire a Tights che stasera all'una l'aspetta all'attico, da soli. Tobias accetta di scriverglielo, senza garantire nulla.
 - G13 ~14:30 (s3): Akira prende in braccio Zemi e chiede a Tobias di non dispiegare pattuglie. Tobias rimanda via i due Arc-G2, non ne chiama altri finché decide lui, ma il picco è nei sensori e non sa cosa scriverà. Tights stasera è in riunione fino a notte. Akira aspetta Syntia al cancello.
 - G13 ~14:20 (s3): Syntia rimanda il confronto a stasera e resta a parlare con Mirtillo e Cannella; Akira deve portare Zemi all'ingresso. Due Arc-G2 accorrono sopra l'Orto per il picco di ki; Tobias li ferma.

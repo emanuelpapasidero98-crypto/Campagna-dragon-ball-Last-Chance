@@ -26,6 +26,10 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s3 · g13] La **piazza centrale** dell'Orto dell'Est: cerchio di pietra chiara, aiuole di fiori gialli e bianchi, un **muro di granito scuro** con i nomi dei caduti del 774 in colonne fitte e rose gialle ai piedi. L'Orto sorge sul fondo del cratere (35 metri di terra riportata fino al piano delle serre). Cupola delle radici; cupola grande al centro.
 - [s3 · g13] La volta della cupola grande ha sei pannelli di vetro incrinati dall'esplosione di ki di Zemi (14:10).
 
+- [s3 · g13] Dall'Orto dell'Est al palazzo dell'attico ci sono quattro isolati a piedi.
+- [s3 · g13] Nell'attico: uno schermo sottile sulla parete della cucina (notiziari); un tavolino sulla terrazza; la cameretta di Zemi con un letto troppo grande; sotto il palazzo c'è un negozio dove Syntia ha comprato la cena. Il disegno di Zemi (il papà con due braccia) è appeso alla parete della cameretta con due puntine nuove. Dino Dino è con lei.
+- [s3 · g13] Dalla terrazza dell'attico, di notte, si vedono le cupole dell'Orto illuminate dall'interno e il pannello incrinato della cupola grande.
+
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
 - [s1 · g1] Pancotto: l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti"; Syntia pensa che abbia sbattuto contro il vetro della serra (c'era una piuma attaccata). Ala sinistra fasciata con uno strofinaccio a quadretti (quello buono). Vive in una cassetta di legno accanto alla stufa. Fa «Krooo». Al g11 apre l'ala a metà: sta guarendo. Viaggia in una scatola di cartone bucata.

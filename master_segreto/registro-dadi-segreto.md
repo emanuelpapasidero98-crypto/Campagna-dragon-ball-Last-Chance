@@ -31,3 +31,8 @@
 - `2026-10-18 19:26:47 UTC` 🎲 F2_Zarcon: d10 = 8 | mod +0 → totale 8 | Successo Pieno | Salto_s3_g13_pomeriggio:crepa_di_Zarcon
 - `2026-10-18 19:26:47 UTC` 🎲 F5_Zemi: d10 = 10 | mod -1 → totale 9 | SUCCESSO CRITICO | Salto_s3_g13_pomeriggio:ki_di_Zemi_(giornata_felice_ma_citta_nuova)
 - `2026-10-18 20:17:50 UTC` 🎲 Voce_dell_incidente_all_Orto: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g13 ~14:30: quanto si sparge in citta la notizia di Zemi (Lattuga, Cannella, Mirtillo, Tobias)
+- `2026-10-18 22:23:52 UTC` 🎲 F1_Babidi_contatto_Rapan: d10 = 4 | mod +1 → totale 5 | Successo Parziale | g13_sera:contatto_telepatico_con_Rapan_(rancore_di_Rapan_+1)
+- `2026-10-18 22:23:52 UTC` 🎲 F2_Tyros: d10 = 7 | mod +0 → totale 7 | Successo Pieno | g13_sera:fronda_dei_Senza_Cielo
+- `2026-10-18 22:23:52 UTC` 🎲 F2_Zarcon: d10 = 6 | mod +0 → totale 6 | Successo Parziale | g13_notte:crepa_di_Zarcon_(origlia_la_spedizione_g14)
+- `2026-10-18 22:23:52 UTC` 🎲 F4_Consiglio_esito_seduta: d10 = 2 | mod +0 → totale 2 | Fallimento | g13_sera:crisi_cannoni/scudo/cercare_Akira/capro_espiatorio
+- `2026-10-18 22:23:52 UTC` 🎲 Tobias_tono_del_rapporto: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g13_sera:rapporto_al_re_sull_Orto_(7+=inquadra_con_contesto_a_favore_di_Zemi)

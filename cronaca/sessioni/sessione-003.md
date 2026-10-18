@@ -15,6 +15,8 @@
 
 *Seguito (g13 ~14:40)*: al cancello Akira rassicura Zemi («tra poco tesoro… tu rilassati adesso») e le dice di riposare; lei si addormenta in braccio a lui. A Tobias dice che Tights il tempo per lui lo troverà, che non vuole che la cosa le arrivi solo tramite dati su un'interfaccia ma intende dirglielo di persona, che ha anche altro da dirle, e gli chiede di riferirle che stasera l'aspetta all'attico all'una di notte, solo lui e lei. Tobias accetta di scriverglielo subito, non garantisce che venga, e ricorda che lui resterà fuori dalla porta (ordine) ma non entrerà.
 
+*Seguito (g13 14:45 → 21:00, salto temporale chiesto dal giocatore)*: Akira, a Tobias: «va bene…». Syntia esce dalle serre dopo 25 minuti, riferisce l'esito (lezione del g16 confermata, segnalazione dei pannelli senza fare nomi, Akira e Zemi per ora esclusi dall'Orto). Rientro a piedi all'attico. Zemi dorme fino alle 17, poi disegna; non chiede più del riso ma se il papà è ancora arrabbiato. Cena, notiziario con il comunicato sull'«anomalia di pressione», seduta del Consiglio «in corso». Alle 21 Zemi dorme: Akira vuole parlare con Syntia, che lo aspetta sulla terrazza con il caffè. Tobias è sul pianerottolo.
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -48,6 +50,9 @@
 - [s3 · g13] **Appuntamento**: Akira ha fatto dire a Tights, tramite Tobias, di raggiungerlo **stasera all'una di notte all'attico** (solo lui e lei). Tobias sta fuori dalla porta dell'attico per ordine (sorveglianza), ma non entra.
 - [s3 · g13] Sul marciapiede opposto una donna con un carrello della spesa vede Akira con la bambina e cambia lato del viale.
 
+- [s3 · g13 sera] Comunicato del governatorato: «un'anomalia di pressione ha incrinato la volta della cupola grande dell'Orto dell'Est; nessun ferito; area chiusa al pubblico per le verifiche».
+- [s3 · g13 sera] Dalla terrazza si vede il pannello incrinato della cupola grande; Syntia ha preparato il caffè con le lattine di Tights.
+
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
 - Syntia: «Akira, se hai finito il giro di saluti scendi, che a mezzogiorno e mezzo la tavola calda in fondo al viale, quella che ci ha consigliato Cannella, si riempie, e io con questa qui in braccio la fila non la faccio.»
@@ -65,6 +70,8 @@
 - Cannella: «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
 - Zemi: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
 - Akira a Zemi: «No, piccola… non lo faccio più…» (con un sorriso) · Akira a Tobias: «Lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…» · «La porto all'attico che Tights ci ha dato per stare qui… dopo aver parlato con mia moglie spiegherò personalmente la situazione alla tua creatrice.» · «Ti chiedo solo di non dispiegare pattuglie… non so se è tuo compito deciderlo ma… la bambina è già spaventata di suo.»
+- Syntia: «La lezione fra tre giorni si fa, il direttore scrive la segnalazione dei pannelli come anomalia di pressione, senza fare nomi, e io all'Orto posso tornare a lavorare, ma tu e lei per ora no, perché i giardinieri hanno detto che finché ci siete voi non entrano in serra.»
+- Akira a Tobias: «Va bene…»
 - Zemi: «Ho sonno…»
 - Akira a Zemi: «Tra poco, tesoro… tu rilassati adesso.» · A Tobias: «Il tempo per me lo troverà sicuramente… non voglio che questa cosa passi solo tramite dati su un'interfaccia, voglio essere io a dirglielo di persona… inoltre ho necessità di parlarle anche di altro… perciò, digli che stasera la aspetto all'attico per l'1 di notte… saremo solo io e lei.»
 - Tobias: «Era ora che uno dei due si muovesse, comunque. Glielo scrivo adesso, così lo legge fra una discussione e l'altra, ma all'una di notte non ti garantisco che venga, perché è una che prima dice di no e poi si presenta lo stesso, e quanto ai dati sul picco, quelli li avrà letti comunque prima di te, questo è sicuro.» · «Quanto a soli, io fuori dalla porta ci sto lo stesso, perché l'ordine è quello e non lo decidiamo né tu né io, ma dentro non entro.»

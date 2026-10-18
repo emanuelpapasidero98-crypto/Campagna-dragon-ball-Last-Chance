@@ -11,7 +11,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
 | Recupero della sfera di Bu | `[■■■■]` 4/4 ✅ (G1 notte) | La sfera è a bordo. Inizia la raccolta di energia |
-| Primo contatto coi saiyan | `[■■□□]` 2/4 (g13 pomeriggio) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
+| Primo contatto coi saiyan | `[■■■□]` 3/4 (g13 sera) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
 | Esercito Majin | `[□□□□□□]` 0/6 | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
 | **Energia di Bu** | `[■□□□□□□□□□□□]` 1/12 | **Majin Bu si risveglia** |
 | Scoperta di Kras | `[□□□□□□□□]` 0/8 | Babidi localizza Varda e parte con la navicella (vedi F6) |
@@ -26,8 +26,8 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
 | Scoperta degli intrusi | `[■■□]` 2/3 | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
-| Fronda dei Senza Cielo (Tyros) | `[■■■■□□]` 4/6 | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
-| La crepa di Zarcon | `[■■■□□□]` 3/6 (g13 pomeriggio) | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
+| Fronda dei Senza Cielo (Tyros) | `[■■■■■□]` 5/6 (g13 sera) | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
+| La crepa di Zarcon | `[■■■■□□]` 4/6 (g13 notte) | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
 | Zaraya e Babidi | — | Ramo da decidere al contatto: Zaraya cerca di **usare** Babidi (i cannoni) e Babidi di **marchiarla**. Tiro contrapposto, con Zaraya a +2 per l'orgoglio |
 
 ## F3 — I Kaioshin: "La caccia"
@@ -116,3 +116,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G13 pomeriggio (s3) | F5 Ki di Zemi | 2 → 4 ✅ | Tiro 10 naturale (critico, +2 segmenti; mod −1 per giornata felice, ininfluente sul critico). Orto dell'Est: Zemi sente la caposquadra Lattuga dire che il giorno in cui le diranno cosa ha fatto suo padre si vedrà che faccia fa, e il ki esplode davanti ad Akira, Syntia, Cannella, Mirtillo e Lattuga. Onda di pressione, sei pannelli incrinati nella volta della cupola grande. Akira riconosce il ki del g6 |
 | G13 14:12 (s3) | F4 Sorveglianza di Akira | attiva (scatta) | Il picco di ki di Zemi all'Orto è registrato da sensori e pattuglie: due Arc-G2 accorrono, fermati da Tobias. Il Consiglio saprà entro poche ore (stasera) di un picco di ki con Akira sul posto |
 | G13 14:20 (s3) | Voce in città | tiro 5 | Tiro segreto 5 (parziale): la voce si sparge tra i giardinieri e il quartiere dell'Orto entro sera; non ancora a stampa e notiziari |
+| G13 sera (s3) | F1 Primo contatto | 2 → 3 | Tiro 4 (+1) = 5. Al calare del buio Babidi, con la sfera di cristallo, raggiunge Rapan con la voce nella testa: gli promette potere e vendetta su Tyros che lo ha punito. Contatto parziale: Rapan si spaventa, ma non dice di no. Nessun marchio ancora |
+| G13 sera (s3) | F2 Fronda dei Senza Cielo | 4 → 5 | Tiro 7. Vantaggio: Rapan, spaventato, racconta a Cipoll della voce e Cipoll a Tyros. Tyros vuole incontrare «la voce». Se Babidi lo contatta, Tyros si allea (F2 si riempie) |
+| G13 notte (s3) | F2 Crepa di Zarcon | 3 → 4 | Tiro 6. Zarcon decide di seguire di nascosto Ignis e Okura a nord al mattino del g14: prepara una razione e una moto-dinosauro |
+| G13 sera-notte (s3) | F4 Anomalia (Consiglio) | seduta | Tiro 2 (fallimento) → **capro espiatorio**. Dopo il rapporto brusco di Tobias (tiro 1, critico) e il picco di ki all'Orto, il Consiglio sposta il focus su Akira e sulla bambina: raccomandazione vincolante di non lasciare il quartiere est di Arcorp, sorveglianza rafforzata (due Arc-G2 al portone dall'una), Orto chiuso a lui e a Zemi, **valutazione del potenziale di Zemi al laboratorio della Capsule entro 3 giorni**. Nessuna decisione sul vero problema (cannoni e scudo rinviati: il re rimanda, Ganascia vuole i cannoni). Tights vota contro, in minoranza. Il tempo perso favorisce Babidi |

@@ -165,3 +165,23 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Conseguenze**: Tights sa dal messaggio di Tobias (e dai sensori) che il picco è di Zemi e non di Akira: la seduta ha un argomento in più a favore di Akira (non è lui a perdere il controllo) e uno contro (una bambina con un ki che incrina una cupola).
 - **Chi lo sa**: Tobias, Tights.
 - **Come Akira può scoprirlo**: se Tights viene all'una (o manda una risposta tramite Tobias, che sta fuori dalla porta); dalle prime parole di Tights.
+
+---
+## Salto g13 pomeriggio → 21:00 (sessione 3, richiesto dal giocatore)
+
+### G13 14:45-15:10 · Orto dell'Est
+- **Cosa**: Syntia esce dalla stanza dopo 25 minuti. Esito della trattativa: la seconda lezione (g16) si fa; Mirtillo compila la segnalazione dei pannelli come «anomalia di pressione» senza nominare nessuno; Syntia può tornare all'Orto a lavorare ai nomi, ma Akira e Zemi per ora no (i giardinieri di Lattuga hanno detto che finché ci sono loro non entrano in serra). Cannella ha supplicato di non parlarne al Consiglio.
+
+### G13 15:10-21:00 · Attico di Arcorp
+- **Cosa**: Akira, Syntia e Zemi tornano a piedi (4 isolati); Tobias li segue a 50 m e si ferma sul marciapiede opposto. Zemi dorme fino alle 17. Alle 19:30 il governatorato comunica ai notiziari «un'anomalia di pressione» all'Orto, nessun ferito, area chiusa. Syntia spegne lo schermo quando parte il servizio sulla seduta del Consiglio (iniziata alle 19). Alle 21 Zemi dorme; Syntia ha preparato il caffè per parlare con Akira. Tobias, tornato dal Consiglio, si siede sul pianerottolo.
+- **Chi lo sa**: la famiglia; il governatorato per il comunicato.
+
+### G13 19:00-20:20 · Capsule Corp, sala del Consiglio
+- **Cosa**: Tobias presenta di persona il suo rapporto. **Tiro 1 (critico)**: lo scrive in fretta e male, secco e senza contesto: «Soggetto: Zemi, 6 anni, figlia di Akira. Picco di ki superiore ai valori a riposo del padre. Nessun controllo osservato. Il padre dichiara di non essere a conoscenza delle capacità. Il padre ha richiesto di non dispiegare pattuglie.» Omette la provocazione di Lattuga e minimizza lo sgomento della bambina. Ganascia legge a voce alta «nessun controllo osservato» e «ha richiesto di non dispiegare pattuglie» come prova che Akira dà ordini. Tobias è tornato all'attico con il rimorso di averlo scritto così.
+- **Esito della seduta (tiro 2, capro espiatorio)**: vedi `fronti.md`. Fine seduta prevista intorno a mezzanotte e mezza. Tights ha votato contro (Amore 4, orgoglio): è furibonda con sé stessa e con Tobias. Verrà all'una all'attico, decisione già presa, con la notifica del Consiglio da comunicare di persona.
+- **Chi lo sa**: il Consiglio (re Korinzo, Tights, Ganascia e gli altri governatori), Tobias.
+- **Come Akira può scoprirlo**: Tights all'una; Tobias sul pianerottolo (si è pentito del rapporto); due Arc-G2 al portone dall'una.
+
+### G13 sera · Distese del Nord / Città dell'Ovest
+- **Babidi → Rapan**: al calare del buio, contatto telepatico (tiro 5): voce nella testa, promesse di potere e vendetta. Rapan si spaventa e non dice di no; il giorno dopo lo racconta a Cipoll, che lo riferisce a Tyros. **Tyros** vuole incontrare «la voce». **Zarcon**, nella torre, decide di seguire Ignis e Okura a nord all'alba del g14, di nascosto.
+- **Come Akira può scoprirlo**: per ora nessun modo.

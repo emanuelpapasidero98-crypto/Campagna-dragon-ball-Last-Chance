@@ -42,3 +42,5 @@
 | g13 (s3) | I sensori hanno già registrato il picco di ki dell'Orto e Tobias non può cancellarlo; non sa ancora cosa scriverà stasera. Tobias non chiamerà altre pattuglie finché decide lui sul posto | Tobias |
 | g13 (s3) | Tights stasera è in riunione fino a notte | Tobias |
 | g13 (s3) | Tobias scriverà subito a Tights l'invito di Akira (stasera all'una all'attico, solo loro due); non garantisce che lei venga. Resterà fuori dalla porta per ordine | Tobias |
+| g13 (s3) | La seconda lezione (g16) si fa. Mirtillo scrive la segnalazione come «anomalia di pressione» senza fare nomi. Akira e Zemi non possono entrare all'Orto per ora (i giardinieri non entrano in serra finché ci sono loro) | Syntia |
+| g13 sera (s3) | Alle 19:30 il governatorato ha comunicato ai notiziari un'«anomalia di pressione» all'Orto, nessun ferito, area chiusa. La seduta straordinaria del Consiglio è iniziata alle 19 ed è «in corso» | Notiziario |
