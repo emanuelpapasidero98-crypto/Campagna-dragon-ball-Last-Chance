@@ -18,7 +18,12 @@ Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Obiettivo del
 10. **Interruzioni e domande senza risposta.** Le persone si parlano sopra, non rispondono, cambiano argomento, rispondono a una domanda diversa da quella fatta.
 11. **Emozioni: niente cliché fisici.** Uno studio su oltre 50.000 racconti generati da IA (StoryScope) mostra che le IA mostrano quasi sempre le emozioni con sensazioni fisiche stereotipate (petto stretto, sudore freddo, stomaco chiuso) e spiegano troppo. **Varia**: a volte basta la battuta stessa, a volte un gesto preciso e originale, a volte nominare l'emozione in modo semplice ("Era spaventata, e si vedeva"). **Mai** lo stesso tic fisico due volte nella stessa sessione.
 12. **Beat con misura.** Un'azione tra le battute (beat) ogni due o tre battute, non a ogni battuta. "Disse" è invisibile e va benissimo: niente sinonimi pomposi ("sentenziò", "proferì").
-13. **La prova ad alta voce.** Prima di scrivere una battuta: *una persona con questo carattere, in questo momento, direbbe proprio queste parole, in quest'ordine?* Se suona come un libro, va riscritta.
+14. **Niente risposte a eco, punto per punto.** Quando Akira dice tre cose, il PNG **non** risponde a tutte e tre in ordine, ripetendole per confermarle ("Mangio, sì." … "Sono qui per te, sì." … "Glielo dico, stai tranquillo."). Così sembra uno sportello che evade una pratica. Le persone vere reagiscono **alla cosa che le ha colpite di più**, ne ignorano altre, rispondono con una domanda, cambiano discorso, attaccano, scherzano. Una battuta di risposta non comincia quasi mai ripetendo le parole dell'altro.
+15. **Il PNG non spiega le proprie battute.** Dopo aver detto una cosa, non aggiunge la spiegazione di quello che intendeva ("…Quindi scusa se stavolta preferisco scriverlo io", "Non te lo sto rinfacciando, te lo sto solo ricordando" usati in serie). Se la battuta è chiara, si ferma lì.
+16. **Il narratore non spiega i dialoghi.** Niente commenti che ripetono in chiaro ciò che la battuta o il gesto hanno già mostrato: "non c'era niente da scherzare, e glielo si leggeva in faccia", "e stavolta non per sbaglio", "la dolcezza di un attimo prima se n'era già andata", "e fu proprio da lì che cominciò". È la glossa del narratore: annuncia o riassume l'emozione invece di lasciarla al lettore. Si taglia.
+17. **Il "mezzo segreto" con il contagocce.** Il PNG che comincia a rivelare qualcosa e si ferma ("con quello che c'è da—" … "Lascia perdere, fai finta che non ho detto niente") è un aggancio tipico dei testi generati. Si usa **al massimo una volta per sessione**, e solo se il PNG ha davvero un motivo per lasciarselo sfuggire.
+18. **Le battute del giocatore non si riassumono in modo goffo.** Non si riportano le parole di Akira fuori dalle caporali dentro la narrazione ("A verrò all'Orto rispose con un cenno"). Si fa reagire il PNG direttamente, oppure si cita la battuta tra caporali.
+19. **La prova ad alta voce.** Prima di scrivere una battuta: *una persona con questo carattere, in questo momento, direbbe proprio queste parole, in quest'ordine?* Se suona come un libro, va riscritta.
 
 ---
 
@@ -94,4 +99,7 @@ Per far suonare vere le battute si usano i tratti del parlato, **uno o due per b
 7. La battuta è troppo arguta o "da citazione" per questa persona? La gag è spiegata?
 8. Emozioni: c'è un cliché fisico (petto stretto, stomaco chiuso, brivido)? È già stato usato in questa sessione?
 9. Il PNG suona come **sé stesso** (confronta con `voci-e-diario.md`) e diverso dagli altri PNG presenti?
-10. Prova ad alta voce: lo direbbe davvero così?
+10. Il PNG risponde punto per punto a tutto ciò che ha detto Akira, confermandolo ("…, sì")? → **Fallo reagire alla cosa che lo tocca di più** e lascia cadere il resto.
+11. Il PNG spiega la propria battuta, o il narratore la spiega dopo ("e glielo si leggeva in faccia", "e stavolta non per sbaglio")? → **Taglia la spiegazione.**
+12. C'è un "mezzo segreto" interrotto ("Lascia perdere…")? È già stato usato in questa sessione?
+13. Prova ad alta voce: lo direbbe davvero così?

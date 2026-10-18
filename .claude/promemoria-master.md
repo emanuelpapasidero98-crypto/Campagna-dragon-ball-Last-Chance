@@ -20,5 +20,6 @@ DIALOGHI
 - Parlato, non scritto: uno o due tratti del parlato per battuta (be', mica, cioè, dai, dislocazioni, autocorrezioni), scelti per il personaggio. Niente registro solenne ("per questo, e solo per questo").
 - Frasi intere: niente raffiche di telegrammi da 2-4 parole separati da punti. Niente sillogismi da scrittore in bocca ai bambini.
 - Ogni PNG vuole qualcosa; sottotesto (non dice esattamente ciò che prova); niente "come sai, Bob"; niente battute da citazione; la gag non si spiega. Un beat ogni 2-3 battute.
+- Niente risposte a eco punto per punto ("Mangio, sì… Sono qui per te, sì… Glielo dico"): il PNG reagisce alla cosa che lo colpisce di più e lascia cadere il resto. Il PNG non spiega le proprie battute e il narratore non le commenta ("e glielo si leggeva in faccia", "e stavolta non per sbaglio"). "Mezzo segreto" interrotto ("Lascia perdere…") al massimo una volta per sessione.
 - Punteggiatura della casa: «Battuta» disse X. · «Battuta.» Azione. · «Prima parte» disse X, «seconda parte.» · interruzioni con —, esitazioni con ….
 CHIUSURA: circa 5000 caratteri, chiusura aperta, niente morale né riassunto. Ripassa le checklist delle guide prima di inviare.
