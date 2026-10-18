@@ -68,22 +68,22 @@ Per far suonare vere le battute si usano i tratti del parlato, **uno o due per b
 ### Esempio A — Sottotesto in famiglia
 *(Il giocatore ha scritto: Akira chiede a Syntia se è nervosa per la lezione di domani.)*
 
-> Syntia non alzò gli occhi dalla tazza. «Nervosa? Macché.» Girò il cucchiaino due volte, poi una terza, anche se lo zucchero si era sciolto da un pezzo. «Ho solo riscritto l'inizio sei volte. E la Cannella mi ha detto che ci saranno anche i giornalisti, così, come se niente fosse, tra un biscotto e l'altro.»
+> Syntia non alzò gli occhi dalla tazza e girò il cucchiaino due volte, poi una terza, anche se lo zucchero si era sciolto da un pezzo. «Ho riscritto l'inizio sei volte, e stamattina la Cannella mi ha detto che ci saranno anche i giornalisti, così, tra un biscotto e l'altro, come se fosse una cosa da niente.»
 >
 > Si fermò e si guardò le mani.
 >
 > «Senti, tu domani… cioè, vieni lo stesso, vero? Anche se ci sono loro, con le telecamere e tutto il resto.»
 
-**Perché funziona**: nega di essere nervosa e poi lo dimostra con i fatti (sei riscritture, il cucchiaino). La paura vera (che i giornalisti vedano Akira, che lui si tiri indietro) non viene detta: esce come una domanda esitante. Segnali discorsivi dosati ("macché", "senti", "cioè"). Un solo beat forte.
+**Perché funziona**: non risponde alla domanda (niente "nervosa? macché", che sarebbe un'eco), ma lo dimostra con i fatti (sei riscritture, il cucchiaino). La paura vera (che i giornalisti vedano Akira, che lui si tiri indietro) non viene detta: esce come una domanda esitante. Segnali discorsivi dosati ("così", "senti", "cioè"). Un solo beat forte.
 
 ### Esempio B — Un PNG ostile che non fa il cattivo da cartone
 *(Akira entra in un negozio. Il negoziante lo riconosce.)*
 
 > Il negoziante smise di piegare la stoffa a metà, con le mani ancora sul bancone, e per un attimo non disse niente.
 >
-> «Stiamo chiudendo» disse poi, anche se mancavano due ore all'orario sul cartello. Guardò Zemi, e la voce gli si addolcì suo malgrado. «La bambina può prendere una caramella, se vuole. Sono lì, nel barattolo. Ma stiamo chiudendo.»
+> «Stiamo chiudendo» disse poi, anche se mancavano due ore all'orario sul cartello. Guardò Zemi, e la voce gli si addolcì suo malgrado. «La bambina può prendere una caramella, se vuole, sono lì nel barattolo… ma stiamo chiudendo.»
 
-**Perché funziona**: non insulta e non spiega perché ha paura; mente, male, e lo sanno tutti. La gentilezza verso la bambina rende il rifiuto più duro. Battute brevi ma intere, nessun telegramma.
+**Perché funziona**: non insulta e non spiega perché ha paura; mente, male, e lo sanno tutti. La gentilezza verso la bambina rende il rifiuto più duro. Battute intere, nessun telegramma.
 
 ### Esempio C — Una bambina che ragiona da bambina
 > «Papà, ma i saiyan hanno la coda come le scimmie o come i gatti?» Zemi non aspettò la risposta. «Perché se è come i gatti allora fanno le fusa, e se fanno le fusa non possono essere così cattivi… no?»
@@ -106,4 +106,6 @@ Per far suonare vere le battute si usano i tratti del parlato, **uno o due per b
 10. Il PNG risponde punto per punto a tutto ciò che ha detto Akira, confermandolo ("…, sì")? → **Fallo reagire alla cosa che lo tocca di più** e lascia cadere il resto.
 11. Il PNG spiega la propria battuta, o il narratore la spiega dopo ("e glielo si leggeva in faccia", "e stavolta non per sbaglio")? → **Taglia la spiegazione.**
 12. C'è un "mezzo segreto" interrotto ("Lascia perdere…")? È già stato usato in questa sessione?
-13. Prova ad alta voce: lo direbbe davvero così?
+13. Forma: battute brevi solo se cariche, mai due frasi brevi di fila chiuse dal punto, nessun concetto ripetuto (`regole/07-dialoghi-shonen.md` §2)?
+14. Il controllo `strumenti/controlla_dialoghi.py` dà zero errori?
+15. Prova ad alta voce: lo direbbe davvero così?

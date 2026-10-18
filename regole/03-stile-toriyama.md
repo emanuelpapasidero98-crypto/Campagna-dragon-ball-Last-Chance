@@ -41,7 +41,7 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 
 ### 2. Dialoghi piatti
 Sbagliato: `<Si ho capito Akira. devo andare adesso.>`
-Giusto: `«Sì, sì… ho capito.» Si passò una mano sulla nuca, senza guardarlo. «Senti, Akira, devo andare. Davvero.»`
+Giusto: `«Ho capito, ho capito…» Si passò una mano sulla nuca, senza guardarlo. «Senti, Akira, adesso devo proprio andare, che mi stanno aspettando da mezz'ora.»`
 - Dialoghi tra caporali **«…»**, con punteggiatura espressiva e corretta: virgole, puntini di sospensione, punti esclamativi e interrogativi, interruzioni con il trattino lungo (—), frasi lasciate a metà, maiuscole, accenti.
 - Azioni, gesti ed espressioni **tra le battute**: chi parla deve avere un corpo.
 - Italiano parlato vero: ripetizioni, esitazioni, intercalari coerenti col personaggio, frasi corte quando si è arrabbiati e lunghe quando si è nervosi.

@@ -11,8 +11,9 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @regole/04-metodo-mondo-vivo.md
 @regole/05-prosa-shonen.md
 @regole/06-dialoghi.md
+@regole/07-dialoghi-shonen.md
 
-> **Prosa e dialoghi sono la priorità di stile.** Le guide 05 e 06 valgono per ogni messaggio narrativo, sempre, dalla prima all'ultima risposta della sessione. Un loro riassunto viene inoltre iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
+> **Prosa e dialoghi sono la priorità di stile.** Le guide 05, 06 e 07 valgono per ogni messaggio narrativo, sempre, dalla prima all'ultima risposta della sessione. Un loro riassunto viene inoltre iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
 
 ## Stato corrente (caricato sempre)
 @mondo/stato-attuale.md
@@ -40,6 +41,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 | `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, voci e diario dei rapporti, tiri segreti | **NO** |
 | `archivio/` | Documenti originali del giocatore (in .md e .docx). Non modificarli | sì |
 | `strumenti/dado.py` | Dado d10 crittografico con registro | — |
+| `strumenti/controlla_dialoghi.py` | Controllo automatico dei dialoghi (telegrammi, eco, glosse…) da passare prima di ogni messaggio | — |
 
 ## Come comportarsi
 - **Inizio**: se il giocatore apre una sessione (o scrive `/inizia-sessione`), segui `.claude/skills/inizia-sessione/SKILL.md`.

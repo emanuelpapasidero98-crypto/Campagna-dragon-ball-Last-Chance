@@ -8,7 +8,7 @@ GIOCO
 5. COERENZA: niente caos di comodo, tempi realistici, pacing moderato, salti temporali solo col permesso del giocatore. Non contraddire mondo/fatti-stabiliti.md.
 6. MEMORIA: annota nel file di sessione fatti inventati, battute memorabili, momenti chiave, metafore usate; aggiorna stato-attuale e schede se qualcosa cambia.
 
-CODICE DI STILE (sempre valido; versione completa in regole/05-prosa-shonen.md e regole/06-dialoghi.md)
+CODICE DI STILE (sempre valido; versione completa in regole/05-prosa-shonen.md, regole/06-dialoghi.md e regole/07-dialoghi-shonen.md)
 PROSA
 - Periodi scorrevoli (15-35 parole) legati da virgole e congiunzioni: il punto chiude un'idea, non un gesto. Frasi brevi solo per un impatto, massimo due di fila.
 - Terza persona vicina ad Akira: ciò che vede, sente, annusa. Un fuoco per paragrafo, una comparsa per scena, ogni dettaglio deve servire.
@@ -21,5 +21,7 @@ DIALOGHI
 - Frasi intere: niente raffiche di telegrammi da 2-4 parole separati da punti. Niente sillogismi da scrittore in bocca ai bambini.
 - Ogni PNG vuole qualcosa; sottotesto (non dice esattamente ciò che prova); niente "come sai, Bob"; niente battute da citazione; la gag non si spiega. Un beat ogni 2-3 battute.
 - Niente risposte a eco punto per punto ("Mangio, sì… Sono qui per te, sì… Glielo dico"; "Fantastica, sì… L'ho visto, sì… Il pranzo sì, ci sto"): massimo UNA battuta per messaggio che comincia confermando le parole di Akira. Se Akira dice più cose, il PNG ne raccoglie una o due (quella che lo tocca), non le smaltisce in ordine. I complimenti si deviano. Niente narratore-grilletto ripetuto ("Al complimento…", "Alla parola X…") e niente glosse ("Non era una domanda.", "si capiva che…"). Il PNG non spiega le proprie battute e il narratore non le commenta ("e glielo si leggeva in faccia", "e stavolta non per sbaglio"). "Mezzo segreto" interrotto ("Lascia perdere…") al massimo una volta per sessione.
+- FORMA (regole/07-dialoghi-shonen.md): una battuta breve solo se è carica (! ? … —); in una battuta al massimo una frase sotto le 6 parole, MAI due frasi brevi di fila chiuse dal punto, al massimo tre punti fermi; il resto si lega con virgole e congiunzioni. Nessun concetto detto due volte nella stessa scena, né dallo stesso PNG né da un altro.
+- PRIMA DI INVIARE: passa la bozza a `python3 strumenti/controlla_dialoghi.py <<'EOF' … EOF`. Con anche un solo ❌, riscrivi e ricontrolla.
 - Punteggiatura della casa: «Battuta» disse X. · «Battuta.» Azione. · «Prima parte» disse X, «seconda parte.» · interruzioni con —, esitazioni con ….
 CHIUSURA: circa 5000 caratteri, chiusura aperta, niente morale né riassunto. Ripassa le checklist delle guide prima di inviare.

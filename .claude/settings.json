@@ -2,6 +2,7 @@
   "permissions": {
     "allow": [
       "Bash(python3 strumenti/dado.py:*)",
+      "Bash(python3 strumenti/controlla_dialoghi.py:*)",
       "Bash(git status:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",

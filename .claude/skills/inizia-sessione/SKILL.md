@@ -7,7 +7,7 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
 
 1. **Sincronizza**: `git pull` sul ramo corrente. Se esiste `origin/main` più aggiornato, portalo dentro con un merge.
 2. **Rileggi la memoria**, nell'ordine:
-   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (con i 6 esempi: la prosa della sessione deve suonare così), **`regole/06-dialoghi.md`** (principi, prima/dopo, checklist dei dialoghi) e `Comandi chat.md`;
+   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (con i 6 esempi: la prosa della sessione deve suonare così), **`regole/06-dialoghi.md`** (principi, prima/dopo, checklist dei dialoghi), **`regole/07-dialoghi-shonen.md`** (forma shonen, modelli, controllo automatico) e `Comandi chat.md`;
    - `mondo/stato-attuale.md`, `mondo/calendario.md`;
    - `cronaca/riepilogo-campagna.md` e l'ultimo file in `cronaca/sessioni/`;
    - `mondo/fatti-stabiliti.md`;
