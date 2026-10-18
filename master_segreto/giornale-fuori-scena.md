@@ -95,6 +95,11 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa**: Kibith è ferito; Shin, per la prima volta, chiede aiuto. Contatta Re Kaioh: chi è il guerriero più forte e affidabile? Re Kaioh: "Akira." Shin: "Il ragazzo di laboratorio che ha servito la regina saiyan?" Discutono. Re Kaioh decide di parlare con Akira "quando sarà solo, non davanti alla sua famiglia".
 - **Come Akira può scoprirlo**: Re Kaioh lo contatterà dalla sera del g13 in poi.
 
-### G13 sera · Arcorp City (programmato)
+### G13 mattina · Arcorp City, Aula Magna (sessione 2)
+- **Cosa**: durante la prima lezione di Syntia, Tobias riceve sul comunicatore un messaggio del Palazzo: «Rapporto su Akira entro le 17, prima della seduta di stasera. Se si muove, avvisa subito.» Legge, risponde con un tasto, e smette di fingere di ascoltare la lezione.
+- **Chi lo sa**: Tobias, il re.
+- **Come Akira può scoprirlo**: ha sentito il ronzio del comunicatore e ha visto lo sguardo di Tobias cambiare.
+
+### G13 sera · Arcorp City (programmato, ore 19)
 - **Seduta d'emergenza del Consiglio** (F4 6/6). Da risolvere in gioco: cannoni, scudo chiuso, cercare Akira, capro espiatorio.
 
