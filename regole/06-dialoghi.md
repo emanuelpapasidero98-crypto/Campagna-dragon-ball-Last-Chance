@@ -28,6 +28,15 @@ Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Obiettivo del
 17. **Il "mezzo segreto" con il contagocce.** Il PNG che comincia a rivelare qualcosa e si ferma ("con quello che c'è da—" … "Lascia perdere, fai finta che non ho detto niente") è un aggancio tipico dei testi generati. Si usa **al massimo una volta per sessione**, e solo se il PNG ha davvero un motivo per lasciarselo sfuggire.
 18. **Le battute del giocatore non si riassumono in modo goffo.** Non si riportano le parole di Akira fuori dalle caporali dentro la narrazione ("A verrò all'Orto rispose con un cenno"). Si fa reagire il PNG direttamente, oppure si cita la battuta tra caporali.
 19. **La prova ad alta voce.** Prima di scrivere una battuta: *una persona con questo carattere, in questo momento, direbbe proprio queste parole, in quest'ordine?* Se suona come un libro, va riscritta.
+20. **Il PNG non parla per cartellino.** Mestiere, passione, hobby o tic sono **un** fatto del personaggio, non la lente attraverso cui dice tutto. È un vizio tipico dei testi generati: si prende l'etichetta più evidente della scheda (la giardiniera, il direttore puntuale, l'androide col riso) e la si infila in ogni battuta perché "si capisca il personaggio". Il risultato è una macchietta (Regola 1) e, nei momenti forti, un discorso che gira intorno al lavoro invece che alla cosa che conta (vedi §3-bis).
+    - **Al massimo un rimando** al mestiere, alla passione o al tic **per scena**, e solo se la scena ne parla davvero. Syntia che dà il nome a una pianta all'Orto va benissimo, perché è lì per quello.
+    - **Nei momenti emotivi** (lutto, rabbia, paura, amore, accuse) si parla della **persona**, di **ciò che è successo** e di **ciò che si vuole dall'altro**. Una vedova parla del marito, dei giorni in cui l'ha aspettato, di chi accusa; non del banco della frutta, del muro che pulisce o delle sue aiuole.
+    - **La voce è il modo, non l'argomento**: ritmo, registro, intercalari, atteggiamento, ciò che il PNG evita di dire. Due PNG con lo stesso mestiere devono suonare diversi, e lo stesso PNG deve poter parlare di qualsiasi cosa restando riconoscibile.
+    - **Il mestiere si mostra nella narrazione**, una volta: un oggetto, un gesto, le ginocchiere sporche di terra, la cazzuola in mano. Non serve che lo ripeta anche lui.
+    - **I dettagli concreti delle battute** (`05-prosa-shonen.md` §2, regola 6) vengono dalla **situazione** e dal **rapporto** con chi ascolta, non dalla scheda del PNG.
+    - **Il PNG non etichetta gli altri per mestiere**: niente «lei dia pure i nomi alle sue piante, signora» se la scena parla d'altro.
+    - **Un tic vale una volta per scena**, e una seconda solo se porta qualcosa di nuovo. Il direttore che guarda l'orologio quando arriva è un tratto; che lo guardi mentre si avvicinano al muro dei nomi dice che è nervoso; che lo guardi cinque volte è una gag ripetuta.
+    - **Prova del cambio di mestiere**: immagina che il PNG faccia un altro lavoro. Se la battuta perde senso, o se togliendo il riferimento al lavoro non resta niente, il PNG sta parlando del suo cartellino e non della situazione: riscrivila.
 
 ---
 
@@ -60,6 +69,34 @@ Per far suonare vere le battute si usano i tratti del parlato, **uno o due per b
 | «Il Ciabattone pesa quattro chili, mangia muschio e funghi di tronco, e la pelle ha lo stesso odore del cuoio bagnato: per questo, e solo per questo, l'ho scambiato per una scarpa.» | **Contraddizione logica**: l'ha scambiato per una ciabatta *guardandolo*, non annusandolo. "Per questo, e solo per questo" è solenne e scritto. Elenco di dati da enciclopedia. | «Si chiama Ciabattone, pesa quattro chili e mangia muschio e funghi. E sì, da fermo è identico a una ciabatta: stessa forma, stesso colore… e vi assicuro che puzza pure come una ciabatta vecchia.» |
 | «Non morde per cattiveria. Morde perché, se lo raccogli, lui non sa che vuoi restituirlo.» | "Restituirlo" di nuovo, e a chi? Logica antropomorfa confusa. Suona come un aforisma. | «Non morde per cattiveria, eh. Per lui una mano che arriva dall'alto è un becco che lo vuole mangiare, quindi morde prima lui. Io, al posto suo, avrei fatto lo stesso.» |
 | «Papà.» Zemi abbassò la voce, ma di poco. «Il Ciabattone non si mangia perché morde. Il riso non morde. …Ci vai tu a chiedergli se ne ha un po'? Io non lo conosco.» | "Papà." isolato più tre frasi telegrafiche: un **sillogismo da scrittore** messo in bocca a una bambina. È l'effetto "frasi spezzate senza senso". | «Papà» bisbigliò Zemi, abbassando la voce, ma di poco, «il riso mica morde, no? Allora vai tu a chiederglielo, dai… che io quel signore non lo conosco.» |
+
+---
+
+## 3-bis. Analisi della sessione 3: il PNG-cartellino
+
+Prosa e punteggiatura erano buone; il problema era **di cosa** parlavano i PNG. La scena giocata resta quella: la riscrittura mostra solo dove spostare il peso, e i dettagli nuovi che contiene **non** sono fatti stabiliti.
+
+**Originale.** Zia Lattuga, giardiniera dell'Orto, davanti al muro con i nomi delle vittime del 774:
+
+> «Mio marito aveva il banco della frutta in via dei Tigli» disse, e indicò con la cazzuola la terza colonna del muro, in basso. «La mattina che lei ha detto in televisione che la città sarebbe bruciata è andato ad aprire la serranda lo stesso, perché diceva che le pesche non aspettano, e l'abbiamo tirato fuori dopo due giorni da sotto il suo palazzo. Questo muro lo pulisco io alle sei, prima di aprire, e le rose le ho piantate io.» Si girò verso Syntia, senza cambiare tono. «Lei i nomi li dia pure alle sue piante, signora, che non ce l'ho con lei, ma quello lì in mezzo alle mie aiuole non lo voglio, e alla bambina le conviene stare attenta, perché il giorno che le racconteranno cos'ha fatto suo padre voglio proprio sapere che faccia fa.»
+
+**Cosa non va**
+- In quattro frasi ci sono **sette rimandi ai mestieri**: il banco della frutta, la serranda, le pesche, il muro pulito alle sei, le rose piantate, le piante della signora, le "mie aiuole". Il marito diventa "quello della frutta", il lutto diventa una questione di territorio, e l'accusa ad Akira, che è il cuore della scena, arriva per ultima e quasi di passaggio.
+- «Le pesche non aspettano» è una **battuta da cartolina** (principio 8): suona bene, ma trasforma un morto in un aneddoto pittoresco.
+- Lattuga etichetta anche Syntia per mestiere («dia pure i nomi alle sue piante»).
+- Mancano le cose che una vedova direbbe davvero davanti all'uomo che accusa: chi era lui, l'attesa, cosa le brucia di più **adesso** (vederlo lì, a passeggio).
+
+**Riscrittura**
+
+> «Lo vede quel nome, terza colonna, in basso?» Indicò il muro con la cazzuola, senza staccare gli occhi da lui. «Era mio marito. La mattina che lei è comparso in televisione a dire che la città sarebbe bruciata, è uscito lo stesso ad aprire il banco, perché era un testone e a me non dava retta, e io sono rimasta due giorni seduta sulle macerie del palazzo ad aspettare che lo tirassero fuori… due giorni, e lei adesso viene qui a passeggio con la famiglia, come uno qualunque.»
+>
+> Poi si girò verso Syntia. «Con lei non ce l'ho, signora, ma lui qui non ce lo voglio, e alla bambina prima o poi qualcuno racconterà cos'ha fatto suo padre, e quel giorno la voglio proprio vedere, la faccia che fa.»
+
+**Perché funziona**: un solo rimando al lavoro («aprire il banco»), ed è un fatto necessario. Il marito ha un carattere («un testone»), l'attesa ha un peso («due giorni»), e la rabbia si aggancia al presente, cioè ad Akira che passeggia lì davanti. Il mestiere di lei è già nella narrazione (cazzuola, ginocchiere, rose ai piedi del muro) e non serve che lo dica.
+
+**Nella stessa scena**
+- **Il direttore Mirtillo e l'orologio**: lo controlla prima di salutare, dice «due meno dieci in punto», annota l'ora accanto al nome della pianta, rallenta guardandolo "più spesso del necessario". Una volta è un tratto, cinque sono una gag ripetuta. L'unico sguardo all'orologio che lavorava davvero era l'ultimo, perché mostrava che sperava di non trovare Lattuga al muro.
+- **La puntualità detta da quattro voci**: Syntia («non un minuto di più»), il narratore («alle due meno dieci in punto»), Mirtillo («due meno dieci in punto») e Cannella («Puntualissimi anche loro!»). È lo stesso concetto ripetuto nella stessa scena (`07-dialoghi-shonen.md` §2, regola 4).
 
 ---
 
@@ -108,4 +145,5 @@ Per far suonare vere le battute si usano i tratti del parlato, **uno o due per b
 12. C'è un "mezzo segreto" interrotto ("Lascia perdere…")? È già stato usato in questa sessione?
 13. Forma: battute brevi solo se cariche, mai due frasi brevi di fila chiuse dal punto, nessun concetto ripetuto (`regole/07-dialoghi-shonen.md` §2)?
 14. Il controllo `strumenti/controlla_dialoghi.py` dà zero errori?
-15. Prova ad alta voce: lo direbbe davvero così?
+15. **Cartellino**: il mestiere, la passione o il tic del PNG compaiono più di una volta nella scena? In un momento emotivo il PNG parla della persona e di ciò che è successo, o del suo lavoro? Prova del cambio di mestiere (§1, principio 20). Il controllo automatico questo non lo vede: va verificato a occhio.
+16. Prova ad alta voce: lo direbbe davvero così?

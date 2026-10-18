@@ -37,8 +37,9 @@ Gli shonen hanno anche un **tono diretto**: i personaggi dicono chiaramente cosa
 3. **Eco e ripresa comica non sono la stessa cosa.**
    - **Eco (vietata):** confermare le parole dell'altro prima di rispondere ("Mangio, sì", "L'ho visto, sì", "Il pranzo sì, ci sto").
    - **Ripresa comica (ammessa, con misura):** prendere le parole dell'altro per ribaltarle in una battuta. Zemi: «Il limone lo mangio, se ci mettete lo zucchero!» Syntia: «Tu mangeresti anche lo sgabello, se ci mettessimo lo zucchero!»
-4. **Nessun concetto due volte nella stessa scena.** Se un PNG ha già detto una cosa, non la ripete con altre parole, e nemmeno un altro PNG la ridice. Ogni battuta aggiunge un'informazione, un'emozione o una svolta nuova.
-5. **Controllo automatico prima di inviare.** Ogni messaggio con dialoghi passa da `strumenti/controlla_dialoghi.py` (vedi §5). Con anche un solo errore (❌), si riscrive.
+4. **Nessun concetto due volte nella stessa scena.** Se un PNG ha già detto una cosa, non la ripete con altre parole, e nemmeno un altro PNG la ridice. Ogni battuta aggiunge un'informazione, un'emozione o una svolta nuova. Vale anche per i temi della scena: se si arriva puntuali, non lo sottolineano in quattro (narratore, Syntia, il direttore e la preside).
+5. **Niente PNG-cartellino.** Il mestiere, la passione o il tic di un PNG compaiono al massimo una volta per scena, e nei momenti emotivi si parla della persona e di ciò che è successo, non del lavoro (`06-dialoghi.md`, principio 20 e §3-bis).
+6. **Controllo automatico prima di inviare.** Ogni messaggio con dialoghi passa da `strumenti/controlla_dialoghi.py` (vedi §5). Con anche un solo errore (❌), si riscrive.
 
 ---
 

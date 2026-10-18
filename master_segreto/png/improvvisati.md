@@ -2,6 +2,8 @@
 
 Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da tutti gli altri.
 
+Ogni PNG ha anche **una cosa che non c'entra col suo ruolo** (un affetto, una preoccupazione, un gusto, una seccatura). Il ruolo e il tic si vedono nell'aspetto e nei gesti; in bocca al PNG compaiono al massimo una volta per scena (`regole/06-dialoghi.md`, principio 20).
+
 ## Wanton *(wonton)*
 - **Ruolo**: tecnico del turno di notte, monitoraggio orbitale, Capsule Corporation.
 - **Età**: 26. **Aspetto**: allampanato, occhiali spessi, felpa sopra la divisa, tazza con un dinosauro disegnato.
