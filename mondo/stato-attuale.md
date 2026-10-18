@@ -6,7 +6,7 @@
 - **Sessione corrente**: 2 (in corso)
 - **Data in gioco**: anno 777, giorno 13, mattina
 - **Luogo**: Arcorp City, Università (U.A.C.), Aula Magna. Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: prima lezione di Syntia all'Aula Magna (mattina). Akira e Zemi in terza fila, con i posti vuoti ai lati. Il microfono ha appena fischiato. Syntia ha detto: «Buongiorno. Il primo animale che ho visto su Terra Nova mi ha morso. Quindi direi di cominciare da lui.» Zemi aveva appena bisbigliato, fortissimo: «Papà, il signore coi capelli lunghi mangia il riso. Qui si può mangiare il riso?» In ultima fila Tobias (in borghese, contenitore di riso) ha posato le bacchette e guarda Akira. La preside Cannella è vicino alla cattedra.
+- **Scena in sospeso**: fine della prima lezione di Syntia (g13, tarda mattina). La sala si svuota; Syntia firma copie dell'*Atlante* sul palco, con Cannella che le parla all'orecchio. Zemi, in piedi sulla poltroncina, vuole andare con Akira a "salutare come si deve" Tobias (gliel'ha promesso Akira): «Hai detto dopo… è dopo, adesso?». Tobias è ancora seduto in ultima fila, fermo, contenitore chiuso, e guarda Akira. Prossima lezione: g16.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65

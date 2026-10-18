@@ -12,12 +12,27 @@
 - [s2 · g13] Syntia ha alla base del pollice destro una mezzaluna di puntini bianchi: il morso della Morsicocca.
 - [s2 · g13] Quando ride davvero, Syntia arriccia il naso.
 - [s2 · g13] L'Aula Magna ha uno schermo alle spalle della cattedra, su cui Syntia proietta i suoi disegni a matita.
+- [s2 · g13] Akira chiama Zemi anche **"scimmietta"** (lei gonfia le guance, offesa).
+- [s2 · g13] Durante la lezione Syntia fa ascoltare una registrazione notturna dei Dindon fatta nella radura di casa, e fa schioccare una radice di patatrac tirata fuori da un vaso (*PAK!*). L'ultimo disegno sullo schermo è un ciuffo di ronfolina con le foglie a punta.
+- [s2 · g13] La prima lezione dura poco più di un'ora. **Seconda lezione: g16, stessa ora, stessa aula.** Cannella ha promesso pubblicamente di cambiare il microfono.
+- [s2 · g13] Comparsa: un ragazzo con gli occhiali, seconda fila, studente. Alla fine chiede a Syntia dello scudo e del Consiglio, guardando Akira. Syntia lo mette a tacere con calma («Magari io cosa?»).
+- [s2 · g13] Una decina di persone si fa firmare l'*Atlante* da Syntia; tutti girano al largo dalla terza fila.
 
 ### Battute memorabili dei PNG
+- Syntia: «Allungo la mano. E l'albicocca apre la bocca.»
+- Syntia: «E quelli che scendono dalla rampa dopo di me, che la bocca non l'hanno vista, cosa vedono? Una signora che litiga con un'albicocca!»
+- Zemi: «Allora vengo anch'io. Così, mentre voi vi salutate, io gli chiedo dove l'ha preso, quel riso.»
+- Syntia (al ragazzo che allude ad Akira): «Magari io cosa?» … «Se vuole, la prossima volta gliene porto un sacchetto, eh, che mi sembra uno che dorme poco.»
+- Cannella: «Bene! Benissimo, grazie, bellissima domanda— cioè, no, bellissima proprio no, ma insomma.» · «Altre domande? Sulle piante, eh. Sulle piante!»
+- Zemi: «Hai detto dopo… è dopo, adesso?»
 
 ### Momenti chiave nei rapporti
 - Syntia apre la lezione con la storia della Morsicocca e la sala ride: si scioglie. Poco dopo vede Tobias in ultima fila e si inceppa su una parola (lo conosce dagli anni alla Capsule Corp, non sa perché sia lì).
 - Zemi nota che Tobias non ride e non guarda la mamma, ma Akira, e glielo chiede: «Lo conosci?»
+- Akira ride con la sala e alza il pollice a Syntia: lei prende coraggio, esce da dietro il leggio e parla con la sua voce vera.
+- Akira a Zemi: «Papà ci ha parlato una volta… non preoccuparti, scimmietta, dopo vedrò di andarlo a salutare come si deve.» Zemi vuole andare con lui (per il riso).
+- Akira fissa Tobias, serio. Tobias regge lo sguardo senza battere le palpebre, poi riapre il contenitore e mangia, continuando a guardarlo. Non si nasconde.
+- Salto temporale (chiesto dal giocatore) fino alla fine della lezione. Syntia difende Akira dalla domanda allusiva dello studente. A fine lezione Tobias resta seduto in ultima fila, fermo.
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |

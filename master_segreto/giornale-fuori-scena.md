@@ -98,3 +98,12 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 ### G13 sera · Arcorp City (programmato)
 - **Seduta d'emergenza del Consiglio** (F4 6/6). Da risolvere in gioco: cannoni, scudo chiuso, cercare Akira, capro espiatorio.
 
+
+---
+## Sessione 2
+
+### G13 mattina · Arcorp City, Aula Magna della U.A.C.
+- **Cosa**: Tobias, scoperto da Akira e fissato apertamente, smette di fingere: riprende a mangiare guardandolo. Non ha ordini di contatto, solo di osservare e riferire. Resta seduto a fine lezione perché deve seguire Akira quando esce, e perché non ha nessuna voglia di scappare davanti a lui (orgoglio, il 774).
+- **Conseguenze**: nel rapporto per il re (prima della seduta della sera) scriverà che Akira lo ha riconosciuto, che non ha mostrato aggressività, aura né segni "allarmanti". Il rapporto pesa a favore di Akira, ma poco.
+- **Chi lo sa**: Tobias. Syntia l'ha visto (lo conosce dagli anni alla Capsule) e non sa perché sia lì; non dorme tranquilla.
+- **Come Akira può scoprirlo**: parlando con Tobias; dall'atteggiamento del Consiglio dopo la seduta.
