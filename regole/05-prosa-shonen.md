@@ -66,13 +66,13 @@ Esempio del testo bocciato:
 
 ## 4. Esempi di riferimento
 
-Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**. Sono illustrativi: non sono eventi accaduti nella campagna.
+Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**. Sono illustrativi: **non** sono eventi accaduti nella campagna e i loro dettagli **non** sono fatti stabiliti. In caso di differenze vale sempre `mondo/fatti-stabiliti.md`.
 
 ### Esempio 1 — Quotidiano in famiglia (calore e gag)
 
-> La cena, a casa di Akira, aveva sempre lo stesso sottofondo: il crepitio della legna nella stufa, la pioggia che tamburellava sul tetto di lamiera e Zemi che raccontava qualcosa con la bocca piena, agitando la forchetta per aria. Quella sera l'argomento era Pancotto, l'uccello dal becco a pala che dormiva in una cassetta accanto alla finestra e che, secondo lei, aveva imparato a parlare.
+> La cena, a casa di Akira, aveva sempre lo stesso sottofondo: il crepitio della legna nella stufa, la pioggia che tamburellava sui vetri e Zemi che raccontava qualcosa con la bocca piena, agitando la forchetta per aria. Quella sera l'argomento era Pancotto, l'uccello dal becco a pala che dormiva nella sua cassetta accanto alla stufa e che, secondo lei, aveva imparato a parlare.
 >
-> «Ha detto ciao, giuro! Cioè, ha fatto tipo… *crrrao*. Ma era ciao!»
+> «Ha detto ciao, giuro! Cioè, ha fatto tipo… *krooo-ao*. Ma era ciao!»
 >
 > Syntia non alzò gli occhi dal piatto, ma le spalle le tremavano per la risata trattenuta. «Ieri aveva detto "pappa", l'altro ieri "Zemi". Quell'uccello ha più parole di te, signorina, quindi mangia i broccoli prima che ti superi anche in matematica.»
 >
