@@ -31,6 +31,8 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s2, riformulata) «Se mio marito viene o no all'Orto lo decido io, mica il direttore.»
 - (s3) «Andrò benissimo se arriviamo in orario, e Cannella ha detto alle due meno dieci, quindi la tavola calda ce la facciamo bastare per mezz'ora, non un minuto di più.»
 - (s3) «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
+- (s3) «Sapevo cosa facevo, Akira, e se vuoi sentirmelo dire lo dico: ti ho mentito apposta.»
+- (s3) «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
@@ -46,6 +48,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - s3 · g13 14:12: a pranzo Akira le ha detto di aver chiesto scusa a Tobias per il passato, niente altro. All'Orto, dopo il ki di Zemi, Akira la guarda severo («adesso andiamo a casa…»): lei risponde piano, senza guardarlo, «Non qui, Akira, e non davanti a lei, che ha già abbastanza paura così», e si scusa col direttore. Sa che Akira ha capito che sapeva. Fiducia incrinata (il «sasso» del g6).
 - s3 · g13 14:20: Akira le dice che bisogna andare e che devono parlare. Lei: «Stasera, quando Zemi dorme, mi dici quello che hai da dirmi e io ti ascolto». Resta a parlare con Mirtillo e Cannella, gli affida Zemi: «portala giù e aspettami all'ingresso». Non ha ancora detto ad Akira niente sul perché del silenzio; lo farà stasera.
 - s3 · g13 14:30: Akira le ha risposto di sì («non preoccuparti») e ha preso in braccio Zemi; lei è rimasta nella stanza con Mirtillo e Cannella.
+- s3 · g13 21:05: sulla terrazza, dopo cena, Akira le chiede di spalle da quanto sa e le dice che le ha mentito volontariamente sul «sasso». Lei ammette tutto con i fatti (la lampada della scuola più di un anno fa, i quattro mesi fa con Zemi staccata dal letto, il «segreto nostro» chiesto a Zemi, la paura di come l'avrebbe presa lui e di come lo avrebbe trattato il governo). Si prende la colpa; gli chiede di girarsi. Il confronto è aperto.
 
 ## Zemi
 **Voce**

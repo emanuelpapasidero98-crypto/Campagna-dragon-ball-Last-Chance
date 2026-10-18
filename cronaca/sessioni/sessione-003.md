@@ -17,6 +17,8 @@
 
 *Seguito (g13 14:45 → 21:00, salto temporale chiesto dal giocatore)*: Akira, a Tobias: «va bene…». Syntia esce dalle serre dopo 25 minuti, riferisce l'esito (lezione del g16 confermata, segnalazione dei pannelli senza fare nomi, Akira e Zemi per ora esclusi dall'Orto). Rientro a piedi all'attico. Zemi dorme fino alle 17, poi disegna; non chiede più del riso ma se il papà è ancora arrabbiato. Cena, notiziario con il comunicato sull'«anomalia di pressione», seduta del Consiglio «in corso». Alle 21 Zemi dorme: Akira vuole parlare con Syntia, che lo aspetta sulla terrazza con il caffè. Tobias è sul pianerottolo.
 
+*Seguito (g13 ~21:05, confronto con Syntia)*: Akira, in piedi sulla terrazza, senza guardarla, le chiede da quanto sa che la figlia ha il ki e le dice che gli ha mentito sulla vetrina del g6 (il «sasso»), senza che lui chiedesse nulla: aveva intuito che lui avesse percepito qualcosa e gli ha mentito volontariamente. Gli è appena chiaro che l'intera cupola, non solo qualche vetro, è stata incrinata. Syntia risponde con i fatti: la lampada della scuola (ufficialmente un cortocircuito) più di un anno fa, la notte in cui ha trovato Zemi staccata dal letto di una spanna (circa quattro mesi fa), il «sasso» detto apposta prima che lui chiedesse, il «segreto nostro» chiesto a Zemi, e le sue paure (Akira che la guardi come una cosa da tenere a bada, il governo). Gli chiede di girarsi.
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -53,6 +55,11 @@
 - [s3 · g13 sera] Comunicato del governatorato: «un'anomalia di pressione ha incrinato la volta della cupola grande dell'Orto dell'Est; nessun ferito; area chiusa al pubblico per le verifiche».
 - [s3 · g13 sera] Dalla terrazza si vede il pannello incrinato della cupola grande; Syntia ha preparato il caffè con le lattine di Tights.
 
+- [s3 · g13 sera] Syntia sa del ki di Zemi **da più di un anno**: la lampada della scuola, che la maestra ha chiamato **cortocircuito**, è esplosa perché due bambini le stavano dicendo cos'era suo padre; Syntia era nel corridoio e ha visto la mano della bambina accesa un attimo prima che il vetro andasse in pezzi.
+- [s3 · g13 sera] Circa **quattro mesi fa** Syntia ha trovato Zemi che dormiva staccata dal letto di una spanna.
+- [s3 · g13 sera] Syntia ha chiesto **lei** a Zemi di tenere il ki segreto («una cosa nostra»); si prende la colpa di tutto ciò che Zemi non dice.
+- [s3 · g13 sera] Il «sasso» del g6 l'ha detto Syntia **prima** che Akira chiedesse niente: lo aveva visto fermo alla finestra a guardare verso la città e aveva capito che aveva sentito qualcosa. Lo ammette: «ti ho mentito apposta».
+
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
 - Syntia: «Akira, se hai finito il giro di saluti scendi, che a mezzogiorno e mezzo la tavola calda in fondo al viale, quella che ci ha consigliato Cannella, si riempie, e io con questa qui in braccio la fila non la faccio.»
@@ -70,6 +77,10 @@
 - Cannella: «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
 - Zemi: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
 - Akira a Zemi: «No, piccola… non lo faccio più…» (con un sorriso) · Akira a Tobias: «Lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…» · «La porto all'attico che Tights ci ha dato per stare qui… dopo aver parlato con mia moglie spiegherò personalmente la situazione alla tua creatrice.» · «Ti chiedo solo di non dispiegare pattuglie… non so se è tuo compito deciderlo ma… la bambina è già spaventata di suo.»
+- Akira a Syntia (sulla terrazza, di spalle): «Da quanto lo sai…» · «Da quanto sai che nostra figlia possiede la capacità di usare il ki…» · «Mi hai mentito quel giorno, quando tu, senza che ti chiedessi nulla, mi hai detto che quel vetro vicino a Zemi si era rotto a causa di un sasso…» · «Avevi intuito che avessi percepito qualcosa… e mi hai mentito volontariamente.»
+- Syntia: «Da più di un anno. La lampada della scuola, quella che la maestra ha chiamato cortocircuito, è esplosa perché due bambini le stavano dicendo cos'era suo padre, e io ero nel corridoio e le ho visto la mano accesa un attimo prima che il vetro andasse in pezzi. Poi una notte, saranno quattro mesi, sono andata a controllare se aveva scoperto le gambe e l'ho trovata staccata dal letto di una spanna, che dormiva.»
+- Syntia: «Sapevo cosa facevo, Akira, e se vuoi sentirmelo dire lo dico: ti ho mentito apposta. A lei ho chiesto io di tenerlo segreto, che fosse una cosa nostra, quindi se ti guarda strano o se non ti racconta una cosa, la colpa è mia.»
+- Syntia: «Avevo paura di come l'avresti presa, tu che da tre anni ti tieni tutto dentro e che alla prima notizia di guai ti chiudi, perché se avessi saputo che tua figlia ha il ki avresti ricominciato a guardarla come guardi te stesso, come una cosa da tenere a bada. E avevo paura del governo, che appena lo viene a sapere comincia a trattare lei come tratta te.» · «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola.»
 - Syntia: «La lezione fra tre giorni si fa, il direttore scrive la segnalazione dei pannelli come anomalia di pressione, senza fare nomi, e io all'Orto posso tornare a lavorare, ma tu e lei per ora no, perché i giardinieri hanno detto che finché ci siete voi non entrano in serra.»
 - Akira a Tobias: «Va bene…»
 - Zemi: «Ho sonno…»

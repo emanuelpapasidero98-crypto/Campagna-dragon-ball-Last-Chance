@@ -51,6 +51,8 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s3 · g13] La tavola calda in fondo al viale: tavoli di formica verde, cuoca che urla gli ordini. Il riso in bianco è «colloso» (Zemi).
 - [s3 · g13] Zemi, quando il ki esplode, ha i capelli neri sollevati tutti insieme; la tecnica per calmarla (usata con la lampada): «dentro per tre, fuori per tre».
 
+- [s3 · g13 sera] La lampada della scuola di Zemi, più di un anno fa: la maestra ha parlato di un cortocircuito. In realtà è esplosa perché Zemi, mentre due bambini le dicevano cos'era suo padre, ha acceso il ki; Syntia (nel corridoio) ha visto la sua mano accesa. Circa quattro mesi fa, una notte, Syntia ha trovato Zemi che dormiva staccata dal letto di una spanna. Syntia le ha detto che era «una cosa nostra».
+
 ## Oggetti
 - [pre-campagna] Il braccio Arc-G è nero opaco con venature rosse fluorescenti. Akira l'ha restituito a Tights.
 - [s1 · g1] Sotto la scodella di Akira c'è un anello di gomma rossa che Syntia ha incollato tre anni fa, perché non scivoli quando lui mangia con una mano sola. Non ne hanno mai parlato.
