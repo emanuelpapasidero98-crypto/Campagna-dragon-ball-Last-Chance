@@ -6,7 +6,7 @@
 - **Sessione corrente**: 2 (in corso)
 - **Data in gioco**: anno 777, giorno 13, mattina
 - **Luogo**: Arcorp City, Università (U.A.C.), Aula Magna. Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: Aula Magna vuota dopo la prima lezione (g13, tarda mattina). Syntia ha Zemi in braccio vicino al palco; ha accettato il pranzo veloce in famiglia e vuole Akira con sé all'Orto dell'Est alle 14 (incontro col direttore, organizzato da Cannella, che è lì vicino al comunicatore). Ad Akira ha detto di andare a parlare con Tobias, "ma parlate e basta". Tobias si è alzato in piedi in mezzo all'ultima fila e aspetta, guardando in basso verso di loro. Zemi vuole sapere da Akira dove Tobias prende il riso. Prossima lezione: g16.
+- **Scena in sospeso**: Aula Magna vuota (g13, tarda mattina). Akira è salito in ultima fila a parlare con Tobias. Tobias ha ammesso di sorvegliarlo, si è offeso per "bio-androide", stasera scriverà il rapporto; ha ricordato il messaggio del 774 mandato col suo drone e Zemi piccola alla Capsule. Poi si è lasciato sfuggire che "starebbe a guardare da tutt'altra parte… con quello che c'è da—", si è fermato e guarda il cielo sopra le cupole dell'Orto: «Lascia perdere. Fai finta che non ho detto niente.» Giù, Syntia con Zemi in braccio aspetta; dopo: pranzo veloce in famiglia e alle 14 Orto dell'Est (Akira ha detto che viene). Zemi vuole sapere dove Tobias prende il riso. Prossima lezione: g16.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65

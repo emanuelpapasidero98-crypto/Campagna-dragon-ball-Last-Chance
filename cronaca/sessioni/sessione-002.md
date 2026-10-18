@@ -21,6 +21,9 @@
 - [s2 · g13] Negli anni alla Capsule Corp (772-774) Tobias cucinava il riso per tutto il piano dei tecnici; Zemi, piccolissima, lo mangiava e chiedeva il bis (lo dice Syntia; Zemi non se lo ricorda).
 - [s2 · g13] Durante le firme Syntia ha chiesto a Cannella perché Tobias fosse lì: Cannella ha cambiato discorso due volte.
 - [s2 · g13] **Alle 14 del g13** Cannella porta Syntia all'Orto Botanico dell'Est a conoscere il direttore. Al comunicatore Cannella dice: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto.» Syntia ha deciso che Akira viene anche lui.
+- [s2 · g13] Tobias mangia e dorme ("quando mi lasciano"). Si cucina il riso da solo perché quello della mensa del governatorato "sa di colla"; ne fa troppo e lo finisce perché buttarlo gli dà fastidio.
+- [s2 · g13] A Capsule Corp Zemi (circa due anni) tirava i capelli a Tobias finché lui non le dava la crosta del riso rimasta in fondo alla pentola; strillava «osta! osta!».
+- [s2 · g13] Tobias stasera scriverà un rapporto su Akira ("parola per parola").
 
 ### Battute memorabili dei PNG
 - Syntia: «Allungo la mano. E l'albicocca apre la bocca.»
@@ -31,6 +34,11 @@
 - Zemi: «Hai detto dopo… è dopo, adesso?»
 - Zemi: «Va bene. Però glielo chiedi tu, dove l'ha preso. E poi me lo racconti giusto, eh, senza inventare niente.» · «Quella signora vale due, ha due libri.»
 - Syntia: «Vai, parlaci. Però parlate, eh, e basta. Oggi è andata bene, e voglio che resti così almeno fino a stasera.»
+- Tobias: «Mangio, sì. E dormo, quando mi lasciano, e la mattina ho fame come te.»
+- Tobias: «Per il resto, sì, sono qui per te. Non mi va di fare finta del contrario, e poi con questa roba addosso non ci crederebbe nemmeno la Cannella, che sono uno studente.»
+- Tobias: «Solo che l'ultima cosa tua che è arrivata al governo l'hai mandata col mio drone, mentre io stavo per terra e non riuscivo nemmeno ad alzare la testa. […] Quindi scusa se stavolta preferisco scriverlo io.»
+- Tobias: «È diventata grande.» (su Zemi)
+- Tobias: «Se fosse per me, adesso starei a guardare da tutt'altra parte, mica qui a fare la guardia a uno che va alle lezioni di botanica con la figlia, che con quello che c'è da—» · «Lascia perdere. Fai finta che non ho detto niente.»
 - Syntia: «E all'Orto vieni anche tu. L'ho sentita, prima. Se mio marito viene o no lo decido io, mica il direttore.»
 
 ### Momenti chiave nei rapporti
@@ -43,6 +51,11 @@
 - Akira prende in braccio Zemi, le dice che non può venire da Tobias, la bacia sulla fronte e aspetta che Syntia finisca le firme. Zemi accetta, ma gli affida la domanda sul riso ("senza inventare").
 - Akira fa i complimenti a Syntia e le dice che vuole parlare con Tobias; propone di pranzare insieme dopo. Syntia: sì al pranzo (veloce, alle 14 c'è l'Orto), sì a Tobias ma "parlate e basta"; vuole Akira con sé all'Orto, contro l'imbarazzo di Cannella. Prende Zemi in braccio.
 - Tobias si alza in piedi in ultima fila e aspetta, guardando verso di loro.
+- Akira: a Syntia «non litigherò con nessuno», «verrò all'Orto»; bacia lei e Zemi e sale da Tobias.
+- Akira a Tobias: «immagino tu sia qui per controllare che non impazzisca», «non credevo che un… bio-androide, giusto? mangiasse», e, freddo: «puoi dire a chiunque ti abbia mandato che non ho intenzione di distruggere nulla o far del male a nessuno.»
+- Tobias si offende per "bio-androide" e ribatte che mangia e dorme come lui. Ammette di essere lì per sorvegliarlo. Accetta di riferire, ma gli ricorda il messaggio di morte del 774 mandato col suo drone mentre lui era a terra: "stavolta preferisco scriverlo io".
+- Zemi saluta Tobias dal basso; lui risponde rigido e ricorda Zemi piccola alla Capsule (la crosta del riso). Akira in quegli anni non c'era.
+- Tobias si lascia sfuggire che "starebbe a guardare da tutt'altra parte" invece di sorvegliare Akira, "con quello che c'è da—", e si ferma guardando il cielo sopra l'Orto. Indizio sulla crisi.
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |
