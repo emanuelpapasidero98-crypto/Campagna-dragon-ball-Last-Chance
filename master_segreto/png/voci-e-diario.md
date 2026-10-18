@@ -10,6 +10,8 @@ Per ogni PNG:
 
 Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute. **Niente telegrammi**: le frasi si legano con virgole e congiunzioni, le battute brevi sono solo quelle cariche (!, ?, …, —), vedi `regole/07-dialoghi-shonen.md`. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
 
+**La voce è il modo, non l'argomento.** Gli esempi qui sotto mostrano ritmo, registro e atteggiamento. Se un esempio parla del mestiere o della passione del PNG (il riso di Tobias, il cane di Ignis, la leva di Korinzo), è **un** dettaglio, non il filo di ogni battuta: in gioco compare al massimo una volta per scena, e mai al posto delle cose che contano in un momento emotivo (`regole/06-dialoghi.md`, principio 20).
+
 ---
 
 ## Syntia
@@ -86,11 +88,13 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## G-1 Tobias
 **Voce**
-- «Ho fatto troppo riso, di nuovo, quindi se avete fame è in cucina… e se lo lasciate lì me ne accorgo, eh.»
+- «Non sono venuto a fare pace, eh, sono venuto perché me l'hanno ordinato, e se per caso mi trovi simpatico è un problema tuo.»
 - «Questo incarico non mi piace, e lo faccio lo stesso, ma non sei tu quello a cui devo spiegare il perché.»
 - «Tre anni fa mi hai spezzato in due davanti a mezza città.» Si strinse nelle spalle. «Te lo ricordo e basta, non ti sto chiedendo niente.»
 
 **Non direbbe mai**: "analisi completata", "probabilità dell'87%" o altro linguaggio da computer; frasi prive di emozione.
+
+**Attenzione al cartellino**: in s2 il riso è tornato più volte. È un dettaglio suo, non la sua voce: torna solo se la scena lo chiede (Zemi, il banco 14), al massimo una volta.
 
 **Battute dette in gioco**
 - (s2, riformulata) «Il riso me lo faccio da solo, perché quello della mensa del governatorato sa di colla, e ne avevo fatto troppo, come al solito, quindi me lo sono mangiato tutto, che buttarlo mi dà fastidio.»
@@ -257,7 +261,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 **Voce**
 - «Siediti, Tsumi… no, non lì, che lì c'è la lumaca che Maimai sta studiando.»
 - «Non lo so, mi dispiace… non lo so davvero.»
-- «Tsumuri avrebbe saputo cosa dirti. Io so solo cucinare la zuppa di radici, e neanche bene.»
+- «Se ci fosse Tsumuri saprebbe cosa dirti, io invece è da stamattina che ci provo e mi vengono in mente solo scemenze… scusa.»
 
 **Non direbbe mai**: risposte che non ha; ordini bruschi.
 

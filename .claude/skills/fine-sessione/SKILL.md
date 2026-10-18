@@ -20,7 +20,7 @@ Obiettivo: la prossima chat, che non ricorderà nulla di questa, deve poter ripr
 
 ## 2. Memoria segreta del master
 - **`master_segreto/png/voci-e-diario.md`**, per ogni PNG che è comparso:
-  - **Battute dette in gioco**: 1-3 battute vere della sessione che rappresentano bene la sua voce. Prima di salvarle, passale a `strumenti/controlla_dialoghi.py`: se hanno errori (telegrammi, eco…) vanno riformulate e segnate come *riformulata*, perché il master le userà come modello;
+  - **Battute dette in gioco**: 1-3 battute vere della sessione che rappresentano bene la sua voce. Prima di salvarle, passale a `strumenti/controlla_dialoghi.py`: se hanno errori (telegrammi, eco…) vanno riformulate e segnate come *riformulata*, perché il master le userà come modello. Scegli battute che mostrano il **modo** di parlare del PNG, non quelle costruite sul suo mestiere, sulla sua passione o sul suo tic (`regole/06-dialoghi.md`, principio 20);
   - **Diario dei rapporti**: momenti chiave con Akira (litigi, promesse, rancori, debiti, gesti, cose dette che pesano), con sessione e data in gioco;
   - se la voce si è evoluta (un PNG che si è indurito o aperto), aggiorna anche gli esempi di **Voce** e **Non direbbe mai**;
   - i PNG nuovi entrano qui con la loro sezione completa.
