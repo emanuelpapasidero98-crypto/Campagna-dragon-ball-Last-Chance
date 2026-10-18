@@ -13,5 +13,17 @@
       "Bash(git log:*)",
       "Bash(git diff:*)"
     ]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"$CLAUDE_PROJECT_DIR/.claude/promemoria-master.md\""
+          }
+        ]
+      }
+    ]
   }
 }
