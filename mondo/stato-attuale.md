@@ -6,7 +6,7 @@
 - **Sessione corrente**: 2 (in corso)
 - **Data in gioco**: anno 777, giorno 13, mattina
 - **Luogo**: Arcorp City, Università (U.A.C.), Aula Magna. Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: Aula Magna vuota (g13, tarda mattina). Akira è salito in ultima fila a parlare con Tobias. Tobias ha ammesso di sorvegliarlo, si è offeso per "bio-androide", stasera scriverà il rapporto; ha ricordato il messaggio del 774 mandato col suo drone e Zemi piccola alla Capsule. Poi si è lasciato sfuggire che "starebbe a guardare da tutt'altra parte… con quello che c'è da—", si è fermato e guarda il cielo sopra le cupole dell'Orto: «Lascia perdere. Fai finta che non ho detto niente.» Giù, Syntia con Zemi in braccio aspetta; dopo: pranzo veloce in famiglia e alle 14 Orto dell'Est (Akira ha detto che viene). Zemi vuole sapere dove Tobias prende il riso. Prossima lezione: g16.
+- **Scena in sospeso**: Aula Magna vuota (g13, tarda mattina). Akira è in ultima fila con Tobias, che ha accettato le sue scuse ma si è rifiutato di dirgli cosa succede (prova fallita) e lo ha rimandato a Tights ("lei nel Consiglio ci siede"). Tobias ha detto dove compra il riso (per Zemi: mercato coperto zona est, banco 14, tendone blu, lavarlo tre volte) e si è rimesso a sedere in ultima fila, guardando fuori dalla finestra. Giù, Syntia con Zemi in braccio e Cannella al comunicatore. Dopo: pranzo veloce in famiglia e alle 14 Orto dell'Est (Akira ha detto che viene). Prossima lezione: g16.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -17,6 +17,7 @@
 ## Tentativi falliti (non ripetibili finché la situazione non cambia davvero)
 | Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
 |---|---|---|---|
+| s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
 - Babidi è sulla vecchia Terra (Akira non lo sa).

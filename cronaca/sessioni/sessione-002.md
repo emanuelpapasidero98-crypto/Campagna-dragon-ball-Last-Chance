@@ -24,6 +24,7 @@
 - [s2 · g13] Tobias mangia e dorme ("quando mi lasciano"). Si cucina il riso da solo perché quello della mensa del governatorato "sa di colla"; ne fa troppo e lo finisce perché buttarlo gli dà fastidio.
 - [s2 · g13] A Capsule Corp Zemi (circa due anni) tirava i capelli a Tobias finché lui non le dava la crosta del riso rimasta in fondo alla pentola; strillava «osta! osta!».
 - [s2 · g13] Tobias stasera scriverà un rapporto su Akira ("parola per parola").
+- [s2 · g13] Tobias compra il riso al **mercato coperto della zona est**, banco quattordici, quello col tendone blu. Va lavato tre volte prima di cuocerlo, "se no viene colloso come quello della mensa".
 
 ### Battute memorabili dei PNG
 - Syntia: «Allungo la mano. E l'albicocca apre la bocca.»
@@ -38,6 +39,9 @@
 - Tobias: «Per il resto, sì, sono qui per te. Non mi va di fare finta del contrario, e poi con questa roba addosso non ci crederebbe nemmeno la Cannella, che sono uno studente.»
 - Tobias: «Solo che l'ultima cosa tua che è arrivata al governo l'hai mandata col mio drone, mentre io stavo per terra e non riuscivo nemmeno ad alzare la testa. […] Quindi scusa se stavolta preferisco scriverlo io.»
 - Tobias: «È diventata grande.» (su Zemi)
+- Tobias: «Ok. Cioè… va bene, le prendo. Non me l'aspettavo, ecco. Non da te, e non qui in mezzo alle poltroncine.»
+- Tobias: «E se te lo dico lo stesso, stasera mi tolgono l'incarico e dalla prossima lezione di tua moglie, in fondo all'aula, ci mettono due Arc-G2 con le luci accese. Secondo te alla preside piacerebbe di più?»
+- Tobias: «Se vuoi sapere cosa succede, chiedilo a chi ti ha trovato la casa. Lei nel Consiglio ci siede, io no.»
 - Tobias: «Se fosse per me, adesso starei a guardare da tutt'altra parte, mica qui a fare la guardia a uno che va alle lezioni di botanica con la figlia, che con quello che c'è da—» · «Lascia perdere. Fai finta che non ho detto niente.»
 - Syntia: «E all'Orto vieni anche tu. L'ho sentita, prima. Se mio marito viene o no lo decido io, mica il direttore.»
 
@@ -56,7 +60,9 @@
 - Tobias si offende per "bio-androide" e ribatte che mangia e dorme come lui. Ammette di essere lì per sorvegliarlo. Accetta di riferire, ma gli ricorda il messaggio di morte del 774 mandato col suo drone mentre lui era a terra: "stavolta preferisco scriverlo io".
 - Zemi saluta Tobias dal basso; lui risponde rigido e ricorda Zemi piccola alla Capsule (la crosta del riso). Akira in quegli anni non c'era.
 - Tobias si lascia sfuggire che "starebbe a guardare da tutt'altra parte" invece di sorvegliare Akira, "con quello che c'è da—", e si ferma guardando il cielo sopra l'Orto. Indizio sulla crisi.
-- Akira chiede a Tobias se ci sono problemi coi saiyan (per lui la voce della nave è una sciocchezza), in cosa lo credono invischiato, dice di meritare risposte (ha salvato la popolazione con Tights), gli chiede scusa per Akyr e dice che non usa i poteri da Kras. → Prova di **Persuasione CD 10, +2** (in attesa del tiro).
+- Akira chiede a Tobias se ci sono problemi coi saiyan (per lui la voce della nave è una sciocchezza), in cosa lo credono invischiato, dice di meritare risposte (ha salvato la popolazione con Tights), gli chiede scusa per Akyr e dice che non usa i poteri da Kras. → Prova di **Persuasione CD 10, +2**: d10 = 7 → 9, **fallita** (di uno).
+- Tobias accetta le scuse, impacciato («Ok. Cioè… va bene, le prendo. Non me l'aspettavo, ecco.»), ma non rivela niente: non decide lui cosa può sapere Akira, e se parlasse lo sostituirebbero con due Arc-G2 in fondo all'aula. Sul "meritarsi le risposte": Akira ha salvato la città, ma prima aveva promesso di raderla al suolo, "non tocca a me fare il conto". Lo rimanda a **Tights** ("lei nel Consiglio ci siede"), con una frecciata: da tre anni non si parlano. Risponde da solo alla domanda di Zemi sul riso (l'ha sentita gridare). Torna a sedersi in ultima fila.
+- (Per fine sessione: le scuse hanno toccato Tobias. Valutare Odio 2 → 1.)
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |

@@ -107,3 +107,8 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Conseguenze**: nel rapporto per il re (prima della seduta della sera) scriverà che Akira lo ha riconosciuto, che non ha mostrato aggressività, aura né segni "allarmanti". Il rapporto pesa a favore di Akira, ma poco.
 - **Chi lo sa**: Tobias. Syntia l'ha visto (lo conosce dagli anni alla Capsule) e non sa perché sia lì; non dorme tranquilla.
 - **Come Akira può scoprirlo**: parlando con Tobias; dall'atteggiamento del Consiglio dopo la seduta.
+
+### G13 tarda mattina · Aula Magna, ultima fila (aggiunta)
+- **Cosa**: Akira chiede a Tobias cosa sta succedendo e gli chiede scusa per Akyr. Tobias non parla (prova fallita), ma le scuse lo colpiscono. Nel rapporto di stasera scriverà, parola per parola, che Akira dice di non voler distruggere né ferire nessuno, che gli ha chiesto scusa per il 774 e che ha fatto domande su saiyan e Consiglio. Non scrive della propria frase sfuggita ("guardare da tutt'altra parte").
+- **Conseguenze**: alla seduta, Ganascia userà le domande di Akira ("vuole sapere cosa sappiamo"); Tights userà le scuse e la calma. Il rapporto resta lievemente favorevole ad Akira.
+- **Come Akira può scoprirlo**: dall'esito della seduta; da Tights, se ci parla.
