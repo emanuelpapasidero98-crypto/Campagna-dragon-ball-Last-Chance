@@ -30,3 +30,4 @@
 - `2026-10-18 19:26:47 UTC` 🎲 F2_Tyros: d10 = 2 | mod +0 → totale 2 | Fallimento | Salto_s3_g13_pomeriggio:fronda_dei_Senza_Cielo
 - `2026-10-18 19:26:47 UTC` 🎲 F2_Zarcon: d10 = 8 | mod +0 → totale 8 | Successo Pieno | Salto_s3_g13_pomeriggio:crepa_di_Zarcon
 - `2026-10-18 19:26:47 UTC` 🎲 F5_Zemi: d10 = 10 | mod -1 → totale 9 | SUCCESSO CRITICO | Salto_s3_g13_pomeriggio:ki_di_Zemi_(giornata_felice_ma_citta_nuova)
+- `2026-10-18 20:17:50 UTC` 🎲 Voce_dell_incidente_all_Orto: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g13 ~14:30: quanto si sparge in citta la notizia di Zemi (Lattuga, Cannella, Mirtillo, Tobias)

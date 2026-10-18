@@ -9,6 +9,8 @@
 
 *Seguito (g13 ~14:12)*: al pranzo Akira ha detto a Syntia di aver chiesto scusa a Tobias per quello che era successo anni prima. All'Orto è rimasto quasi sempre in silenzio, sorridendo di tanto in tanto per non sembrare scortese; all'accusa di Lattuga il suo volto si è scurito (sensi di colpa), ha cominciato «io… non si preoccupi, me ne va—» ed è stato interrotto dal ki di Zemi. Ha capito che il ki del g6 era di Zemi, che la vetrina non l'aveva rotta un sasso e che Syntia gli aveva mentito sapendo benissimo. Ha chiesto scusa a tutti e si è impegnato a ripagare i danni; poi, con sguardo severo, ha detto a Zemi e a Syntia «adesso andiamo a casa…». Zemi ha ritirato le braccia e si è nascosta contro Syntia. Tobias è arrivato di corsa al margine della piazza.
 
+*Seguito (g13 ~14:20)*: Akira guarda Lattuga con enorme dispiacere e poi, rassegnato, Tobias. A Zemi dice «Tesoro… non preoccuparti… mamma e papà risolveranno tutto», con una carezza sulla testa e un bacio sulla nuca. A Syntia: «Amore, meglio andare… dobbiamo… parlare…», «torniamo all'attico…», «ad ogni modo… io non posso rimanere, e nemmeno Zemi». Syntia rimanda il discorso a stasera, quando Zemi dorme, e va a parlare con Mirtillo e Cannella; gli affida Zemi («portala giù e aspettami all'ingresso»). Due Arc-G2 sono accorsi sopra la cupola; Tobias li ferma con un gesto. Zemi, ora a terra accanto ad Akira con la manica stretta tra le dita, gli chiede se non la guarderà più «brutto».
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -29,6 +31,10 @@
 - [s3 · g13] Dopo l'onda di ki la polvere si posa sul muro dei nomi, sulle lettere incise. Odore di rose spezzate e terra smossa.
 - [s3 · g13 14:12] Tobias, arrivato di corsa dal cancello, si ferma dove il sentiero esce dalle serre; ha il comunicatore in mano, con lo schermo spento.
 
+- [s3 · g13 ~14:20] Due Arc-G2 (linee luminose accese) accorrono e si fermano a mezz'aria a un centinaio di metri sopra la volta incrinata della cupola grande: i sensori hanno registrato il picco di ki. Tobias, senza alzare la testa, apre una mano verso l'alto per dire di aspettare, e restano fermi.
+- [s3 · g13 ~14:20] Syntia, Cannella e Mirtillo vanno in una stanza con delle sedie (nell'edificio dell'Orto, dietro le serre). Syntia ha chiesto ad Akira di portare Zemi all'ingresso e di aspettarla.
+- [s3 · g13] Cannella smette di parlare per tre passi quando passa davanti a Tobias.
+
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
 - Syntia: «Akira, se hai finito il giro di saluti scendi, che a mezzogiorno e mezzo la tavola calda in fondo al viale, quella che ci ha consigliato Cannella, si riempie, e io con questa qui in braccio la fila non la faccio.»
@@ -41,6 +47,10 @@
 - Syntia: «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
 - Akira: «Mi dispiace molto!! Mi impegno a ripagare tutti i danni…» · «Adesso andiamo a casa…» (con sguardo severo, a Zemi e a Syntia)
 - Syntia: «Non qui, Akira, e non davanti a lei, che ha già abbastanza paura così.»
+- Akira: «Tesoro… non preoccuparti… mamma e papà risolveranno tutto» · «Amore, meglio andare… dobbiamo… parlare…» · «Torniamo all'attico…» · «Ad ogni modo… io non posso rimanere, e nemmeno Zemi.»
+- Syntia: «Stasera, quando Zemi dorme, mi dici quello che hai da dirmi e io ti ascolto, ma adesso il direttore e Cannella meritano due parole da me, che li ho trascinati in questo guaio, quindi tu portala giù e aspettami all'ingresso, che faccio presto.»
+- Cannella: «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
+- Zemi: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
 - Lattuga: «Prima ha detto che se ne andava, e allora vada, e i suoi soldi se li tenga.»
 - Cannella: «Si cambiano i pannelli e finita lì, il punto è che al Consiglio non devono saperlo per forza, direttore, mi dica che non devono saperlo, che quelli ci tolgono i fondi all'università per un vetro rotto!»
 
@@ -50,6 +60,9 @@
 - Akira, a Tobias: «Capisco… forse mi sto impicciando in cose che non mi competono… non più». Si ritira dalla richiesta, serio, e scende. Dice «ci vediamo».
 - Akira a Syntia: «andrai benissimo anche lì, vedrai». A Zemi: «il riso è più buono se te lo prepara la mamma… ma dove andiamo adesso sono sicuro che ci sarà». **Non ha detto a Zemi del banco 14**: Zemi protesta, ancora senza risposta.
 - Akira non ha ancora risposto a Zemi su dove Tobias compra il riso (resta sospeso).
+- Akira, dopo l'esplosione: guarda Lattuga con enorme dispiacere, poi Tobias con rassegnazione. Con Zemi è dolce (carezza, bacio sulla nuca, «mamma e papà risolveranno tutto»); con Syntia è serio, chiede di andare via e dice che lui e Zemi non possono restare.
+- Syntia accetta di rimandare il confronto a stasera (quando Zemi dorme) e sceglie di restare a parlare con Mirtillo e Cannella. Posa Zemi a terra accanto ad Akira.
+- Zemi chiede a Akira, tenendogli la manica, se non la guarderà più «brutto».
 - Al pranzo Akira dice a Syntia che a Tobias ha chiesto scusa per quello che accadde anni prima (non altro).
 - Akira all'Orto: silenzioso, con sorrisi cortesi; all'accusa di Lattuga il volto gli si scurisce. Poi capisce che Syntia sapeva e gli ha mentito (il g6, «un sasso»). Guarda Zemi e Syntia con sguardo severo: «Adesso andiamo a casa…». Zemi si ritrae, in lacrime; Syntia: «Non qui, e non davanti a lei».
 - Lattuga rifiuta i soldi di Akira, gli dice di andarsene, e appoggia il palmo sul muro, sulla colonna del marito.

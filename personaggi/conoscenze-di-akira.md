@@ -37,3 +37,5 @@
 | g13 (s3) | **Il ki sconosciuto sentito il g6 era di Zemi.** Syntia lo sapeva già (la tecnica della lampada). Ci sono stati altri episodi | Esplosione di ki di Zemi all'Orto; frase di Syntia |
 | g13 (s3) | **Syntia gli ha mentito sulla vetrina del g6** («un sasso»): sapeva del ki di Zemi e dei suoi episodi (la lampada) e non gliel'ha detto | Dedotto dopo l'esplosione e dalle parole di Syntia |
 | g13 (s3) | Cannella teme che il Consiglio sappia dell'incidente (fondi dell'università) | L'ha sentita |
+| g13 (s3) | Due Arc-G2 con le linee luminose accese sono accorsi sopra l'Orto dopo il picco di ki; Tobias li ha fermati con un gesto. La sorveglianza ha registrato qualcosa | L'ha visto |
+| g13 (s3) | Syntia vuole parlargli stasera, quando Zemi dorme | Syntia |
