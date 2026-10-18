@@ -56,6 +56,7 @@
 - Tobias si offende per "bio-androide" e ribatte che mangia e dorme come lui. Ammette di essere lì per sorvegliarlo. Accetta di riferire, ma gli ricorda il messaggio di morte del 774 mandato col suo drone mentre lui era a terra: "stavolta preferisco scriverlo io".
 - Zemi saluta Tobias dal basso; lui risponde rigido e ricorda Zemi piccola alla Capsule (la crosta del riso). Akira in quegli anni non c'era.
 - Tobias si lascia sfuggire che "starebbe a guardare da tutt'altra parte" invece di sorvegliare Akira, "con quello che c'è da—", e si ferma guardando il cielo sopra l'Orto. Indizio sulla crisi.
+- Akira chiede a Tobias se ci sono problemi coi saiyan (per lui la voce della nave è una sciocchezza), in cosa lo credono invischiato, dice di meritare risposte (ha salvato la popolazione con Tights), gli chiede scusa per Akyr e dice che non usa i poteri da Kras. → Prova di **Persuasione CD 10, +2** (in attesa del tiro).
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |
