@@ -154,3 +154,8 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Voce in città**: tiro segreto 5 (parziale). La notizia che «la bambina di Akira ha incrinato la cupola» si sparge tra la squadra dei giardinieri (Lattuga la racconta) e nel quartiere dell'Orto entro stasera. Non arriva ancora ai notiziari né alla stampa; entro il g14-15 può arrivare al governatore Ganascia.
 - **Chi lo sa**: Akira, Syntia, Zemi, Cannella, Mirtillo, Lattuga, Tobias, i sensori/Consiglio (il picco). Dal tramonto: la squadra dei giardinieri e il quartiere.
 - **Come Akira può scoprirlo**: Syntia all'ingresso; sguardi e silenzi del personale dell'Orto; gli Arc-G2 sopra la cupola; da Tobias o dal Consiglio.
+
+### G13 14:30-14:45 · Cancello dell'Orto / stanza dietro le serre
+- **Cosa**: Tobias accompagna Akira e Zemi al cancello e li sorveglia da un pilastro. Nel frattempo, nella stanza dietro le serre, Syntia, Cannella e Mirtillo trattano (esito già deciso in giornale a 14:12-15:00): la lezione del g16 si fa; Akira e Zemi non possono entrare nell'Orto per ora; Mirtillo deve compilare la segnalazione dei pannelli. Syntia esce verso le 14:45-15:00.
+- **Conseguenze**: Tobias non ha ancora scritto a Tights né al re sul fatto di Zemi. L'eventuale messaggio a Tights ("Zemi, Orto, 14:10") è una sua scelta, da fare in scena.
+- **Chi lo sa**: Tobias, Akira, Syntia, Cannella, Mirtillo, Lattuga e i giardinieri (questi ultimi per sentito dire).

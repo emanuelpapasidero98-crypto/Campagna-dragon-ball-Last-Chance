@@ -6,7 +6,7 @@
 - **Sessione corrente**: 3 in corso
 - **Data in gioco**: anno 777, giorno 13, primo pomeriggio (circa le 14:10)
 - **Luogo**: Arcorp City, Orto Botanico dell'Est, piazza centrale (ai piedi del muro dei nomi). Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: piazza centrale dell'Orto dell'Est (circa le 14:20). Dopo l'esplosione di ki di Zemi, Akira ha chiesto scusa a tutti, ha consolato Zemi (carezza, bacio sulla nuca: «mamma e papà risolveranno tutto») e ha detto a Syntia che bisogna andare, che devono parlare e che lui e Zemi non possono restare. Syntia gli ha risposto che ne parleranno stasera quando Zemi dorme, e che prima deve parlare con il direttore Mirtillo e con Cannella (sono andati in una stanza dietro le serre): ha posato Zemi a terra accanto ad Akira e gli ha chiesto di portarla giù e di aspettarla all'ingresso. Zemi gli tiene un lembo della manica e gli ha chiesto «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?». Zia Lattuga è rimasta di spalle, con il palmo sul muro dei nomi, e non si è voltata. Tobias è fermo sul sentiero a una decina di metri; sopra la cupola grande, a un centinaio di metri di quota, due Arc-G2 con le linee luminose accese stanno a mezz'aria: Tobias ha aperto una mano per dire loro di aspettare. Akira non ha ancora detto a Zemi dove Tobias compra il riso. Prossima lezione: g16. Stasera il Consiglio è in seduta d'emergenza (Akira non lo sa).
+- **Scena in sospeso**: cancello delle cupole dell'Orto dell'Est (circa le 14:30). Akira, con Zemi in braccio (ha le braccia al suo collo), ha chiesto a Tobias di non dispiegare pattuglie. Tobias ha mandato via i due Arc-G2 (sono tornati all'incrocio), ha detto che altre pattuglie non ne chiama finché decide lui sul posto, che il picco di ki è già nei sensori e che non sa ancora cosa scriverà stasera; ha aggiunto che Tights stasera è in riunione fino a notte. Poi li ha accompagnati lungo il sentiero fino al cancello (all'uscita delle serre cinque giardinieri si sono scostati in silenzio) e ora è fermo accanto al pilastro, con lo sguardo sul viale. Akira sta aspettando Syntia all'ingresso (lei ha detto «faccio presto»; è nella stanza con Mirtillo e Cannella). Zemi gli ha appena chiesto «la mamma ha detto presto, ma presto quanto?». Zia Lattuga è rimasta al muro dei nomi. Akira non ha ancora detto a Zemi dove Tobias compra il riso. Prossima lezione: g16. Stasera il Consiglio è in seduta d'emergenza (Akira non lo sa nel dettaglio: Tobias ha solo detto che Tights è in riunione fino a notte).
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -24,6 +24,7 @@
 - Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro). Syntia dovrà rispondergli a casa, non davanti a Zemi.
 - Akira non ha risposto a Zemi su dove Tobias compra il riso. Syntia gli ha chiesto cosa gli ha detto Tobias.
 - Tobias ha scritto a qualcuno al comunicatore appena Akira ha finito di parlare.
+- I sensori della città hanno registrato il picco di ki all'Orto; Tobias non sa ancora cosa scrive nel rapporto di stasera. Stasera Tights è in riunione fino a notte.
 - Babidi è sulla vecchia Terra (Akira non lo sa).
 - Tobias sorveglia Akira per ordine del governo (lo ha ammesso) e **stasera scrive un rapporto** su di lui. Gli è sfuggito che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
 - La vetrina di Nova City "rotta da sola" vicino a Zemi, e il ki piccolo percepito per mezzo secondo il g6.
@@ -33,6 +34,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G13 ~14:30 (s3): Akira prende in braccio Zemi e chiede a Tobias di non dispiegare pattuglie. Tobias rimanda via i due Arc-G2, non ne chiama altri finché decide lui, ma il picco è nei sensori e non sa cosa scriverà. Tights stasera è in riunione fino a notte. Akira aspetta Syntia al cancello.
 - G13 ~14:20 (s3): Syntia rimanda il confronto a stasera e resta a parlare con Mirtillo e Cannella; Akira deve portare Zemi all'ingresso. Due Arc-G2 accorrono sopra l'Orto per il picco di ki; Tobias li ferma.
 - G13 ~14:12 (s3): Akira, che aveva già capito che Syntia sapeva, chiede scusa a tutti e dice «andiamo a casa» con sguardo severo; Zemi si ritrae in lacrime. Lattuga lo manda via e rifiuta i suoi soldi. Cannella teme per i fondi. Arriva Tobias.
 - G13 ~14:10 (s3): all'Orto, dopo il giro con il direttore Mirtillo (la Starnutina), la caposquadra zia Lattuga accusa Akira per la morte del marito nel 774. Zemi, sentendo che un giorno le diranno cos'ha fatto suo padre, scatena il ki: onda di pressione, sei pannelli incrinati, Lattuga spinta contro il muro. Akira riconosce il ki del g6. Syntia calma Zemi con la tecnica della lampada.

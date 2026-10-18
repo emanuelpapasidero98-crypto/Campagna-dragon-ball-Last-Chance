@@ -29,3 +29,4 @@
 - **Aggiornamento Zemi (s3, g13 14:12)**: terrorizzata da sé stessa e dallo sguardo severo del padre; si nasconde contro Syntia, piange.
 - **Aggiornamento Syntia (s3, g13 14:20)**: rimanda il confronto a stasera («quando Zemi dorme») e resta a parlare con Mirtillo e Cannella (sente di averli trascinati in un guaio); affida Zemi ad Akira e gli chiede di aspettarla all'ingresso. **Prossimo passo**: salvare il possibile (la seconda lezione al g16, il lavoro all'Orto), poi la notte il confronto con Akira. Sa che ha mentito e che dovrà spiegare perché.
 - **Aggiornamento Zemi (s3, g13 14:20)**: si è calmata un po' con la carezza del padre; vuole sapere se è ancora arrabbiato con lei. Resta aggrappata alla sua manica.
+- **Aggiornamento Zemi (s3, g13 14:30)**: in braccio ad Akira, rassicurata ma scossa; ha paura dei robot senza faccia. Resta la domanda sul riso, ancora senza risposta.

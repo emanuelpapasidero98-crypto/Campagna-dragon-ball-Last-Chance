@@ -39,3 +39,5 @@
 | g13 (s3) | Cannella teme che il Consiglio sappia dell'incidente (fondi dell'università) | L'ha sentita |
 | g13 (s3) | Due Arc-G2 con le linee luminose accese sono accorsi sopra l'Orto dopo il picco di ki; Tobias li ha fermati con un gesto. La sorveglianza ha registrato qualcosa | L'ha visto |
 | g13 (s3) | Syntia vuole parlargli stasera, quando Zemi dorme | Syntia |
+| g13 (s3) | I sensori hanno già registrato il picco di ki dell'Orto e Tobias non può cancellarlo; non sa ancora cosa scriverà stasera. Tobias non chiamerà altre pattuglie finché decide lui sul posto | Tobias |
+| g13 (s3) | Tights stasera è in riunione fino a notte | Tobias |

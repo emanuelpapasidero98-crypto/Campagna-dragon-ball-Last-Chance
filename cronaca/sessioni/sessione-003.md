@@ -11,6 +11,8 @@
 
 *Seguito (g13 ~14:20)*: Akira guarda Lattuga con enorme dispiacere e poi, rassegnato, Tobias. A Zemi dice «Tesoro… non preoccuparti… mamma e papà risolveranno tutto», con una carezza sulla testa e un bacio sulla nuca. A Syntia: «Amore, meglio andare… dobbiamo… parlare…», «torniamo all'attico…», «ad ogni modo… io non posso rimanere, e nemmeno Zemi». Syntia rimanda il discorso a stasera, quando Zemi dorme, e va a parlare con Mirtillo e Cannella; gli affida Zemi («portala giù e aspettami all'ingresso»). Due Arc-G2 sono accorsi sopra la cupola; Tobias li ferma con un gesto. Zemi, ora a terra accanto ad Akira con la manica stretta tra le dita, gli chiede se non la guarderà più «brutto».
 
+*Seguito (g13 ~14:30)*: Akira dice a Syntia di sì («non preoccuparti»), prende in braccio Zemi («no piccola, non lo faccio più…», sorridendo). Vede gli Arc-G2 e va da Tobias: «lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…»; dice che porterà Zemi all'attico di Tights e che, dopo aver parlato con Syntia, spiegherà personalmente la situazione a Tights; chiede di non dispiegare pattuglie, perché Zemi è già spaventata. Tobias manda via i due Arc-G2, dice che altre pattuglie non ne chiama finché decide lui sul posto, che il picco è già nei sensori e che non sa ancora cosa scriverà stasera; avverte che Tights stasera è in riunione fino a notte. Accompagna Akira e Zemi al cancello. Akira aspetta Syntia all'ingresso.
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -35,6 +37,11 @@
 - [s3 · g13 ~14:20] Syntia, Cannella e Mirtillo vanno in una stanza con delle sedie (nell'edificio dell'Orto, dietro le serre). Syntia ha chiesto ad Akira di portare Zemi all'ingresso e di aspettarla.
 - [s3 · g13] Cannella smette di parlare per tre passi quando passa davanti a Tobias.
 
+- [s3 · g13 ~14:30] I due Arc-G2 spariscono oltre i palazzi dell'incrocio (*SHUUUN*) e le loro linee luminose si spengono. All'incrocio in fondo al viale è tornata la coppia di sempre, immobile.
+- [s3 · g13 ~14:30] All'uscita delle serre quattro o cinque giardinieri con i guanti ancora addosso si scostano tutti insieme di un passo davanti ad Akira e Zemi, senza una parola.
+- [s3 · g13] Tobias ha deciso di non chiamare altre pattuglie «finché decido io qui sul posto». I sensori hanno già registrato il picco di ki. Tobias non ha deciso cosa scrivere stasera. Stasera Tights è in riunione fino a notte (lo dice Tobias).
+- [s3 · g13] Zemi sul fatto che gli Arc-G2 «non hanno la faccia» (paura).
+
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
 - Syntia: «Akira, se hai finito il giro di saluti scendi, che a mezzogiorno e mezzo la tavola calda in fondo al viale, quella che ci ha consigliato Cannella, si riempie, e io con questa qui in braccio la fila non la faccio.»
@@ -51,6 +58,9 @@
 - Syntia: «Stasera, quando Zemi dorme, mi dici quello che hai da dirmi e io ti ascolto, ma adesso il direttore e Cannella meritano due parole da me, che li ho trascinati in questo guaio, quindi tu portala giù e aspettami all'ingresso, che faccio presto.»
 - Cannella: «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
 - Zemi: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
+- Akira a Zemi: «No, piccola… non lo faccio più…» (con un sorriso) · Akira a Tobias: «Lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…» · «La porto all'attico che Tights ci ha dato per stare qui… dopo aver parlato con mia moglie spiegherò personalmente la situazione alla tua creatrice.» · «Ti chiedo solo di non dispiegare pattuglie… non so se è tuo compito deciderlo ma… la bambina è già spaventata di suo.»
+- Zemi: «Papà, quelli lassù non hanno la faccia.» · «Papà, la mamma ha detto presto, ma presto quanto?»
+- Tobias: «Se ne vanno, guarda.» · «Quei due li ho rimandati all'incrocio, che tanto vedono quello che vedo io, e altre pattuglie non ne chiamo finché decido io qui sul posto, ma il picco l'hanno già preso i sensori e quello non lo cancello, e su cosa scrivo stasera non lo so nemmeno io, quindi non chiedermelo adesso. E se pensi di spiegare tutto a Tights stasera scordatelo, che sta in riunione fino a notte.»
 - Lattuga: «Prima ha detto che se ne andava, e allora vada, e i suoi soldi se li tenga.»
 - Cannella: «Si cambiano i pannelli e finita lì, il punto è che al Consiglio non devono saperlo per forza, direttore, mi dica che non devono saperlo, che quelli ci tolgono i fondi all'università per un vetro rotto!»
 
