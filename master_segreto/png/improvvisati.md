@@ -16,6 +16,7 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 - **Voce**: sbrigativa e allegra, fa domande a raffica senza aspettare la risposta. Ride forte. Dà del lei a tutti, anche agli studenti.
 - **Desiderio**: che l'Orto Botanico dell'Est apra con un nome importante (Syntia) e porti gente nella zona ricostruita. **Paura**: che il Consiglio tagli i fondi all'università.
 - **Sa**: chi è il marito di Syntia. Ha deciso che non è un problema suo… finché non diventa un problema dell'università.
+- **Aggiornamento (s2, g13)**: la lezione è stata un successo, ma la domanda dello studente e la presenza di Tobias la innervosiscono: teme che il governatorato e il Consiglio colleghino l'università ad Akira (fondi). Ha organizzato per le 14 l'incontro di Syntia con il **direttore dell'Orto Botanico dell'Est** (PNG da creare alla prima apparizione); il direttore le ha chiesto al comunicatore se viene anche il marito, e lei non ha saputo rispondere. Ha promesso pubblicamente un microfono nuovo per il g16. **Prossimo passo**: all'Orto alle 14 cercherà di tenere tutto "normalissimo", parlando a raffica, e di non lasciare Akira vicino al direttore e alle telecamere, se ce ne sono.
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 3
 
 ## Rapan *(rapa)* e Cipoll *(cipolla)* — saiyan dei Senza Cielo
@@ -38,3 +39,6 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 - **Sa**: ciò che sa il Consiglio. Ha notato la "coincidenza" dell'arrivo di Akira ad Arcorp.
 - **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 4 · Spietatezza 3 · Lealtà 3
 
+## Ragazzo con gli occhiali *(comparsa, s2)*
+- Studente della U.A.C., seconda fila all'Aula Magna, quaderno sempre stretto al petto. Curioso e un po' impiccione. Ha chiesto a Syntia dello scudo e del Consiglio guardando Akira, ed è stato zittito. Senza nome finché non serve.
+- **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 2

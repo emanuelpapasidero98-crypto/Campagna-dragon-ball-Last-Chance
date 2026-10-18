@@ -18,13 +18,14 @@
 - **Carattere**: distaccato con gli estranei, ma con emozioni umane vive (rabbia, imbarazzo, orgoglio ferito). È stato umiliato da Akyr nel 774 e ha nei suoi confronti una diffidenza professionale, non odio. Ama Tights come una madre e il popolo di Terra Nova come un dovere sacro.
 - **Desiderio**: proteggere Terra Nova e Tights. **Paura**: essere solo una macchina. Il nucleo nel cervello.
 - **Incarico segreto**: controlli periodici della casa di Akira (sorveglianza del Consiglio). Lo fa con scrupolo e un vago disagio.
-- **Parametri**: Rispetto 3 · Amore 1 · Odio 2 · Spietatezza 5 · Lealtà 6
+- **Parametri**: Rispetto 3 · Amore 1 · Odio **1** (era 2: le scuse di Akira per Akyr, s2 g13) · Spietatezza 5 · Lealtà 6
 - **Combattimento**: HP 65 · Ki infinito · Attacco 32 · Difesa 36 · **BP 9.500.000** (fascia +8/+8)
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Raggio ai neutrini (Avanzata, +20%) · Barriera Repulsiva (1 Ki ogni 20 m, +25% difesa)
   - Fusione meccanica (con 3 Arc-G: BP ×25 per 5 turni, +8% danni e difesa; poi perde metà HP)
   - Impercettibile (solo gli scouter lo rilevano) · Rigenerazione (3 HP/turno; il nucleo nel cervello è il punto debole)
   - Autodistruzione (raggio di 2 km, +1000% danni)
 - **Aggiornamento (s1, g13)**: g4-g8 in orbita sulla vecchia Terra con la sonda; ha visto la sonda disintegrarsi e il video. Dal g10, per ordine del re, **sorveglia Akira di persona** ad Arcorp ("Non mi piace. Lo faccio."). All'Aula Magna in borghese, con il riso. Ha l'ordine di non intervenire salvo pericolo per i civili e di riferire.
+- **Aggiornamento (s2, g13 tarda mattina)**: scoperto e affrontato da Akira in ultima fila. Non si nasconde più. Ha ammesso la sorveglianza, ha accettato le scuse per Akyr (Odio 2 → 1), ma non ha rivelato niente della crisi e lo ha rimandato a Tights. Gli è sfuggito che vorrebbe "guardare da tutt'altra parte" (la vecchia Terra, la cupola del video). **Sa ora**: Akira ha detto di non voler fare del male a nessuno; Akira non usa i poteri da Kras; Akira e Tights non si parlano. **Prossimo passo**: seguire la famiglia (pranzo, Orto alle 14) a distanza, senza più fingere; stasera il rapporto per il re prima della seduta d'emergenza, con le parole di Akira e le sue scuse. Non scrive della propria frase sfuggita. Dentro di sé spera che il Consiglio decida di "cercare Akira": così smetterebbe di fare la balia.
 
 ## Re Korinzo *(improvvisato dal master)*
 - **Età**: 58. **Aspetto**: basso e massiccio, barba grigia corta, mani da meccanico con una cicatrice da ustione sul dorso sinistro. Veste semplice, tranne nelle cerimonie.

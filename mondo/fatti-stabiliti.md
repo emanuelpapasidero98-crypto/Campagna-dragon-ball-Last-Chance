@@ -15,6 +15,9 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g13] **Aula Magna della U.A.C.**: anfiteatro di legno chiaro, finestre altissime, cattedra con leggio e microfono (fischia). Striscione verde "ATLANTE DELLA FORESTA DI NOVA — Ciclo di lezioni pubbliche". Porticina laterale per i relatori.
 - [s1 · g12] Una bottega di vestiti dietro l'università, ad Arcorp.
 - [s1 · g6] Nova City: negozio di stoffe e vestiti del **signor Bottone** (Syntia lo chiama "il signor coso"; abbassa la serranda quando arriva Akira).
+- [s2 · g13] Aula Magna della U.A.C.: schermo alle spalle della cattedra (Syntia ci proietta i suoi disegni a matita); anfiteatro con scale ripide di legno chiaro che scricchiolano; finestre da cui si vedono le cupole dell'Orto.
+- [s2 · g13] **Mercato coperto della zona est** di Arcorp: al banco quattordici, quello col tendone blu, Tobias compra il riso.
+- [s2 · g13] La mensa del governatorato ha un riso che "sa di colla" (Tobias).
 
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
@@ -26,6 +29,11 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g2] La **prof.ssa Cannella**, preside di Scienze Naturali della U.A.C.: bassa e robusta, caschetto grigio, occhiali a mezzaluna con catenella di perline, scarpe da montagna sotto la gonna. Parla a raffica senza aspettare risposte, dà del lei a tutti, ride forte.
 - [s1 · g1] Un autore di Levo City ha scritto un libro sui funghi: era l'alternativa a Syntia per le lezioni.
 - [s1 · g13] Tobias all'Aula Magna: giacca grigia troppo stretta sulle spalle, capelli biondi legati dietro la nuca, contenitore di riso e bacchette.
+- [s2 · g13] Syntia ha alla base del pollice destro una mezzaluna di puntini bianchi: il morso della Morsicocca. Quando ride davvero arriccia il naso.
+- [s2 · g13] Comparsa: un ragazzo con gli occhiali, studente, seconda fila dell'Aula Magna. Ha chiesto a Syntia dello scudo e del Consiglio guardando Akira; Syntia: «Magari io cosa?»
+- [s2 · g13] Tobias mangia e dorme "quando lo lasciano". Si cucina il riso da solo, ne fa troppo e lo finisce perché buttarlo gli dà fastidio. Lavarlo tre volte, "se no viene colloso".
+- [s2 · g13] Negli anni alla Capsule Corp (772-774) Tobias cucinava il riso per tutto il piano dei tecnici. Zemi, a circa due anni, gli tirava i capelli per avere la crosta in fondo alla pentola e strillava «osta! osta!». Zemi non se lo ricorda.
+- [s2 · g13] Quando Akira la prende in braccio, Zemi gli si aggrappa al collo con tutte e due le braccia.
 
 ## Oggetti
 - [pre-campagna] Il braccio Arc-G è nero opaco con venature rosse fluorescenti. Akira l'ha restituito a Tights.
@@ -37,6 +45,7 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g11] L'aeromobile di famiglia: capsula gialla con un'ammaccatura sulla portiera sinistra. Guida Syntia.
 - [s1 · g12] Il vestito di Zemi per le lezioni: giallo, con due tasche davanti per le matite colorate.
 - [s1 · g13] Syntia, alla prima lezione: capelli raccolti e una camicia verde nuova.
+- [s2 · g13] Le razioni delle Arche (771-772): barrette grigie con un numero stampato sopra; solo dal numero si capiva il gusto. Tutti su Terra Nova se le ricordano, e non con piacere.
 
 ## Fauna e flora di Terra Nova
 *(aliene, non senzienti)*
@@ -45,6 +54,8 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g1] **Alberi tristi**: i broccoli di Terra Nova, grigio-azzurri, con le cime che ricadono verso il basso.
 - [s1 · g1] **Ronfolina**: erba le cui foglie fanno venire sonno. L'infuso sa di fieno e di limone; Syntia lo fa con il miele.
 - [s1 · g1] Gli alberi della foresta di Nova hanno tronchi enormi grigio-azzurri.
+- [s2 · g13] **Morsicocca**: sembra un'albicocca grande quanto due mani a coppa (arancione, tonda, buccia vellutata), appesa a un ramo basso. Il "picciolo" è la coda, con cui si arrampica. Ha una bocca piena di dentini piccoli e caccia gli uccelli che vengono a beccarla. È il primo animale che Syntia ha visto su Terra Nova, il giorno dello sbarco: l'ha morsa. Nome di Syntia, pagina dodici dell'*Atlante*.
+- [s2 · g13] La ronfolina ha le foglie a punta; in infuso "ti mette a dormire in dieci minuti" (Syntia).
 
 ## Abitudini, usanze, dettagli quotidiani
 - [pre-campagna] Zemi chiama i broccoli di Terra Nova "alberi tristi".
@@ -58,3 +69,7 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g2] Zemi canta stonata, inventando canzoni su Pancotto ("e il fiume dice ciao Pancotto…").
 - [s1 · g11] Ad Arcorp le pattuglie di Arc-G2 stanno a coppie agli incroci, ferme. Sugli schermi delle piazze girano i notiziari.
 - [s1 · g11] Tights rifornisce le case solo di caffè (dodici lattine nel frigo dell'attico). Syntia: «Non ha la minima idea di cosa mangiano le persone normali.»
+- [s2 · g13] Akira chiama Zemi anche **"scimmietta"** (lei si offende).
+- [s2 · g13] Lezioni di Syntia: la prima (g13) dura poco più di un'ora, con la registrazione notturna dei Dindon della radura di casa e una radice di patatrac che schiocca (*PAK!*). **Seconda lezione: g16, stessa ora, stessa aula.** Cannella ha promesso un microfono nuovo. Dopo la lezione una decina di persone si fa firmare l'*Atlante*.
+- [s2 · g13] Alle 14 del g13 Cannella porta Syntia all'Orto Botanico dell'Est a conoscere il direttore. Syntia vuole che Akira venga.
+

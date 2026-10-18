@@ -109,4 +109,4 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Salto g2-13 (s1) | F5 Ki di Zemi | 1 → 2 | Tiro 7 (con vantaggio). G6, Nova City, negozio del signor Bottone: Zemi si arrabbia, la vetrina si crepa. Vantaggio: Akira, a casa, percepisce per mezzo secondo un ki che non riconosce, verso la città |
 | Notte g11 (s1) | F5 Incubi | tiro 5 | Sonno agitato, nessuna aura |
 | Notte g12 (s1) | F5 Incubi | tiro 8 | Notte tranquilla |
-
+| G13 mattina (s2) | — | nessun avanzamento | Meno di tre ore di gioco (lezione e dialogo con Tobias). Sorveglianza F4: Tobias riferirà stasera che Akira lo ha affrontato con calma, si è scusato e ha chiesto della crisi. Seduta d'emergenza del Consiglio confermata per la sera del g13: esito da decidere/tirare quando il tempo arriva in gioco (o in un salto) |

@@ -26,4 +26,7 @@
 | g4 | Tights sa che vengono ad Arcorp e ha procurato loro un alloggio della Capsule ("non dirlo a lui") | Syntia |
 | g9-12 | Il Consiglio è in seduta straordinaria; il governatorato smentisce problemi allo scudo. Ad Arcorp le pattuglie di Arc-G2 sono molte più di prima. Al mercato si dice che i saiyan costruiscono una nave (voce) | Notiziari, città |
 | g13 | Tobias è all'Aula Magna, in borghese, in ultima fila. Cannella: "un signore del governatorato, per la sicurezza" | L'ha visto |
-
+| g13 (s2) | Tobias ammette di sorvegliarlo per ordine del governo; stasera scriverà un rapporto su di lui. Gli è sfuggito che, se fosse per lui, "starebbe a guardare da tutt'altra parte… con quello che c'è da—" (si è fermato guardando il cielo). Su saiyan, Consiglio e sospetti non ha detto niente | Ne ha parlato con Tobias, in ultima fila all'Aula Magna |
+| g13 (s2) | Secondo Tobias, per sapere cosa succede deve chiedere a Tights, che siede nel Consiglio | Tobias |
+| g13 (s2) | Alla Capsule (772-774) Tobias cucinava il riso per i tecnici e Zemi, piccolissima, gli chiedeva la crosta | Syntia e Tobias |
+| g13 (s2) | Cannella ha cambiato discorso due volte quando Syntia le ha chiesto perché Tobias fosse lì. Al comunicatore, sull'appuntamento all'Orto delle 14: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto» | Syntia; l'ha sentita |

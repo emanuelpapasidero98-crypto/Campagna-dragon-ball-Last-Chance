@@ -1,9 +1,21 @@
-# Sessione 002 — <titolo, da decidere a fine sessione>
-- Data reale: 2026-10-18 · Data in gioco: inizio anno 777, giorno 13, mattina / fine …
-- Luogo iniziale: Arcorp City, Università (U.A.C.), Aula Magna, prima lezione di Syntia
+# Sessione 002 — Ultima fila
+- Data reale: 2026-10-18 · Data in gioco: inizio anno 777, giorno 13, mattina / fine anno 777, giorno 13, tarda mattina (salto temporale di un'ora, fino alla fine della lezione, richiesto dal giocatore)
+- Luogo iniziale: Arcorp City, Università (U.A.C.), Aula Magna, prima lezione di Syntia · Luogo finale: stesso posto, Aula Magna vuota, ultima fila
 
 ## Resoconto
-(da scrivere a fine sessione, dal punto di vista di Akira)
+**Giorno 13, mattina: la prima lezione.** Il microfono ha appena smesso di fischiare quando Zemi chiede, a voce troppo alta, se in aula si può mangiare il riso come il signore in fondo. Un ragazzo con gli occhiali, in seconda fila, si gira per sorriderle, vede me e torna a guardare il palco di corsa. Syntia ci lancia un'occhiata e va avanti. Racconta il giorno dello sbarco: la fame dopo un anno di barrette grigie dell'Arca (quelle col numero stampato sopra), un frutto arancione e vellutato su un ramo basso, "tipo un'albicocca", e lei che allunga la mano… e l'albicocca apre la bocca. La sala scoppia a ridere, il microfono fischia di nuovo, e sento tutti quei ki normali alzarsi insieme. Lei l'ha chiamata Morsicocca, sta a pagina dodici dell'*Atlante*, e il segno dei dentini ce l'ha ancora sul pollice destro. Rideva davvero, col naso arricciato come a casa; io mi sono accorto solo allora di stringere il bracciolo. A metà lezione ha guardato verso l'ultima fila e ha sbagliato una parola, "rami", due volte. Zemi, inginocchiata sulla poltroncina, mi ha detto che il signore del riso non rideva e guardava me, non la mamma: «Lo conosci?»
+
+Ho riso con gli altri e ho alzato il pollice a Syntia, che è uscita da dietro il leggio e ha parlato con la sua voce vera. A Zemi ho detto che con quel signore ci ho parlato una volta e che dopo l'avrei salutato "come si deve" (l'ho chiamata scimmietta, si è offesa); lei vuole venire per chiedergli dove prende il riso. Ho guardato Tobias negli occhi, serio: lui ha retto lo sguardo senza battere le palpebre, poi ha ripreso a mangiare continuando a fissarmi.
+
+**Salto fino alla fine della lezione (poco più di un'ora).** Syntia ha fatto sentire la registrazione dei Dindon della nostra radura e ha fatto schioccare una radice di patatrac. Zemi mi ha fatto la cronaca di Tobias a bisbigli (ha finito il riso, ha chiuso il coperchio, si è stirato). Alle domande il ragazzo con gli occhiali ha chiesto a Syntia dello scudo e del Consiglio, guardando me. Lei: «Magari io cosa?», e poi gli ha offerto un sacchetto di ronfolina, "che mi sembra uno che dorme poco". Cannella ha chiuso in fretta: prossima lezione fra tre giorni (g16), stessa ora, e un microfono nuovo. Applausi, una decina di firme sull'*Atlante*, tutti a girare al largo dalla terza fila.
+
+**Dopo la lezione.** Ho preso Zemi in braccio e le ho detto che non poteva venire con me da Tobias; ha accettato, ma mi ha affidato la domanda sul riso, "senza inventare niente". Cannella, al comunicatore, parlava di un appuntamento all'Orto alle due: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto.» Ho detto a Syntia che è stata fantastica; lei ha ribattuto che ha detto "rami" due volte. Le ho detto che volevo parlare con Tobias e le ho proposto di pranzare insieme. Mi ha detto di andare, ma niente scenate; Cannella, a lei, aveva cambiato discorso due volte sul perché Tobias fosse lì. A Zemi ha raccontato che il riso di Tobias l'ha già mangiato, alla Capsule, da piccola. Il pranzo sì, ma veloce: alle due Cannella la porta all'Orto dell'Est a conoscere il direttore, e Syntia vuole che io vada con lei ("lo decido io, mica il direttore"). Le ho promesso che non litigherò con nessuno e che andrò all'Orto.
+
+**Ultima fila.** Sono salito da Tobias. Non sento il suo ki nemmeno a un metro. Gli ho detto che immagino sia lì per controllare che non impazzisca, che non credevo che un bio-androide mangiasse, e di riferire a chi l'ha mandato che non voglio distruggere niente né fare del male a nessuno. Si è offeso per "bio-androide": mangia, dorme, si cucina il riso da solo perché quello della mensa del governatorato sa di colla. Ha ammesso di essere lì per me. Il rapporto lo scriverà stasera, lui, parola per parola, perché l'ultimo mio messaggio al governo è partito dal suo drone mentre lui era a terra (il 774). Zemi l'ha salutato da giù; lui ha alzato la mano e mi ha raccontato che alla Capsule lei gli tirava i capelli per avere la crosta del riso ("osta! osta!"). Poi gli è scappato che, se fosse per lui, "starebbe a guardare da tutt'altra parte… con quello che c'è da—", e si è fermato guardando il cielo sopra le cupole dell'Orto.
+
+Gli ho chiesto se ci sono problemi coi saiyan (secondo me la storia della nave è una sciocchezza), in cosa mi credono invischiato, e gli ho detto che mi merito delle risposte; gli ho chiesto scusa per Akyr e gli ho detto che non uso i miei poteri da Kras. **Persuasione CD 10, +2: tiro 7 → 9, fallita.** Ha accettato le scuse, impacciato, ma non mi ha detto niente: non decide lui cosa posso sapere, e se parlasse lo toglierebbero dall'incarico e alle lezioni di Syntia metterebbero due Arc-G2. Su quello che mi merito: la città l'ho salvata, ma prima avevo promesso di raderla al suolo, "non tocca a me fare il conto". Mi ha detto di chiederlo a Tights, che nel Consiglio ci siede, con una frecciata: da tre anni non ci parliamo. Per Zemi: il riso lo compra al mercato coperto della zona est, banco quattordici, tendone blu, e va lavato tre volte. Poi si è rimesso a sedere in ultima fila, a guardare fuori dalla finestra.
+
+Nessun combattimento. Un tiro di Akira (Persuasione, fallito).
 
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
@@ -73,3 +85,10 @@
 | Tobias | 0 |
 
 ## Errori segnalati dal giocatore
+- Durante la sessione il giocatore ha aggiornato le regole su `main` (nuova guida `regole/07-dialoghi-shonen.md`, promemoria e `strumenti/controlla_dialoghi.py`) citando come errori proprio i dialoghi di questa sessione:
+  - **risposte a eco punto per punto**: Tobias «Mangio, sì… Per il resto, sì, sono qui per te… Glielo dico, stai tranquillo»; Syntia «Fantastica, sì… L'ho visto, sì… Il pranzo sì, ci sto»;
+  - **telegrammi** (frasi corte staccate dai punti): «Vai, parlaci. Però parlate, eh, e basta.», «Allungo la mano. E l'albicocca apre la bocca.» e altre;
+  - **glosse e narratore-grilletto**: «Non era una domanda», «e glielo si leggeva in faccia», «e stavolta non per sbaglio», «Al complimento…», «Alla parola *Tobias*…», «Sull'ultima frase di Akira…»;
+  - **mezzo segreto** interrotto: «Lascia perdere. Fai finta che non ho detto niente.» (massimo una volta a sessione);
+  - **concetti ripetuti** ("parlate/parlaci").
+- Il comando `/aggiorna-regole` non era ancora caricato nella sessione: le regole nuove sono state unite da `main` in fase di chiusura. Dalla sessione 3 valgono le guide 05, 06 e 07 e il controllo automatico.

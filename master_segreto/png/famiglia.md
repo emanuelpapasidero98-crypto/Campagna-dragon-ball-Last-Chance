@@ -10,6 +10,7 @@
 - **Parametri**: Rispetto 6 · Amore 6 · Odio 1 · Spietatezza 1 · Lealtà 6
 - **Stato**: sta bene. Libro sulla flora e la fauna di Terra Nova pubblicato da poco, con buone vendite.
 - **Aggiornamento (s1, g13)**: ad Arcorp per le sei lezioni (g13 → circa g33) e i nomi dell'Orto dell'Est. Ha detto ad Akira dell'invito. Sa che Tights ha procurato l'alloggio (si scrivono). Dopo la vetrina di Nova City (g6) è molto più in ansia per Zemi e mente ad Akira ("un sasso"). **Prossimo passo**: fare bene le lezioni; tenere Zemi lontana dagli sguardi; decidere se dire ad Akira del ki di Zemi (non ancora). **Non sa**: Tobias sorveglia Akira, la crisi del Consiglio nel dettaglio, Babidi.
+- **Aggiornamento (s2, g13 tarda mattina)**: prima lezione riuscita; si sente meglio, ma ha visto Tobias in ultima fila e Cannella le ha cambiato discorso due volte: sospetta che sia lì per Akira e ne ha paura (il mondo della guerra che torna). Ha difeso Akira dalla domanda dello studente. Ha sentito Cannella esitare sul "marito" all'Orto e ha deciso che Akira viene. **Prossimo passo**: pranzo veloce in famiglia, poi l'Orto alle 14 con Akira e Zemi. Chiederà ad Akira cosa gli ha detto Tobias. Ki di Zemi: ancora non lo dice.
 
 ## Zemi
 - **Età**: 6 anni. **Aspetto**: capelli neri arruffati come il padre, occhi ambra come la madre, ginocchia sbucciate, sempre un quaderno di disegni.
@@ -20,3 +21,4 @@
 - **Parametri**: Rispetto 6 · Amore 6 · Odio 1 · Spietatezza 1 · Lealtà 6
 - **Combattimento**: nessuno. Potenziale da mezzo-saiyan di seconda generazione: esplosioni involontarie di ki con rabbia o paura estreme.
 - **Aggiornamento (s1, g13)**: F5 ki 2/4. G6: la vetrina del signor Bottone si è crepata quando ha sentito "speriamo non abbia preso dal padre". Crede che "si è rotta da sola". Ad Arcorp per tre settimane: città nuova, gente che fissa il papà (rischio di nuove esplosioni di ki se ha paura o si arrabbia). Vuole sapere tutto di Lace e dei "compagni". Pancotto è con lei.
+- **Aggiornamento (s2, g13)**: ha scoperto che "il signore del riso" (Tobias) la conosceva da piccola e le dava la crosta del riso. È curiosa e ben disposta verso di lui. Vuole sapere dove prende il riso (banco 14, mercato coperto zona est). Akira la chiama "scimmietta". Giornata felice: nessun rischio di ki per ora.

@@ -24,6 +24,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s1) «Sono io che devo… cosa?» Aspetta. «Finiscila, avanti.»
 - (s1) «Una vita nuova senza di te dentro non la voglio. Non te la sto chiedendo, e non ti azzardare a regalarmela.»
 - (s1) «Se mi tolgono l'invito perché mio marito si siede in terza fila… allora se lo meritano, il libro sui funghi.»
+- (s2, riformulata) «Allungo la mano… e l'albicocca apre la bocca!»
+- (s2) «E quelli che scendono dalla rampa dopo di me, che la bocca non l'hanno vista, cosa vedono? Una signora che litiga con un'albicocca!»
+- (s2, riformulata) «Se mio marito viene o no all'Orto lo decido io, mica il direttore.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
@@ -34,6 +37,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - s1 · g1: Akira le dice "devi andare" (lei piange di sollievo) ma accenna a tirarsi fuori ("sono io che devo…"). Lei si arrabbia: lo vuole dentro la vita nuova. Gli chiede di venire ad Arcorp con Zemi; lui accetta. Si dicono a vicenda di aver taciuto per non pesare all'altro. Notte d'amore.
 - s1 · g6: dopo la vetrina di Nova City mente ad Akira ("un sasso"). Il segreto sul ki di Zemi le pesa sempre di più: due notti senza dormire.
 - s1 · g13: prima lezione, con Akira e Zemi in terza fila come voleva.
+- s2 · g13: la lezione va bene (la Morsicocca fa ridere la sala). Il pollice alzato di Akira le dà coraggio. Vede Tobias in ultima fila e sbaglia una parola. Zittisce lo studente che allude ad Akira («Magari io cosa?»). Lascia che Akira vada da Tobias ("niente scenate"); Cannella con lei ha cambiato discorso su Tobias. Vuole Akira con sé all'Orto alle 14, contro l'imbarazzo della Cannella. Akira le ha promesso che non litigherà e che verrà.
 
 ## Zemi
 **Voce**
@@ -47,11 +51,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s1, riformulata) «Infatti, sono tristi perché nessuno li mangia, e se li mangio diventano *più* tristi!»
 - (s1, riformulata) «Il braccio l'ho fatto verde perché il nero era finito.»
 - (s1) «Se Lace è in gita… perché di notte la chiami così forte?»
+- (s2, riformulata) «Va bene… però glielo chiedi tu, dove l'ha preso, e poi me lo racconti giusto, eh, senza inventare niente.»
+- (s2) «Quella signora vale due, ha due libri.»
+- (s2) «Hai detto dopo… è dopo, adesso?»
 
 **Diario dei rapporti**
 - 774: incontra il padre per la prima volta (aveva 3 anni) mentre lui è Akyr.
 - s1 · g1: gli chiede chi è Lace. Lui le racconta la storia degli allievi contro gli androidi sul pianeta delle piante carnivore. Disegna il papà con due braccia e lo appende davanti al suo letto, "dove lo vedi quando ti svegli".
 - s1 · g13: in terza fila all'Aula Magna, con il vestito giallo. Nota subito Tobias e il suo riso.
+- s2 · g13: nota che Tobias guarda il papà e non la mamma. Akira le dice che ci ha parlato una volta e che andrà a salutarlo; la chiama "scimmietta". Non può andare con lui: gli affida la domanda sul riso, "senza inventare niente" (sa che il papà inventa le storie). Scopre da Syntia di aver mangiato il riso di Tobias da piccola e lo saluta con un «Ciaaao!» dal palco. Aspetta la risposta: banco 14 del mercato coperto, tendone blu.
 
 ## Tights Brief
 **Voce**
@@ -78,11 +86,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 **Non direbbe mai**: "analisi completata", "probabilità dell'87%" o altro linguaggio da computer; frasi prive di emozione.
 
-**Battute dette in gioco**: —
+**Battute dette in gioco**
+- (s2, riformulata) «Il riso me lo faccio da solo, perché quello della mensa del governatorato sa di colla, e ne avevo fatto troppo, come al solito, quindi me lo sono mangiato tutto, che buttarlo mi dà fastidio.»
+- (s2, riformulata) «Se te lo dico lo stesso, stasera mi tolgono l'incarico, e dalla prossima lezione di tua moglie in fondo all'aula ci mettono due Arc-G2 con le luci accese… secondo te alla preside piacerebbe di più?»
+- (s2, riformulata) «L'ultima volta che l'ho vista mi tirava i capelli finché non le davo la crosta del riso, quella che resta attaccata in fondo alla pentola, e strillava "osta! osta!" con le mani tese.»
 
 **Diario dei rapporti**
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
 - s1 · g13: in borghese in ultima fila all'Aula Magna, con un contenitore di riso. Sorveglia Akira di persona per ordine del re. Si sono visti; non si sono ancora parlati.
+- s2 · g13: Akira lo fissa durante la lezione; lui regge lo sguardo e riprende a mangiare. Dopo, Akira sale da lui. Si offende per "bio-androide" (mangia, dorme). Ammette la sorveglianza. Il rapporto di stasera lo scrive "parola per parola", e gli rinfaccia il messaggio di morte del 774 partito dal suo drone mentre lui era a terra. Ricorda Zemi piccola alla Capsule (la crosta del riso). Gli sfugge che "starebbe a guardare da tutt'altra parte". Akira gli chiede risposte e **gli chiede scusa per Akyr**: le scuse le accetta, impacciato («Non me l'aspettavo, ecco»), ma non parla (Persuasione fallita). Lo rimanda a Tights. Gli dice dove compra il riso per Zemi.
 
 ## Re Korinzo
 **Voce**
@@ -273,8 +285,13 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 **Non direbbe mai**: un insulto diretto; aspettare in silenzio la risposta a una domanda; dare del tu.
 
+**Battute dette in gioco**
+- (s2) «Bene! Benissimo, grazie, bellissima domanda— cioè, no, bellissima proprio no, ma insomma.»
+- (s2, riformulata) «Altre domande? Sulle piante, eh, sulle piante!»
+
 **Diario dei rapporti**
 - s1 · g13: stringe la mano sinistra ad Akira senza fare una piega. Gli segnala, nervosa, la presenza di "un signore del governatorato".
+- s2 · g13: ride più forte di tutti alla Morsicocca, guardando spesso verso Tobias. Chiude in fretta le domande dopo quella sullo scudo («Sulle piante, eh, sulle piante!»). Con Syntia cambia discorso su Tobias. Al comunicatore, sull'Orto: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto»; quando vede Akira a tre metri sorride larghissimo e si gira.
 
 ## Signor Bottone *(nuovo, s1, solo fuori scena)*
 **Voce**
@@ -288,3 +305,5 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - **Rapan**: «Una mano! Con quattro dita! Generale, giuro sulla mia coda, era grigia come una pietra e non puzzava di niente, capite? Di niente, ed è questo il problema!»
 - **Cipoll** (con la bocca piena): «Io gliel'avevo detto di stare zitto, gliel'ho detto due volte.»
 
+## Ragazzo con gli occhiali *(comparsa, s2)*
+- Studente della U.A.C., seconda fila all'Aula Magna. Alla prima lezione si gira per sorridere a Zemi, vede Akira e si rigira. Alle domande chiede a Syntia dello scudo e del Consiglio, guardando Akira; lei lo zittisce («Magari io cosa?») e lui si siede rosso. Senza nome. Probabilmente tornerà alle lezioni.
