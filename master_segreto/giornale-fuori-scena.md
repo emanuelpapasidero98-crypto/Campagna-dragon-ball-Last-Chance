@@ -125,3 +125,20 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 ### G13 mezzogiorno · Aula Magna / U.A.C.
 - **Cosa**: Cannella lascia l'Aula Magna di corsa (ha già avvisato il direttore dell'Orto che la "signora" arriva alle 14; non ha detto niente del marito) e passa sotto l'ultima fila senza alzare gli occhi. Intende arrivare con Syntia all'ingresso delle cupole alle 13:50.
 - **Chi lo sa**: Cannella, Syntia.
+
+### G13 pomeriggio · Babidi, Città dell'Ovest (fuori scena)
+- **Cosa**: Babidi, con la sfera di cristallo, segue Tyros e i suoi per ore dopo il torneo. Capisce che Rapan (spaccone, punito da Tyros per aver chiacchierato) è il punto debole giusto. Ride, saltella, prepara le parole. Dabura dorme.
+- **Conseguenze**: F1 Primo contatto 2/4. Al calare del buio Babidi tenterà il primo contatto telepatico con Rapan.
+- **Chi lo sa**: Babidi, Dabura.
+- **Come Akira può scoprirlo**: per ora nessun modo.
+
+### G13 pomeriggio · Città dell'Ovest, torre di Zaraya (fuori scena)
+- **Cosa**: Tyros non manda nessuno a nord (liti interne tra i Senza Cielo). Zarcon, in corridoio, origlia Zaraya che ordina a Ignis e Okura di partire il g14 verso nord per la "mano grigia".
+- **Conseguenze**: F2 Fronda 4/6 (invariata), Crepa di Zarcon 3/6. Zarcon comincia a pensare di seguirli di nascosto.
+- **Chi lo sa**: Zaraya, Ignis, Okura, Zarcon (non sa di essere stato sentito da nessuno).
+
+### G13 mezzogiorno-pomeriggio · Arcorp City, tavola calda e Orto dell'Est (visto da Akira)
+- **Cosa**: Tobias segue la famiglia a pranzo (bancone della tavola calda) e poi si ferma su una panchina presso il cancello delle cupole. All'Orto, Mirtillo spera che Lattuga sia in vivaio; è nella piazza centrale. Lattuga accusa Akira per la morte del marito; Zemi, sentendo "il giorno che le racconteranno cos'ha fatto suo padre", scatena il ki: onda di pressione, sei pannelli di vetro incrinati nella volta della cupola grande, vasi ribaltati, rose schiacciate, Lattuga spinta contro il muro.
+- **Conseguenze**: F5 Ki di Zemi 4/4 ✅. Il segreto di Syntia è saltato davanti ad Akira («respira come con la lampada»). **Tobias**, sulla panchina al cancello, registra il picco d'energia e corre dentro: ha visto (o vedrà tra pochi secondi) la bambina e i vetri. Deve riferire al re: la figlia di Akira ha un ki che incrina una cupola, il giorno della seduta d'emergenza. Per lui è un dilemma (ricorda Zemi che gli tirava i capelli).  Cannella e Mirtillo hanno visto: l'Orto rischia i fondi, la voce può uscire. Lattuga ha visto una bambina di sei anni muovere l'aria e sa che dirà in giro «quella è come lui».
+- **Chi lo sa**: Akira, Syntia, Zemi, Cannella, Mirtillo, Lattuga, Tobias (a breve).
+- **Come Akira può scoprirlo**: l'ha vissuto. Gli sviluppi (voce in città, Tobias, Consiglio) emergeranno con indizi.

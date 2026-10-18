@@ -30,3 +30,8 @@
 | g13 (s2) | Secondo Tobias, per sapere cosa succede deve chiedere a Tights, che siede nel Consiglio | Tobias |
 | g13 (s2) | Alla Capsule (772-774) Tobias cucinava il riso per i tecnici e Zemi, piccolissima, gli chiedeva la crosta | Syntia e Tobias |
 | g13 (s2) | Cannella ha cambiato discorso due volte quando Syntia le ha chiesto perché Tobias fosse lì. Al comunicatore, sull'appuntamento all'Orto delle 14: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto» | Syntia; l'ha sentita |
+| g13 (s3) | Tobias ha scritto qualche riga al comunicatore appena lui ha finito di parlargli (non ha visto il testo né il destinatario) | L'ha visto |
+| g13 (s3) | La tavola calda in fondo al viale dell'università; Tobias ha pranzato al bancone senza guardare il loro tavolo | Pranzo |
+| g13 (s3) | L'Orto dell'Est è costruito sul fondo del cratere del 774 (35 m riportati di terra). Al centro, un muro di granito con i nomi dei caduti | Mirtillo |
+| g13 (s3) | La caposquadra zia Lattuga ha perso il marito (banco della frutta in via dei Tigli) la mattina del messaggio di Akyr in televisione. Non vuole Akira nelle sue aiuole | Lattuga stessa |
+| g13 (s3) | **Il ki sconosciuto sentito il g6 era di Zemi.** Syntia lo sapeva già (la tecnica della lampada). Ci sono stati altri episodi | Esplosione di ki di Zemi all'Orto; frase di Syntia |

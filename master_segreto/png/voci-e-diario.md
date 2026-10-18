@@ -27,6 +27,8 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s2, riformulata) «Allungo la mano… e l'albicocca apre la bocca!»
 - (s2) «E quelli che scendono dalla rampa dopo di me, che la bocca non l'hanno vista, cosa vedono? Una signora che litiga con un'albicocca!»
 - (s2, riformulata) «Se mio marito viene o no all'Orto lo decido io, mica il direttore.»
+- (s3) «Andrò benissimo se arriviamo in orario, e Cannella ha detto alle due meno dieci, quindi la tavola calda ce la facciamo bastare per mezz'ora, non un minuto di più.»
+- (s3) «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
@@ -38,6 +40,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - s1 · g6: dopo la vetrina di Nova City mente ad Akira ("un sasso"). Il segreto sul ki di Zemi le pesa sempre di più: due notti senza dormire.
 - s1 · g13: prima lezione, con Akira e Zemi in terza fila come voleva.
 - s2 · g13: la lezione va bene (la Morsicocca fa ridere la sala). Il pollice alzato di Akira le dà coraggio. Vede Tobias in ultima fila e sbaglia una parola. Zittisce lo studente che allude ad Akira («Magari io cosa?»). Lascia che Akira vada da Tobias ("niente scenate"); Cannella con lei ha cambiato discorso su Tobias. Vuole Akira con sé all'Orto alle 14, contro l'imbarazzo della Cannella. Akira le ha promesso che non litigherà e che verrà.
+- s3 · g13: dopo la lezione Akira scende da lei e da Zemi con un sorriso e un «andrai benissimo anche lì»; lei risponde con la logistica (Cannella alle due meno dieci). Al pranzo, alla tavola calda, gli chiede a mezza voce cosa gli ha detto Tobias. Alle 14:10 all'Orto Zemi scatena il ki davanti a tutti: lei la calma con la tecnica della lampada («respira come con la lampada: dentro per tre, fuori per tre») e così Akira capisce che sapeva. **Segreto saltato**: dovrà rispondere ad Akira.
 
 ## Zemi
 **Voce**
@@ -54,12 +57,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s2, riformulata) «Va bene… però glielo chiedi tu, dove l'ha preso, e poi me lo racconti giusto, eh, senza inventare niente.»
 - (s2) «Quella signora vale due, ha due libri.»
 - (s2) «Hai detto dopo… è dopo, adesso?»
+- (s3) «Ma lui non ha mica detto dov'è che lo compra, il signore!»
+- (s3) «Il mio papà è buono, sei tu che sei cattiva!» · «Papà… io non volevo.»
 
 **Diario dei rapporti**
 - 774: incontra il padre per la prima volta (aveva 3 anni) mentre lui è Akyr.
 - s1 · g1: gli chiede chi è Lace. Lui le racconta la storia degli allievi contro gli androidi sul pianeta delle piante carnivore. Disegna il papà con due braccia e lo appende davanti al suo letto, "dove lo vedi quando ti svegli".
 - s1 · g13: in terza fila all'Aula Magna, con il vestito giallo. Nota subito Tobias e il suo riso.
 - s2 · g13: nota che Tobias guarda il papà e non la mamma. Akira le dice che ci ha parlato una volta e che andrà a salutarlo; la chiama "scimmietta". Non può andare con lui: gli affida la domanda sul riso, "senza inventare niente" (sa che il papà inventa le storie). Scopre da Syntia di aver mangiato il riso di Tobias da piccola e lo saluta con un «Ciaaao!» dal palco. Aspetta la risposta: banco 14 del mercato coperto, tendone blu.
+- s3 · g13: Akira non le dice dove Tobias compra il riso («è più buono se te lo prepara la mamma»): lei protesta, ancora senza risposta. Alla tavola calda assaggia il riso in bianco («colloso») e saluta Tobias due volte con la forchetta. All'Orto, sentendo Lattuga dire che un giorno le racconteranno cos'ha fatto suo padre, grida «Il mio papà è buono, sei tu che sei cattiva!» e il ki esplode davanti ad Akira. Poi, in lacrime, tende le braccia verso di lui: «Papà… io non volevo.»
 
 ## Tights Brief
 **Voce**
@@ -95,6 +101,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
 - s1 · g13: in borghese in ultima fila all'Aula Magna, con un contenitore di riso. Sorveglia Akira di persona per ordine del re. Si sono visti; non si sono ancora parlati.
 - s2 · g13: Akira lo fissa durante la lezione; lui regge lo sguardo e riprende a mangiare. Dopo, Akira sale da lui. Si offende per "bio-androide" (mangia, dorme). Ammette la sorveglianza. Il rapporto di stasera lo scrive "parola per parola", e gli rinfaccia il messaggio di morte del 774 partito dal suo drone mentre lui era a terra. Ricorda Zemi piccola alla Capsule (la crosta del riso). Gli sfugge che "starebbe a guardare da tutt'altra parte". Akira gli chiede risposte e **gli chiede scusa per Akyr**: le scuse le accetta, impacciato («Non me l'aspettavo, ecco»), ma non parla (Persuasione fallita). Lo rimanda a Tights. Gli dice dove compra il riso per Zemi.
+- s3 · g13 mezzogiorno: appena Akira se ne va («capisco… non più»), scrive a Tights al comunicatore (gli ha detto di chiedere a lei, non ha rivelato niente, Akira si è scusato). Alza tre dita verso Zemi quando lei grida per il riso. Segue la famiglia: pranza al bancone della tavola calda, aspetta su una panchina al cancello delle cupole. Alle 14:10 registra il picco di ki e corre dentro.
 
 ## Re Korinzo
 **Voce**
@@ -292,6 +299,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 **Diario dei rapporti**
 - s1 · g13: stringe la mano sinistra ad Akira senza fare una piega. Gli segnala, nervosa, la presenza di "un signore del governatorato".
 - s2 · g13: ride più forte di tutti alla Morsicocca, guardando spesso verso Tobias. Chiude in fretta le domande dopo quella sullo scudo («Sulle piante, eh, sulle piante!»). Con Syntia cambia discorso su Tobias. Al comunicatore, sull'Orto: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto»; quando vede Akira a tre metri sorride larghissimo e si gira.
+- s3 · g13: lascia l'Aula Magna di corsa senza alzare gli occhi verso l'ultima fila («Alle due meno dieci all'ingresso delle cupole, signora, puntualissimi»). All'Orto arriva col fiatone, sventola un opuscolo e squilla «Eccoli!». Quando il ki di Zemi esplode resta muta, con le mani sulla bocca e gli occhiali di traverso: il suo timore (Akira all'Orto, i fondi) si è avverato.
 
 ## Signor Bottone *(nuovo, s1, solo fuori scena)*
 **Voce**
@@ -307,3 +315,32 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Ragazzo con gli occhiali *(comparsa, s2)*
 - Studente della U.A.C., seconda fila all'Aula Magna. Alla prima lezione si gira per sorridere a Zemi, vede Akira e si rigira. Alle domande chiede a Syntia dello scudo e del Consiglio, guardando Akira; lei lo zittisce («Magari io cosa?») e lui si siede rosso. Senza nome. Probabilmente tornerà alle lezioni.
+
+## Direttore Mirtillo *(nuovo, s3)*
+**Voce**
+- «Due meno dieci in punto, e io che temevo il traffico dei viali, benvenuta, signora, benvenuti, sono Mirtillo.»
+- «Scusi, scusi, l'abitudine… la sinistra, certo.»
+- «Qui sotto c'era il fondo del cratere, trentacinque metri, abbiamo riportato terra fino a questo piano.»
+
+**Non direbbe mai**: una battuta sarcastica; ometterebbe un'ora o un numero. Quando è agitato conta.
+
+**Battute dette in gioco**
+- (s3) «Per ora la chiamiamo N-34.»
+
+**Diario dei rapporti**
+- s3 · g13: riceve Syntia con puntualità assoluta e un po' di panico (sapeva che Lattuga non voleva Akira). Tende la destra ad Akira per riflesso e si corregge. Spera di evitare la piazza centrale; fallisce. Dopo l'esplosione conta i pannelli incrinati.
+
+## Zia Lattuga *(nuova, s3)*
+**Voce**
+- «Direttore, mi aveva detto che veniva solo la signora.»
+- «Mio marito aveva il banco della frutta in via dei Tigli.»
+- «Questo muro lo pulisco io alle sei, prima di aprire, e le rose le ho piantate io.»
+
+**Non direbbe mai**: urlare; usare metafore; insultare con parole volgari. Dice cose precise e le dice piano.
+
+**Battute dette in gioco**
+- (s3) «La mattina che lei ha detto in televisione che la città sarebbe bruciata è andato ad aprire la serranda lo stesso, perché diceva che le pesche non aspettano.»
+- (s3) «Lei i nomi li dia pure alle sue piante, signora, che non ce l'ho con lei, ma quello lì in mezzo alle mie aiuole non lo voglio.»
+
+**Diario dei rapporti**
+- s3 · g13: Odio 5 verso Akira. Lo accusa per la morte del marito nel 774. Dice alla madre della bambina che un giorno le racconteranno cos'ha fatto suo padre. Il ki di Zemi la spinge contro il muro dei nomi; resta a guardare la bambina a bocca aperta, la cazzuola a terra.

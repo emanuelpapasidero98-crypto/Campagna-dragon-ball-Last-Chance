@@ -42,3 +42,18 @@ Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da 
 ## Ragazzo con gli occhiali *(comparsa, s2)*
 - Studente della U.A.C., seconda fila all'Aula Magna, quaderno sempre stretto al petto. Curioso e un po' impiccione. Ha chiesto a Syntia dello scudo e del Consiglio guardando Akira, ed è stato zittito. Senza nome finché non serve.
 - **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 2
+
+## Direttore Mirtillo *(mirtillo)* — nuovo, s3
+- **Ruolo**: direttore dell'Orto Botanico dell'Est (U.A.C.). 54 anni. **Aspetto**: alto e curvo, pochi capelli bianchi tirati all'indietro, cappello di paglia a tese larghe, taccuino con matita legata a un laccio, orologio grande al polso.
+- **Voce**: precisa, frasi lunghe e corrette, dà del lei, si scusa quando si corregge. Ama gli orari, le etichette, i numeri (annota anche l'ora in cui Syntia dà un nome). Quando è agitato conta.
+- **Desiderio**: aprire l'Orto nella data fissata senza incidenti e con i nomi di Syntia sulle targhette. **Paura**: i tagli ai fondi e qualsiasi "storia" in un luogo costruito sul cratere del 774.
+- **Sa**: che Syntia è la moglie di Akira; che la sua caposquadra Lattuga non voleva Akira (per questo aveva chiesto a Cannella se sarebbe venuto). **Non sa**: nulla della crisi, di Tobias, del ki di Zemi (fino al g13 14:30).
+- **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 4 (all'Orto)
+
+## Zia Lattuga *(lattuga)* — nuova, s3
+- **Ruolo**: caposquadra dei giardinieri dell'Orto dell'Est ("zia" per tutti i suoi). 63 anni. **Aspetto**: minuta e nodosa, treccia grigia arrotolata sotto un fazzoletto a quadri, ginocchiere di cuoio sporche di terra, cazzuola sempre in pugno.
+- **Voce**: bassa e rauca, non alza mai la voce; frasi concrete e pesanti, nessun giro di parole. Parla di cose precise (la serranda, le pesche, le sei del mattino).
+- **Storia**: suo marito aveva il banco della frutta in via dei Tigli; la mattina in cui Akyr disse in diretta che la città sarebbe bruciata andò ad aprire la serranda lo stesso ("le pesche non aspettano") e lo tirarono fuori dopo due giorni da sotto il palazzo. Il suo nome è nella terza colonna, in basso, sul muro di granito della piazza centrale. Lei lo pulisce alle sei, prima di aprire, e ha piantato le rose.
+- **Desiderio**: che il muro dei nomi resti suo e che nessuno ci cammini sopra con aria da visita. **Paura**: che la città passi oltre, e che l'Orto diventi una vetrina con un nastro da tagliare.
+- **Sa**: chi è Akira e cosa ha detto nel 774; ha visto Zemi scatenare il ki. **Non sa**: Akyr, Zaraya, il lavaggio del cervello (conosce solo il messaggio).
+- **Parametri** (verso Akira): Rispetto 1 · Amore 1 · Odio **5** · Spietatezza 2 · Lealtà 5 (ai suoi morti e all'Orto)

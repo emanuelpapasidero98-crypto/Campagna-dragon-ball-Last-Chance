@@ -26,3 +26,7 @@
 - `2026-10-17 23:14:41 UTC` 🎲 F5 Zemi: d10 = 7 | mod +0 → totale 7 | Successo Pieno | Salto g2-13: ki di Zemi (trasloco, sguardi, citta)
 - `2026-10-17 23:14:41 UTC` 🎲 F5 Incubi: d10 = 5 | mod +0 → totale 5 | Successo Parziale | Notte g11: ultima notte nella foresta prima della partenza
 - `2026-10-17 23:14:41 UTC` 🎲 F5 Incubi: d10 = 8 | mod +0 → totale 8 | Successo Pieno | Notte g12: prima notte ad Arcorp City
+- `2026-10-18 19:26:47 UTC` 🎲 F1_Babidi: d10 = 9 | mod +0 → totale 9 | Successo Pieno | Salto_s3_g13_pomeriggio:primo_contatto/energia
+- `2026-10-18 19:26:47 UTC` 🎲 F2_Tyros: d10 = 2 | mod +0 → totale 2 | Fallimento | Salto_s3_g13_pomeriggio:fronda_dei_Senza_Cielo
+- `2026-10-18 19:26:47 UTC` 🎲 F2_Zarcon: d10 = 8 | mod +0 → totale 8 | Successo Pieno | Salto_s3_g13_pomeriggio:crepa_di_Zarcon
+- `2026-10-18 19:26:47 UTC` 🎲 F5_Zemi: d10 = 10 | mod -1 → totale 9 | SUCCESSO CRITICO | Salto_s3_g13_pomeriggio:ki_di_Zemi_(giornata_felice_ma_citta_nuova)

@@ -11,7 +11,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
 | Recupero della sfera di Bu | `[■■■■]` 4/4 ✅ (G1 notte) | La sfera è a bordo. Inizia la raccolta di energia |
-| Primo contatto coi saiyan | `[■□□□]` 1/4 | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
+| Primo contatto coi saiyan | `[■■□□]` 2/4 (g13 pomeriggio) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
 | Esercito Majin | `[□□□□□□]` 0/6 | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
 | **Energia di Bu** | `[■□□□□□□□□□□□]` 1/12 | **Majin Bu si risveglia** |
 | Scoperta di Kras | `[□□□□□□□□]` 0/8 | Babidi localizza Varda e parte con la navicella (vedi F6) |
@@ -27,7 +27,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 |---|---|---|
 | Scoperta degli intrusi | `[■■□]` 2/3 | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
 | Fronda dei Senza Cielo (Tyros) | `[■■■■□□]` 4/6 | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
-| La crepa di Zarcon | `[■■□□□□]` 2/6 | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
+| La crepa di Zarcon | `[■■■□□□]` 3/6 (g13 pomeriggio) | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
 | Zaraya e Babidi | — | Ramo da decidere al contatto: Zaraya cerca di **usare** Babidi (i cannoni) e Babidi di **marchiarla**. Tiro contrapposto, con Zaraya a +2 per l'orgoglio |
 
 ## F3 — I Kaioshin: "La caccia"
@@ -49,7 +49,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 ## F5 — Casa di Akira: "La quiete"
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| Il ki di Zemi | `[■■□□]` 2/4 | Zemi manifesta il ki davanti ad Akira, o in pubblico (in pubblico sarebbe un disastro sociale) |
+| Il ki di Zemi | `[■■■■]` 4/4 ✅ (g13, Orto dell'Est) | Zemi manifesta il ki davanti ad Akira, o in pubblico (in pubblico sarebbe un disastro sociale) |
 | Il segreto di Syntia (conferenze) | `[■□□]` 1/3 | Syntia deve rispondere all'Università. Se Akira non se ne accorge, lei decide da sola |
 | Gli incubi | — | Peggiorano con lo stress. Ogni notte di stress forte: tiro segreto; con 1-2 Akira si sveglia con l'aura accesa (e la sorveglianza lo registra) |
 
@@ -110,3 +110,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Notte g11 (s1) | F5 Incubi | tiro 5 | Sonno agitato, nessuna aura |
 | Notte g12 (s1) | F5 Incubi | tiro 8 | Notte tranquilla |
 | G13 mattina (s2) | — | nessun avanzamento | Meno di tre ore di gioco (lezione e dialogo con Tobias). Sorveglianza F4: Tobias riferirà stasera che Akira lo ha affrontato con calma, si è scusato e ha chiesto della crisi. Seduta d'emergenza del Consiglio confermata per la sera del g13: esito da decidere/tirare quando il tempo arriva in gioco (o in un salto) |
+| G13 pomeriggio (s3) | F1 Primo contatto | 1 → 2 | Tiro 9. Dalla sfera di cristallo Babidi segue per ore Tyros e i giovani Senza Cielo dopo il torneo del g12. Vantaggio: capisce che il punto debole non è il generale ma Rapan, spaccone, punito da Tyros per aver chiacchierato: lo sceglie come primo tramite. Tenterà il contatto telepatico a Rapan al calare del buio |
+| G13 pomeriggio (s3) | F2 Fronda | 4 (inciampo) | Tiro 2. Tyros passa il giorno a litigare coi suoi su chi mandare a nord senza che la regina se ne accorga; non manda nessuno. Sa che Ignis e Okura partiranno prima di lui |
+| G13 pomeriggio (s3) | F2 Crepa di Zarcon | 2 → 3 | Tiro 8. Vantaggio: Zarcon, nella torre, origlia Zaraya che dà ordini a Ignis e Okura per il g14 e capisce che vanno a nord, dove c'è la "mano grigia". Comincia a pensare di seguirli di nascosto |
+| G13 pomeriggio (s3) | F5 Ki di Zemi | 2 → 4 ✅ | Tiro 10 naturale (critico, +2 segmenti; mod −1 per giornata felice, ininfluente sul critico). Orto dell'Est: Zemi sente la caposquadra Lattuga dire che il giorno in cui le diranno cosa ha fatto suo padre si vedrà che faccia fa, e il ki esplode davanti ad Akira, Syntia, Cannella, Mirtillo e Lattuga. Onda di pressione, sei pannelli incrinati nella volta della cupola grande. Akira riconosce il ki del g6 |

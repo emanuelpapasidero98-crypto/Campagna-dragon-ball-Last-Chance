@@ -23,6 +23,9 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s3 · g13] Una **tavola calda in fondo al viale** dell'università, consigliata da Cannella: a mezzogiorno e mezzo si riempie.
 - [s3 · g13] L'appuntamento all'Orto dell'Est è alle **14 meno dieci, all'ingresso delle cupole**; il direttore è "puntualissimo" (Cannella).
 
+- [s3 · g13] La **piazza centrale** dell'Orto dell'Est: cerchio di pietra chiara, aiuole di fiori gialli e bianchi, un **muro di granito scuro** con i nomi dei caduti del 774 in colonne fitte e rose gialle ai piedi. L'Orto sorge sul fondo del cratere (35 metri di terra riportata fino al piano delle serre). Cupola delle radici; cupola grande al centro.
+- [s3 · g13] La volta della cupola grande ha sei pannelli di vetro incrinati dall'esplosione di ki di Zemi (14:10).
+
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
 - [s1 · g1] Pancotto: l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti"; Syntia pensa che abbia sbattuto contro il vetro della serra (c'era una piuma attaccata). Ala sinistra fasciata con uno strofinaccio a quadretti (quello buono). Vive in una cassetta di legno accanto alla stufa. Fa «Krooo». Al g11 apre l'ala a metà: sta guarendo. Viaggia in una scatola di cartone bucata.
@@ -38,6 +41,11 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s2 · g13] Tobias mangia e dorme "quando lo lasciano". Si cucina il riso da solo, ne fa troppo e lo finisce perché buttarlo gli dà fastidio. Lavarlo tre volte, "se no viene colloso".
 - [s2 · g13] Negli anni alla Capsule Corp (772-774) Tobias cucinava il riso per tutto il piano dei tecnici. Zemi, a circa due anni, gli tirava i capelli per avere la crosta in fondo alla pentola e strillava «osta! osta!». Zemi non se lo ricorda.
 - [s2 · g13] Quando Akira la prende in braccio, Zemi gli si aggrappa al collo con tutte e due le braccia.
+
+- [s3 · g13] **Direttore Mirtillo**: alto e curvo, capelli bianchi radi tirati all'indietro, cappello di paglia a tese larghe, taccuino con la matita legata a un laccio, orologio grande al polso. Annota l'ora in cui Syntia dà un nome.
+- [s3 · g13] **Zia Lattuga**: caposquadra dei giardinieri dell'Orto. Minuta e nodosa, treccia grigia sotto un fazzoletto a quadri, ginocchiere di cuoio, cazzuola. Il marito aveva il banco della frutta in via dei Tigli e morì nel 774; il nome è nella terza colonna del muro, in basso. Pulisce il muro alle sei e ha piantato le rose.
+- [s3 · g13] La tavola calda in fondo al viale: tavoli di formica verde, cuoca che urla gli ordini. Il riso in bianco è «colloso» (Zemi).
+- [s3 · g13] Zemi, quando il ki esplode, ha i capelli neri sollevati tutti insieme; la tecnica per calmarla (usata con la lampada): «dentro per tre, fuori per tre».
 
 ## Oggetti
 - [pre-campagna] Il braccio Arc-G è nero opaco con venature rosse fluorescenti. Akira l'ha restituito a Tights.
@@ -62,6 +70,8 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g1] Gli alberi della foresta di Nova hanno tronchi enormi grigio-azzurri.
 - [s2 · g13] **Morsicocca**: sembra un'albicocca grande quanto due mani a coppa (arancione, tonda, buccia vellutata), appesa a un ramo basso. Il "picciolo" è la coda, con cui si arrampica. Ha una bocca piena di dentini piccoli e caccia gli uccelli che vengono a beccarla. È il primo animale che Syntia ha visto su Terra Nova, il giorno dello sbarco: l'ha morsa. Nome di Syntia, pagina dodici dell'*Atlante*.
 - [s2 · g13] La ronfolina ha le foglie a punta; in infuso "ti mette a dormire in dieci minuti" (Syntia).
+
+- [s3 · g13] **Starnutina**: cespuglio basso con bacche viola grosse come noci (N-34 in laboratorio). La bacca, toccata, scoppia in una nuvola di polvere gialla che fa starnutire a catena. Nome di Syntia, annotato alle 14:07.
 
 ## Abitudini, usanze, dettagli quotidiani
 - [pre-campagna] Zemi chiama i broccoli di Terra Nova "alberi tristi".

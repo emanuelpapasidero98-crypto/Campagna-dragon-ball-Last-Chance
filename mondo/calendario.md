@@ -12,3 +12,4 @@ Il "giorno 1" è il giorno dell'incipit (la cena). Annotare ogni passaggio di te
 | Anno 777, giorno 12 | 1 (salto) | Primo giorno ad Arcorp, attico della Capsule nella zona est |
 | Anno 777, giorno 13, mattina | 1 | Prima lezione di Syntia all'Aula Magna della U.A.C. |
 | Anno 777, giorno 13, tarda mattina | 2 | Fine della prima lezione (salto di un'ora). Akira parla con Tobias in ultima fila. In programma: pranzo veloce, alle 14 Orto dell'Est con Syntia. Seconda lezione fissata per il g16 |
+| Anno 777, giorno 13, mezzogiorno - 14:10 | 3 | Akira scende da Tobias. Pranzo veloce alla tavola calda. Alle 13:50 Orto dell'Est (salto chiesto dal giocatore, interrotto alle 14:10 dall'esplosione di ki di Zemi) |
