@@ -66,6 +66,7 @@ Esempio del testo bocciato:
 - **Esitazioni**: puntini (…), un solo carattere. ✅ «Io… non lo so.»
 - **Enfasi**: corsivo, con parsimonia. ✅ «Con il *mio* pane!»
 - **Pensieri dei PNG**: non si narrano (non siamo nella loro testa). Si mostrano con espressioni e gesti.
+- **Colori**: in gioco le battute dei PNG vanno scritte colorate, con il formato e la tavolozza di `regole/07-colori-dialoghi.md`. Gli esempi di questa guida sono in testo semplice solo per leggibilità.
 
 ---
 
