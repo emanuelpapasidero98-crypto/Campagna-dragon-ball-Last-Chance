@@ -142,3 +142,8 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Conseguenze**: F5 Ki di Zemi 4/4 ✅. Il segreto di Syntia è saltato davanti ad Akira («respira come con la lampada»). **Tobias**, sulla panchina al cancello, registra il picco d'energia e corre dentro: ha visto (o vedrà tra pochi secondi) la bambina e i vetri. Deve riferire al re: la figlia di Akira ha un ki che incrina una cupola, il giorno della seduta d'emergenza. Per lui è un dilemma (ricorda Zemi che gli tirava i capelli).  Cannella e Mirtillo hanno visto: l'Orto rischia i fondi, la voce può uscire. Lattuga ha visto una bambina di sei anni muovere l'aria e sa che dirà in giro «quella è come lui».
 - **Chi lo sa**: Akira, Syntia, Zemi, Cannella, Mirtillo, Lattuga, Tobias (a breve).
 - **Come Akira può scoprirlo**: l'ha vissuto. Gli sviluppi (voce in città, Tobias, Consiglio) emergeranno con indizi.
+
+### G13 14:12 · Orto dell'Est, piazza centrale (visto da Akira)
+- **Cosa**: Tobias arriva di corsa al margine della piazza. Ha visto (o vede subito) Zemi, i pannelli incrinati e Lattuga contro il muro. Tiene il comunicatore spento. Il dilemma: l'ordine è riferire tutto, ma conosce Zemi da piccola e sa cosa succederebbe alla bambina se il re e il Consiglio lo sapessero la sera della seduta d'emergenza.
+- **Conseguenze possibili (da decidere in scena)**: scrive tutto nel rapporto; omette; avverte Tights prima del Consiglio. Qualunque scelta, Cannella e Mirtillo hanno visto e Lattuga può parlare in giro.
+- **Chi lo sa**: Akira, Syntia, Zemi, Cannella, Mirtillo, Lattuga, Tobias.

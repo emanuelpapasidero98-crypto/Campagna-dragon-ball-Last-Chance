@@ -7,6 +7,8 @@
 
 *Appunto provvisorio*: Akira ha lasciato Tobias («capisco… non più»), è sceso da Syntia e Zemi e ha chiesto un pranzo veloce. **Salto temporale chiesto dal giocatore** (fino alla fine della visita all'Orto), interrotto alle 14:10 circa nella piazza centrale dell'Orto: la caposquadra Lattuga ha accusato Akira per la morte del marito e il ki di Zemi è esploso davanti a tutti. Akira ha riconosciuto il ki del g6.
 
+*Seguito (g13 ~14:12)*: al pranzo Akira ha detto a Syntia di aver chiesto scusa a Tobias per quello che era successo anni prima. All'Orto è rimasto quasi sempre in silenzio, sorridendo di tanto in tanto per non sembrare scortese; all'accusa di Lattuga il suo volto si è scurito (sensi di colpa), ha cominciato «io… non si preoccupi, me ne va—» ed è stato interrotto dal ki di Zemi. Ha capito che il ki del g6 era di Zemi, che la vetrina non l'aveva rotta un sasso e che Syntia gli aveva mentito sapendo benissimo. Ha chiesto scusa a tutti e si è impegnato a ripagare i danni; poi, con sguardo severo, ha detto a Zemi e a Syntia «adesso andiamo a casa…». Zemi ha ritirato le braccia e si è nascosta contro Syntia. Tobias è arrivato di corsa al margine della piazza.
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -24,6 +26,8 @@
 - [s3 · g13] **Zia Lattuga**, caposquadra dei giardinieri: minuta, treccia grigia sotto un fazzoletto a quadri, ginocchiere di cuoio, cazzuola. Suo marito aveva il banco della frutta in via dei Tigli; la mattina in cui Akyr annunciò in televisione che la città sarebbe bruciata andò ad aprire la serranda lo stesso («le pesche non aspettano»). Lo tirarono fuori dopo due giorni da sotto il palazzo. Il suo nome è nella terza colonna, in basso. Lei pulisce il muro alle sei e ha piantato le rose.
 - [s3 · g13 14:10] **Il ki di Zemi esplode** nella piazza centrale: sibilo, sassolini che saltano, capelli sollevati, onda di pressione (*WHUUUUM!*) che ribalta i vasi, schiaccia le rose, strappa il cappello a Mirtillo, spinge Lattuga contro il muro e incrina sei pannelli nella volta della cupola grande (*KRAAAAK*). Un frammento cade tra le foglie. Presenti: Akira, Syntia, Zemi, Cannella, Mirtillo, Lattuga.
 - [s3 · g13] Syntia calma Zemi con la tecnica della lampada: «respira come con la lampada: dentro per tre, fuori per tre».
+- [s3 · g13] Dopo l'onda di ki la polvere si posa sul muro dei nomi, sulle lettere incise. Odore di rose spezzate e terra smossa.
+- [s3 · g13 14:12] Tobias, arrivato di corsa dal cancello, si ferma dove il sentiero esce dalle serre; ha il comunicatore in mano, con lo schermo spento.
 
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
@@ -35,6 +39,10 @@
 - Lattuga: «alla bambina le conviene stare attenta, perché il giorno che le racconteranno cos'ha fatto suo padre voglio proprio sapere che faccia fa.»
 - Zemi: «Il mio papà è buono, sei tu che sei cattiva!» · «Papà… io non volevo.»
 - Syntia: «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
+- Akira: «Mi dispiace molto!! Mi impegno a ripagare tutti i danni…» · «Adesso andiamo a casa…» (con sguardo severo, a Zemi e a Syntia)
+- Syntia: «Non qui, Akira, e non davanti a lei, che ha già abbastanza paura così.»
+- Lattuga: «Prima ha detto che se ne andava, e allora vada, e i suoi soldi se li tenga.»
+- Cannella: «Si cambiano i pannelli e finita lì, il punto è che al Consiglio non devono saperlo per forza, direttore, mi dica che non devono saperlo, che quelli ci tolgono i fondi all'università per un vetro rotto!»
 
 ### Momenti chiave nei rapporti
 - Tobias, appena Akira ha finito di parlare, scrive qualche riga al comunicatore (a Tights, in segreto: vedi giornale). Akira lo vede ma non può leggere.
@@ -42,6 +50,9 @@
 - Akira, a Tobias: «Capisco… forse mi sto impicciando in cose che non mi competono… non più». Si ritira dalla richiesta, serio, e scende. Dice «ci vediamo».
 - Akira a Syntia: «andrai benissimo anche lì, vedrai». A Zemi: «il riso è più buono se te lo prepara la mamma… ma dove andiamo adesso sono sicuro che ci sarà». **Non ha detto a Zemi del banco 14**: Zemi protesta, ancora senza risposta.
 - Akira non ha ancora risposto a Zemi su dove Tobias compra il riso (resta sospeso).
+- Al pranzo Akira dice a Syntia che a Tobias ha chiesto scusa per quello che accadde anni prima (non altro).
+- Akira all'Orto: silenzioso, con sorrisi cortesi; all'accusa di Lattuga il volto gli si scurisce. Poi capisce che Syntia sapeva e gli ha mentito (il g6, «un sasso»). Guarda Zemi e Syntia con sguardo severo: «Adesso andiamo a casa…». Zemi si ritrae, in lacrime; Syntia: «Non qui, e non davanti a lei».
+- Lattuga rifiuta i soldi di Akira, gli dice di andarsene, e appoggia il palmo sul muro, sulla colonna del marito.
 - **Zemi manifesta il ki davanti ad Akira** (e davanti a Cannella, Mirtillo e Lattuga). Akira riconosce il ki sentito il g6. Syntia lo sapeva (la tecnica della lampada).
 
 ## Contatore metafore (massimo 1 per PNG a sessione)

@@ -6,7 +6,7 @@
 - **Sessione corrente**: 3 in corso
 - **Data in gioco**: anno 777, giorno 13, primo pomeriggio (circa le 14:10)
 - **Luogo**: Arcorp City, Orto Botanico dell'Est, piazza centrale (ai piedi del muro dei nomi). Alloggio: attico della Capsule nella zona est
-- **Scena in sospeso**: piazza centrale dell'Orto dell'Est, subito dopo l'esplosione di ki di Zemi. Presenti: Akira, Syntia (in ginocchio con Zemi in braccio, la calma con la tecnica della lampada), Zemi (in lacrime: «Papà… io non volevo.», con le braccia tese verso Akira), la preside Cannella (muta, le mani sulla bocca), il direttore Mirtillo (conta i sei pannelli incrinati) e la caposquadra zia Lattuga (schiena al muro dei nomi, la cazzuola a terra, guarda Zemi). Poco prima Lattuga aveva accusato Akira per la morte del marito nel 774. Tobias è sul cancello delle cupole e sta per arrivare. Il pranzo in famiglia è già stato fatto (tavola calda, Tobias al bancone). Akira non ha ancora detto a Zemi dove Tobias compra il riso. Prossima lezione: g16. Stasera il Consiglio è in seduta d'emergenza (Akira non lo sa).
+- **Scena in sospeso**: piazza centrale dell'Orto dell'Est (circa le 14:12), pochi istanti dopo l'esplosione di ki di Zemi. Akira ha chiesto scusa a tutti, si è impegnato a ripagare i danni e ha detto a Syntia e a Zemi, con sguardo severo, «Adesso andiamo a casa…». Zemi ha ritirato le braccia ed è nascosta in lacrime contro la spalla di Syntia. Syntia, con Zemi sull'anca, gli ha risposto «Non qui, Akira, e non davanti a lei, che ha già abbastanza paura così». Il direttore Mirtillo è corso dalla caposquadra zia Lattuga, che lo ha scostato: ha detto ad Akira di andarsene e di tenersi i suoi soldi, poi ha appoggiato il palmo sul muro dei nomi. Cannella, in preda al panico, chiede a Mirtillo che il Consiglio non lo sappia. Tobias è appena arrivato di corsa al margine della piazza, dove il sentiero esce dalle serre, con il comunicatore in mano e lo schermo spento; li guarda tutti, Akira per ultimo. Akira non ha ancora detto a Zemi dove Tobias compra il riso. Prossima lezione: g16. Stasera il Consiglio è in seduta d'emergenza (Akira non lo sa).
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -20,7 +20,8 @@
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
-- **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva (la tecnica della lampada) e non gliel'ha detto. Lattuga, Cannella e Mirtillo hanno visto. Tobias sta per arrivare.
+- **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva (la tecnica della lampada) e gli ha mentito sulla vetrina («un sasso»). Lattuga, Cannella e Mirtillo hanno visto; Tobias è arrivato subito dopo e ha il comunicatore in mano.
+- Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro). Syntia dovrà rispondergli a casa, non davanti a Zemi.
 - Akira non ha risposto a Zemi su dove Tobias compra il riso. Syntia gli ha chiesto cosa gli ha detto Tobias.
 - Tobias ha scritto a qualcuno al comunicatore appena Akira ha finito di parlare.
 - Babidi è sulla vecchia Terra (Akira non lo sa).
@@ -32,6 +33,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G13 ~14:12 (s3): Akira, che aveva già capito che Syntia sapeva, chiede scusa a tutti e dice «andiamo a casa» con sguardo severo; Zemi si ritrae in lacrime. Lattuga lo manda via e rifiuta i suoi soldi. Cannella teme per i fondi. Arriva Tobias.
 - G13 ~14:10 (s3): all'Orto, dopo il giro con il direttore Mirtillo (la Starnutina), la caposquadra zia Lattuga accusa Akira per la morte del marito nel 774. Zemi, sentendo che un giorno le diranno cos'ha fatto suo padre, scatena il ki: onda di pressione, sei pannelli incrinati, Lattuga spinta contro il muro. Akira riconosce il ki del g6. Syntia calma Zemi con la tecnica della lampada.
 - G13 mezzogiorno (s3): Tobias scrive al comunicatore (non si vede a chi). Pranzo alla tavola calda in fondo al viale.
 - G1 sera: cena in famiglia. Zemi chiede chi è Lace. Syntia rivela l'invito della U.A.C. (6 lezioni in 3 settimane ad Arcorp City, dal giorno 13; risposta entro il giorno 4). Akira accetta di andare con lei e Zemi.

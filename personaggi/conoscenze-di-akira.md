@@ -35,3 +35,5 @@
 | g13 (s3) | L'Orto dell'Est è costruito sul fondo del cratere del 774 (35 m riportati di terra). Al centro, un muro di granito con i nomi dei caduti | Mirtillo |
 | g13 (s3) | La caposquadra zia Lattuga ha perso il marito (banco della frutta in via dei Tigli) la mattina del messaggio di Akyr in televisione. Non vuole Akira nelle sue aiuole | Lattuga stessa |
 | g13 (s3) | **Il ki sconosciuto sentito il g6 era di Zemi.** Syntia lo sapeva già (la tecnica della lampada). Ci sono stati altri episodi | Esplosione di ki di Zemi all'Orto; frase di Syntia |
+| g13 (s3) | **Syntia gli ha mentito sulla vetrina del g6** («un sasso»): sapeva del ki di Zemi e dei suoi episodi (la lampada) e non gliel'ha detto | Dedotto dopo l'esplosione e dalle parole di Syntia |
+| g13 (s3) | Cannella teme che il Consiglio sappia dell'incidente (fondi dell'università) | L'ha sentita |
