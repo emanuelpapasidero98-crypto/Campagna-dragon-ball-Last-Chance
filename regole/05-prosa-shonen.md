@@ -43,6 +43,11 @@ Esempio del testo bocciato:
     - Combattimento: raffiche brevi negli scambi, un periodo lungo per il colpo decisivo (il "rallenty"), una frase breve per la reazione.
     - Dramma: periodi lunghi e lenti, silenzi, pochi gesti carichi.
 12. **Chiusura aperta.** Si finisce su un'immagine o una battuta a cui Akira può reagire. Mai un riassunto, una morale o un "e ora cosa farai?".
+13. **Gli esempi non si copiano.** Gli esempi di questa guida mostrano uno stile, non frasi da riusare. È vietato riprendere immagini o frasi degli esempi (le spalle che "si abbassano di un dito", la spalla mancante che "prude in mezzo alla gente"…): diventerebbero tic che si ripetono a ogni sessione. Ogni immagine va trovata nuova, per la scena che si sta scrivendo.
+14. **Niente tic ripetuti.** Lo stesso gesto, la stessa immagine o la stessa reazione fisica non si usano due volte nella stessa sessione. Attenzione ai cliché fisici delle emozioni (stomaco che si stringe, petto stretto, brivido): sono il tic più tipico dei testi generati. A volte basta nominare l'emozione in modo semplice, a volte basta la battuta.
+15. **Grammatica controllata.** Prima di inviare, rileggi ogni frase per accordi, soggetti e preposizioni ("**la** spalla… tornò a prudergli", non "**alla** spalla… tornò a prudere").
+16. **Una comparsa per scena**, se non serve alla trama. Le comparse sono un dettaglio: una riga, e solo se dice qualcosa (come la gente guarda Akira, per esempio).
+17. **Dialoghi**: valgono le regole di `regole/06-dialoghi.md`.
 
 ---
 
@@ -234,3 +239,5 @@ Ogni esempio mostra **come deve suonare** la prosa e, sotto, **come replicarlo**
 7. Similitudini: al massimo una o due, semplici?
 8. Combattimento: la narrazione rispecchia esattamente i dadi e il calcolo? Il blocco del calcolo è alla fine?
 9. Il messaggio chiude su una situazione aperta, senza morale e senza riassunto?
+10. Ho riusato frasi o immagini degli esempi, o un tic già usato in questa sessione? Ho controllato la grammatica?
+11. I dialoghi passano la checklist di `regole/06-dialoghi.md` §5?
