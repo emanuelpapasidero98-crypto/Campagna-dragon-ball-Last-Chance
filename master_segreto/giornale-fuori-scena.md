@@ -159,3 +159,9 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa**: Tobias accompagna Akira e Zemi al cancello e li sorveglia da un pilastro. Nel frattempo, nella stanza dietro le serre, Syntia, Cannella e Mirtillo trattano (esito già deciso in giornale a 14:12-15:00): la lezione del g16 si fa; Akira e Zemi non possono entrare nell'Orto per ora; Mirtillo deve compilare la segnalazione dei pannelli. Syntia esce verso le 14:45-15:00.
 - **Conseguenze**: Tobias non ha ancora scritto a Tights né al re sul fatto di Zemi. L'eventuale messaggio a Tights ("Zemi, Orto, 14:10") è una sua scelta, da fare in scena.
 - **Chi lo sa**: Tobias, Akira, Syntia, Cannella, Mirtillo, Lattuga e i giardinieri (questi ultimi per sentito dire).
+
+### G13 ~14:40 · Orto dell'Est → Capsule Corp (messaggio di Tobias a Tights)
+- **Cosa**: Tobias scrive a Tights: «Akira ti aspetta stasera all'1 all'attico. Da soli. Dice che vuole dirti di persona di Zemi e che ha anche altro da dirti. Il picco di ki all'Orto è di Zemi, 6 anni, non suo. Gli Arc-G2 li ho rimandati io.» Tights legge fra le carte della seduta. Non risponde subito (stesso orgoglio di prima), ma stavolta Akira ha fatto la prima mossa. Decisione di Tights da tirare/decidere in scena a fine seduta (modificatori: Amore 4 verso Akira, orgoglio, stanchezza, esito della seduta).
+- **Conseguenze**: Tights sa dal messaggio di Tobias (e dai sensori) che il picco è di Zemi e non di Akira: la seduta ha un argomento in più a favore di Akira (non è lui a perdere il controllo) e uno contro (una bambina con un ki che incrina una cupola).
+- **Chi lo sa**: Tobias, Tights.
+- **Come Akira può scoprirlo**: se Tights viene all'una (o manda una risposta tramite Tobias, che sta fuori dalla porta); dalle prime parole di Tights.

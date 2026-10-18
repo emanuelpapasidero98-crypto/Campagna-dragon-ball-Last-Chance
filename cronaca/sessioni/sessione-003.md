@@ -13,6 +13,8 @@
 
 *Seguito (g13 ~14:30)*: Akira dice a Syntia di sì («non preoccuparti»), prende in braccio Zemi («no piccola, non lo faccio più…», sorridendo). Vede gli Arc-G2 e va da Tobias: «lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…»; dice che porterà Zemi all'attico di Tights e che, dopo aver parlato con Syntia, spiegherà personalmente la situazione a Tights; chiede di non dispiegare pattuglie, perché Zemi è già spaventata. Tobias manda via i due Arc-G2, dice che altre pattuglie non ne chiama finché decide lui sul posto, che il picco è già nei sensori e che non sa ancora cosa scriverà stasera; avverte che Tights stasera è in riunione fino a notte. Accompagna Akira e Zemi al cancello. Akira aspetta Syntia all'ingresso.
 
+*Seguito (g13 ~14:40)*: al cancello Akira rassicura Zemi («tra poco tesoro… tu rilassati adesso») e le dice di riposare; lei si addormenta in braccio a lui. A Tobias dice che Tights il tempo per lui lo troverà, che non vuole che la cosa le arrivi solo tramite dati su un'interfaccia ma intende dirglielo di persona, che ha anche altro da dirle, e gli chiede di riferirle che stasera l'aspetta all'attico all'una di notte, solo lui e lei. Tobias accetta di scriverglielo subito, non garantisce che venga, e ricorda che lui resterà fuori dalla porta (ordine) ma non entrerà.
+
 ## Appunti in corso di sessione
 ### Fatti stabiliti (dettagli inventati)
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia. Quando scrive, inclina lo schermo contro il ginocchio, lontano dagli occhi degli altri, e muove le labbra mentre rilegge.
@@ -42,6 +44,10 @@
 - [s3 · g13] Tobias ha deciso di non chiamare altre pattuglie «finché decido io qui sul posto». I sensori hanno già registrato il picco di ki. Tobias non ha deciso cosa scrivere stasera. Stasera Tights è in riunione fino a notte (lo dice Tobias).
 - [s3 · g13] Zemi sul fatto che gli Arc-G2 «non hanno la faccia» (paura).
 
+- [s3 · g13 ~14:40] Zemi si addormenta in braccio ad Akira al cancello (stanca dopo il picco di ki e il pianto).
+- [s3 · g13] **Appuntamento**: Akira ha fatto dire a Tights, tramite Tobias, di raggiungerlo **stasera all'una di notte all'attico** (solo lui e lei). Tobias sta fuori dalla porta dell'attico per ordine (sorveglianza), ma non entra.
+- [s3 · g13] Sul marciapiede opposto una donna con un carrello della spesa vede Akira con la bambina e cambia lato del viale.
+
 ### Battute memorabili dei PNG
 - Zemi: «Papààà! Allora?! Dov'è che lo prende, il riso?!»
 - Syntia: «Akira, se hai finito il giro di saluti scendi, che a mezzogiorno e mezzo la tavola calda in fondo al viale, quella che ci ha consigliato Cannella, si riempie, e io con questa qui in braccio la fila non la faccio.»
@@ -59,6 +65,9 @@
 - Cannella: «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
 - Zemi: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
 - Akira a Zemi: «No, piccola… non lo faccio più…» (con un sorriso) · Akira a Tobias: «Lei non sapeva di poterlo fare… e io non ero a conoscenza che avesse queste capacità…» · «La porto all'attico che Tights ci ha dato per stare qui… dopo aver parlato con mia moglie spiegherò personalmente la situazione alla tua creatrice.» · «Ti chiedo solo di non dispiegare pattuglie… non so se è tuo compito deciderlo ma… la bambina è già spaventata di suo.»
+- Zemi: «Ho sonno…»
+- Akira a Zemi: «Tra poco, tesoro… tu rilassati adesso.» · A Tobias: «Il tempo per me lo troverà sicuramente… non voglio che questa cosa passi solo tramite dati su un'interfaccia, voglio essere io a dirglielo di persona… inoltre ho necessità di parlarle anche di altro… perciò, digli che stasera la aspetto all'attico per l'1 di notte… saremo solo io e lei.»
+- Tobias: «Era ora che uno dei due si muovesse, comunque. Glielo scrivo adesso, così lo legge fra una discussione e l'altra, ma all'una di notte non ti garantisco che venga, perché è una che prima dice di no e poi si presenta lo stesso, e quanto ai dati sul picco, quelli li avrà letti comunque prima di te, questo è sicuro.» · «Quanto a soli, io fuori dalla porta ci sto lo stesso, perché l'ordine è quello e non lo decidiamo né tu né io, ma dentro non entro.»
 - Zemi: «Papà, quelli lassù non hanno la faccia.» · «Papà, la mamma ha detto presto, ma presto quanto?»
 - Tobias: «Se ne vanno, guarda.» · «Quei due li ho rimandati all'incrocio, che tanto vedono quello che vedo io, e altre pattuglie non ne chiamo finché decido io qui sul posto, ma il picco l'hanno già preso i sensori e quello non lo cancello, e su cosa scrivo stasera non lo so nemmeno io, quindi non chiedermelo adesso. E se pensi di spiegare tutto a Tights stasera scordatelo, che sta in riunione fino a notte.»
 - Lattuga: «Prima ha detto che se ne andava, e allora vada, e i suoi soldi se li tenga.»

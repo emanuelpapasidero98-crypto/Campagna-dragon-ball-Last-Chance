@@ -41,3 +41,4 @@
 | g13 (s3) | Syntia vuole parlargli stasera, quando Zemi dorme | Syntia |
 | g13 (s3) | I sensori hanno già registrato il picco di ki dell'Orto e Tobias non può cancellarlo; non sa ancora cosa scriverà stasera. Tobias non chiamerà altre pattuglie finché decide lui sul posto | Tobias |
 | g13 (s3) | Tights stasera è in riunione fino a notte | Tobias |
+| g13 (s3) | Tobias scriverà subito a Tights l'invito di Akira (stasera all'una all'attico, solo loro due); non garantisce che lei venga. Resterà fuori dalla porta per ordine | Tobias |
