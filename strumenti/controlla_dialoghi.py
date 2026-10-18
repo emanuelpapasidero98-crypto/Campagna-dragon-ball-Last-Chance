@@ -86,7 +86,7 @@ def controlla(testo):
     eco = []
     for riga, b in bb:
         testa = b[:60]
-        if re.match(r"^(Sì|Si|Già|Certo|Esatto)[,.!]", testa) or re.search(r"^[^.!?]{1,40},\s*sì\b", testa) or re.match(r"^[^.!?]{1,30}\bsì[.!]", testa):
+        if re.match(r"^(Sì|Si|Già|Certo|Esatto)[,.!]", testa) or re.search(r"^[^.!?]{1,40},\s*sì\b", testa) or re.match(r"^[^.!?]{1,30}\bsì[.!]", testa) or re.match(r"^(\S+\s+){1,4}sì[,.!…]", testa):
             eco.append((riga, b))
     if len(eco) > 1:
         for riga, b in eco:
