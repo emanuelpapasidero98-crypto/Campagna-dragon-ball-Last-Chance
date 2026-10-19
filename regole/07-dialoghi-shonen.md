@@ -158,7 +158,8 @@ python3 strumenti/controlla_dialoghi.py <<'EOF'
 EOF
 ```
 
-- **❌ Errore**: telegrammi, frasi staccate, troppi punti, eco ripetuta, glosse del narratore, narratore-grilletto. **Si riscrive e si ricontrolla.** Non si invia un messaggio con errori.
-- **⚠️ Avviso**: assoluti, mezzo segreto, parole ripetute in più battute (possibile concetto ripetuto), narrazione a singhiozzo. Si valuta caso per caso.
+- **❌ Errore**: telegrammi, frasi staccate, troppi punti, eco ripetuta, glosse del narratore, narratore-grilletto, linguaggio da terapeuta, **esito troppo corto** (sotto i 5000 caratteri, o 3500 con `--breve`). **Si riscrive e si ricontrolla.** Non si invia un messaggio con errori.
+- **⚠️ Avviso**: assoluti, mezzo segreto, parole ripetute in più battute (possibile concetto ripetuto), narrazione a singhiozzo, possibili errori di concordanza dei tempi. Si valuta caso per caso.
+- **Opzioni**: `--breve` per un esito che non regge più di 3500 caratteri (un round di combattimento, uno scambio rapido); `--solo-dialoghi` per i messaggi che chiamano un tiro, le risposte fuori gioco e le battute singole (niente controllo di lunghezza).
 
 Il controllo non sostituisce il giudizio: un testo può passarlo ed essere comunque piatto. Ma un testo che **non** lo passa ha sicuramente i difetti che il giocatore ha vietato.

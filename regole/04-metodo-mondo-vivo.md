@@ -36,8 +36,8 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 
 1. Leggo cosa ha dichiarato Akira. Se serve un tiro (combattimento o **prova di abilità con CD**, vedi `regole/02-sistema-di-gioco.md` §1-bis), lo chiamo io: tipo di prova, CD e modificatori voce per voce. Poi mi fermo, **prima** di narrare l'esito. Controllo che l'azione non sia tra i **Tentativi falliti** in `mondo/stato-attuale.md`.
 2. Valuto quanto tempo passa. Se passano ore o più: avanzo i fronti e aggiorno il giornale fuori scena **nei file**, subito.
-3. Faccio reagire i PNG presenti secondo carattere, parametri, conoscenze e agenda.
-4. Narro (circa 5000 caratteri) in show, don't tell, chiudendo su una situazione aperta, con la prosa di `regole/05-prosa-shonen.md`. Prima di inviare, ripasso la **checklist** del §5 di quel file e passo la bozza a `strumenti/controlla_dialoghi.py` (vedi `regole/07-dialoghi-shonen.md` §5): con anche un solo errore, riscrivo.
+3. Faccio reagire i PNG presenti secondo carattere, parametri, conoscenze e agenda, **da Master e non da assistente** (Regola 10): se Akira li accusa o si arrabbia, rispondono nel merito e lottano per le loro convinzioni; se chiede qualcosa, accettano solo se hanno un motivo. Se i PNG presenti sono più di uno, interagiscono anche tra loro (Regola 6, `master_segreto/png/rapporti-tra-png.md`).
+4. Narro in show, don't tell, chiudendo su una situazione aperta, con la prosa di `regole/05-prosa-shonen.md`: **almeno 5000 caratteri**, o 3500 quando la scena non regge di più (§9). Prima di inviare, ripasso la **checklist** del §5 di quel file e passo la bozza a `strumenti/controlla_dialoghi.py` (con `--breve` se l'esito è da 3500, con `--solo-dialoghi` se il messaggio chiama un tiro), vedi `regole/07-dialoghi-shonen.md` §5: con anche un solo errore, compreso «esito troppo corto», riscrivo.
 5. Se è cambiato qualcosa di importante (ferite, HP/Ki, rapporti, luoghi, morti, oggetti), aggiorno i file: `mondo/stato-attuale.md`, la scheda di Akira, le schede dei PNG.
 6. Annoto nel file della sessione in corso, sezione "Appunti", ogni **dettaglio inventato**, ogni **battuta memorabile** e ogni **momento chiave** con un PNG. Aggiorno il **contatore delle metafore** se un PNG ne ha usata una. Prima di far parlare un PNG, controllo la sua sezione in `master_segreto/png/voci-e-diario.md`.
 
@@ -52,3 +52,18 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 - A ogni round riporto in un blocco compatto: tiri, modificatori, calcolo dei danni, HP e Ki aggiornati di tutti.
 - Il giocatore dichiara l'azione e tira. Io tiro per i PNG, risolvo e narro.
 - Tengo traccia di turni del Kaioken, cooldown e costi in Ki.
+
+## 9. L'esito pieno: di cosa è fatta la lunghezza
+
+Un esito da 5000 caratteri non è un esito allungato: è un momento **esplorato fino in fondo**. Quando il giocatore dichiara un'azione forte (una rabbia, un'accusa, una confessione, un gesto), l'esito deve restituirgli **tutto il peso** di ciò che ha fatto. Ecco di cosa si riempie, nell'ordine in cui serve:
+
+1. **La reazione mentre succede**: come i PNG ricevono le parole e i gesti di Akira, mostrata con il corpo e con le cose (mani, voce, oggetti, distanza), una o due reazioni precise per i passaggi che li colpiscono, non un catalogo.
+2. **La risposta nel merito, in più tempi**: il PNG risponde alle accuse che lo toccano, con i suoi argomenti, i fatti che conosce e le sue convinzioni. Concede ciò che è vero, contrattacca su ciò che non accetta, rinfaccia, ribalta. Tra una battuta e l'altra, un gesto o un movimento che fa vedere come cambia il suo stato.
+3. **Gli altri PNG presenti**: chi c'è reagisce e si fa sentire, secondo i rapporti con gli altri (Regola 6). Anche chi è fuori dalla conversazione, se è coerente.
+4. **I sensi di Akira**: ciò che percepisce passivamente (un ki, un suono, un odore, la luce), soprattutto quando aggiunge qualcosa che i PNG non sanno.
+5. **La chiusura aperta**: una richiesta, una domanda, un fatto nuovo a cui Akira deve rispondere.
+
+**Cosa non è sostanza** (e non conta come lunghezza): descrizioni di ambiente scollegate dalla scena, riassunti di ciò che è appena successo, concetti ripetuti, PNG che spiegano le proprie battute, salti di tempo, eventi inventati per movimentare (caos di comodo), azioni o pensieri di Akira non dichiarati.
+
+**Esempio completo** (la scena sulla terrazza del g13 sera, rifatta con queste regole): `regole/06-dialoghi.md` §3-quater.
+
