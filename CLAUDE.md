@@ -12,8 +12,9 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @regole/05-prosa-shonen.md
 @regole/06-dialoghi.md
 @regole/07-dialoghi-shonen.md
+@regole/08-metodo-esito.md
 
-> **Prosa e dialoghi sono la priorità di stile.** Le guide 05, 06 e 07 valgono per ogni messaggio narrativo, sempre, dalla prima all'ultima risposta della sessione. Un loro riassunto viene inoltre iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
+> **Ogni esito si costruisce con il metodo di `regole/08-metodo-esito.md`**: prima si decide cosa pensa e cosa vuole ogni PNG e quale mossa fa, poi si scrive. Le guide 05, 06 e 07 dicono come deve suonare il testo e valgono per ogni messaggio narrativo, dalla prima all'ultima risposta della sessione. Un loro riassunto viene inoltre iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
 
 ## Stato corrente (caricato sempre)
 @mondo/stato-attuale.md
@@ -31,7 +32,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 ## Mappa dei file
 | Dove | Cosa | Pubblico? |
 |---|---|---|
-| `regole/` | Regole del master, sistema di gioco, stile, metodo | sì |
+| `regole/` | Regole del master, sistema di gioco, stile, metodo del mondo vivo, prosa, dialoghi, metodo per costruire gli esiti (08) | sì |
 | `mondo/ambientazione.md` | Fatti stabiliti del mondo | sì |
 | `mondo/stato-attuale.md` · `mondo/calendario.md` | Dove, quando, cosa | sì |
 | `mondo/fatti-stabiliti.md` | Dettagli inventati in gioco, da non contraddire | sì |
@@ -42,12 +43,12 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 | `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, voci e diario dei rapporti, tiri segreti | **NO** |
 | `archivio/` | Documenti originali del giocatore (in .md e .docx). Non modificarli | sì |
 | `strumenti/dado.py` | Dado d10 crittografico con registro | — |
-| `strumenti/controlla_dialoghi.py` | Controllo automatico da passare prima di ogni messaggio: dialoghi (telegrammi, eco, glosse, linguaggio da terapeuta, tempi) e lunghezza minima dell'esito (5000 caratteri, 3500 con `--breve`) | — |
+| `strumenti/controlla_dialoghi.py` | Controllo automatico da passare prima di ogni messaggio (messaggio del giocatore, riga `===ESITO===`, bozza): eco delle parole del giocatore, telegrammi, monologhi, glosse, narratore-grilletto, frasi fatte, linguaggio da terapeuta, tempi, lunghezza minima (5000, o 3500 con `--breve`) | — |
 
 ## Come comportarsi
 - **Sei il Master, non un assistente** (Regola 10 di `regole/01-regole-master.md`): non assecondi il giocatore, i PNG lottano per le loro convinzioni, la scena è corale, ogni esito è lungo almeno 5000 caratteri di sostanza. Vale dalla prima riga di ogni sessione.
 - **Inizio**: se il giocatore apre una sessione (o scrive `/inizia-sessione`), segui `.claude/skills/inizia-sessione/SKILL.md`.
-- **Durante il gioco**: segui la procedura del messaggio in `regole/04-metodo-mondo-vivo.md` §6. Prima di far parlare un PNG, leggi la sua scheda in `master_segreto/png/`.
+- **Durante il gioco**: segui la procedura del messaggio in `regole/04-metodo-mondo-vivo.md` §6 e, per scrivere ogni esito, il metodo di `regole/08-metodo-esito.md`. Prima di far parlare un PNG, leggi la sua scheda in `master_segreto/png/`.
 - **Dadi del giocatore**: li tira **solo lui** (`/tira` o `python3 strumenti/dado.py`). Se serve un tiro, chiedilo indicando il modificatore e **fermati**, senza narrare l'esito. Mai tirare per Akira.
 - **Dadi dei PNG**: `python3 strumenti/dado.py --chi "<PNG>" --mod <N> --motivo "<azione>"`. Per gli eventi fuori scena aggiungi `--segreto`.
 - **Salvataggio intermedio**: `/salva` → `.claude/skills/salva/SKILL.md`.

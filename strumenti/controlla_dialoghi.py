@@ -11,13 +11,18 @@ vietati da regole/06-dialoghi.md e regole/07-dialoghi-shonen.md:
 - parole ripetute tra battute diverse (possibili concetti ripetuti);
 - linguaggio da terapeuta ("ne hai diritto", "è comprensibile"...);
 - possibili errori di concordanza dei tempi (timori e pensieri al passato);
-- esito troppo corto (minimo 5000 caratteri, 3500 con --breve).
+- esito troppo corto (minimo 5000 caratteri, 3500 con --breve);
+- eco delle parole del giocatore (battute o narrazione che ripetono il suo messaggio);
+- battute-monologo, accumulo di episodi, pensieri narrati, ipotesi sentimentali.
 
-Uso:
-  python3 strumenti/controlla_dialoghi.py bozza.txt
+Uso (il messaggio del giocatore prima, poi la riga ===ESITO===, poi la bozza):
   python3 strumenti/controlla_dialoghi.py <<'EOF'
-  ...testo...
+  ...azione del giocatore, copiata così com'è...
+  ===ESITO===
+  ...bozza dell'esito...
   EOF
+Senza la riga ===ESITO=== tutto il testo è trattato come bozza, e il controllo
+dell'eco non si può fare.
 
 Opzioni:
   --breve          esito che non regge di più (un round di combattimento, uno
@@ -44,7 +49,27 @@ GLOSSE = [
     "fu proprio da lì", "se n'era già andat", "si leggeva negli occhi",
     "era chiaro che", "voleva dire che",
 ]
-GRILLETTI = [r"\bAlla parola\b", r"\bAl complimento\b", r"\bAll'ultima frase\b", r"\bSull'ultima frase\b"]
+GRILLETTI = [r"\bAlla parola\b", r"\bAl complimento\b", r"\bAll'ultima frase\b", r"\bSull'ultima frase\b",
+             r"\b[Ss]u «", r"\b[Aa]rriv\w* a «", r"\b[Ff]u su «", r"\b[Aa]l nome di [A-Z]", r"\b[Ii]l nome di [A-Z]"]
+CLICHE = ["ogni parola messa al suo posto", "un momento di troppo", "qualcosa le cambiava", "qualcosa gli cambiava",
+          "non sentì niente di tutto questo", "di chi dorme male", "il silenzio era assordante", "l'aria si fece pesante",
+          "un brivido gli corse", "un brivido le corse"]
+VERBI_MENTALI = re.compile(r"\b(pensò|pensava|decise|capì|si rese conto|sapeva che|si chiese)\b")
+EPISODI = re.compile(r"\b(la sera|la notte|la mattina|quel giorno|il giorno|oggi|ieri|a scuola|a Nova City|al negozio|davanti al muro)\b", re.IGNORECASE)
+IPOTESI_SENTIMENTALE = re.compile(r"\b(volevo che|speravo che|sognavo che)\b[^.?!]*\bun giorno\b|\bun giorno, quando\b", re.IGNORECASE)
+STOP_ECO = set("""il lo la i gli le l un uno una di d a da in con su per tra fra e ed o ma che non è sono ho hai ha
+abbiamo avete hanno mi ti si ci vi ne me te se del dello della dei degli delle al allo alla ai agli alle dal dallo
+dalla dai dagli dalle nel nello nella nei negli nelle sul sullo sulla sui sugli sulle io tu lui lei noi voi loro
+più già anche come quando dove cosa chi perché poi così questo questa quello quella mio mia tuo tua suo sua
+nostro nostra c era sei siamo""".split())
+VOCABOLARIO_IA = ["intenso", "intensa", "intensi", "intense", "palpabile", "un misto di", "carico di", "carica di",
+                  "si stagliava", "si ergeva", "fungeva da", "un velo di", "in qualche modo", "non poté fare a meno",
+                  "qualcosa di simile a", "una sorta di", "per la prima volta da quando", "niente sarebbe stato più",
+                  "avrebbe cambiato tutto"]
+GERUNDIO_COMMENTO = re.compile(r",\s*(rivelando|tradendo|dimostrando|segno che|come a dire|quasi a dire|a testimoniare)\b", re.IGNORECASE)
+NEGAZIONE_CORREZIONE = re.compile(r"\bnon era\b[^.!?;]{1,50},\s*era\b|\bnon (solo|soltanto)\b[^.!?;]{1,60}\bma (anche )?", re.IGNORECASE)
+LUNGA_AVVISO = 350
+LUNGA_ERRORE = 500
 MEZZO_SEGRETO = ["lascia perdere", "fai finta che non", "non ho detto niente", "dimentica quello che"]
 ASSOLUTI = ["sempre", "mai", "tutti", "nessuno", "ogni volta"]
 TERAPEUTA = [
@@ -124,7 +149,19 @@ def controlla(testo):
     for g in GLOSSE:
         if g in low:
             errori.append(f"GLOSSA DEL NARRATORE: \"{g}\" → taglia la spiegazione, lascia parlare battuta e gesto")
-    n_grilletti = sum(len(re.findall(p, narr)) for p in GRILLETTI)
+    for c in CLICHE:
+        if c in low:
+            errori.append(f"FRASE FATTA: \"{c}\" → toglila e mostra la cosa concreta, o niente")
+    trovate = [v for v in VOCABOLARIO_IA if re.search(rf"\b{re.escape(v)}\b", testo.lower())]
+    if trovate:
+        avvisi.append("VOCABOLARIO DA IA: " + ", ".join(f"\"{v}\"" for v in trovate) + " → parole semplici e concrete, o il fatto e basta")
+    for m in GERUNDIO_COMMENTO.finditer(narr):
+        avvisi.append(f"GERUNDIO DI COMMENTO: \"{m.group(0).strip(', ')}\" → la frase spiega cosa significa il gesto: taglia, il gesto basta")
+    for m in NEGAZIONE_CORREZIONE.finditer(testo):
+        avvisi.append(f"NEGAZIONE-CORREZIONE: \"{m.group(0)[:50]}\" → «non era X, era Y» per dare enfasi: di' Y")
+    for m in VERBI_MENTALI.finditer(narr):
+        avvisi.append(f"VERBO MENTALE nella narrazione: \"{m.group(0)}\" → i pensieri dei PNG non si narrano e Akira non decide né pensa al posto del giocatore")
+    n_grilletti = sum(len(re.findall(p, testo)) for p in GRILLETTI)
     if n_grilletti >= 2:
         errori.append(f"NARRATORE-GRILLETTO ripetuto {n_grilletti} volte (\"Alla parola…\", \"Al complimento…\") → varia la struttura")
 
@@ -139,6 +176,21 @@ def controlla(testo):
         for a in ASSOLUTI:
             if re.search(rf"\b{a}\b", b.lower()):
                 avvisi.append(f"riga {riga}: ASSOLUTO \"{a}\" in una battuta → serve davvero? «{b[:70]}»")
+
+    # 4-bis. Battute-monologo: una persona non dice tutto questo d'un fiato.
+    for riga, b in bb:
+        if len(b) > LUNGA_ERRORE:
+            errori.append(f"riga {riga}: MONOLOGO, battuta di {len(b)} caratteri senza interruzioni → tieni una sola idea, oppure spezzala con un'azione o con la reazione dell'altro (regole/08): «{b[:70]}»")
+        elif len(b) > LUNGA_AVVISO:
+            avvisi.append(f"riga {riga}: battuta lunga ({len(b)} caratteri): una persona la direbbe davvero tutta d'un fiato? «{b[:70]}»")
+
+    # 4-ter. Accumulo di episodi e ipotesi sentimentali dentro una battuta.
+    for riga, b in bb:
+        episodi = EPISODI.findall(b)
+        if len(episodi) >= 3:
+            avvisi.append(f"riga {riga}: ACCUMULO DI EPISODI ({', '.join(episodi)}) → un fatto basta, l'elenco di prove è un tic dei testi generati: «{b[:70]}»")
+        if IPOTESI_SENTIMENTALE.search(b):
+            avvisi.append(f"riga {riga}: IPOTESI SENTIMENTALE (\"volevo che un giorno…\") → serve alla scena o solo a commuovere? «{b[:70]}»")
 
     # 5-bis. Linguaggio da terapeuta.
     for riga, b in bb:
@@ -194,13 +246,57 @@ def lunghezza_esito(testo):
     return len("\n".join(righe).strip())
 
 
+def parole_eco(t):
+    return re.findall(r"[a-zà-ÿ]+", t.lower())
+
+
+def eco_giocatore(azione, esito):
+    """Tratti dell'esito che ripetono parola per parola il messaggio del giocatore."""
+    pa, pe = parole_eco(azione), parole_eco(esito)
+    piene = lambda g: sum(1 for w in g if w not in STOP_ECO)
+    cercati = set()
+    for n, minimo in ((3, 2), (4, 1)):
+        for i in range(len(pa) - n + 1):
+            g = tuple(pa[i:i + n])
+            if piene(g) >= minimo:
+                cercati.add(g)
+    coperte = [False] * len(pe)
+    for n in (3, 4):
+        for i in range(len(pe) - n + 1):
+            if tuple(pe[i:i + n]) in cercati:
+                for k in range(i, i + n):
+                    coperte[k] = True
+    tratti, i = [], 0
+    while i < len(pe):
+        if coperte[i]:
+            j = i
+            while j < len(pe) and coperte[j]:
+                j += 1
+            tratti.append(" ".join(pe[i:j]))
+            i = j
+        else:
+            i += 1
+    return tratti
+
+
 def main():
     args = sys.argv[1:]
     breve = "--breve" in args
     solo_dialoghi = "--solo-dialoghi" in args
     file = [a for a in args if not a.startswith("--")]
     testo = open(file[0], encoding="utf-8").read() if file else sys.stdin.read()
+    azione = None
+    if "===ESITO===" in testo:
+        azione, testo = testo.split("===ESITO===", 1)
     errori, avvisi = controlla(testo)
+    if azione is not None:
+        tratti = eco_giocatore(azione, testo)
+        if len(tratti) >= 2:
+            errori.append("ECO DEL GIOCATORE: l'esito ripete parola per parola il suo messaggio (" + " · ".join(f"«{t}»" for t in tratti) + ") → il PNG risponde al senso con parole sue, e il narratore non cita Akira")
+        elif tratti:
+            avvisi.append(f"ripresa delle parole del giocatore: «{tratti[0]}» → ammessa una volta, solo se serve a ribaltarle")
+    elif not solo_dialoghi:
+        avvisi.append("manca il messaggio del giocatore prima di ===ESITO===: il controllo dell'eco non è stato fatto")
     if not solo_dialoghi:
         minimo = MINIMO_BREVE if breve else MINIMO_ESITO
         n_car = lunghezza_esito(testo)
