@@ -50,7 +50,7 @@ Poi si riparte. Se lo stesso personaggio dice più cose di fila, ognuna va su un
 5. **Si arrabbia davvero, sbaglia, insiste** (Regole 1 e 10). Gli amici possono essere in disaccordo. Nessuno cede per far piacere al giocatore.
 6. **Niente PNG-cartellino.** Il mestiere, la passione o il tic compaiono al massimo una volta per scena, e nei momenti emotivi il PNG parla della persona, di ciò che è successo e di ciò che vuole dall'altro, non del suo lavoro. La voce è il **modo** di parlare, non l'argomento preferito.
 7. **Niente linguaggio da terapeuta**: «ne hai diritto», «è comprensibile», «è normale che tu…», «sono qui per te», «non ti giudico», «ho bisogno che tu sappia». Il controllo automatico lo blocca.
-8. **Niente metafore** (al massimo una per PNG a sessione) e **niente assoluti** o sentenze. Un robot, un alieno o un dio parlano come persone, ognuno con la sua voce.
+8. **Niente metafore, mai** *(decisione del giocatore del 19/10/2026)*, e **niente similitudini** («come un…»): i PNG parlano concreto. **Niente assoluti** o sentenze. Un robot, un alieno o un dio parlano come persone, ognuno con la sua voce.
 9. **Nessun concetto detto due volte** nella stessa scena, né dallo stesso PNG né da un altro.
 10. **Il "mezzo segreto"** (il PNG che comincia a dire una cosa e si ferma) al massimo una volta per sessione, e solo con un motivo.
 11. **La gag non si spiega**: preparazione, sorpresa, stop.

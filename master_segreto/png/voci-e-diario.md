@@ -8,7 +8,7 @@ Per ogni PNG:
 - **Battute dette in gioco**: le migliori battute pronunciate davvero, da aggiungere a ogni `/fine-sessione`.
 - **Diario dei rapporti con Akira**: momenti chiave, promesse, litigi, rancori, debiti, cose dette che pesano. Data in gioco e sessione.
 
-Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-dialoghi.md` e lo stile di `regole/riferimento-stile.md`: una cosa per battuta, una o due frasi, niente catene di «e», puntini, maiuscolo, `!!` e `?!` dove servono. Zero metafore di default (massimo una per PNG a sessione), niente assoluti. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
+Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-dialoghi.md` e lo stile di `regole/riferimento-stile.md`: una cosa per battuta, una o due frasi, niente catene di «e», puntini, maiuscolo, `!!` e `?!` dove servono. Zero metafore e zero similitudini nelle battute, niente assoluti. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
 
 **Le «Battute dette in gioco» delle sessioni 1-3 sono nel vecchio stile** (frasi lunghe tenute insieme da «e»): servono a ricordare cosa è stato detto, **non** come modello di forma. Il modello di forma sono gli esempi di **Voce**, riscritti il 19/10/2026.
 
@@ -330,7 +330,7 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - «Coincidenza? Certo. E io sono una ballerina.» Mastica la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui cade qualcosa dal cielo. Io lo dico e basta.»
 
 ## Rapan e Cipoll *(nuovi, s1, solo fuori scena — saiyan dei Senza Cielo)*
-- **Rapan**: «Una mano! Con quattro dita! Generale, lo giuro sulla mia coda... era grigia come una pietra. E non puzzava di niente! Di niente, capite?!»
+- **Rapan**: «Una mano! Con quattro dita! Generale, lo giuro sulla mia coda... era grigia. Grigia e fredda. E non puzzava di niente! Di niente, capite?!»
 - **Cipoll** (con la bocca piena): «Io gliel'avevo detto di stare zitto. Due volte.»
 
 ## Ragazzo con gli occhiali *(comparsa, s2)*

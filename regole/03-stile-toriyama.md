@@ -32,8 +32,8 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 
 ## ⛔ Errori gravissimi da evitare (decisi dal giocatore)
 
-### 1. PNG che parlano per metafore o per assoluti
-- **Massimo UNA metafora per PNG in tutta la sessione**, e solo se viene naturale per quel personaggio. Il default è **zero**. La gente vera parla in modo concreto: "Ho paura", "Non mi va", "Sei un idiota", "Domani piove, porta dentro la legna".
+### 1. Metafore e assoluti
+- **Nessuna metafora, mai** *(decisione del giocatore del 19/10/2026; prima era una a sessione per PNG)*. Vale per i PNG e per il narratore (`regole/05-prosa-shonen.md` §3). La gente vera parla in modo concreto: "Ho paura", "Non mi va", "Sei un idiota", "Domani piove, porta dentro la legna".
 - **Niente assoluti**: niente "sempre", "mai", "tutti", "nessuno", "è il destino", sentenze, massime, aforismi. Niente PNG che parlano come oracoli o come libri di filosofia.
 - **Gli amici non sono d'accordo per forza**. Hanno sogni, obiettivi nascosti, debolezze, cattivi giorni. **Possono e devono arrabbiarsi** se Akira fa qualcosa che non gli piace, e tenere il muso, discutere, sbagliare, chiedere scusa (o non farlo).
 - **Un robot o un androide non parla da robot**: parla come una persona, col suo carattere. Lo stesso vale per alieni, demoni e divinità: ognuno ha una voce personale, non una voce "di categoria".

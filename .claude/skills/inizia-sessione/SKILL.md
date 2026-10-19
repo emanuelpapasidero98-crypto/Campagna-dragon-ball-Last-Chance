@@ -29,13 +29,9 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
    ### Battute memorabili dei PNG
    ### Momenti chiave nei rapporti
 
-   ## Contatore metafore (massimo 1 per PNG a sessione)
-   | PNG | Metafore usate |
-   |---|---|
-
    ## Errori segnalati dal giocatore
    ```
-   Durante la sessione aggiorna gli **appunti** e il **contatore** man mano: protegge la memoria se la chat viene riassunta in automatico.
+   Durante la sessione aggiorna gli **appunti** man mano: protegge la memoria se la chat viene riassunta in automatico.
 5. **Presenta al giocatore**:
    - un breve **"Nelle puntate precedenti"** in stile anime, solo con ciò che **Akira sa**, mai i segreti;
    - lo stato di Akira (HP, Ki, condizioni rilevanti);

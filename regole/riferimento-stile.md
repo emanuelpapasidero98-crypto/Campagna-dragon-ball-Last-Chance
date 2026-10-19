@@ -2,11 +2,12 @@
 
 Questi testi li ha forniti il giocatore il 19/10/2026: sono esiti scritti da master e giocatori **umani** in un'altra campagna di Dragon Ball. Sono **il modello di stile vincolante** per la prosa e i dialoghi di ogni esito: il master deve scrivere **così**.
 
-**Cosa si prende da qui**: la voce del narratore, la seconda persona al presente, il ritmo a righe, l'alternanza tra periodi lunghi pieni di immagini e righe brevi che colpiscono, le onomatopee, la struttura e la punteggiatura dei dialoghi, il modo in cui l'azione del giocatore viene rimessa in scena e poi risolta. Le tecniche sono spiegate in `regole/05-prosa-shonen.md` e `regole/06-dialoghi.md`.
+**Cosa si prende da qui**: la voce del narratore, la seconda persona al presente, il ritmo a righe, l'alternanza tra periodi lunghi pieni di dettagli e righe brevi che colpiscono, le onomatopee, la struttura e la punteggiatura dei dialoghi, il modo in cui l'azione del giocatore viene rimessa in scena e poi risolta. Le tecniche sono spiegate in `regole/05-prosa-shonen.md` e `regole/06-dialoghi.md`.
 
 **Cosa NON si prende da qui**:
 - **la trama, i nomi e i fatti**: Kael, Shyla, Makoto, Tapion, Hildegarn, Hoi, Ginza, Lust, Himawari, Miria, Moana e tutti gli altri appartengono a un'altra campagna e **non esistono** in questa. In particolare **Shyla non esiste** (preferenze del giocatore). Nessun evento qui sotto è un fatto stabilito;
 - **le frasi parola per parola**: si imita la tecnica, non si ricopiano le frasi ("Istanti, dicevamo", "L'arena è pronta"…), altrimenti diventano tic;
+- **le metafore e le similitudini**, di cui questi testi sono pieni («dense come piastre d'acciaio», «le tue braccia sono pistoni idraulici», «una marea di puro Ki»…): il giocatore le ha vietate il 19/10/2026 (`regole/05-prosa-shonen.md` §3). Di quei passaggi si prendono il ritmo e i dettagli concreti, non le immagini;
 - **le note di dado di un altro sistema**: sono state tolte. Qui vale il nostro sistema, con il riquadro del calcolo a fine esito;
 - **il formato delle azioni dei giocatori** (in fondo): le battute tra `<…>` e la terza persona al condizionale sono il modo in cui scrivono loro, non il master.
 

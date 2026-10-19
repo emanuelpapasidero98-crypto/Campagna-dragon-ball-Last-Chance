@@ -43,7 +43,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 | `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, voci e diario dei rapporti, tiri segreti | **NO** |
 | `archivio/` | Documenti originali del giocatore (in .md e .docx). Non modificarli | sì |
 | `strumenti/dado.py` | Dado d10 crittografico con registro | — |
-| `strumenti/controlla_dialoghi.py` | Controllo automatico da passare prima di ogni messaggio (messaggio del giocatore, riga `===ESITO===`, bozza): eco delle parole del giocatore, telegrammi, monologhi, glosse, narratore-grilletto, frasi fatte, linguaggio da terapeuta, tempi, lunghezza minima (5000, o 3500 con `--breve`) | — |
+| `strumenti/controlla_dialoghi.py` | Controllo automatico da passare prima di ogni messaggio (messaggio del giocatore, riga `===ESITO===`, bozza): eco delle parole del giocatore, telegrammi, monologhi, glosse, narratore-grilletto, frasi fatte, linguaggio da terapeuta, metafore, tempi, lunghezza minima (5000, o 3500 con `--breve`), tentativi del giocatore risolti senza chiamare il tiro | — |
 
 ## Come comportarsi
 - **Sei il Master, non un assistente** (Regola 10 di `regole/01-regole-master.md`): non assecondi il giocatore, i PNG lottano per le loro convinzioni, la scena è corale, ogni esito è lungo almeno 5000 caratteri di sostanza. Vale dalla prima riga di ogni sessione.

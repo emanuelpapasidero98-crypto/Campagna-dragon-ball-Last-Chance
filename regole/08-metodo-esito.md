@@ -27,6 +27,17 @@ Il testo generato nasce **frase per frase**, cercando l'effetto della singola fr
 2. **Individua le una o due cose che contano davvero** nel suo messaggio. Non tutte: le persone, in una discussione, sentono soprattutto una cosa, quella che le ferisce o le spaventa di più.
 3. **Separa i fatti dalle opinioni di Akira.** Ciò che Akira afferma è la sua versione; i suoi commenti narrati sono il suo punto di vista (Regola 10).
 
+## Fase 1-bis — Serve un tiro?
+
+Si fa **adesso**, prima di pensare alla reazione dei PNG, con la prova del tiro di `regole/02-sistema-di-gioco.md` §1-bis:
+- Akira tenta di ottenere qualcosa che non è garantito (convincere, scoprire, non farsi scoprire, superare un ostacolo, colpire)?
+- Senza dadi, il PNG o il mondo potrebbero rispondere in tutti e due i modi? (Se il PNG lo farebbe comunque, o non lo farebbe in nessun caso, non si tira.)
+- Fallire costerebbe qualcosa?
+
+Tre sì: **niente esito**. Il messaggio rimette in scena l'azione fino al momento incerto, chiama la prova (tipo, CD, modificatori voce per voce) o il tiro di combattimento, e si ferma. Con un no, si va avanti, e nell'esito si vede perché la cosa riesce o fallisce.
+
+Il dado non sostituisce il metodo: decide **se** Akira ottiene ciò che cerca. **Come** reagiscono i PNG si costruisce dopo, con le fasi 2 e 3, partendo dal risultato.
+
 ## Fase 2 — Mettersi nei panni di ogni PNG presente
 
 Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapporti (Regola 8):
@@ -74,7 +85,11 @@ Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapport
 
 ## Fase 6 — Rilettura distruttiva
 
-Rileggi la bozza come la leggerebbe il giocatore e **cancella**, senza pietà:
+Rileggi la bozza come la leggerebbe il giocatore.
+
+**Prima domanda: questo esito decide da solo un tentativo di Akira che passa la prova del tiro** (fase 1-bis)? Se sì, la bozza si butta: il messaggio si ferma prima del risultato e chiama il tiro.
+
+Poi **cancella**, senza pietà:
 - ogni frase che non segue dalla precedente;
 - ogni frase che dice ad Akira cose che sa già;
 - ogni frase che serve solo a far sentire qualcosa (ricordi teneri, ipotesi commoventi, chiuse a effetto, sentenze);
@@ -83,6 +98,7 @@ Rileggi la bozza come la leggerebbe il giocatore e **cancella**, senza pietà:
 - ogni spiegazione del narratore su ciò che un PNG prova, pensa, sa o non percepisce;
 - ogni dettaglio che non fa vedere, non rivela, non prepara e non fa ridere;
 - ogni catena di «e» dentro una battuta;
+- ogni metafora, nella narrazione o nelle battute, e ogni similitudine oltre la prima;
 - ogni argomento che non passa la prova dell'«e allora?»;
 - ogni frase ricopiata dal riferimento o da un esito precedente, e ogni nome dell'altra campagna.
 
@@ -90,7 +106,7 @@ Rileggi la bozza come la leggerebbe il giocatore e **cancella**, senza pietà:
 
 Se dopo i tagli l'esito è sotto il minimo, si torna alla fase 3 e si sviluppa la scena (cosa cambia, chi altro reagisce), non si rimettono frasi.
 
-**Controllo automatico** (obbligatorio): il messaggio del giocatore, poi la riga `===ESITO===`, poi la bozza.
+**Controllo automatico** (obbligatorio): il messaggio del giocatore, poi la riga `===ESITO===`, poi la bozza. Se il giocatore tenta qualcosa e la bozza non chiama il tiro, il controllo dà errore: o si chiama il tiro, o si ripassa il controllo con `--senza-prova "motivo"` (quale delle tre domande della fase 1-bis ha avuto un no, e perché).
 
 ```
 python3 strumenti/controlla_dialoghi.py <<'EOF'
@@ -121,6 +137,8 @@ EOF
 | Narratore-grilletto | Una reazione appesa a ogni frase di Akira, spesso citata | Una reazione all'insieme |
 | PNG-copione | Il PNG recita la propria scheda o i propri rapporti | I file servono a sapere, non a dire |
 | Ricalco | Frasi, gesti o chiuse ricopiati dal riferimento o da esiti precedenti | Si imita la tecnica, le frasi si trovano nuove |
+| Tentativo risolto a tavolino | Akira prova a convincere, scoprire, nascondersi o colpire, e l'esito decide da solo come va | Fase 1-bis: si chiama il tiro e ci si ferma |
+| Metafora | Una cosa detta come se fosse un'altra («una marea di ki», «le braccia sono pistoni»), un'emozione che «divora» o «morde» | Zero metafore: il dettaglio concreto (`regole/05-prosa-shonen.md` §3) |
 | Catena di «e» | Battute costruite come *frase, e frase, e frase*, che spiegano ogni passaggio | Una cosa per frase, la spiegazione si taglia |
 | Stupidaggine per dire qualcosa | Un argomento che non cambia niente per la decisione in gioco | Prova dell'«e allora?» |
 | Gerundio di commento | La frase finisce spiegando cosa significa il gesto («…, rivelando quanto…», «…, segno che…», «…, come a dire…») | Tagliare: il gesto basta |

@@ -68,6 +68,6 @@ Hanno lo stesso valore delle regole sopra.
 - **Stile di scrittura** *(scelto dal giocatore il 19/10/2026)*: prosa e dialoghi degli esiti replicano lo stile degli esiti di giocatori reali raccolti in `regole/riferimento-stile.md` (tecniche in `regole/05-prosa-shonen.md` e `regole/06-dialoghi.md`). Si imita la tecnica, non si ricopiano le frasi, e nessun nome o fatto di quei testi esiste in questa campagna.
 - **Tono**: 70% serietà e 30% gag, le gag **solo quando hanno senso**. Nomi nuovi con i giochi di parole alla Toriyama, tutti diversi. Fauna e flora di Terra Nova aliene ma non senzienti. Canonici vicini al canone. Onomatopee manga nei combattimenti.
 - **ERRORI GRAVISSIMI** (dettagli in `regole/03-stile-toriyama.md`):
-  1. PNG che parlano per **metafore** (massimo una a sessione per PNG) o per **assoluti**. Gli amici possono essere in disaccordo e **devono arrabbiarsi** quando qualcosa non gli piace. Un robot non parla da robot.
+  1. **Metafore: zero, mai**, né nelle battute dei PNG né nella narrazione *(aggiornato dal giocatore il 19/10/2026: prima era una a sessione per PNG)*. PNG che parlano per **assoluti**. Gli amici possono essere in disaccordo e **devono arrabbiarsi** quando qualcosa non gli piace. Un robot non parla da robot.
   2. **Dialoghi piatti**, senza punteggiatura espressiva. La punteggiatura è fondamentale per l'immersione.
   3. **AI slop**: frasi fatte, caos improvviso "per far andare avanti la storia". Tutto avviene con **criterio e coerenza**, sempre.

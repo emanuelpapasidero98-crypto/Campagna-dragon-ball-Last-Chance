@@ -7,6 +7,10 @@ riferimento passano con zero errori. Segnala:
 - battute-catena («…, e…, e…») e battute-monologo;
 - glosse del narratore, narratore-grilletto, frasi fatte;
 - linguaggio da terapeuta;
+- metafore (quantità figurate, emozioni che «divorano»), similitudini nelle
+  battute o più di una nella narrazione;
+- tentativi del giocatore (convincere, scoprire, nascondersi, colpire…)
+  risolti senza chiamare il tiro;
 - esito troppo corto (minimo 5000 caratteri, 3500 con --breve);
 - avvisi: battute e frasi lunghe, assoluti, mezzo segreto, tempi verbali,
   accumulo di episodi, ipotesi sentimentali, parole ripetute, Akira in terza
@@ -25,8 +29,17 @@ Opzioni:
   --breve          esito che non regge di più (un round di combattimento, uno
                    scambio rapido, la risposta di un PNG in un dialogo a due):
                    minimo 3500 caratteri invece di 5000
-  --solo-dialoghi  nessun controllo di lunghezza: per battute singole, per i
-                   messaggi che chiamano un tiro e per le risposte fuori gioco
+  --solo-dialoghi  nessun controllo di lunghezza: per battute singole e per le
+                   risposte fuori gioco (un messaggio che contiene /tira salta
+                   da solo il controllo di lunghezza)
+  --senza-prova "motivo"
+                   il giocatore tenta qualcosa ma il master ha deciso che non
+                   serve il tiro: il motivo dice quale domanda della prova del
+                   tiro (regole/02 §1-bis) ha avuto un no
+
+Prova del tiro: se il messaggio del giocatore contiene un tentativo e la bozza
+non chiama il tiro (/tira), il controllo dà errore. Se il messaggio del
+giocatore contiene già un tiro (/tira, 🎲), il controllo non si fa.
 
 Battute dei PNG: tra «…». Battute di Akira (riportate pari pari dal giocatore),
 voci telepatiche e voci nella testa: tra "…". La lunghezza si conta spazi
@@ -61,6 +74,43 @@ TERAPEUTA = [
     "i tuoi sentimenti", "sono qui per te", "capisco come ti senti",
 ]
 VOCABOLARIO_IA = ["palpabile", "un misto di", "in qualche modo", "qualcosa di simile a", "non poté fare a meno"]
+METAFORA_QUANTITA = re.compile(
+    r"\b(?:un|una|un'|quell'|quel|quella)\s*(?:[a-zà-ÿ]+\s+)?(?:mare|oceano|marea|abisso|velo|uragano)\s+d(?:i\b|')",
+    re.IGNORECASE)
+METAFORA_EMOZIONE = re.compile(
+    r"\b(?:la rabbia|il dolore|la paura|l'odio|la colpa|il senso di colpa|la tristezza|l'angoscia|la vergogna|"
+    r"la gelosia|il terrore|la furia|il rimorso|la frustrazione|l'ansia|il panico)\s+(?:ti|gli|le|lo|la|li|si|vi|ci)?\s*"
+    r"(?:divor|mord|corrod|trafigg|attanagli|afferr|stritol|consum|lacer|dilani|rod|azzann|graffi|artigli)\w*",
+    re.IGNORECASE)
+SIMILITUDINE = re.compile(
+    r"\bcome (?:un|una|uno|un'|se|il|lo|la|i|gli|le|l')(?![a-zà-ÿ])(?!\s*(?:qualunque|qualsiasi|niente)\b)|\bsimile a\b|\bquasi fosse\b|\balla stregua d",
+    re.IGNORECASE)
+SIMILITUDINE_BATTUTA = re.compile(r"\bcome (?:(?:un|una|uno)\s+|un')(?!qualunque\b|qualsiasi\b)[a-zà-ÿ]+", re.IGNORECASE)
+TENTATIVI = [
+    # «cercherò di…» detto da Akira è un'intenzione per dopo, non un tentativo adesso
+    ("tentativo", re.compile(r"\b(?:prov|tent|cerc)[a-zà-ÿ]*(?<!rò)\s+(?:a|ad|di)\s", re.IGNORECASE)),
+    ("convincere, intimidire, ingannare", re.compile(
+        r"\b(?:convinc|persuad|intimid|ingann|bluff|corromp|lusing|implor|supplic|ricatt|minacc)[a-zà-ÿ]*", re.IGNORECASE)),
+    ("mentire", re.compile(r"\b(?:mentir[a-zà-ÿ]*|mentend[a-zà-ÿ]*|mentisc[a-zà-ÿ]*|bugi[ae])\b", re.IGNORECASE)),
+    ("scoprire, origliare, capire", re.compile(
+        r"\b(?:scrut|origli|frug|perquis|indag|esamin|ispezion)[a-zà-ÿ]*|\bspi(?:a|are|ando|erebbe|o)\b|"
+        r"\bascolt[a-zà-ÿ]*\s+(?:oltre|dietro|attraverso|di nascosto|meglio)|\btend[a-zà-ÿ]*\s+l'orecchio|"
+        r"\bcapire\s+(?:se|cosa|chi|perché|dove|come)\b|\bnot(?:are|i|a)\s+se\b", re.IGNORECASE)),
+    ("non farsi scoprire", re.compile(
+        r"\bdi nascosto\b|\bfurtiv[a-zà-ÿ]*|\bsgattaiol[a-zà-ÿ]*|\bpedin[a-zà-ÿ]*|\bsenza farsi (?:vedere|sentire|notare|scoprire)\b|"
+        r"\b(?:si )?nascond(?:e|ersi|erebbe|endosi)\b", re.IGNORECASE)),
+    ("controllo del ki", re.compile(
+        r"\b(?:sopprim|soppri|soppress|mascher|nascond|abbass|dos|controll|trattien|tratten|contien|conten|spegn)[a-zà-ÿ]*\s+"
+        r"(?:la (?:sua |propria )?aura|l'aura|il (?:suo |proprio )?ki|l'energia)", re.IGNORECASE)),
+    ("percepire il ki", re.compile(r"\b(?:percepi|cerc|sond|scandagli)[a-zà-ÿ]*\s+(?:l'aura|le aure|il ki|aure)\b", re.IGNORECASE)),
+    ("prova fisica", re.compile(r"\b(?:sollev|scassin|sfond|arrampic|scardin|divell)[a-zà-ÿ]*", re.IGNORECASE)),
+    ("combattimento", re.compile(
+        r"\b(?:attacc[a-zà-ÿ]*|colpir[a-zà-ÿ]*|colpisc[a-zà-ÿ]*|schiv[a-zà-ÿ]*|parar[a-zà-ÿ]*|scagli[a-zà-ÿ]*|"
+        r"(?:sferr|tir|moll|rifil|assest)[a-zà-ÿ]*\s+(?:un|una|un')\s*(?:pugno|calcio|gomitata|ginocchiata|testata|colpo|fendente|montante|gancio|diretto|schiaffo)|"
+        r"ki blast|raffica|kamehameha|lancia della giustizia|taiyoken|barriera repulsiva)", re.IGNORECASE)),
+]
+GIA_TIRATO = re.compile(r"/tira\b|🎲|\bd10\s*=", re.IGNORECASE)
+CHIAMA_TIRO = re.compile(r"/tira\b")
 GERUNDIO_COMMENTO = re.compile(r",\s*(rivelando|tradendo|dimostrando|segno che|come a dire|quasi a dire|a testimoniare)\b", re.IGNORECASE)
 EPISODI = re.compile(r"\b(la sera|la notte|la mattina|quel giorno|il giorno|oggi|ieri|a scuola|a Nova City|al negozio|davanti al muro)\b", re.IGNORECASE)
 IPOTESI_SENTIMENTALE = re.compile(r"\b(volevo che|speravo che|sognavo che)\b[^.?!]*\bun giorno\b|\bun giorno, quando\b", re.IGNORECASE)
@@ -169,6 +219,17 @@ def controlla(testo):
     trovate = [v for v in VOCABOLARIO_IA if re.search(rf"\b{re.escape(v)}\b", low)]
     if trovate:
         avvisi.append("VOCABOLARIO DA IA: " + ", ".join(f"\"{v}\"" for v in trovate) + " → parole concrete")
+    for m in METAFORA_QUANTITA.finditer(narr):
+        errori.append(f"METAFORA: \"{m.group(0)}…\" → zero metafore (decisione del giocatore): dì la cosa concreta, cosa si vede, quanto è grande, cosa fa (regole/05 §3)")
+    for m in METAFORA_EMOZIONE.finditer(testo):
+        errori.append(f"METAFORA: \"{m.group(0)}\" → un'emozione non divora e non morde: mostra cosa fa il corpo, o nomina l'emozione e basta (regole/05 §3)")
+    simili = [m.group(0) for m in SIMILITUDINE.finditer(narr)]
+    if len(simili) > 1:
+        avvisi.append(f"SIMILITUDINI: {len(simili)} nella narrazione (" + ", ".join(f"\"{x}…\"" for x in simili[:5]) + ") → al massimo una per esito, e nessuna metafora: riscrivi con dettagli concreti")
+    for riga, b in bb:
+        m = SIMILITUDINE_BATTUTA.search(b)
+        if m:
+            avvisi.append(f"riga {riga}: SIMILITUDINE IN UNA BATTUTA \"{m.group(0)}\" → i PNG parlano concreto, niente immagini: «{b[:70]}»")
     for m in GERUNDIO_COMMENTO.finditer(narr):
         avvisi.append(f"GERUNDIO DI COMMENTO: \"{m.group(0).strip(', ')}\" → la frase spiega cosa significa il gesto: taglia, il gesto basta")
 
@@ -242,6 +303,17 @@ def eco_giocatore(azione, esito):
     return tratti
 
 
+def tentativi(azione):
+    """Tentativi del giocatore che potrebbero richiedere un tiro (fuori dalle note tra parentesi quadre)."""
+    testo = re.sub(r"\[[^\]]*\]", " ", azione)
+    trovati = []
+    for nome, rx in TENTATIVI:
+        m = rx.search(testo)
+        if m:
+            trovati.append((nome, m.group(0).strip()))
+    return trovati
+
+
 def lunghezza_esito(testo):
     """Caratteri della narrazione, spazi compresi, senza calcoli tra ``` e righe fuori gioco."""
     senza_calcoli = re.sub(r"```.*?```", "", testo, flags=re.DOTALL)
@@ -251,15 +323,48 @@ def lunghezza_esito(testo):
 
 def main():
     args = sys.argv[1:]
-    breve = "--breve" in args
-    solo_dialoghi = "--solo-dialoghi" in args
-    file = [a for a in args if not a.startswith("--")]
+    breve = solo_dialoghi = False
+    senza_prova = None
+    file = []
+    i = 0
+    while i < len(args):
+        a = args[i]
+        if a == "--breve":
+            breve = True
+        elif a == "--solo-dialoghi":
+            solo_dialoghi = True
+        elif a.startswith("--senza-prova="):
+            senza_prova = a.split("=", 1)[1]
+        elif a == "--senza-prova":
+            senza_prova = args[i + 1] if i + 1 < len(args) else ""
+            i += 1
+        else:
+            file.append(a)
+        i += 1
     testo = open(file[0], encoding="utf-8").read() if file else sys.stdin.read()
     testo = normalizza(testo)
     azione = None
     if "===ESITO===" in testo:
         azione, testo = testo.split("===ESITO===", 1)
     errori, avvisi = controlla(testo)
+    chiama_tiro = bool(CHIAMA_TIRO.search(testo))
+    trovati = []
+    if azione is not None and not GIA_TIRATO.search(azione):
+        trovati = tentativi(azione)
+        if senza_prova is not None:
+            if len(senza_prova.strip()) < 15:
+                errori.append("--senza-prova senza un motivo vero → scrivi quale domanda della prova del tiro ha avuto un no e perché (regole/02 §1-bis)")
+            else:
+                print(f"Tiro escluso dal master: {senza_prova.strip()}")
+        elif trovati and not chiama_tiro:
+            errori.append("TIRO NON VALUTATO: il giocatore tenta qualcosa (" + ", ".join(f"{n}: «{t}»" for n, t in trovati) + ") e la bozza non chiama il tiro → prova del tiro (regole/02 §1-bis, regole/08 fase 1-bis): se Akira tenta di ottenere qualcosa, l'esito è incerto e fallire costa, fermati prima del risultato e chiama la prova (tipo, CD, modificatori) o il tiro di combattimento; se non serve, ripassa il controllo con --senza-prova \"motivo\"")
+    if chiama_tiro:
+        n_tiro = lunghezza_esito(testo)
+        print("Il messaggio chiama un tiro: niente controllo di lunghezza.")
+        if n_tiro > 3000:
+            avvisi.append(f"il messaggio chiama un tiro ma è lungo {n_tiro} caratteri: hai narrato l'esito? Ci si ferma al momento incerto, prima del risultato")
+        if not re.search(r"\bCD\s*\d", testo) and not any(n == "combattimento" for n, _ in trovati):
+            avvisi.append("PROVA SENZA CD: per una prova di abilità servono tipo di prova, CD e modificatori voce per voce con il totale (regole/02 §1-bis)")
     if azione is not None:
         tratti = eco_giocatore(azione, testo)
         if len(tratti) >= 2:
@@ -268,7 +373,7 @@ def main():
             avvisi.append(f"ripresa delle parole del giocatore: «{tratti[0]}» → ammessa una volta, solo se serve")
     elif not solo_dialoghi:
         avvisi.append("manca il messaggio del giocatore prima di ===ESITO===: il controllo dell'eco non è stato fatto")
-    if not solo_dialoghi:
+    if not solo_dialoghi and not chiama_tiro:
         minimo = MINIMO_BREVE if breve else MINIMO_ESITO
         n_car = lunghezza_esito(testo)
         print(f"Lunghezza dell'esito: {n_car} caratteri (minimo {minimo})")

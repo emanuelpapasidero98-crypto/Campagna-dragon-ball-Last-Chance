@@ -14,15 +14,21 @@ Guida **vincolante**, riscritta il 19/10/2026 sullo **stile di riferimento** sce
 
 - **Una riga, un colpo.** Le frasi che pesano stanno da sole sulla loro riga. Un paragrafo ha da una a quattro righe. **Ogni riga è separata dalla successiva da una riga vuota**, altrimenti nella chat si fondono in un unico blocco.
 - **Alternanza** (è il cuore dello stile):
-  - **periodi lunghi e pieni d'immagini** per lo spettacolo: una trasformazione, un'esplosione, un luogo, un corpo che cambia. Qui si accumulano dettagli concreti, aggettivi forti, similitudini («dense come piastre d'acciaio», «come un missile scarlatto»);
+  - **periodi lunghi e pieni di dettagli** per lo spettacolo: una trasformazione, un'esplosione, un luogo, un corpo che cambia. Qui si accumulano dettagli fisici precisi (colore, peso, calore, suono, cosa si rompe e quanto lontano vola), verbi forti, aggettivi concreti. **Niente metafore** (§3);
   - **righe brevi e frammenti** per l'impatto, la tensione, l'emozione: «Non c'è scampo. Non c'è difesa.» · «Ma non stasera. / Non a te.»
 - **Le righe brevi in serie vanno bene quando ognuna aggiunge un passo**: un'escalation, un elenco che cresce, un cuore che batte. Sono vietate quando registrano gesti piatti uno dopo l'altro (apre, chiude, riapre, guarda): quello è il catalogo di micro-gesti che il giocatore ha bocciato nella sessione 1.
 - **Figure di ritmo**: anafora («Non c'è spazio per la strategia. / Non c'è spazio per il calcolo.»), ripetizione che sale («Ancora. Ancora. ANCORA.»), puntini di sospensione per allungare il tempo, la frase che si spezza su due righe («Con la coda dell'occhio, prima di schizzare verso l'alto... / ...Lo vedi un'ultima volta.»).
 - **Niente catene di «e»** nella narrazione: le immagini si legano con virgole, gerundi e participi, non con «e… e… e…».
 
-## 3. Immagini e onomatopee
+## 3. Niente metafore, onomatopee
 
-- **Narrazione ricca**: metafore e similitudini sono benvenute **nella narrazione**, concrete e potenti, coerenti con Dragon Ball (rubini, acciaio, magma, comete, ossa, tuoni). Il limite di una metafora a sessione vale per le **battute dei PNG**, non per il narratore.
+- **Zero metafore**, né nella narrazione né nelle battute *(decisione del giocatore del 19/10/2026)*. È metafora:
+  - dire che una cosa **è** un'altra o **diventa** un'altra («le tue braccia sono pistoni», «la tua volontà diventa un maglio», «è acido che corrode»);
+  - le quantità figurate («una marea di ki», «un oceano di energia», «un mare di gente», «un abisso di rabbia», «un velo di polvere»);
+  - un'emozione o un corpo che fanno ciò che fa un animale o un oggetto («la rabbia ti divora», «la paura lo afferra», «il dolore morde»).
+- **I testi di riferimento ne contengono**: quelle parti **non** si imitano. Di quei passaggi si prendono il ritmo e i dettagli concreti, non le immagini.
+- **Lo spettacolo si fa con il concreto**: cosa si vede, cosa si sente, cosa si rompe, quanto è grande, quanto è veloce, cosa succede al corpo e al terreno. In Dragon Ball le montagne che si spaccano, i crateri e le aure che sollevano i sassi sono fatti: si descrivono così come sono, con verbi forti e dettagli precisi.
+- **Similitudini**: al massimo **una** per esito, nella narrazione, concreta e presa dal mondo della scena. **Mai** nelle battute dei PNG.
 - **Nessuna immagine ripetuta** nella stessa sessione, e nessuna frase ricopiata dal riferimento.
 - **Onomatopee**: in **MAIUSCOLO**, su una **riga propria**, con le lettere allungate, anche composte con il trattino o con la coda in minuscolo che si spegne (`KRAAAA-TOOOOOMMMMMMMMmmmmm...!!!`, `SBAM!`, `TUM TUM! TUM TUM!`, `ZASH.`). I suoni secondari possono stare tra parentesi quadre (`[BLINK!]`). Subito sotto, una riga che dice cosa è successo.
 
@@ -74,6 +80,6 @@ Il metodo per decidere **cosa** succede (le mosse dei PNG, la catena del discors
 3. Le righe brevi in serie costruiscono qualcosa, o registrano gesti piatti?
 4. L'azione di Akira è rimessa in scena con parole nuove e poi risolta secondo dadi e situazione? Le sue battute, se riportate, sono identiche e tra `"…"`?
 5. Ho aggiunto decisioni, pensieri o parole di Akira? Ho rivelato segreti o pensieri dei PNG che Akira non può conoscere?
-6. Onomatopee in maiuscolo su riga propria, nei punti giusti?
+6. Zero metafore? Al massimo una similitudine, nella narrazione? Onomatopee in maiuscolo su riga propria, nei punti giusti?
 7. La chiusura lascia la mossa ad Akira?
 8. Il metodo di `regole/08-metodo-esito.md` è stato seguito, i dialoghi rispettano `regole/06-dialoghi.md` e il controllo automatico dà zero errori?
