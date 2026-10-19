@@ -31,6 +31,11 @@
 - [s4 · g14 01:05] **Raccomandazione vincolante del Consiglio (g13)**, firmata dal re: 1) Akira e famiglia non lasciano il quartiere est di Arcorp fino a nuova disposizione; 2) due Arc-G2 presso l'abitazione dall'1:00 del g14; 3) Orto dell'Est interdetto ad Akira e a Zemi; 4) valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto: tre FAVOREVOLE, uno CONTRARIO («Brief, T. — Arcorp City»). Seduta chiusa alle 00:40.
 - [s4] Ricordo di Akira (774): Syntia, accanto a Tights su un balcone alto della piazza di Arcorp, teneva in braccio Zemi di tre anni; la bambina non distoglieva gli occhi da Akyr.
 
+- [s4 · g14 01:08] Tights ha il cappotto abbottonato storto di un'asola; il suo comunicatore è uno schermo sottile con un angolo scheggiato. Si siede sulla seconda sedia di ferro del tavolino col cappotto addosso.
+- [s4 · g14 01:10] Tobias scrive messaggi tutti minuscoli, come Tights: «e zemi, lo vuole?».
+- [s4 · g14 ~01:10] Alle una e passa la cupola grande dell'Orto è ancora accesa dall'interno; la piattaforma dei tecnici è ferma a metà della volta, con le torce spente.
+- [s4] Di Tobias Akira non percepisce il ki (non l'ha mai percepito, nemmeno nel 774): lo sente solo dai rumori.
+
 ### Battute memorabili dei PNG
 - Syntia: «Allora lo sai da oggi pomeriggio, ci hai cenato sopra, mi hai lasciato pure fare il caffè, e me lo dici adesso, in coda a una predica su chi tiene i segreti in questa famiglia, e nemmeno per chiedermi cosa ne penso, solo per avvisarmi che arriva.»
 - Syntia: «Quindi che volevi vederla da solo lo vengo a sapere da lei, a messaggio… e cos'è che dovevi dirle, Akira, che io non dovevo sentire?»
@@ -42,6 +47,13 @@
 - Syntia: «Tre contro uno. E tu, Tights, eri i tre o eri l'uno?»
 - Tobias (sul pianerottolo, a Tights per messaggio): «Va bene, ho capito, non mi muovo da qui»
 - Tobias (tra sé, sul pianerottolo): «Lo so, lo so da me, non c'è bisogno che me lo scrivi due volte…»
+- Tights: «Se arresto te, Akira, fra tre giorni la vengono a prendere quei due.»
+- Tights: «Il re ha chiesto quanto diventerà forte da grande.»
+- Tights: «Quindi Tobias la allena.» · «I rapporti li fa a me. Al re, niente.»
+- Tobias (messaggio a Tights): «e zemi, lo vuole?»
+- Syntia (a Tights): «Alle lezioni ci sono io. A tutte.» — Tights: «Ovvio.»
+- Tights: «Questo, domattina, glielo chiedete voi.» — Syntia: «Glielo chiedo io.»
+- Tights: «Fra tre giorni, in laboratorio, la misuro io.»
 
 ### Momenti chiave nei rapporti
 - g13 ~21:10: Akira si volta, severo, e a bassa voce rimprovera Syntia (doveva dirglielo, Zemi potrebbe far male a qualcuno, è spaventata da sé stessa, ora il governo lo sa ed è in allerta «inutilmente»); le dice di aver fatto chiamare Tights per l'una, che spiegherà la situazione e capirà il da farsi; rivendica il diritto di sapere, non vuole che Zemi sia etichettata come «la figlia di un mostro», «così non sei di aiuto». Si siede al tavolo.
@@ -52,5 +64,6 @@
 - g14 01:05: Tights arriva, non saluta Akira, gli guarda la manica vuota. Porta la raccomandazione del Consiglio e dice di persona della valutazione di Zemi nel suo laboratorio. Syntia le chiede se ha votato a favore (Akira può leggere sul foglio che Tights era il voto contrario; Syntia no).
 - g14 ~01:08: Akira dice a Syntia che Tights ha votato contro; a Tights: Zemi non entra nel laboratorio; perché misurarla, arma o minaccia?; dica al Consiglio che è stato lui; la userebbero come arma; arresti lui e lasci in pace Syntia e Zemi; ordini a Tobias di allenare Zemi senza fare rapporto al governo; non le ha mai chiesto nulla per aver salvato l'umanità. **In sospeso: Persuasione CD 10, +2** (far allenare Zemi da Tobias all'insaputa del governo). La prima versione di questo esito (grafico della firma, provocazione di Lattuga, Tobias chiamato dentro) è stata scartata dopo l'aggiornamento delle regole e non vale.
 - (Versione riscritta su richiesta del giocatore dopo /aggiorna-regole: la prima versione di questa risposta è stata scartata e non vale.)
+- g14 ~01:10: **Persuasione riuscita** (d10 9 +2 = 11, CD 10). Tights rifiuta di arrestare Akira (inutile: Zemi la prenderebbero gli Arc-G2) e dice per la prima volta stanotte il suo nome. Rivela che il re ha chiesto quanto diventerà forte Zemi. Accetta che Tobias alleni Zemi, rapporti solo a lei e niente al re, e lo scrive subito a Tobias; non risponde al conto che Akira le ha messo davanti (si toglie le mani dal tavolo). Tobias risponde chiedendo se Zemi lo vuole. Syntia, fredda con Akira, si rivolge solo a Tights: sarà a tutte le lezioni e a Zemi lo chiede lei. Tights tiene il punto sul laboratorio: fra tre giorni la misura lei. Aspetta la risposta di Akira.
 
 ## Errori segnalati dal giocatore

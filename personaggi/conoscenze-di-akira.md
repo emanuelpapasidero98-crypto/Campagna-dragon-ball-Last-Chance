@@ -52,3 +52,8 @@
 | g13 sera (s4) | Il governatore Ganascia di Clod City, durante la pausa del Consiglio, ha detto ai notiziari che ad Arcorp ci sono «troppe coincidenze» e che la cupola si è incrinata la settimana in cui «certa gente arriva in città» | Schermo della piazza, notiziario |
 | g14 notte (s4) | Ganascia ha letto ad alta voce, due volte, il rapporto di Tobias; Tights gli ha ordinato di riscriverlo | L'ha sentito dal pianerottolo |
 | g14 notte (s4) | Raccomandazione vincolante del Consiglio: niente uscite dal quartiere est; due Arc-G2 all'abitazione; Orto vietato a lui e a Zemi; valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto 3 a 1: **Tights ha votato contro** | Il foglio portato da Tights |
+| g14 notte (s4) | Secondo Tights, se arrestasse lui, fra tre giorni gli Arc-G2 verrebbero a prendere Zemi lo stesso. Nel rapporto di Tobias c'è scritto che il ki era di Zemi | Tights |
+| g14 notte (s4) | **In seduta il re ha chiesto quanto diventerà forte Zemi da grande** | Tights |
+| g14 notte (s4) | **Tights accetta che Tobias alleni Zemi**: i rapporti li farà solo a lei, al re niente. Glielo ha scritto subito. Tobias ha risposto chiedendo se Zemi lo vuole | Tights; ha visto il messaggio di Tobias |
+| g14 notte (s4) | La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona | Tights |
+| g14 notte (s4) | Syntia sarà presente a tutte le lezioni di Zemi con Tobias e chiederà lei a Zemi, domattina, se vuole | Syntia, a Tights |

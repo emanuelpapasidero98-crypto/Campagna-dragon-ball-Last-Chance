@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 4 in corso
-- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:08)
+- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:12)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico, circa l'1:08 del g14. Tights in piedi al tavolino, col cappotto, con la raccomandazione del Consiglio aperta (quartiere est; due Arc-G2; Orto vietato ad Akira e Zemi; valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni; voto 3 a 1, contraria «Brief, T.»). Syntia sulla soglia della portafinestra; ha chiesto a Tights se era «i tre o l'uno». Akira le ha risposto che Tights ha votato contro, poi a Tights: Zemi non entra nel laboratorio, perché misurarla, dica al Consiglio che è stato lui, lo arresti e lasci in pace Syntia e Zemi, ordini a Tobias di allenare Zemi senza fare rapporto al governo; non le ha mai chiesto nulla per aver salvato l'umanità. **Tiro in sospeso**: Persuasione CD 10, modificatore +2 (far allenare Zemi da Tobias all'insaputa del governo). Le altre richieste si risolvono nell'esito. Zemi dorme. Tobias sul pianerottolo.
+- **Scena in sospeso**: terrazza dell'attico, circa l'1:12 del g14. Tights seduta sulla sedia di ferro del tavolino, col cappotto, la cartella grigia sulle ginocchia (raccomandazione richiusa dentro). Ha rifiutato di arrestare Akira (gli Arc-G2 verrebbero a prendere Zemi lo stesso); ha detto che il re ha chiesto quanto diventerà forte Zemi da grande; **ha accettato** (Persuasione riuscita) che Tobias alleni Zemi, con i rapporti solo a lei e niente al re, e lo ha scritto a Tobias; ha detto che fra tre giorni in laboratorio la misura lei. Aspetta la risposta di Akira sul laboratorio. Syntia appoggiata allo stipite della portafinestra, fredda con Akira: sarà a tutte le lezioni e chiederà lei a Zemi, domattina, se vuole. Tobias sul pianerottolo, in piedi, cammina avanti e indietro; ha chiesto per messaggio se Zemi lo vuole. Zemi dorme.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -20,7 +20,7 @@
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
-- **Stanotte**: Tights all'attico con la decisione del Consiglio; Akira vuole prendersi la colpa e pensava a Tobias come maestro per Zemi; Syntia è contraria a entrambe le cose.
+- **Stanotte**: Tights all'attico con la decisione del Consiglio. Tobias allenerà Zemi (Tights d'accordo, rapporti solo a lei); Syntia sarà presente a ogni lezione e chiederà a Zemi se vuole. La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona. Akira aveva detto che Zemi là dentro non entra.
 - **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
 - **Tobias**: sorveglia Akira per ordine del governo; ha scritto a Tights dell'invito delle una, non garantisce che lei venga; non sa cosa scriverà nel rapporto di stasera (il picco è nei sensori). Tights stasera è in riunione (seduta straordinaria del Consiglio, iniziata alle 19, «in corso»).
 - **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
@@ -34,6 +34,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G14 ~01:08-01:12 (s4): Akira chiede a Tights di dire al Consiglio che è stato lui, di arrestarlo e di far allenare Zemi da Tobias senza rapporti al governo (Persuasione CD 10: 9+2 = 11, riuscita). Tights: arrestarlo non serve (Zemi la verrebbero a prendere gli Arc-G2), il re ha chiesto quanto diventerà forte; Tobias la allena, rapporti solo a lei. Tobias risponde «e zemi, lo vuole?». Syntia: alle lezioni c'è lei, a Zemi lo chiede lei. Tights: fra tre giorni in laboratorio la misura lei.
 - G13 ~21:05 (s3): sulla terrazza Akira chiede conto a Syntia del ki di Zemi e del «sasso»; Syntia ammette tutto (più di un anno, la lampada della scuola, i quattro mesi, il segreto chiesto a Zemi) e gli chiede di girarsi.
 - G13 15:00-21:00 (s3, salto): vedi scena in sospeso. Comunicato del governatorato su un'«anomalia di pressione» all'Orto. Seduta straordinaria del Consiglio in corso dalle 19.
 - G13 ~14:40 (s3): Akira, con Zemi addormentata in braccio, chiede a Tobias di dire a Tights che stasera all'una l'aspetta all'attico, da soli. Tobias accetta di scriverglielo, senza garantire nulla.
