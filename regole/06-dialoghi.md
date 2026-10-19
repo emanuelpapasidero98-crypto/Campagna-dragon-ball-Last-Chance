@@ -166,7 +166,7 @@ Sulla terrazza Akira si volta e si arrabbia, senza alzare la voce: rinfaccia a S
 - **Asseconda Akira**: «All'una ci sono anch'io» accetta il suo invito così com'è, senza notare che anche lui le ha tenuto nascosta una cosa (Tights) per ore, proprio mentre la accusava di mentire.
 - **Esito troppo corto e povero**: niente stato d'animo mostrato mentre lui parla, nessun sviluppo, nessun dettaglio che aggiunga qualcosa. Sono 1300 caratteri contro un minimo di 5000.
 
-**Riscrittura** (5100 caratteri; è un esempio: i dettagli nuovi non sono fatti stabiliti)
+**Riscrittura** (circa 5200 caratteri; è un esempio: i dettagli nuovi non sono fatti stabiliti)
 
 > Quando Akira si voltò, Syntia aveva ancora le dita intrecciate attorno alla tazza e il mento alto, pronta a prendersi tutto quello che sarebbe arrivato, e per le prime parole riuscì a reggergli lo sguardo senza battere ciglio. Fu su «costringere nostra figlia a mentire» che qualcosa cedette: la bocca le si strinse in una linea sottile e le nocche le diventarono bianche contro la ceramica. Su «una cosa da tenere a bada» posò la tazza con un colpo secco, e il caffè ormai freddo scavalcò il bordo e le macchiò le dita senza che lei ci badasse. Ma fu «potenziale enorme» a cambiarle la faccia: il colore le scese dalle guance tutto in una volta e gli occhi le corsero verso la porta della cameretta, di scatto, prima di tornare su di lui. Da là dietro, attraverso la parete, ad Akira arrivava il ki di Zemi, piccolo e tiepido, che saliva e scendeva al ritmo del suo respiro: da quando lo aveva riconosciuto, all'Orto, non riusciva più a smettere di sentirlo.
 >
@@ -176,7 +176,7 @@ Sulla terrazza Akira si volta e si arrabbia, senza alzare la voce: rinfaccia a S
 >
 > Non gli diede il tempo di rispondere.
 >
-> «Ma il governo lo sa da oggi alle due e dieci, Akira, e non perché sono stata zitta io: lo sa perché una donna, davanti a un muro di nomi, ha detto a nostra figlia che un giorno le racconteranno cos'ha fatto suo padre.» Indicò il pannello incrinato alle sue spalle senza voltarsi. «La lampada della scuola, la vetrina del signor coso, la piazza di oggi… vuoi sapere cosa c'era tutte e tre le volte? C'era qualcuno che parlava male di te, e lei che sentiva ogni parola.»
+> «Ma il governo lo sa da oggi alle due e dieci, Akira, e non perché sono stata zitta io: lo sa perché una donna, davanti a un muro di nomi, ha detto a nostra figlia che un giorno le racconteranno cos'ha fatto suo padre.» Indicò il pannello incrinato alle sue spalle senza voltarsi. «La lampada della scuola e la piazza di oggi… ci hai pensato, a cosa c'era tutte e due le volte? C'era qualcuno che parlava male di te, e lei che sentiva ogni parola, e io queste cose le so perché a scuola c'ero io, mentre tu da tre anni non mettevi piede fuori dalla foresta.»
 >
 > Tornò al tavolino, ma non si sedette. Rimase in piedi dall'altra parte, le mani piantate sul piano accanto alla tazza rovesciata a metà, e si chinò verso di lui quel tanto che bastava perché le parole non arrivassero fino alla cameretta.
 >
@@ -204,7 +204,7 @@ Sulla terrazza Akira si volta e si arrabbia, senza alzare la voce: rinfaccia a S
 - **Stato d'animo mostrato mentre lui parla**: tre reazioni precise sui tre passaggi che la colpiscono (le nocche, la tazza, il colore che se ne va), poi il gesto di alzarsi e andare alla ringhiera.
 - **Risposta nel merito, in più tempi**: concede ciò che è vero («questo è sbagliato, lo so da un anno»), contesta il resto (non l'ha costretta, la causa delle esplosioni sono gli altri), contrattacca sul punto che le fa più paura (allenare Zemi, gli allievi morti) e rinfaccia ad Akira il suo segreto su Tights.
 - **Lotta per le sue convinzioni e non lo asseconda**: all'una ci sarà, ma per diritto suo, non perché lui glielo concede.
-- **Un fatto nuovo arriva attraverso il conflitto**: le tre esplosioni avevano la stessa causa. Akira non lo sapeva.
+- **Un argomento che ribalta l'accusa**: le esplosioni che Akira conosce avevano la stessa causa, e Syntia la usa contro di lui, insieme a un rimprovero che le brucia da tre anni (lei c'era, lui non usciva dalla foresta).
 - **Coralità**: Tobias sul pianerottolo si fa sentire con un colpo di tosse, e Syntia reagisce a lui. Il ki di Zemi che sussulta oltre la parete lo percepisce solo Akira: è un'informazione che Syntia non ha.
 - **Chiusura con peso**: l'ultima battuta finisce su «sua madre» e lascia ad Akira una situazione aperta.
 
