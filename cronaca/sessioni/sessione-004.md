@@ -61,12 +61,4 @@
 - Tights rifiuta di mentire (la firma dell'Orto non è la sua, l'arresto non cambierebbe i dati), risponde che per Ganascia Zemi è una minaccia e che il re ha chiesto quanto diventerà forte; difende il suo laboratorio (la misura lei, il rapporto lo scrive lei). Non risponde su Tobias come maestro né sul debito. Syntia si allea con lei: le racconta la provocazione di Lattuga. Tights chiama dentro Tobias, che ammette l'omissione; Tights gli ordina di raccogliere la testimonianza di Mirtillo. Tights riaprirà la faccenda in Consiglio, ma la valutazione resta. Chiede ad Akira se porteranno Zemi loro o se aspetta gli Arc-G2.
 - (Versione riscritta su richiesta del giocatore dopo /aggiorna-regole: la prima versione di questa risposta è stata scartata e non vale.)
 
-## Contatore metafore (massimo 1 per PNG a sessione)
-| PNG | Metafore usate |
-|---|---|
-| Syntia | 0 |
-| Zemi | 0 |
-| Tobias | 0 |
-| Tights | 0 |
-
 ## Errori segnalati dal giocatore
