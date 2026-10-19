@@ -10,6 +10,8 @@ Per ogni PNG:
 
 Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute. **Niente telegrammi**: le frasi si legano con virgole e congiunzioni, le battute brevi sono solo quelle cariche (!, ?, …, —), vedi `regole/07-dialoghi-shonen.md`. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
 
+**Le schede, i diari e i rapporti servono a sapere, non sono un copione**: un PNG non recita ad alta voce ciò che c'è scritto qui, e ciò che una scheda segna come "non detto" resta non detto finché la scena non lo strappa fuori (`regole/08-metodo-esito.md`, fase 2).
+
 **La voce è il modo, non l'argomento.** Gli esempi qui sotto mostrano ritmo, registro e atteggiamento. Se un esempio parla del mestiere o della passione del PNG (il riso di Tobias, il cane di Ignis, la leva di Korinzo), è **un** dettaglio, non il filo di ogni battuta: in gioco compare al massimo una volta per scena, e mai al posto delle cose che contano in un momento emotivo (`regole/06-dialoghi.md`, principio 20).
 
 ---

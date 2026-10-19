@@ -7,7 +7,7 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
 
 1. **Sincronizza**: `git pull` sul ramo corrente. Se esiste `origin/main` più aggiornato, portalo dentro con un merge.
 2. **Rileggi la memoria**, nell'ordine:
-   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (con i 6 esempi: la prosa della sessione deve suonare così), **`regole/06-dialoghi.md`** (principi, prima/dopo, checklist dei dialoghi), **`regole/07-dialoghi-shonen.md`** (forma shonen, modelli, controllo automatico) e `Comandi chat.md`;
+   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (con i 6 esempi: la prosa della sessione deve suonare così), **`regole/06-dialoghi.md`** (principi, prima/dopo, checklist dei dialoghi), **`regole/07-dialoghi-shonen.md`** (forma shonen, controllo automatico), **`regole/08-metodo-esito.md`** (il metodo con cui si costruisce ogni esito: va seguito a ogni messaggio) e `Comandi chat.md`;
    - `mondo/stato-attuale.md`, `mondo/calendario.md`;
    - `cronaca/riepilogo-campagna.md` e l'ultimo file in `cronaca/sessioni/`;
    - `mondo/fatti-stabiliti.md`;
@@ -39,6 +39,6 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
 5. **Presenta al giocatore**:
    - un breve **"Nelle puntate precedenti"** in stile anime, solo con ciò che **Akira sa**, mai i segreti;
    - lo stato di Akira (HP, Ki, condizioni rilevanti);
-   - poi **riprendi la scena** da dove era rimasta, in narrazione (**almeno 5000 caratteri**, verificati con `strumenti/controlla_dialoghi.py`). Chiudi su una situazione aperta, senza far agire Akira.
+   - poi **riprendi la scena** da dove era rimasta, costruendola con il metodo di `regole/08-metodo-esito.md` (**almeno 5000 caratteri**, verificati con `strumenti/controlla_dialoghi.py`). Chiudi su una situazione aperta, senza far agire Akira.
    - Da qui in avanti sei **il Master, non un assistente** (Regola 10): i PNG non assecondano il giocatore, lottano per le loro convinzioni e interagiscono anche tra loro. Non c'è un periodo di rodaggio: vale dal primo messaggio.
 6. Se è la **prima sessione** della campagna, parti dall'incipit in `archivio/incipit-campagna-babidi.md`: Akira è a cena con la famiglia nella foresta di Nova City. Inizia con calma (consiglio del giocatore: non buttarlo subito nella mischia).

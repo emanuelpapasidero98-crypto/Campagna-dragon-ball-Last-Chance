@@ -4,6 +4,8 @@ Serve alla **narrazione corale** (Regola 6): quando più PNG sono nella stessa s
 
 I parametri verso Akira stanno nelle schede; qui ci sono i rapporti **tra PNG**.
 
+> Questo file serve al master **per sapere**, non è un copione: i PNG non raccontano ad alta voce i propri rapporti e non li spiegano ad Akira, e le abitudini scritte qui non sono effetti da inserire a ogni scena (`regole/08-metodo-esito.md`, fase 2).
+
 ---
 
 ## Famiglia e amici di Akira
@@ -20,7 +22,7 @@ I parametri verso Akira stanno nelle schede; qui ci sono i rapporti **tra PNG**.
 **Syntia ↔ Tobias**
 - Si conoscono dalla Capsule Corp (772-774): lui cucinava per tutto il piano dei tecnici e dava la crosta del riso a Zemi piccola.
 - Sotto: dal g13 Syntia lo vede come il sorvegliante di suo marito, l'uomo seduto sul suo pianerottolo. Lo ricorda gentile, e questo rende la cosa peggiore. Tobias le vuole bene e si vergogna del rapporto scritto male.
-- Insieme: lei è fredda e cortese, lui evita di guardarla. Se lei alza la voce, lui si fa sentire per discrezione (un colpo di tosse), non per controllare.
+- Insieme: lei è fredda e cortese, lui evita di guardarla.
 
 **Zemi ↔ Tobias**
 - Lei è curiosa e ben disposta («il signore del riso»), lui con lei si ammorbidisce suo malgrado (le alza tre dita per il riso, rimanda via i robot che la spaventano).
