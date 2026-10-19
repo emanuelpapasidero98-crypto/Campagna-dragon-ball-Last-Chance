@@ -1,6 +1,6 @@
 # Dialoghi: la struttura corretta
 
-Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Riscritta il 19/10/2026: tiene ciò che valeva delle vecchie guide ai dialoghi (06 e 07) e toglie ciò che produceva battute lunghe, incatenate da «e», che spiegavano invece di parlare. Dopo la sessione 4 ha in più due richieste del giocatore: **le battute devono far trasparire le emozioni dei PNG** (§2-bis) e **i PNG vivono nel mondo che li circonda** (§4, punto 14).
+Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Riscritta il 19/10/2026: tiene ciò che valeva delle vecchie guide ai dialoghi (06 e 07) e toglie ciò che produceva battute lunghe, incatenate da «e», che spiegavano invece di parlare. Dopo la sessione 4 ha in più quattro richieste del giocatore: **le battute devono far trasparire le emozioni dei PNG** (§2-bis), **niente battute a effetto** (§2-ter), **i PNG vivono nel mondo che li circonda** (§4, punto 14) e **mai frasi fatte nei dialoghi** (§4, punto 16).
 
 Prima di scrivere una battuta, il master ha già deciso con il metodo di `regole/08-metodo-esito.md` **cosa** vuole il PNG e **quale mossa** fa. Questa guida dice **come** quella mossa diventa dialogo.
 
@@ -21,8 +21,8 @@ Le battute stanno **dentro i paragrafi**, nella prosa scorrevole di `regole/05-p
 
 1. **Una cosa sola.** Una battuta dice una cosa: un'accusa, una richiesta, una sfida, una paura, un ordine. Una o due frasi, raramente tre. Come misura, sotto i 200 caratteri. Il controllo automatico avvisa sopra i 200 e blocca sopra i 300.
 2. **Niente catene di «e».** È vietata la battuta costruita come *frase, e frase, e frase*: «Il laboratorio è l'unica cosa che ho portato a casa, e vuol dire che la misuro io, con la mia gente, e quello che arriva al Consiglio lo scrivo io.» Le «e» incollate così servono a giustificare e a spiegare ogni passaggio, e la battuta diventa una relazione scritta. Una persona dice la cosa principale e si ferma; il resto, se serve davvero, arriva in un'altra battuta o non arriva. Il controllo automatico blocca le battute con due o più «…, e» e le frasi lunghe tenute insieme da «, e».
-3. **Frasi intere o frammenti carichi.** Le frasi si separano con il punto, i puntini, il punto esclamativo o interrogativo. I **frammenti** (una parola, due, tre in fila) vanno bene quando sono **carichi**: disprezzo, shock, dolore, un ordine secco, una sfida. Sono vietati quando sono **piatti**, nelle chiacchiere di tutti i giorni: «Il riso non morde. Ci vai tu? Io non lo conosco.» suona come un telegramma, non come una persona.
-4. **Ciò che si vuole si dice dritto.** Ciò che il PNG **prova** deve sentirsi (§2-bis); ciò che **vuole** lo chiede in modo diretto, soprattutto nei momenti forti, con la parola che pesa **in fondo** alla battuta. Niente code che sgonfiano: dopo la cosa forte non si aggiungono battutine, commenti su di sé o spiegazioni.
+3. **Frasi intere.** Le frasi si separano con il punto, i puntini, il punto esclamativo o interrogativo, e suonano come le direbbe una persona. I **frammenti** (una parola, due, tre in fila) solo quando chi parla è davvero fuori di sé: urla, è sotto shock, sta male. Mai nelle chiacchiere di tutti i giorni («Il riso non morde. Ci vai tu? Io non lo conosco.» è un telegramma) e mai per fare effetto.
+4. **Ciò che si vuole si chiede in modo semplice.** Ciò che il PNG **prova** deve sentirsi (§2-bis); ciò che **vuole** lo chiede in modo diretto, con le parole con cui lo chiederebbe una persona, senza costruire la frase perché suoni forte. Niente code che sgonfiano, cioè niente battutine, commenti su di sé o spiegazioni appiccicati alla fine.
 5. **La battuta non si spiega**: né il PNG («non te lo sto dicendo per scusarmi») né il narratore («non era una domanda», «si capiva che…»).
 
 ## 2-bis. Le emozioni si sentono *(richiesta del giocatore, sessione 4)*
@@ -32,11 +32,25 @@ Il giocatore vuole che dai dialoghi **traspaia ciò che provano i PNG**. Un PNG 
 1. **Ogni battuta ha un'emozione leggibile**: rabbia, paura, sollievo, vergogna, stanchezza, affetto, imbarazzo, gelosia. Si sente:
    - **dalle parole** che sceglie e da quello che gli scappa detto;
    - **dal ritmo**: chi è arrabbiato accorcia e incalza, chi è nervoso si inceppa, si corregge, ricomincia, chi è stanco lascia le frasi a metà;
-   - **dalla punteggiatura**: esclamativi, domande, puntini, interruzioni (—), il maiuscolo di chi urla davvero;
+   - **dalla punteggiatura**, senza esagerare: un esclamativo dove una persona alzerebbe davvero la voce, domande, puntini, interruzioni (—), il maiuscolo solo per chi urla;
    - **dalla voce e dal corpo** intorno alla battuta: un tono, un gesto legato a quella emozione in quella situazione.
 2. **Il PNG può dire ciò che prova**, quando il momento è forte ed è nel suo carattere («Mi hai fatto paura, Akira!», «Sono stanca morta, Akira!»). Il sottotesto serve per ciò che il PNG **nasconde apposta** (quello che la scheda segna come non detto), non per ogni sentimento.
 3. **La freddezza è un'emozione anche lei**, e si vede: chi è freddo per carattere o per scelta lo è in modo riconoscibile (cosa evita, cosa non concede, come taglia corto). Non è il tono di base di tutti i PNG.
 4. **Prova**: copri il nome di chi parla e i gesti. Dalla battuta da sola si capisce cosa prova? Se no, riscrivila.
+
+## 2-ter. Niente battute a effetto *(richiesta del giocatore, sessione 4)*
+
+Il giocatore ha notato che i dialoghi **cercano quasi sempre di dare un impatto**, e non gli piace. Le persone parlano per ottenere qualcosa, per capire, per sfogarsi, per togliersi d'impaccio: non per colpire chi ascolta.
+
+1. **La maggior parte delle battute è normale**: domande pratiche, mezze risposte, cose dette male e corrette, ripetizioni, irritazione, stanchezza, un cambio di argomento. Anche nelle scene forti.
+2. **Vietato**, perché è scrittura per fare effetto:
+   - chiudere la battuta con una frase corta che «colpisce» dopo una più lunga, o con la parola forte messa in fondo apposta;
+   - il nome di Akira in fondo alla battuta per dare peso («…, Akira.»);
+   - le sentenze, le battute da trailer o da anime doppiato, la replica che zittisce l'altro, la domanda retorica che chiude il discorso;
+   - uno scambio in cui ogni battuta è «la battuta giusta» e nessuno dice niente di storto, di inutile o di goffo.
+3. **Una battuta che pesa** è ammessa al massimo **una volta per scena**, solo se il momento è davvero il culmine (un'accusa, una confessione, una minaccia vera), e anche quella va detta come la direbbe quella persona, non come una frase scritta.
+4. **Emozione non vuol dire effetto** (§2-bis): l'emozione si sente da come uno parla (esita, si arrabbia, si stanca, si ripete), non da battute costruite per lasciare il segno.
+5. **Prova**: la battuta funzionerebbe in un trailer? Se sì, è troppo. Detta ad alta voce in una cucina all'una di notte, suona come una persona o come un film?
 
 ## 3. Punteggiatura e grafia
 
@@ -78,17 +92,17 @@ Il giocatore vuole che dai dialoghi **traspaia ciò che provano i PNG**. Un PNG 
 13. **Logica letterale**: ogni battuta ha senso parola per parola. Il verbo è quello giusto, il ragionamento torna, non contraddice ciò che il PNG ha appena detto o fatto.
 14. **Vive nel mondo che lo circonda.** Il PNG non reagisce solo ad Akira: reagisce a dove si trova e a cosa succede intorno (la bambina che dorme di là, l'ora, il freddo, un rumore, un notiziario, chi aspetta fuori dalla porta), e a ciò che gli ha lasciato la sua giornata (stanchezza, fame, una riunione andata male, un dolore). Queste reazioni portano un'emozione o un'intenzione e cambiano qualcosa nella scena; non sono coreografia di gesti (`regole/05-prosa-shonen.md` §1).
 15. **Interagisce con gli altri PNG presenti** quando ha senso, secondo i loro rapporti (Regola 6): si danno ragione o torto, si proteggono, si interrompono, si rinfacciano cose.
-16. **Mai frasi fatte**, mai: niente battute da film che chiunque direbbe in quella situazione («mi fai venire il mal di testa», «dobbiamo parlare», «non è come pensi», «fidati di me», «andrà tutto bene», «non è il momento»…). L'elenco e il rimedio sono in `regole/05-prosa-shonen.md` §4; il controllo automatico ne blocca molte.
+16. **Mai frasi fatte nei dialoghi.** Una frase fatta è una battuta che **potrebbe dire chiunque, in qualsiasi storia**, in quella situazione: le battute da film e da anime doppiato, i modi di dire, i proverbi, le formule. Esempi: «mi fai venire il mal di testa», «dobbiamo parlare», «non è come pensi», «fidati di me», «andrà tutto bene», «ce la faremo», «non sei solo», «non è il momento», «lo sai benissimo», «è complicato», «non è colpa tua», «non ci posso credere», «stai scherzando?», «cosa ci fai qui?», «non abbiamo scelta», «è l'unico modo», «lo faccio per il tuo bene», «una volta per tutte», «costi quel che costi», «me la pagherai», «non finisce qui», «non è da te», «sei sempre stato…». **Prova**: se la battuta si potrebbe spostare in bocca a un altro personaggio di un'altra storia senza cambiare niente, è una frase fatta. Si riscrive con ciò che direbbe **questa** persona, adesso, con le sue parole e con le cose concrete di questa scena. Il controllo automatico ne blocca molte.
 
 ## 5. Il registro, situazione per situazione
 
 | Situazione | Forma | Contenuto |
 |---|---|---|
 | **Provocazione, sfida** | Domande di sfida, esclamativi, maiuscolo se urla; può essere più lunga, ma resta una cosa | Il disprezzo, la promessa di schiacciare, la domanda che inchioda |
-| **Disprezzo freddo** | Una frase tagliente, senza esclamativi; la freddezza si sente in ciò che il PNG non concede | Un giudizio, una constatazione che umilia |
+| **Disprezzo freddo** | Poche parole, senza esclamativi; la freddezza si sente in ciò che il PNG non concede | Un giudizio, una constatazione che umilia |
 | **Shock, stupore** | Breve, spezzata, `?!`, puntini | La cosa che non torna, il nome di chi si ha davanti |
 | **Dolore, chi sta morendo** | Puntini tra le parole, poche parole, il nome | Una richiesta, un ringraziamento, una domanda rimasta aperta |
-| **Supplica, amore** | Frasi semplici, pause, la parola che pesa in fondo | Ciò che si chiede, detto dritto |
+| **Supplica, amore** | Frasi semplici, pause, parole normali | Ciò che si chiede, detto dritto |
 | **Ordine** | Una frase, imperativo | Cosa fare, entro quando |
 | **Litigio** | Battute brevi, una accusa per battuta, domande dirette, botta e risposta con gesti in mezzo | Fatti concreti, la cosa che brucia di più, ciò che si pretende |
 | **Quotidiano, gag** | Più sciolto, si interrompe, cambia argomento, segnali del parlato | La vita: fame, imbarazzo, battibecchi, curiosità |
@@ -108,22 +122,23 @@ Il giocatore vuole che dai dialoghi **traspaia ciò che provano i PNG**. Un PNG 
 - **Sessione 3, all'Orto**: la vedova che accusa parlando del proprio lavoro invece che del marito e di Akira (cartellino); «le pesche non aspettano», battuta da cartolina; l'orologio di Mirtillo cinque volte; la puntualità detta da quattro voci.
 - **La terrazza**: il finale che si sgonfia su un commento su di sé; «ne hai diritto»; il presente dentro un timore al passato; poi la rabbia di Akira ignorata; poi l'eccesso opposto, con Syntia che risponde a ogni punto, ripete le parole di Akira, accumula episodi, dichiara una paura non detta e infila frasi senza nesso.
 - **La notte con Tights**: battute-catena tenute insieme da «e» e lunghe fino a 316 caratteri («Il laboratorio è l'unica cosa che ho portato a casa, e vuol dire che…, e quello che…»); Syntia che tira fuori la provocazione di Lattuga come se cambiasse qualcosa, quando per la decisione del Consiglio era irrilevante: la classica stupidaggine detta per dire qualcosa (prova dell'«e allora?»).
-- **Sessione 4, Tights sulla terrazza**: PNG-statua (Tights che parla per constatazioni fredde, senza che si senta cosa prova, mentre il narratore registra il pollice sul sigillo, il cappotto, il frigo, la lattina); frasi fatte («Mi fai venire il mal di testa», lo stomaco che si stringe, qualche secondo di troppo, le labbra in una riga sottile, sbattere le palpebre «una volta sola», «Non c'è niente di brusco nella voce. È peggio.»); battute-telegramma («Siediti. Mi fai venire il mal di testa.»); una frase per riga.
+- **Sessione 4, Tights sulla terrazza**: PNG-statua (Tights che parla per constatazioni fredde, senza che si senta cosa prova, mentre il narratore registra il pollice sul sigillo, il cappotto, il frigo, la lattina); frasi fatte («Mi fai venire il mal di testa», lo stomaco che si stringe, qualche secondo di troppo, le labbra in una riga sottile, sbattere le palpebre «una volta sola», «Non c'è niente di brusco nella voce. È peggio.»); battute-telegramma («Siediti. Mi fai venire il mal di testa.»); una frase per riga; battute costruite per fare effetto («In Consiglio ci siedo anch'io, Akira.», il nome in fondo, la chiusa che colpisce).
 
 ## 8. Checklist per ogni dialogo
 
 1. Le battute stanno dentro i paragrafi, con un beat ogni due o tre battute, e chi parla ha un corpo?
 2. Ogni battuta dice **una cosa**? Sta sotto i 200 caratteri?
 3. C'è una catena di «e» («…, e…, e…»)? → spezza: una cosa per frase, o taglia la spiegazione.
-4. Ci sono frasi corte e piatte in fila, chiuse dal punto (telegramma)? → legale, o rendile cariche.
+4. Ci sono frasi corte e piatte in fila, chiuse dal punto (telegramma)? → legale in una frase intera.
 5. **Emozione**: copri il nome e i gesti. Si capisce cosa prova chi parla (§2-bis)?
+5-bis. **Effetto**: c'è una battuta costruita per colpire (chiusa corta, parola forte in fondo, nome di Akira in fondo, sentenza, frase da trailer)? Più di una per scena? (§2-ter)
 6. **Mondo**: il PNG reagisce anche a ciò che ha intorno e agli altri PNG, quando ha senso (§4, punti 14-15)?
-7. **Frasi fatte**: ce n'è una, in una battuta o nella narrazione intorno (`regole/05-prosa-shonen.md` §4)?
+7. **Frasi fatte**: c'è una battuta che potrebbe dire chiunque, in qualsiasi storia (§4, punto 16)?
 8. La punteggiatura è quella del §3: `«…»` per i PNG, `"…"` per Akira e le voci nella testa, puntini, esclamativi, trattino lungo?
 9. Prova dell'«e allora?»: ogni argomento conta davvero per la decisione in gioco?
 10. Il PNG sa tutto ciò che dice? Spiega cose che l'altro sa già?
 11. Il PNG fa una mossa su un punto, o risponde a tutto? Ripete le parole di Akira?
-12. Ciò che vuole è detto dritto, con la parola che pesa in fondo? C'è una coda che sgonfia?
+12. Ciò che vuole è detto in modo semplice e diretto? C'è una coda che sgonfia?
 13. Cartellino, terapeuta, metafore, similitudini, assoluti, concetti ripetuti, mezzo segreto?
 14. Tempi verbali concordati? Logica parola per parola?
 15. Prova ad alta voce: una persona in quello stato direbbe proprio queste parole, in quest'ordine?

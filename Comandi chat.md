@@ -115,7 +115,7 @@ Tutto quello che scrivi tra parentesi quadre è rivolto **al master**, non ad Ak
 - **Akira lo muovi solo tu.** Il master non lo fa mai parlare né agire senza una tua dichiarazione.
 - **Il master non ti asseconda.** Quello che scrivi è ciò che Akira tenta e dice: i PNG lo pesano con il loro carattere, possono contestarlo, arrabbiarsi, rifiutare, rinfacciarti qualcosa. Nelle discussioni difendono le loro convinzioni.
 - **Scene corali.** Se ci sono più PNG, parlano e si scontrano anche tra loro, non solo con Akira.
-- **Stile degli esiti.** Prosa in terza persona vicina ad Akira, scorrevole e calda; dialoghi in cui si sente cosa provano i PNG, che reagiscono anche a ciò che hanno intorno e tra loro. Niente metafore, niente frasi fatte.
+- **Stile degli esiti.** Prosa in terza persona vicina ad Akira, scorrevole e calda; dialoghi in cui si sente cosa provano i PNG, che reagiscono anche a ciò che hanno intorno e tra loro. Niente metafore. Nei dialoghi niente frasi fatte e niente battute costruite per fare effetto: i PNG parlano come persone.
 - **Lunghezza.** Ogni esito è lungo almeno 5000 caratteri (3500 per un singolo round, uno scambio rapido o la risposta di un PNG in un dialogo a due). I messaggi che ti chiedono un tiro possono essere più corti, perché si fermano prima dell'esito.
 - **Nessuno è al sicuro.** I PNG possono fare scelte contro Akira: un personaggio caro può morire, restare ferito per sempre, essere rapito, tradire. Il master non salva nessuno all'ultimo secondo per comodità.
 - **Salti temporali:** il master non li fa mai di sua iniziativa. Te li propone e aspetta il tuo sì.

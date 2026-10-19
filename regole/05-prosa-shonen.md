@@ -22,7 +22,7 @@ Esempio del testo bocciato nella sessione 1:
 | **Narratore-telecamera freddo** | Registra gesti dall'esterno e non trasmette nessuna temperatura emotiva. Il lettore osserva, ma non *sente*. |
 | **Dettagli "strani" senza funzione** (il bicchiere che ruota di un quarto di giro, la giacca di velluto di un vecchio a caso, il cappotto chiuso storto di un'asola, la macchia di caffè sul polsino) | Sembrano specifici, ma sono casuali. Distraggono e danno la sensazione di testo "generato". |
 | **PNG-statua** (parla a frasi secche, senza voce né corpo, mentre il narratore elenca cosa fanno le sue dita) | Non si capisce cosa prova. Bocciato nella sessione 4: i dialoghi devono far trasparire le emozioni (`regole/06-dialoghi.md` §2-bis). |
-| **Frasi fatte** (lo stomaco che si stringe, qualche secondo di troppo, le labbra in una riga sottile, «non c'è niente di brusco nella voce. È peggio.») | Sono le frasi di tutti i libri e di tutti i testi generati. Vietate, sempre (§4). |
+| **Frasi fatte e battute a effetto** («Mi fai venire il mal di testa», «In Consiglio ci siedo anch'io, Akira.», e nella narrazione lo stomaco che si stringe, il secondo di troppo) | Sono le frasi di tutti i libri e di tutti i testi generati, e le battute scritte per colpire invece che per parlare (§4, `regole/06-dialoghi.md` §2-ter). |
 | **Similitudini artificiose** ("come un pacco da consegnare", "come se la voce fosse uscita dalla sua tasca") | Suonano letterarie e false. In uno shonen le immagini sono semplici e immediate. |
 | **Battute frantumate da punti** («Papà.» Bisbigliò…) | Errore di punteggiatura (vedi §3), e i PNG sembrano parlare a singhiozzo. |
 | **Troppi personaggi e nessun fuoco** (signora, vecchio, preside, ragazzo, Tobias, Zemi, Syntia nello stesso paragrafo) | Il lettore non sa dove guardare. |
@@ -75,23 +75,12 @@ Esempio del testo bocciato nella sessione 1:
 
 ---
 
-## 4. Frasi fatte: mai
+## 4. Frasi fatte
 
-*(Decisione del giocatore, ribadita il 19/10/2026: «non devono utilizzare MAI frasi fatte, MAI».)*
+*(Decisione del giocatore, ribadita il 19/10/2026: «non devono utilizzare MAI frasi fatte, MAI». Il giocatore intende **nei dialoghi**.)*
 
-Una frase fatta è un'espressione che si è letta mille volte, in mille storie diverse, e che starebbe bene in qualsiasi scena. Non dice niente di **questa** scena e di **questa** persona, e fa capire subito che il testo è generato. Vale per la narrazione e per le battute dei PNG.
-
-**Nella narrazione**, fra le più comuni (il controllo automatico ne blocca molte):
-- il corpo da romanzo: lo stomaco che si stringe, il nodo alla gola, il cuore che salta un battito o finisce in gola, il sangue che si gela, il brivido lungo la schiena, il fiato sospeso o trattenuto, le nocche bianche, la mascella serrata, il deglutire;
-- le facce da romanzo: le labbra in una linea o riga sottile, sbattere le palpebre, il sopracciglio alzato, gli occhi al cielo, gli occhi che si assottigliano, il sorriso che non arriva agli occhi, il sorriso amaro, la risata senza allegria, la risata o lo sbuffo che scappa dal naso, passarsi una mano tra i capelli o sul viso, il respiro profondo;
-- i tempi da romanzo: il secondo, il momento o la pausa «di troppo», «una pausa troppo lunga», il tempo che si ferma o si dilata, il silenzio che cala, l'aria che si fa pesante, il silenzio assordante;
-- le glosse da romanzo: «non c'è niente di brusco nella voce. È peggio.», «qualcosa si è rotto dentro di lui», «e in quel momento capì», «non era solo X, era Y», le triplette retoriche, la chiusa a effetto in ogni paragrafo, il PNG che annuisce gravemente.
-
-**Nelle battute**: «mi fai venire il mal di testa», «dobbiamo parlare», «non è come pensi», «non è quello che sembra», «fidati di me», «andrà tutto bene», «ce la faremo», «non sei solo», «non è il momento», «lo sai benissimo», «è complicato», «non è colpa tua», «possiamo parlarne», «lascia che ti spieghi», «ascoltami bene», e ogni battuta da film che chiunque direbbe in quella situazione.
-
-**Il rimedio**: chiedersi cosa succede davvero nel corpo, nella voce o nella testa di **questa** persona, adesso, e dirlo con le parole più semplici. Spesso la frase fatta si può solo togliere, e la battuta o il fatto che segue bastano da soli.
-
----
+- **Nei dialoghi: mai.** Una frase fatta è una battuta che potrebbe dire chiunque, in qualsiasi storia: battute da film, modi di dire, proverbi, formule («mi fai venire il mal di testa», «dobbiamo parlare», «fidati di me», «andrà tutto bene», «non è il momento»…). Definizione, elenco e prova sono in `regole/06-dialoghi.md` §4, punto 16. Il controllo automatico le blocca.
+- **Nella narrazione** restano vietate quelle già elencate dal giocatore in `regole/03-stile-toriyama.md` («un brivido gli corse lungo la schiena», «l'aria si fece pesante», «il silenzio era assordante», «qualcosa era cambiato», «e in quel momento capì», il PNG che annuisce gravemente). Le altre espressioni logore del corpo e delle facce (lo stomaco che si stringe, le labbra in una linea sottile, sbattere le palpebre, il secondo «di troppo», lo sbuffo dal naso, il sorriso amaro…) sono il tic più tipico dei testi generati: si evitano, e il controllo automatico le segnala come avviso. Il rimedio è la cosa vera di questa scena, o niente.
 
 ## 5. Checklist prima di inviare ogni messaggio narrativo
 
@@ -100,7 +89,7 @@ Una frase fatta è un'espressione che si è letta mille volte, in mille storie d
 3. C'è una sequenza di micro-gesti senza significato? → **Riducila a un gesto che dice qualcosa.**
 4. Ogni dettaglio fa vedere, rivela, prepara o fa ridere? → Se no, **taglialo.**
 5. Si sente cosa prova la scena (Akira tramite il corpo, i PNG tramite voce, parole e gesti)? Ogni PNG che parla fa capire cosa prova? → Se no, **aggiungi temperatura.**
-6. C'è una frase fatta (§4), nella narrazione o in una battuta? → **Riscrivila o toglila.**
+6. C'è una frase fatta in una battuta, o una battuta costruita per fare effetto? Un'espressione logora nella narrazione (§4)? → **Riscrivila o toglila.**
 7. Zero metafore? Al massimo una similitudine, nella narrazione?
 8. Akira compie azioni, decisioni o pensieri che il giocatore non ha dichiarato? → **Togli.**
 9. Combattimento: la narrazione rispecchia esattamente i dadi e il calcolo? Il blocco del calcolo è alla fine?

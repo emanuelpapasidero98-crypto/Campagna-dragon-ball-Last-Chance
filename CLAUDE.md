@@ -13,7 +13,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @regole/06-dialoghi.md
 @regole/08-metodo-esito.md
 
-> **Ogni esito si costruisce con il metodo di `regole/08-metodo-esito.md`** (prima si decide cosa pensa, cosa prova e cosa vuole ogni PNG e quale mossa fa, poi si scrive) e si scrive con la prosa di `regole/05-prosa-shonen.md` e i dialoghi di `regole/06-dialoghi.md`: terza persona vicina ad Akira, periodi scorrevoli, emozioni dei PNG che si sentono, **mai frasi fatte**. Un riassunto viene iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
+> **Ogni esito si costruisce con il metodo di `regole/08-metodo-esito.md`** (prima si decide cosa pensa, cosa prova e cosa vuole ogni PNG e quale mossa fa, poi si scrive) e si scrive con la prosa di `regole/05-prosa-shonen.md` e i dialoghi di `regole/06-dialoghi.md`: terza persona vicina ad Akira, periodi scorrevoli, emozioni dei PNG che si sentono, **mai frasi fatte nei dialoghi**, niente battute a effetto. Un riassunto viene iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
 
 ## Stato corrente (caricato sempre)
 @mondo/stato-attuale.md

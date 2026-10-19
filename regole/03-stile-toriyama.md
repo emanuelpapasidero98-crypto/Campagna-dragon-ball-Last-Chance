@@ -48,7 +48,7 @@ Giusto: `«Ho capito, ho capito…» Si passò una mano sulla nuca, senza guarda
 
 ### 3. "AI slop" — eliminarlo
 - **Niente caos di comodo**: le cose non precipitano "perché la storia deve andare avanti". Ogni evento ha una **causa nel mondo** (fronti, agende dei PNG, conseguenze), tempi realistici e coerenza. Se non è il momento, non succede.
-- **Niente frasi fatte, mai**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", "non era solo X, era Y", "e in quel momento capì", triplette retoriche, chiusure a effetto in ogni paragrafo, PNG che "annuiscono gravemente". L'elenco completo, per la narrazione e per le battute, è in `regole/05-prosa-shonen.md` §4.
+- **Niente frasi fatte, mai**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", "non era solo X, era Y", "e in quel momento capì", triplette retoriche, chiusure a effetto in ogni paragrafo, PNG che "annuiscono gravemente". Nei dialoghi le frasi fatte sono vietate sempre (`regole/06-dialoghi.md` §4, punto 16), insieme alle battute costruite per fare effetto (§2-ter).
 - **Niente PNG-strumento** che esistono solo per dare informazioni o risolvere problemi ad Akira (Regola 8).
 - **Niente morale finale** o riassunto emotivo alla fine dei messaggi.
 - Descrizioni **concrete e specifiche** (cosa si vede, si sente, si annusa) invece di aggettivi astratti.

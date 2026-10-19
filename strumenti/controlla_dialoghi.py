@@ -6,7 +6,8 @@ scorrevoli) e battute di regole/06-dialoghi.md. Segnala:
 - eco delle parole del giocatore (battute dei PNG o narrazione che ripetono il suo messaggio);
 - battute-telegramma, battute-catena («…, e…, e…») e battute-monologo;
 - PNG senza emozione (battute piatte, senza punteggiatura espressiva);
-- frasi fatte, nella narrazione e nelle battute;
+- frasi fatte nelle battute (e nella narrazione quelle elencate in regole/03);
+- avvisi su battute a effetto ed espressioni logore della narrazione;
 - una frase per riga e narrazione a singhiozzo;
 - glosse del narratore, narratore-grilletto, linguaggio da terapeuta;
 - metafore (quantità figurate, emozioni che «divorano»), similitudini nelle
@@ -100,13 +101,23 @@ FRASI_FATTE = [
     (r"\bun'eternità\b", "un'eternità"),
 ]
 FRASI_FATTE_RX = [(re.compile(rx, re.IGNORECASE | re.MULTILINE), nome) for rx, nome in FRASI_FATTE]
+# Nella narrazione bloccano solo quelle dell'elenco del giocatore (regole/03 §3) e la glossa; le altre sono avvisi.
+FRASI_FATTE_BLOCCANTI = {"il brivido", "il silenzio che cala", "l'aria che si fa pesante", "«non c'è niente di… È peggio.»",
+                         "e in quel momento capì", "annuire gravemente", "qualcosa che si rompe dentro"}
 FRASI_FATTE_BATTUTE = [
     "mi fai venire il mal di testa", "dobbiamo parlare", "non è come pensi", "non è quello che sembra",
-    "fidati di me", "andrà tutto bene", "ce la faremo", "non sei solo", "non sei sola", "non è il momento",
-    "lo sai benissimo", "sai benissimo", "è complicato", "non è colpa tua", "possiamo parlarne",
-    "lascia che ti spieghi", "ascoltami bene", "non ci posso credere", "ti conosco troppo bene",
-    "sono fiero di te", "sono fiera di te", "non mi lasci scelta", "è finita", "abbiamo un problema",
-    "non ne vale la pena",
+    "fidati di me", "devi fidarti di me", "andrà tutto bene", "ce la faremo", "non sei solo", "non sei sola",
+    "non è il momento", "lo sai benissimo", "sai benissimo", "è complicato", "non è colpa tua", "possiamo parlarne",
+    "lascia che ti spieghi", "ascoltami bene", "non ci posso credere", "non posso crederci", "ti conosco troppo bene",
+    "sono fiero di te", "sono fiera di te", "non mi lasci scelta", "non abbiamo scelta", "è finita",
+    "abbiamo un problema", "non ne vale la pena", "è l'unico modo", "non c'è tempo", "non abbiamo tempo",
+    "stai scherzando", "dimmi che stai scherzando", "cosa ci fai qui", "che ci fai qui", "a che gioco stai giocando",
+    "non farmi ridere", "lo faccio per il tuo bene", "è per il tuo bene", "una volta per tutte", "costi quel che costi",
+    "a qualunque costo", "non te lo perdonerò mai", "non me lo perdonerò mai", "conta su di me", "puoi contare su di me",
+    "me la pagherai", "la pagherai", "non finisce qui", "non è da te", "sei sempre stato", "sei sempre stata",
+    "non sei cambiato", "non sei cambiata", "chi sei davvero", "chi sei veramente", "non lascerò che",
+    "non permetterò che", "non ho paura di te", "ci vediamo all'inferno", "parla per te", "è più forte di me",
+    "non sono affari tuoi", "sai cosa intendo", "hai capito benissimo", "non ti azzardare",
 ]
 CLICHE = ["ogni parola messa al suo posto", "un momento di troppo", "qualcosa le cambiava", "qualcosa gli cambiava",
           "non sentì niente di tutto questo", "di chi dorme male", "il silenzio era assordante", "l'aria si fece pesante"]
@@ -246,16 +257,23 @@ def controlla(testo):
             errori.append(f"riga {riga}: TROPPI PUNTI nella stessa battuta → spezza con un'azione o lega le frasi: «{b[:90]}»")
         for f in FRASI_FATTE_BATTUTE:
             if re.search(rf"\b{re.escape(f)}\b", b, re.IGNORECASE):
-                errori.append(f"riga {riga}: FRASE FATTA IN BATTUTA \"{f}\" → cosa direbbe QUESTA persona, adesso? (regole/05 §4): «{b[:70]}»")
+                errori.append(f"riga {riga}: FRASE FATTA IN BATTUTA \"{f}\" → potrebbe dirla chiunque, in qualsiasi storia: cosa direbbe QUESTA persona, adesso? (regole/06 §4, punto 16): «{b[:70]}»")
 
     # 1-ter. PNG senza emozione: battute senza punteggiatura espressiva.
     espressiva = lambda b: bool(re.search(r"[!?…—]", b)) or bool(re.search(r"\b[A-ZÀ-Ý]{3,}\b", b))
     if len(bb) >= 4:
         quota = sum(1 for _, b in bb if espressiva(b)) / len(bb)
-        if quota == 0:
-            errori.append(f"PNG SENZA EMOZIONE: nessuna delle {len(bb)} battute ha un esclamativo, una domanda, dei puntini o un'interruzione → si deve sentire cosa provano (regole/06 §2-bis)")
-        elif quota < 0.3:
+        if quota < 0.3:
             avvisi.append(f"PNG SENZA EMOZIONE? Solo {round(quota * 100)}% delle battute ha punteggiatura espressiva → copri il nome: si capisce cosa prova chi parla? (regole/06 §2-bis)")
+
+    # 1-quater. Battute a effetto: chiusa corta che colpisce, nome di Akira in fondo.
+    finale_corta = [b for _, b in bb if len(frasi(b)) >= 2 and n_parole(frasi(b)[-1]) <= 4 and n_parole(frasi(b)[-2]) >= 6]
+    lunghe = [b for _, b in bb if len(frasi(b)) >= 2]
+    if len(lunghe) >= 3 and len(finale_corta) / len(lunghe) >= 0.4:
+        avvisi.append(f"BATTUTE A EFFETTO? {len(finale_corta)} battute su {len(lunghe)} chiudono con una frase corta dopo una lunga (es. «…{frasi(finale_corta[0])[-1]}») → le persone non parlano per colpire (regole/06 §2-ter)")
+    nome_in_fondo = [b for _, b in bb if re.search(r",\s*Akira[.!?…]*$", b)]
+    if len(nome_in_fondo) >= 2:
+        avvisi.append(f"BATTUTE A EFFETTO? Il nome di Akira in fondo a {len(nome_in_fondo)} battute → si usa quando serve davvero, non per dare peso (regole/06 §2-ter)")
 
     # 2. Eco in apertura di battuta ("Sì, …", "X, sì").
     eco = []
@@ -283,8 +301,10 @@ def controlla(testo):
         errori.append(f"NARRATORE-GRILLETTO ripetuto {n_grilletti} volte (una reazione appesa a ogni frase di Akira) → una reazione all'insieme")
     for rx, nome in FRASI_FATTE_RX:
         m = rx.search(narr)
-        if m:
-            errori.append(f"FRASE FATTA: \"{m.group(0).strip(' .!?…')}\" ({nome}) → scrivi la cosa vera di questa scena, o togli (regole/05 §4)")
+        if m and nome in FRASI_FATTE_BLOCCANTI:
+            errori.append(f"FRASE FATTA: \"{m.group(0).strip(' .!?…')}\" ({nome}) → scrivi la cosa vera di questa scena, o togli (regole/03 §3, regole/05 §4)")
+        elif m:
+            avvisi.append(f"ESPRESSIONE LOGORA: \"{m.group(0).strip(' .!?…')}\" ({nome}) → la cosa vera di questa scena, o niente (regole/05 §4)")
     for m in AKIRA_DECISO.finditer(narr):
         avvisi.append(f"AKIRA DECISO DAL MASTER: \"{m.group(0)}\" → decisioni, intenzioni e pensieri li dichiara il giocatore (Regola 5)")
     if len(SECONDA_PERSONA.findall(narr)) >= 3:

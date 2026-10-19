@@ -82,7 +82,7 @@ Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapport
 ## Fase 5 — Scrivere
 
 18. **Traduci la catena in parlato**: le stesse idee, nello stesso ordine, con il **modo** di parlare del PNG (voci-e-diario). **Non aggiungere idee mentre scrivi**: se ti viene una frase "bella" che non era nella catena, quasi sempre è slop, e si toglie.
-19. **Applica la forma** delle guide 05 e 06: periodi scorrevoli, battute dentro i paragrafi, emozioni che si sentono, punteggiatura della casa, peso sull'ultima parola nei momenti forti, tempi concordati, zero frasi fatte.
+19. **Applica la forma** delle guide 05 e 06: periodi scorrevoli, battute dentro i paragrafi, emozioni che si sentono, punteggiatura della casa, tempi concordati. Le battute si scrivono come le direbbe quella persona in quel momento, non per fare effetto (`regole/06-dialoghi.md` §2-ter), e senza frasi fatte.
 
 ## Fase 6 — Rilettura distruttiva
 
@@ -101,7 +101,8 @@ Poi **cancella**, senza pietà:
 - ogni catena di «e» dentro una battuta;
 - ogni metafora, nella narrazione o nelle battute, e ogni similitudine oltre la prima;
 - ogni argomento che non passa la prova dell'«e allora?»;
-- ogni frase fatta, nella narrazione o nelle battute (`regole/05-prosa-shonen.md` §4);
+- ogni frase fatta in una battuta, cioè ogni battuta che potrebbe dire chiunque in qualsiasi storia (`regole/06-dialoghi.md` §4, punto 16), e le espressioni logore della narrazione (`regole/05-prosa-shonen.md` §4);
+- ogni battuta costruita per fare effetto: la chiusa corta che colpisce, la parola forte messa in fondo, il nome di Akira in fondo, la sentenza, la frase da trailer (`regole/06-dialoghi.md` §2-ter). Al massimo una per scena, e solo nel vero culmine;
 - ogni PNG che parla senza che si senta cosa prova (`regole/06-dialoghi.md` §2-bis);
 - ogni catalogo di gesti e ogni frase isolata su una riga che non sia un impatto;
 - ogni frase ricopiata da una guida o da un esito precedente.
@@ -144,7 +145,8 @@ EOF
 | Tentativo risolto a tavolino | Akira prova a convincere, scoprire, nascondersi o colpire, e l'esito decide da solo come va | Fase 1-bis: si chiama il tiro e ci si ferma |
 | PNG-statua | Il PNG parla per constatazioni secche e senza tono, e non si capisce cosa prova | Emozione nelle parole, nel ritmo, nella voce (`regole/06-dialoghi.md` §2-bis) |
 | Catalogo di gesti | Il narratore registra dita, oggetti, vestiti, frigoriferi, uno dopo l'altro | Un gesto che porta l'emozione, il resto si taglia |
-| Frase fatta | «Lo stomaco gli si strinse», «un secondo di troppo», «le labbra in una linea sottile», «mi fai venire il mal di testa» | La cosa vera di questa scena, o niente (`regole/05-prosa-shonen.md` §4) |
+| Frase fatta | Una battuta che potrebbe dire chiunque in qualsiasi storia («mi fai venire il mal di testa», «dobbiamo parlare», «fidati di me») | Ciò che direbbe questa persona, adesso (`regole/06-dialoghi.md` §4, punto 16) |
+| Battuta a effetto | Ogni battuta chiude con un colpo: frase corta finale, parola forte in fondo, nome di Akira, sentenza | Parlato normale; una battuta che pesa al massimo per scena (`regole/06-dialoghi.md` §2-ter) |
 | Metafora | Una cosa detta come se fosse un'altra («una marea di ki», «le braccia erano pistoni»), un'emozione che «divora» o «morde» | Zero metafore: il dettaglio concreto |
 | Catena di «e» | Battute costruite come *frase, e frase, e frase*, che spiegano ogni passaggio | Una cosa per frase, la spiegazione si taglia |
 | Stupidaggine per dire qualcosa | Un argomento che non cambia niente per la decisione in gioco | Prova dell'«e allora?» |
