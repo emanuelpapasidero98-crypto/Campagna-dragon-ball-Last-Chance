@@ -36,3 +36,4 @@
 - `2026-10-18 22:23:52 UTC` 🎲 F2_Zarcon: d10 = 6 | mod +0 → totale 6 | Successo Parziale | g13_notte:crepa_di_Zarcon_(origlia_la_spedizione_g14)
 - `2026-10-18 22:23:52 UTC` 🎲 F4_Consiglio_esito_seduta: d10 = 2 | mod +0 → totale 2 | Fallimento | g13_sera:crisi_cannoni/scudo/cercare_Akira/capro_espiatorio
 - `2026-10-18 22:23:52 UTC` 🎲 Tobias_tono_del_rapporto: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g13_sera:rapporto_al_re_sull_Orto_(7+=inquadra_con_contesto_a_favore_di_Zemi)
+- `2026-10-19 15:53:49 UTC` 🎲 Ganascia: d10 = 7 | mod +0 → totale 7 | CD 6 → PROVA SUPERATA | Parla ai notiziari durante la pausa della seduta (coincidenze ad Arcorp)

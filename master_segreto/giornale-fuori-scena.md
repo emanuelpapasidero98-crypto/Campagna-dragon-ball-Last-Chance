@@ -208,3 +208,9 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa**: Tights riceve il messaggio di Syntia («Akira mi ha detto di stanotte. Ci sono anch'io, Tights») e risponde subito: verrà all'una, Syntia ci sarà, non vuole parlare di Zemi da sola con Akira (orgoglio, imbarazzo, e Syntia è sua amica). Scrive anche a Tobias di restare dov'è e di non far entrare nessun altro. Poi torna in seduta, dove si litiga ancora (Ganascia).
 - **Conseguenze**: all'una l'incontro sarà a tre (più Tobias fuori). Akira non avrà Tights da sola, salvo che lo ottenga in scena.
 - **Chi lo sa**: Tights, Syntia, Akira, Tobias.
+
+### G13 ~21:10-21:15 · Capsule Corp, corridoio della sala del Consiglio
+- **Cosa**: durante la pausa Ganascia parla ai giornalisti (tiro segreto 7 su CD 6): «Ad Arcorp ci sono troppe coincidenze. Una cupola dell'Orto si incrina proprio la settimana in cui certa gente arriva in città, e io alle coincidenze non ci credo.» Niente nomi, ma l'allusione ad Akira è chiara a chiunque. Il governatorato di Arcorp (Tights) non commenta. Il servizio va sugli schermi delle piazze e sui notiziari verso le 21:15.
+- **Conseguenze**: la voce sull'Orto passa dal quartiere ai notiziari (prima di quanto previsto, g14-15). Cannella, nel panico, riscrive a Syntia. Tobias lo vede sul comunicatore e capisce che Ganascia sta usando il suo rapporto: si alza e cammina sul pianerottolo. Tights, rientrando in seduta, lo scopre e se la prende con Ganascia davanti al re.
+- **Chi lo sa**: tutta Arcorp che guarda i notiziari; Akira e Syntia; Tobias; il Consiglio.
+- **Come Akira può scoprirlo**: l'ha visto. Domani: sguardi in strada, giornalisti, Cannella.
