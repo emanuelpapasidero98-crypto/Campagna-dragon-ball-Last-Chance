@@ -18,22 +18,21 @@
 - [s4 · g13 sera] Il comunicatore di Tobias ronza tre volte; dopo la seconda Tobias brontola «Lo so, lo so da me, non c'è bisogno che me lo scrivi due volte…» e batte la nuca contro il muro. Solo Akira lo sente (Syntia no).
 - [s4 · g13 sera] Akira percepisce il ki di Zemi attraverso le pareti: una puntina calda, il primo ki che gli arriva in mezzo a quelli della città; si accende un poco quando lei si rigira nel sonno.
 - [s4] Zemi, la mattina, apre un occhio da sotto il cuscino e lo richiude subito.
-- [s4 · g13 ~21:10] Syntia rivela che i due bambini della scuola chiamavano Zemi proprio «la figlia del mostro» (la lampada è saltata mentre glielo dicevano). La sera della lampada Syntia ha fatto respirare Zemi in corridoio, tra i vetri; la notte del letto è rimasta seduta sul bordo finché Zemi non è tornata giù da sola.
-- [s4 · g13 ~21:10] Syntia rivela le parole del signor Bottone al g6 («speriamo non abbia preso dal padre», detto a un'altra cliente): Zemi le ha sentite e la vetrina si è crepata; Syntia l'ha portata fuori per mano; il vestito giallo l'hanno comprato ad Arcorp, un'altra volta.
-- [s4 · g13 ~21:10] Syntia usa un sapone apposta per togliersi la terra dalle mani. Ha occhiaie scure.
+- [s4 · g13 ~21:10] Il comunicatore di Syntia contiene una conversazione con Tights lunghissima (tre anni di messaggi). Syntia scrive a Tights davanti ad Akira: «Akira mi ha detto di stanotte. Ci sono anch'io, Tights».
+- [s4 · g13 ~21:11] Risposta di Tights (tutto minuscolo, senza punti): «lo so tobias mi ha scritto tutto, vengo all'una e ovvio che ci sei anche tu, mica parlo di zemi da sola con lui come vorrebbe lui, adesso torno dentro che qui litigano ancora». Nello stesso momento Tights scrive anche a Tobias, che brontola «Va bene, ho capito, non mi muovo da qui».
+- [s4 · g13 ~21:12] Syntia chiude la portafinestra della terrazza (dopo aver guardato verso la porta socchiusa della cameretta): ora Akira e Syntia sono soli sulla terrazza, con il vetro chiuso.
 - [s4] Ricordo di Akira (774): Syntia, accanto a Tights su un balcone alto della piazza di Arcorp, teneva in braccio Zemi di tre anni; la bambina non distoglieva gli occhi da Akyr.
 
 ### Battute memorabili dei PNG
-- Syntia: «"La figlia del mostro"… quei due bambini, a scuola, le dicevano proprio così, Akira, con queste parole qui, e la lampada è saltata mentre glielo dicevano, quindi quell'etichetta ce l'ha addosso da più di un anno, e non gliel'ho attaccata io stando zitta.»
-- Syntia: «Che possa fare del male a qualcuno lo so […] ed è anche per questo che ho voluto che veniste qui con me, tutti e due, perché lasciarti tre settimane da solo con lei, senza che tu sapessi niente, non me la sentivo.»
-- Syntia: «Volevo che fosse lei a fartelo vedere, un giorno, […] magari facendo galleggiare una matita sul tavolo della cucina, e che tu la prima volta ti mettessi a ridere, invece di fare la faccia che hai fatto oggi.»
-- Syntia: «All'una ci sono anch'io, a questo tavolo, e prima che lei arrivi ci mettiamo d'accordo tu e io su cosa dirle, perché da stanotte, su Zemi, da soli non decidiamo più niente, né io né te.»
+- Syntia: «Allora lo sai da oggi pomeriggio, ci hai cenato sopra, mi hai lasciato pure fare il caffè, e me lo dici adesso, in coda a una predica su chi tiene i segreti in questa famiglia, e nemmeno per chiedermi cosa ne penso, solo per avvisarmi che arriva.»
+- Syntia: «Quindi che volevi vederla da solo lo vengo a sapere da lei, a messaggio… e cos'è che dovevi dirle, Akira, che io non dovevo sentire?»
+- Tobias (sul pianerottolo, a Tights per messaggio): «Va bene, ho capito, non mi muovo da qui»
 - Tobias (tra sé, sul pianerottolo): «Lo so, lo so da me, non c'è bisogno che me lo scrivi due volte…»
 
 ### Momenti chiave nei rapporti
 - g13 ~21:10: Akira si volta, severo, e a bassa voce rimprovera Syntia (doveva dirglielo, Zemi potrebbe far male a qualcuno, è spaventata da sé stessa, ora il governo lo sa ed è in allerta «inutilmente»); le dice di aver fatto chiamare Tights per l'una, che spiegherà la situazione e capirà il da farsi; rivendica il diritto di sapere, non vuole che Zemi sia etichettata come «la figlia di un mostro», «così non sei di aiuto». Si siede al tavolo.
-- Syntia non cede: rivela le parole dei bambini e di Bottone, rivendica di essere stata accanto a Zemi in ogni episodio, gli rinfaccia la faccia severa all'Orto; ammette che voleva Akira e Zemi ad Arcorp anche per non lasciarlo solo con lei senza che sapesse, e che tacere sulla vetrina le ha permesso di venire ad Arcorp (lo rifarebbe, per Zemi). Gli rinfaccia di aver organizzato Tights senza dirle niente fino ad ora («su mia figlia»). Pretende di esserci all'una e di accordarsi prima: su Zemi niente più decisioni da soli, né lei né lui.
-- Tobias, sul pianerottolo, si è alzato quando Syntia ha alzato la voce di un soffio, poi si è fermato (Akira l'ha sentito, Syntia no).
+- Syntia non risponde alle accuse: contrattacca su Tights (lui lo sapeva dal pomeriggio, gliel'ha taciuto durante la cena e glielo dice solo per avvisarla, in coda alla predica sui segreti). Scrive a Tights davanti a lui che ci sarà anche lei. Tights risponde subito che è ovvio, e che non parla di Zemi «da sola con lui come vorrebbe lui»: Syntia scopre così che Akira voleva vedere Tights da solo. Chiude la portafinestra e gli chiede cosa doveva dire a Tights che lei non doveva sentire.
+- (Versione riscritta su richiesta del giocatore dopo /aggiorna-regole: la prima versione di questa risposta è stata scartata e non vale.)
 
 ## Contatore metafore (massimo 1 per PNG a sessione)
 | PNG | Metafore usate |

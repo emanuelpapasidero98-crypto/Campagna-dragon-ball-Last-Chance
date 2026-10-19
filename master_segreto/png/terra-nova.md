@@ -56,3 +56,4 @@ HP 35 · Ki 30 · Attacco 20 · Difesa 15 · **BP 4.000.000** · Volo · Ki Blas
 - **Tights**: ha ricevuto il messaggio di Tobias (invito all'una, da soli). In seduta contro la maggioranza (voto contrario). **Verrà all'una** (decisione presa). Porta la notifica del Consiglio da dare di persona. **Prossimo passo**: dire ad Akira cosa ha deciso il Consiglio; non scusarsi per prima (orgoglio); valutare cosa fare del braccio Mk II.
 - **Re Korinzo**: ha firmato la raccomandazione vincolante su Akira e la valutazione del potenziale di Zemi (3 giorni), con dolore. Rimanda cannoni e scudo.
 - **Ganascia**: ha ottenuto che il Consiglio guardi Akira e la bambina. Sa dell'Orto dalla lettura del rapporto di Tobias.
+- **Tights (s4, g13 ~21:11)**: ha risposto a Syntia che viene all'una e che Syntia ci sarà («mica parlo di zemi da sola con lui come vorrebbe lui»). Ha ordinato a Tobias di non muoversi dal pianerottolo. Torna in seduta.

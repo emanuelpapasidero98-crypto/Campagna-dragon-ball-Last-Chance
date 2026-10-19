@@ -203,3 +203,8 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa (2)**: Cannella scrive a Syntia alle 20:50 (messaggio non letto): si scusa per l'ora, chiede di sentirsi domattina per la lezione del g16 e la supplica, se la chiamano i giornalisti, di dire che è stato «un problema dei vetri».
 - **Chi lo sa**: Tights, Tobias; Cannella.
 - **Come Akira può scoprirlo**: ha sentito i ronzii e il brontolio di Tobias (sa che qualcuno lo sta rimproverando per iscritto, non chi); se Syntia legge il messaggio o glielo dice; Tights all'una.
+
+### G13 ~21:11 · Capsule Corp (pausa della seduta) → attico
+- **Cosa**: Tights riceve il messaggio di Syntia («Akira mi ha detto di stanotte. Ci sono anch'io, Tights») e risponde subito: verrà all'una, Syntia ci sarà, non vuole parlare di Zemi da sola con Akira (orgoglio, imbarazzo, e Syntia è sua amica). Scrive anche a Tobias di restare dov'è e di non far entrare nessun altro. Poi torna in seduta, dove si litiga ancora (Ganascia).
+- **Conseguenze**: all'una l'incontro sarà a tre (più Tobias fuori). Akira non avrà Tights da sola, salvo che lo ottenga in scena.
+- **Chi lo sa**: Tights, Syntia, Akira, Tobias.

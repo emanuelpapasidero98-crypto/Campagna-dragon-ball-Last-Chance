@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 4 in corso
-- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:10)
+- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:12)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico, circa le 21:10 del g13. Akira si è girato e seduto al tavolino di fronte a Syntia e le ha rimproverato il segreto (Zemi potrebbe far male a qualcuno; il governo ora è in allerta; ha il diritto di sapere; non vuole che Zemi sia «la figlia di un mostro»; «così non sei di aiuto»), e le ha detto che all'una viene Tights, che spiegherà e capirà il da farsi. Syntia ha risposto nel merito: i bambini della scuola chiamavano Zemi proprio «la figlia del mostro»; al g6 il signor Bottone aveva detto «speriamo non abbia preso dal padre»; in ogni episodio accanto a Zemi c'era lei; ha voluto Akira e Zemi ad Arcorp anche per non lasciarlo tre settimane solo con lei senza che sapesse; tacendo sulla vetrina ha evitato che lui rinunciasse ad Arcorp, e ci tornerebbe. Gli rinfaccia di averle detto di Tights solo adesso. **Ultima cosa detta da Syntia**: «All'una ci sono anch'io, a questo tavolo, e prima che lei arrivi ci mettiamo d'accordo tu e io su cosa dirle, perché da stanotte, su Zemi, da soli non decidiamo più niente, né io né te.» Zemi dorme. Tobias sul pianerottolo. All'una è atteso Tights.
+- **Scena in sospeso**: terrazza dell'attico, circa le 21:12 del g13. Akira si è girato e seduto al tavolino e ha rimproverato Syntia per il segreto (Zemi potrebbe far male a qualcuno; il governo ora è in allerta; ha il diritto di sapere; non vuole che Zemi sia «la figlia di un mostro»; «così non sei di aiuto»); le ha detto che all'una viene Tights, che spiegherà e capirà il da farsi. Syntia gli ha rinfacciato di averglielo taciuto dal pomeriggio; ha scritto a Tights davanti a lui che ci sarà anche lei; Tights ha risposto subito: «lo so tobias mi ha scritto tutto, vengo all'una e ovvio che ci sei anche tu, mica parlo di zemi da sola con lui come vorrebbe lui, adesso torno dentro che qui litigano ancora». Syntia ha chiuso la portafinestra e sta in piedi con la schiena contro il vetro. **Ultima cosa detta da Syntia**: «Quindi che volevi vederla da solo lo vengo a sapere da lei, a messaggio… e cos'è che dovevi dirle, Akira, che io non dovevo sentire?» Zemi dorme. Tobias sul pianerottolo (Tights gli ha scritto: lui «non si muove da lì»). All'una arriva Tights (confermato).
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -20,7 +20,7 @@
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
-- **Stasera**: il confronto con Syntia è in corso (lui è di spalle sulla terrazza); all'una di notte, Tights all'attico (se verrà), con Tobias fuori dalla porta.
+- **Stasera**: il confronto con Syntia è in corso (lui è di spalle sulla terrazza); all'una di notte Tights all'attico (ha confermato a Syntia; ci sarà anche Syntia), con Tobias fuori dalla porta.
 - **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
 - **Tobias**: sorveglia Akira per ordine del governo; ha scritto a Tights dell'invito delle una, non garantisce che lei venga; non sa cosa scriverà nel rapporto di stasera (il picco è nei sensori). Tights stasera è in riunione (seduta straordinaria del Consiglio, iniziata alle 19, «in corso»).
 - **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
