@@ -214,3 +214,11 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Conseguenze**: la voce sull'Orto passa dal quartiere ai notiziari (prima di quanto previsto, g14-15). Cannella, nel panico, riscrive a Syntia. Tobias lo vede sul comunicatore e capisce che Ganascia sta usando il suo rapporto: si alza e cammina sul pianerottolo. Tights, rientrando in seduta, lo scopre e se la prende con Ganascia davanti al re.
 - **Chi lo sa**: tutta Arcorp che guarda i notiziari; Akira e Syntia; Tobias; il Consiglio.
 - **Come Akira può scoprirlo**: l'ha visto. Domani: sguardi in strada, giornalisti, Cannella.
+
+### Salto g13 21:20 → g14 01:04 (sessione 4, chiesto dal giocatore)
+- **Consiglio**: dopo la pausa Tights attacca Ganascia per la dichiarazione ai giornalisti; il re lo richiama ma non lo sconfessa. Seduta chiusa alle 00:40 con la raccomandazione già decisa (tiro 2, capro espiatorio): voto 3 a 1, Tights contraria. Il re firma senza rileggere. Ganascia chiede che la valutazione di Zemi sia fatta «da tecnici indipendenti»: respinto, si farà alla Capsule (Tights la deve organizzare).
+- **Arc-G2**: due unità al portone dalle 00:52, ordine del Consiglio.
+- **Tobias**: vede Ganascia ai notiziari, capisce che sta usando il suo rapporto; Tights all'arrivo lo zittisce e gli ordina di riscriverlo.
+- **Re Kaioh**: osserva Akira, solo sulla terrazza per ore, ma lo vede in mezzo a una crisi di famiglia con l'incontro con Tights in arrivo, e decide di aspettare un momento più tranquillo (coerente con il suo carattere). F3 resta 5/6.
+- **F5 Incubi**: Akira non ha dormito; nessun tiro per ora.
+- **Babidi, saiyan**: nessun avanzamento in queste ore (programma: all'alba del g14).

@@ -15,3 +15,6 @@ Il "giorno 1" è il giorno dell'incipit (la cena). Annotare ogni passaggio di te
 | Anno 777, giorno 13, mezzogiorno - 14:10 | 3 | Akira scende da Tobias. Pranzo veloce alla tavola calda. Alle 13:50 Orto dell'Est (salto chiesto dal giocatore, interrotto alle 14:10 dall'esplosione di ki di Zemi) |
 | Anno 777, giorno 13, 14:45 - 21:00 | 3 (salto) | Syntia esce dalle serre, ritorno all'attico, notiziario, cena, Zemi a letto. Alle 21 Akira può parlare con Syntia. Alle 19 è iniziata la seduta d'emergenza del Consiglio (Akira lo sa solo dal notiziario). All'una di notte è atteso Tights |
 | Anno 777, giorno 13, sera (~21:05) | 3 | Sulla terrazza dell'attico Akira confronta Syntia sul ki di Zemi e sul «sasso». Seduta del Consiglio in corso. All'una di notte è atteso Tights. Prossimo giorno: g14 (g16 seconda lezione) |
+| Anno 777, giorno 13, sera (21:05-21:20) | 4 | Sulla terrazza il confronto con Syntia continua: Tights confermata per l'una, Ganascia ai notiziari, Akira decide di prendersi la colpa, Syntia rifiuta Tobias come maestro di Zemi |
+| Anno 777, giorno 13 21:20 → giorno 14 01:04 | 4 (salto) | Attesa di Tights. Il Consiglio chiude alle 00:40; due Arc-G2 al portone dalle 00:52 |
+| Anno 777, giorno 14, 01:05 | 4 | Tights all'attico con la raccomandazione vincolante del Consiglio |

@@ -48,3 +48,7 @@
 | g13 sera (s3) | Il «sasso» del g6 era una bugia detta apposta: Syntia lo aveva visto alla finestra e aveva capito che aveva sentito il ki | Syntia |
 | g13 sera (s3) | Syntia ha chiesto a Zemi di tenere il ki segreto, anche a lui («una cosa nostra») | Syntia |
 | g13 sera (s3) | Syntia aveva paura che lui guardasse Zemi come «una cosa da tenere a bada» e che il governo trattasse Zemi come tratta lui | Syntia |
+| g13 sera (s4) | Tights verrà all'una e non vuole parlare di Zemi da sola con lui; Tobias le ha scritto tutto | Messaggio di Tights a Syntia |
+| g13 sera (s4) | Il governatore Ganascia di Clod City, durante la pausa del Consiglio, ha detto ai notiziari che ad Arcorp ci sono «troppe coincidenze» e che la cupola si è incrinata la settimana in cui «certa gente arriva in città» | Schermo della piazza, notiziario |
+| g14 notte (s4) | Ganascia ha letto ad alta voce, due volte, il rapporto di Tobias; Tights gli ha ordinato di riscriverlo | L'ha sentito dal pianerottolo |
+| g14 notte (s4) | Raccomandazione vincolante del Consiglio: niente uscite dal quartiere est; due Arc-G2 all'abitazione; Orto vietato a lui e a Zemi; valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto 3 a 1: **Tights ha votato contro** | Il foglio portato da Tights |

@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 4 in corso
-- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:16)
+- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:05)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico (portafinestra chiusa), circa le 21:16 del g13. Dopo il messaggio di Tights («vengo all'una… mica parlo di zemi da sola con lui come vorrebbe lui»), Akira ha detto a Syntia che l'avrebbe voluta all'incontro, che lei lo ha privato della scelta di aiutare la figlia, che la ama, che il ki non si governa senza allenamento e che voleva chiedere a Tights di addossare a lui tutta la colpa. Sullo schermo della piazza e sul comunicatore di Syntia è uscita la dichiarazione del governatore Ganascia («troppe coincidenze… certa gente arriva in città»). Syntia, seduta di fronte a lui, ha rifiutato il piano: Tights sa già tutto da Tobias, Ganascia non aspetta altro, e Zemi avrebbe comunque il ki. Vuole dire a Tights la verità all'una, insieme, compresa la provocazione di Lattuga, e chiederle cosa vogliono fare di Zemi. **Ultima cosa detta da Syntia**: «E se poi dicono che deve imparare a gestirlo, chi glielo insegna, Akira… tu?» Zemi dorme. Tobias cammina avanti e indietro sul pianerottolo. All'una arriva Tights.
+- **Scena in sospeso**: terrazza dell'attico, circa l'1:05 del g14. Prima del salto Akira ha detto a Syntia che si prenderà la colpa comunque e che pensava a Tobias per allenare Zemi; Syntia ha rifiutato Tobias («con Tobias non ce la mandi, la mia bambina»), non ha risposto sulla colpa ed è rientrata (freddezza). Salto fino all'arrivo di Tights (chiesto dal giocatore). Il Consiglio ha chiuso alle 00:40; due Arc-G2 stanno davanti al portone dalle 00:52. Tights è arrivata (sul pianerottolo ha ordinato a Tobias di riscrivere il rapporto domani e di restare fuori), non ha salutato Akira, ha posato sul tavolino la **raccomandazione vincolante del Consiglio** (quartiere est; due Arc-G2; Orto vietato ad Akira e Zemi; valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni; voto 3 a 1, contraria «Brief, T.») e ha detto: «entro tre giorni dovete portare Zemi al mio laboratorio, per una valutazione del suo potenziale». **Ultima battuta**: Syntia, sulla soglia, a Tights: «Tre contro uno. E tu, Tights, eri i tre o eri l'uno?» (Akira ha letto sul foglio che Tights ha votato contro; Syntia non l'ha visto.) Zemi dorme. Tobias seduto sul pianerottolo.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -20,7 +20,7 @@
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
-- **Stasera**: il confronto con Syntia è in corso (lui è di spalle sulla terrazza); all'una di notte Tights all'attico (ha confermato a Syntia; ci sarà anche Syntia), con Tobias fuori dalla porta.
+- **Stanotte**: Tights all'attico con la decisione del Consiglio; Akira vuole prendersi la colpa e pensava a Tobias come maestro per Zemi; Syntia è contraria a entrambe le cose.
 - **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
 - **Tobias**: sorveglia Akira per ordine del governo; ha scritto a Tights dell'invito delle una, non garantisce che lei venga; non sa cosa scriverà nel rapporto di stasera (il picco è nei sensori). Tights stasera è in riunione (seduta straordinaria del Consiglio, iniziata alle 19, «in corso»).
 - **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
