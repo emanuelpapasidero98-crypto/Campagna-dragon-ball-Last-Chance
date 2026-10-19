@@ -8,19 +8,21 @@ Per ogni PNG:
 - **Battute dette in gioco**: le migliori battute pronunciate davvero, da aggiungere a ogni `/fine-sessione`.
 - **Diario dei rapporti con Akira**: momenti chiave, promesse, litigi, rancori, debiti, cose dette che pesano. Data in gioco e sessione.
 
-Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute. **Niente telegrammi**: le frasi si legano con virgole e congiunzioni, le battute brevi sono solo quelle cariche (!, ?, …, —), vedi `regole/07-dialoghi-shonen.md`. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
+Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-dialoghi.md` e lo stile di `regole/riferimento-stile.md`: una cosa per battuta, una o due frasi, niente catene di «e», puntini, maiuscolo, `!!` e `?!` dove servono. Zero metafore e zero similitudini nelle battute, niente assoluti. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
+
+**Le «Battute dette in gioco» delle sessioni 1-3 sono nel vecchio stile** (frasi lunghe tenute insieme da «e»): servono a ricordare cosa è stato detto, **non** come modello di forma. Il modello di forma sono gli esempi di **Voce**, riscritti il 19/10/2026.
 
 **Le schede, i diari e i rapporti servono a sapere, non sono un copione**: un PNG non recita ad alta voce ciò che c'è scritto qui, e ciò che una scheda segna come "non detto" resta non detto finché la scena non lo strappa fuori (`regole/08-metodo-esito.md`, fase 2).
 
-**La voce è il modo, non l'argomento.** Gli esempi qui sotto mostrano ritmo, registro e atteggiamento. Se un esempio parla del mestiere o della passione del PNG (il riso di Tobias, il cane di Ignis, la leva di Korinzo), è **un** dettaglio, non il filo di ogni battuta: in gioco compare al massimo una volta per scena, e mai al posto delle cose che contano in un momento emotivo (`regole/06-dialoghi.md`, principio 20).
+**La voce è il modo, non l'argomento.** Gli esempi qui sotto mostrano ritmo, registro e atteggiamento. Se un esempio parla del mestiere o della passione del PNG (il riso di Tobias, il cane di Ignis, la leva di Korinzo), è **un** dettaglio, non il filo di ogni battuta: in gioco compare al massimo una volta per scena, e mai al posto delle cose che contano in un momento emotivo (`regole/06-dialoghi.md` §4, punto 6).
 
 ---
 
 ## Syntia
 **Voce**
-- «Hai di nuovo quella faccia, e non dirmi "niente", Akira, che ti conosco da dodici anni.»
-- «Zemi, giù i piedi dal tavolo, subito! …E non dirmi che Pancotto ce li tiene, perché Pancotto è un uccello.»
-- «Non sono arrabbiata.» Posò il piatto un po' troppo forte. «Sono stanca di essere l'unica, qui dentro, che dice le cose ad alta voce.»
+- «Hai di nuovo quella faccia. E non dirmi "niente", Akira... ti conosco da dodici anni.»
+- «Zemi, giù i piedi dal tavolo! Subito!» Poi, più piano: «...E no, Pancotto non conta. Pancotto è un uccello.»
+- Posa il piatto un po' troppo forte. «Non sono arrabbiata. Sono stanca di essere l'unica che dice le cose ad alta voce.»
 
 **Non direbbe mai**: discorsi solenni o motivazionali; lamentele davanti a Zemi; un "andrà tutto bene" detto a vuoto.
 
@@ -54,9 +56,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Zemi
 **Voce**
-- «Papà, perché il signore del negozio ha chiuso la porta quando siamo arrivati, se c'era scritto aperto? APERTO, c'era scritto!»
-- «Io mica ho paura dei tuoni, è Pancotto che ce l'ha, la paura dei tuoni.»
-- «Mi fai vedere come voli? Solo un pochino, fino all'albero e basta… ti prego ti prego ti prego!»
+- «Papà, perché il signore ha chiuso la porta? C'era scritto APERTO! APERTO, c'era scritto!»
+- «Io mica ho paura dei tuoni. È Pancotto che ce l'ha.»
+- «Mi fai vedere come voli? Solo fino all'albero... ti prego ti prego ti prego!»
 
 **Non direbbe mai**: frasi da adulto saggio; intuizioni sulla trama; discorsi lunghi e ordinati.
 
@@ -79,9 +81,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Tights Brief
 **Voce**
-- «No, aspetta, aspetta— non toccare quello, è instabile! Cioè, non *instabile* instabile, ma tu non toccarlo e basta.»
-- «Ho dormito quattro ore in tre giorni e il Consiglio vuole un rapporto "più ottimista". Più ottimista! Che faccio, gli disegno un arcobaleno sul grafico?»
-- «Ciao, Akira.» Una pausa troppo lunga. «Ti trovo dimagrito… non che mi interessi, eh.»
+- «No, aspetta— non toccare quello! È instabile. Cioè... non *instabile* instabile. Ma non toccarlo.»
+- «Quattro ore di sonno in tre giorni. E il Consiglio vuole un rapporto "più ottimista". Che faccio, gli disegno un arcobaleno?!»
+- «Ciao, Akira.» Una pausa troppo lunga. «Sei dimagrito. Non che mi interessi, eh.»
 
 **Non direbbe mai**: chiedere scusa per prima, se non è costretta; "non lo so" senza mettersi subito a cercare la risposta; parole dolci dirette.
 
@@ -96,9 +98,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## G-1 Tobias
 **Voce**
-- «Non sono venuto a fare pace, eh, sono venuto perché me l'hanno ordinato, e se per caso mi trovi simpatico è un problema tuo.»
-- «Questo incarico non mi piace, e lo faccio lo stesso, ma non sei tu quello a cui devo spiegare il perché.»
-- «Tre anni fa mi hai spezzato in due davanti a mezza città.» Si strinse nelle spalle. «Te lo ricordo e basta, non ti sto chiedendo niente.»
+- «Non sono qui per fare pace. Sono qui perché me l'hanno ordinato.» Si stringe nelle spalle. «Se poi ti sto simpatico, problema tuo.»
+- «Questo incarico non mi piace. Lo faccio lo stesso. Il perché non lo devo spiegare a te.»
+- «Tre anni fa mi hai spezzato in due davanti a mezza città... te lo ricordo e basta.»
 
 **Non direbbe mai**: "analisi completata", "probabilità dell'87%" o altro linguaggio da computer; frasi prive di emozione.
 
@@ -121,9 +123,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Re Korinzo
 **Voce**
-- «Abbiamo quarantamila persone ancora nei prefabbricati di Arcorp, e prima vengono loro, poi parliamo di tutto il resto.»
-- «Non ti odio, Akira.» Si massaggiò la cicatrice sulla mano. «Ma quel messaggio l'ho visto, e la gente l'ha visto con me, quindi non posso far finta di niente.»
-- «Questa leva l'ho montata io, sull'Arca Uno, con queste mani. Il trono è molto più scomodo, credimi.»
+- «Quarantamila persone. Ancora nei prefabbricati di Arcorp. Prima loro, Akira... poi il resto.»
+- Si massaggia la cicatrice sulla mano. «Non ti odio. Ma quel messaggio l'ho visto. L'ha visto il paese intero, con me.»
+- «Questa leva l'ho montata io, sull'Arca Uno. Con queste mani. Il trono è più scomodo, credimi.»
 
 **Non direbbe mai**: minacce teatrali; frasi da tiranno; prendere decisioni senza pensare ai numeri.
 
@@ -135,9 +137,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Karin
 **Voce**
-- «Se sei venuto per i senzu la risposta è no, e se sei venuto per altro è probabilmente no lo stesso, ma intanto siediti.»
-- «Mi hai svegliato, lo sai quanti anni ho? Io no, ho smesso di contarli da un pezzo, ma sono tanti, credimi.»
-- «Majin Bu? È una storia che Kami raccontava ai bambini per farli stare zitti, e se sia vera non lo so… spero di no.»
+- «Se sei qui per i senzu, la risposta è no. Per il resto... probabilmente no lo stesso. Siediti.»
+- «Mi hai svegliato. Sai quanti anni ho? Io no. Ho smesso di contarli.»
+- «Majin Bu? Una storia che Kami raccontava ai bambini per farli stare zitti. Spero che resti una storia.»
 
 **Non direbbe mai**: profezie, enigmi mistici, discorsi da maestro spirituale.
 
@@ -148,9 +150,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Regina Zaraya
 **Voce**
-- «Di nuovo.» Zarcon si rialzò, e lei lo colpì ancora. «Rialzati e rifallo, finché non smetti di guardarmi come se potessi fermarmi!»
-- «Siediti, Ignis, e bevi. Stasera hai combattuto bene, e quando uno combatte bene lo voglio vedere ubriaco.»
-- «Mi hai lasciata vivere.» Rise piano, poi smise di colpo. «Lo sai che è la cosa peggiore che potevi farmi?»
+- Lo colpisce di nuovo. «Rialzati. RIALZATI! Finché non smetti di guardarmi come se potessi fermarmi!»
+- «Siediti, Ignis. Bevi. Stasera hai combattuto bene.»
+- Ride piano, poi smette di colpo. «Mi hai lasciata vivere. Lo sai che è la cosa peggiore che potevi farmi?»
 
 **Non direbbe mai**: "per favore"; ammissioni di debolezza in pubblico; scuse.
 
@@ -163,9 +165,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Principe Zarcon
 **Voce**
-- «Madre, io… va bene, madre, non succederà più.»
-- «In questo fumetto il cattivo perde perché parla troppo. Che stupido, no? …Però è anche un po' vero.»
-- «Non l'ho ucciso perché non serviva, anche se mia madre dice di sì… io non lo so.»
+- «Madre, io... va bene, madre. Non succederà più.»
+- «In questo fumetto il cattivo perde perché parla troppo.» Ci pensa su. «...Che stupido. Però un po' è vero.»
+- «Non l'ho ucciso perché non serviva. Mia madre dice di sì... io non lo so.»
 
 **Non direbbe mai**: sfidare apertamente la madre (per ora); vantarsi della propria forza.
 
@@ -176,9 +178,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Ignis
 **Voce**
-- «Quello grosso si chiama Bistecca, perché da cucciolo sembrava un pezzo di carne, e adesso morde pure.»
-- «Hai colpito il ragazzo alle spalle.» Si sfilò i guanti, uno alla volta. «Adesso te la vedi con me, e stavolta davanti.»
-- «La regina ha deciso, e io non devo essere d'accordo, devo solo esserci.»
+- «Quello grosso si chiama Bistecca. Da cucciolo sembrava un pezzo di carne. Adesso morde.»
+- Si sfila i guanti, uno alla volta. «Hai colpito il ragazzo alle spalle. Adesso te la vedi con me. Davanti.»
+- «La regina ha deciso. Io la seguo, punto.»
 
 **Non direbbe mai**: vantarsi; colpire un avversario a terra senza un ordine.
 
@@ -190,9 +192,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Okura
 **Voce**
-- «Ehi, piccoletto, la coda tienila bassa quando fai l'agguato, se no ti vede anche un dinosauro cieco.»
-- «Oh! Finalmente uno che sa incassare! Dai, alzati, che mi stavo annoiando!»
-- «Tyros dice cose giuste, il problema è che le dice Tyros.»
+- «Ehi, piccoletto! Coda bassa quando fai l'agguato... se no ti vede anche un dinosauro cieco!»
+- «Oh! Finalmente uno che incassa! Dai, alzati, che mi stavo annoiando!»
+- «Tyros dice cose giuste. Il guaio è che le dice Tyros.»
 
 **Non direbbe mai**: giuramenti solenni; discorsi lunghi.
 
@@ -202,9 +204,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Tyros
 **Voce**
-- «Fratelli! Da quanti anni guardate in alto e vedete solo i loro satelliti?»
-- «Mi hanno chiuso in una cella gelata e mi facevano domande mentre non riuscivo a muovere le dita, e questo non lo dimentico.»
-- In privato: «E se la regina avesse ragione? …No, non dirlo in giro che te l'ho chiesto.»
+- «Fratelli! Da quanti anni guardate in alto e vedete solo i loro satelliti?!»
+- «Mi hanno chiuso in una cella gelata. Mi facevano domande mentre non sentivo le dita. Questo non lo dimentico.»
+- In privato, a voce bassa: «E se la regina avesse ragione?» Si irrigidisce. «...Non l'ho chiesto. Chiaro?»
 
 **Non direbbe mai**: ammettere in pubblico di essere stato sconfitto e catturato nel 771.
 
@@ -215,9 +217,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Babidi
 **Voce**
-- «Ohhh, guardali, guardali come si ammazzano! Che spreco… cioè, che meraviglia! Tutta quell'energia!»
-- «Dabura! Dabura, vieni qui! Perché ci metti tanto? Ti ho chiamato… quanto, tre volte?!»
-- «No, no, no, aspetta! Possiamo parlarne! Io… io posso darti quello che vuoi, eh? Potere! Ti piace il potere?»
+- «Ohhh, guardali come si ammazzano! Che spreco... cioè, che meraviglia! Tutta quell'energia!»
+- «Dabura! DABURA! Ti ho chiamato tre volte, perché ci metti tanto?!»
+- «No, no, no, aspetta! Possiamo parlarne! Potere... ti piace il potere, eh?»
 
 **Non direbbe mai**: affrontare qualcuno di persona senza una protezione; ammettere che Bu potrebbe non obbedirgli.
 
@@ -225,26 +227,26 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Dabura
 **Voce**
-- «Babidi, abbassa la voce, ti ho sentito… ti ho sentito anche le prime due volte.»
-- «Che maleducazione, attaccare mentre parlo… va bene, allora smetto di parlare.»
-- «Hai coraggio, saiyan. È un peccato che tu non abbia anche il resto.»
+- «Babidi, abbassa la voce. Ti ho sentito. Anche le prime due volte.»
+- «Che maleducazione, attaccare mentre parlo.» Sorride appena. «Va bene. Smetto di parlare.»
+- «Hai coraggio, saiyan. Peccato che il resto non sia all'altezza.»
 
 **Non direbbe mai**: urlare in modo isterico; volgarità.
 
 **Battute dette in gioco**: —
 
 ## Pui Pui · Yakon · Majin Bu
-- **Pui Pui**: «Insetti! Siete solo insetti! Io vengo da Zoon, lo sapete cosa vuol dire? …Ovvio che non lo sapete, voi insetti di periferia!»
-- **Yakon**: «Hm… tu brilli.» Si leccò le dita. «Mi piace quando brillano.»
-- **Bu**: «Bu non vuole! Bu è arrabbiato! Tu hai rotto il biscotto di Bu!» · «Hihihi! Tu diventi cioccolato, perché Bu ha fame!»
+- **Pui Pui**: «Insetti! Siete solo insetti! Io vengo da Zoon! ...Non sapete nemmeno cos'è, vero, insetti di periferia?!»
+- **Yakon**: «Hm... tu brilli.» Si lecca le dita. «Mi piace quando brillano.»
+- **Bu**: «Bu non vuole! Bu è ARRABBIATO! Tu hai rotto il biscotto di Bu!» · «Hihihi! Tu diventi cioccolato! Bu ha fame!»
 
 **Battute dette in gioco**: —
 
 ## Shin (Kaioshin dell'Est)
 **Voce**
-- «Mi dispiace, non volevo spaventarla… io sono… è complicato, diciamo che vengo da molto lontano.»
-- «Lei ha servito la regina saiyan per tre anni, capisce perché faccio fatica a fidarmi?»
-- «Se Bu si sveglia non ci sarà più niente da proteggere, e non… non sto esagerando, io l'ho visto.»
+- «Mi scusi, non volevo spaventarla... io sono... è complicato. Diciamo che vengo da molto lontano.»
+- «Lei ha servito la regina saiyan per tre anni. Capisce perché faccio fatica a fidarmi?»
+- «Se Bu si sveglia, non resterà niente da proteggere. Non sto esagerando. Io l'ho visto.»
 
 **Non direbbe mai**: battute; ordini a Re Kaioh dati con arroganza davanti agli altri.
 
@@ -252,14 +254,14 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Kibith
 **Voce**
-- «Come osi rivolgerti così al Kaioshin?! In ginocchio! …Va bene, non in ginocchio, ma almeno abbassa la voce.»
+- «Come osi rivolgerti così al Kaioshin?! In ginocchio!» Un'occhiata di Shin. «...Va bene, niente ginocchio. Ma abbassa la voce.»
 
 **Battute dette in gioco**: —
 
 ## Re Kaioh
 **Voce**
-- «Akira! Sono io, Re Kaioh! …Ah, stavi dormendo? Scusa, scusa, però senti questa: perché il namecciano non va al mare? Perché ha paura di… no, aspetta, l'ho sbagliata un'altra volta.»
-- «Ascoltami bene, perché non te lo ripeto: c'è qualcosa che non mi piace.»
+- «Akira! Sono io, Re Kaioh! ...Stavi dormendo? Scusa, scusa! Senti questa: perché il namecciano non va al mare? Perché... no, aspetta. L'ho sbagliata di nuovo.»
+- «Ascoltami bene. Non te lo ripeto. C'è qualcosa che non mi piace.»
 
 **Non direbbe mai**: dare la soluzione di un problema che non conosce (Regola 8).
 
@@ -271,9 +273,9 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Moori
 **Voce**
-- «Siediti, Tsumi… no, non lì, che lì c'è la lumaca che Maimai sta studiando.»
-- «Non lo so, mi dispiace… non lo so davvero.»
-- «Se ci fosse Tsumuri saprebbe cosa dirti, io invece è da stamattina che ci provo e mi vengono in mente solo scemenze… scusa.»
+- «Siediti, Tsumi... no, non lì! Lì c'è la lumaca che sta studiando Maimai.»
+- «Non lo so. Mi dispiace... non lo so davvero.»
+- «Se ci fosse Tsumuri, saprebbe cosa dirti. Io ci provo da stamattina... e mi vengono solo scemenze. Scusa.»
 
 **Non direbbe mai**: risposte che non ha; ordini bruschi.
 
@@ -285,10 +287,10 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Gli allievi (Lace, Mellor, Zestra, Escar)
 **Voce**
-- **Lace**: «Maestro, se ci dice di nuovo di andarcene, giuro che stavolta la colpisco io.»
-- **Mellor**: «Kaioken x20, venti! Lo ripeto, nel caso qualcuno non avesse sentito.»
-- **Zestra**: «…Io avrei un'idea, se volete… cioè, se non è stupida.»
-- **Escar**: «Ce la facciamo, vero? Cioè… ce la facciamo, no?»
+- **Lace**: «Maestro, se ci dice di nuovo di andarcene, giuro che la colpisco io!»
+- **Mellor**: «Kaioken x20! VENTI! Lo ripeto, se qualcuno non avesse sentito!»
+- **Zestra**: «...Io avrei un'idea. Se volete. Se non è stupida.»
+- **Escar**: «Ce la facciamo, vero? Cioè... ce la facciamo, no?»
 
 **Diario dei rapporti**
 - 771: disobbediscono ad Akira, restano a combattere e vengono uccisi da Zaraya davanti a lui.
@@ -296,15 +298,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Wanton
 **Voce**
-- «Mi scusi, signora Brief, lo so che è tardi, è solo che i dati… il sensore dice zero virgola otto secondi, e di solito sbaglia di due centesimi, non di otto decimi… scusi.»
+- «Mi scusi, signora Brief... lo so che è tardi. È il sensore: dice zero virgola otto secondi. Di solito sbaglia di due centesimi, non di otto decimi... scusi.»
 
 **Battute dette in gioco**: —
 
 ## Prof.ssa Cannella *(nuova, s1)*
 **Voce**
-- «Lei è il marito! Ma certo che è il marito, che domanda.» (s1, detta in gioco)
-- «Ha trovato posto? Ah, ecco, vedo che l'ha trovato! La signorina ci vede bene da lì, o le porto un cuscino?» (s1, detta in gioco, riformulata)
-- «Tutto bene, eh, tutto benissimo! C'è anche un signore del governatorato, là in fondo, per la sicurezza, una cosa normalissima, si figuri.» (s1, detta in gioco, riformulata)
+- «Lei è il marito! Ma certo che è il marito, che domanda!» (s1, detta in gioco)
+- «Ha trovato posto? Ah, ecco, l'ha trovato! La signorina ci vede bene da lì? Le porto un cuscino?»
+- «Tutto bene, eh! Benissimo! C'è anche un signore del governatorato, là in fondo... per la sicurezza. Normalissimo, si figuri!»
 
 **Non direbbe mai**: un insulto diretto; aspettare in silenzio la risposta a una domanda; dare del tu.
 **Attenzione al cartellino**: la parlantina è il suo modo, non il suo argomento. A s3 ha ripetuto «puntualissimi» due volte nella stessa scena: una volta basta.
@@ -321,24 +323,24 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 
 ## Signor Bottone *(nuovo, s1, solo fuori scena)*
 **Voce**
-- «Prego, signora, prego! Abbiamo il giallo, il verde, il rosa… e per la bambina direi il rosa.» E poi, a mezza voce: «Speriamo non abbia preso dal padre.»
+- «Prego, signora, prego! Abbiamo il giallo, il verde, il rosa... per la bambina direi il rosa.» Poi, a mezza voce: «Speriamo non abbia preso dal padre.»
 
 ## Governatore Ganascia di Clod City *(nuovo, s1, solo fuori scena)*
 **Voce**
-- «Coincidenza, certo, e io sono una ballerina.» Masticò la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui dal cielo cade una cosa che non sappiamo cos'è, e io lo dico e basta.»
+- «Coincidenza? Certo. E io sono una ballerina.» Mastica la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui cade qualcosa dal cielo. Io lo dico e basta.»
 
 ## Rapan e Cipoll *(nuovi, s1, solo fuori scena — saiyan dei Senza Cielo)*
-- **Rapan**: «Una mano! Con quattro dita! Generale, giuro sulla mia coda, era grigia come una pietra e non puzzava di niente, capite? Di niente, ed è questo il problema!»
-- **Cipoll** (con la bocca piena): «Io gliel'avevo detto di stare zitto, gliel'ho detto due volte.»
+- **Rapan**: «Una mano! Con quattro dita! Generale, lo giuro sulla mia coda... era grigia. Grigia e fredda. E non puzzava di niente! Di niente, capite?!»
+- **Cipoll** (con la bocca piena): «Io gliel'avevo detto di stare zitto. Due volte.»
 
 ## Ragazzo con gli occhiali *(comparsa, s2)*
 - Studente della U.A.C., seconda fila all'Aula Magna. Alla prima lezione si gira per sorridere a Zemi, vede Akira e si rigira. Alle domande chiede a Syntia dello scudo e del Consiglio, guardando Akira; lei lo zittisce («Magari io cosa?») e lui si siede rosso. Senza nome. Probabilmente tornerà alle lezioni.
 
 ## Direttore Mirtillo *(nuovo, s3)*
-**Voce** (il modo: frasi lunghe e ordinate, dà del lei, si scusa quando si corregge; quando è nervoso accumula precisazioni invece di dire la cosa)
-- «Scusi, scusi, l'abitudine… la sinistra, certo.»
-- «Allora, le spiego come sono messe le cose, anche se non so da dove cominciare, perché ieri ne ho parlato con la caposquadra e non è andata come speravo.»
-- «Sono mortificato, davvero, ma preferirei che questa parte la vedessimo un'altra volta, se a lei sta bene.»
+**Voce** (il modo: dà del lei, si scusa quando si corregge; quando è nervoso aggiunge precisazioni invece di dire la cosa)
+- «Scusi, scusi... l'abitudine. La sinistra, certo.»
+- «Allora, le spiego... cioè, non so da dove cominciare. Ieri ho parlato con la caposquadra. Non è andata come speravo.»
+- «Sono mortificato. Davvero. Preferirei vedere questa parte un'altra volta... se a lei sta bene.»
 
 **Non direbbe mai**: una battuta sarcastica; un ordine secco; spiegazioni brevi.
 **Attenzione al cartellino**: l'orologio e la puntualità sono **un** tratto suo, da mostrare una volta nella scena e basta (a s3 sono comparsi in quattro voci e cinque sguardi). Una cosa sua che non c'entra col ruolo: le scarpe nuove gli fanno male.
@@ -351,10 +353,10 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - s3 · g13: riceve Syntia con puntualità assoluta e un po' di panico (sapeva che Lattuga non voleva Akira). Tende la destra ad Akira per riflesso e si corregge. Spera di evitare la piazza centrale; fallisce. Dopo l'esplosione conta i pannelli incrinati, poi corre dalla caposquadra, che lo scosta. Segue Cannella e Syntia nella stanza, voltandosi indietro verso il muro.
 
 ## Zia Lattuga *(nuova, s3)*
-**Voce** (il modo: bassa e rauca, non alza mai la voce; attacca dritto le persone e i fatti, con frasi lunghe e lente che non cambiano tono nemmeno quando fanno male)
-- «Direttore, mi aveva detto che veniva solo la signora.»
-- «Con lei non ce l'ho, signora, ma lui qui non ce lo voglio.»
-- «Due giorni, e lei adesso viene qui a passeggio con la famiglia, come uno qualunque.»
+**Voce** (il modo: bassa e rauca, non alza la voce; attacca dritto le persone e i fatti, con frasi corte e lente, nello stesso tono anche quando fanno male)
+- «Direttore. Mi aveva detto che veniva solo la signora.»
+- «Con lei non ce l'ho, signora. Ma lui qui non ce lo voglio.»
+- «Due giorni l'ho aspettato. E lei adesso passeggia qui con la famiglia, come uno qualunque.»
 
 **Non direbbe mai**: urlare; usare metafore o battute da cartolina; insultare con parole volgari; parlare del proprio lavoro quando accusa. Nei momenti forti parla della persona (il marito), dell'attesa e di chi accusa.
 **Attenzione al cartellino**: il suo mestiere sta nella narrazione (cazzuola, ginocchiere, rose), non in bocca a lei. Una cosa sua che non c'entra col ruolo: il ginocchio destro non le tiene più le scale, e non lo dice a nessuno.

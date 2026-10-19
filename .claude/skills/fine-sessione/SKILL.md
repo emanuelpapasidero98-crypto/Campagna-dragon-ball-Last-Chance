@@ -10,7 +10,7 @@ Il giocatore ha dato il permesso permanente di salvare su GitHub, ramo `main`: *
 Obiettivo: la prossima chat, che non ricorderà nulla di questa, deve poter riprendere **identica**: stessi PNG con la stessa voce, stessi dettagli, stesse conseguenze. Nel dubbio se scrivere una cosa, scrivila.
 
 ## 1. Cronaca e stato (pubblici)
-- **`cronaca/sessioni/sessione-NNN.md`**: resoconto dettagliato **dal punto di vista di Akira**: cosa ha fatto, detto e scoperto; combattimenti con esito e tiri chiave; PNG incontrati; decisioni prese; data in gioco di inizio e di fine. Completa il **contatore delle metafore** e la sezione "Errori segnalati dal giocatore".
+- **`cronaca/sessioni/sessione-NNN.md`**: resoconto dettagliato **dal punto di vista di Akira**: cosa ha fatto, detto e scoperto; combattimenti con esito e tiri chiave; PNG incontrati; decisioni prese; data in gioco di inizio e di fine. Completa la sezione "Errori segnalati dal giocatore".
 - **`cronaca/riepilogo-campagna.md`**: un paragrafo di sintesi della sessione.
 - **`mondo/stato-attuale.md`**: data, luogo, scena in sospeso (esattamente dove si è interrotta, compresa l'ultima cosa detta o fatta), condizioni di Akira, fili aperti noti al giocatore, **Tentativi falliti** (aggiungi quelli nuovi e togli quelli sbloccati da un cambiamento reale della situazione).
 - **`mondo/calendario.md`**: una riga per ogni giorno trascorso.
@@ -20,7 +20,7 @@ Obiettivo: la prossima chat, che non ricorderà nulla di questa, deve poter ripr
 
 ## 2. Memoria segreta del master
 - **`master_segreto/png/voci-e-diario.md`**, per ogni PNG che è comparso:
-  - **Battute dette in gioco**: 1-3 battute vere della sessione che rappresentano bene la sua voce. Prima di salvarle, passale a `strumenti/controlla_dialoghi.py --solo-dialoghi`: se hanno errori (telegrammi, eco…) vanno riformulate e segnate come *riformulata*, perché il master le userà come modello. Scegli battute che mostrano il **modo** di parlare del PNG, non quelle costruite sul suo mestiere, sulla sua passione o sul suo tic (`regole/06-dialoghi.md`, principio 20);
+  - **Battute dette in gioco**: 1-3 battute vere della sessione che rappresentano bene la sua voce. Prima di salvarle, passale a `strumenti/controlla_dialoghi.py --solo-dialoghi`: se hanno errori (catene di «e», battute troppo lunghe, eco…) vanno riformulate e segnate come *riformulata*, perché il master le userà come modello. Scegli battute che mostrano il **modo** di parlare del PNG, non quelle costruite sul suo mestiere, sulla sua passione o sul suo tic (`regole/06-dialoghi.md` §4, punto 6);
   - **Diario dei rapporti**: momenti chiave con Akira (litigi, promesse, rancori, debiti, gesti, cose dette che pesano), con sessione e data in gioco;
   - se la voce si è evoluta (un PNG che si è indurito o aperto), aggiorna anche gli esempi di **Voce** e **Non direbbe mai**;
   - i PNG nuovi entrano qui con la loro sezione completa.

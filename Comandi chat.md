@@ -49,6 +49,8 @@ Quando Akira prova a fare qualcosa di incerto che non è combattere (convincere,
 - la **CD**, cioè il numero da raggiungere: 4 facile, 6 media, 8 difficile, 10 molto difficile, 12 quasi impossibile;
 - i **modificatori** voce per voce: rapporto con il PNG (rispetto, amore, odio), situazione, reputazione, potere percepito, ferite…
 
+Il master fa questa valutazione **a ogni tuo messaggio**, prima di scrivere e di nuovo prima di inviare: se Akira tenta di ottenere qualcosa che non è scontato e fallire costerebbe qualcosa, si ferma e ti chiede il tiro, anche se nel messaggio non l'hai chiesto tu. Niente tiro, invece, per ciò che un PNG farebbe comunque o che non farebbe in nessun caso: lì decide la coerenza del personaggio. Se nel messaggio fai più cose, il master racconta fino alla prima che va tirata e si ferma lì.
+
 Tu tiri: **d10 + modificatori ≥ CD → riesci**, altrimenti no. Un 10 naturale riesce sempre e dà qualcosa in più. Un 1 naturale fallisce sempre e, se la situazione è seria, ha conseguenze.
 
 **Se fallisci, non puoi ritentare la stessa azione**: stesso obiettivo, stessa persona, stesso approccio. Puoi riprovare solo se la situazione cambia davvero (una prova nuova, un fatto nuovo, tempo trascorso, un rapporto cambiato). Cambiare solo le parole non basta. I tentativi bloccati restano scritti nei file e valgono anche nelle chat successive.
@@ -80,7 +82,7 @@ Tu tiri: **d10 + modificatori ≥ CD → riesci**, altrimenti no. Un 10 naturale
 - **Fatti stabiliti** (`mondo/fatti-stabiliti.md`): ogni dettaglio inventato durante il gioco (luoghi, nomi, oggetti, cibi, ferite, abitudini), così una chat futura non lo contraddice.
 - **Voce dei PNG**: le battute più rappresentative che ogni PNG ha detto davvero, salvate parola per parola. La chat successiva le usa come riferimento e i personaggi non cambiano voce.
 - **Diario dei rapporti**: litigi, promesse, rancori e momenti chiave tra Akira e ogni PNG. Se qualcuno si è arrabbiato, se lo ricorderà.
-- **Contatore delle metafore** e **errori che hai segnalato**, registrati nel file della sessione.
+- **Errori che hai segnalato**, registrati nel file della sessione.
 - In segreto: schede dei PNG (parametri, cosa sanno, prossime mosse), fazioni, orologi e il giornale degli eventi fuori scena.
 - Ti saluta con il titolo dell'episodio, la data in gioco raggiunta, la conferma del salvataggio e un'anticipazione senza spoiler.
 
@@ -113,6 +115,7 @@ Tutto quello che scrivi tra parentesi quadre è rivolto **al master**, non ad Ak
 - **Akira lo muovi solo tu.** Il master non lo fa mai parlare né agire senza una tua dichiarazione.
 - **Il master non ti asseconda.** Quello che scrivi è ciò che Akira tenta e dice: i PNG lo pesano con il loro carattere, possono contestarlo, arrabbiarsi, rifiutare, rinfacciarti qualcosa. Nelle discussioni difendono le loro convinzioni.
 - **Scene corali.** Se ci sono più PNG, parlano e si scontrano anche tra loro, non solo con Akira.
+- **Stile degli esiti.** Il master scrive come gli esiti di riferimento in `regole/riferimento-stile.md`: Akira in seconda persona al presente, una riga per ogni colpo, periodi pieni d'immagini alternati a frasi secche, onomatopee in maiuscolo, battute corte che dicono una cosa sola. Le tue battute, se il master le riporta, restano identiche, tra virgolette alte.
 - **Lunghezza.** Ogni esito è lungo almeno 5000 caratteri (3500 per un singolo round, uno scambio rapido o la risposta di un PNG in un dialogo a due). I messaggi che ti chiedono un tiro possono essere più corti, perché si fermano prima dell'esito.
 - **Nessuno è al sicuro.** I PNG possono fare scelte contro Akira: un personaggio caro può morire, restare ferito per sempre, essere rapito, tradire. Il master non salva nessuno all'ultimo secondo per comodità.
 - **Salti temporali:** il master non li fa mai di sua iniziativa. Te li propone e aspetta il tuo sì.

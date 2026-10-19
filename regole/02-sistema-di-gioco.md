@@ -25,15 +25,33 @@ Si usa un d10 per prove di abilità, combattimento e prove sociali.
 
 Sistema **separato dal combattimento**, deciso dal giocatore il 17/10/2026.
 
-### Quando si tira
-- **La prova la chiama il master**, in base al contesto, quando Akira tenta qualcosa di **incerto e con una posta in gioco**: convincere, intimidire, ingannare, notare, cercare, nascondersi, sopportare, controllare il ki, ricordare, curare, pilotare…
-- Se l'azione è banale e senza rischio riesce senza tiro. Se è impossibile fallisce senza tiro. Il master lo dice chiaramente.
-- Il giocatore dichiara cosa fa Akira, e il master risponde **senza narrare l'esito**, con:
+### Quando si tira: la prova del tiro (a ogni messaggio)
+A ogni messaggio del giocatore il master fa questa prova **due volte**: prima di costruire l'esito e di nuovo sulla bozza, prima di inviarla (`regole/08-metodo-esito.md`, fasi 1-bis e 6). Decidere a tavolino che Akira riesce, o che fallisce, gli toglie il rischio: è un comportamento da assistente, non da Master (Regola 10). *(Chiesto dal giocatore il 19/10/2026: le prove non venivano mai chiamate.)*
+
+1. **Akira tenta di ottenere qualcosa?** Cambiare ciò che un PNG pensa, vuole o fa (convincere, intimidire, ingannare, farsi dire una cosa, farsi promettere qualcosa); scoprire qualcosa di nascosto (cercare, origliare, notare un dettaglio, capire se uno mente o cosa prova); non farsi scoprire (nascondersi, sopprimere l'aura, reggere una bugia); superare un ostacolo fisico o tecnico (sollevare, forzare, resistere, pilotare, curare, dosare il ki sotto pressione). Se Akira **esprime** soltanto (si arrabbia, accusa, racconta, chiede scusa, consola) senza cercare di ottenere qualcosa che l'altro non darebbe da solo, non si tira: la reazione del PNG si decide con il metodo.
+2. **L'esito è davvero incerto?** Prima il master decide cosa farebbe il PNG, o il mondo, **senza dadi**, dai suoi parametri, da ciò che sa e da ciò che vuole:
+   - lo farebbe comunque, perché ha già un motivo suo → niente tiro, lo fa (con Rispetto 6, nessun tiro per le richieste ragionevoli);
+   - non lo farebbe in nessun caso, perché va contro ciò che è o ciò che vuole di più, oppure è fisicamente impossibile → niente tiro, non succede (con Rispetto 1, fallisce in automatico);
+   - potrebbe andare in tutti e due i modi → si tira.
+3. **C'è una posta?** Se fallire non costa niente e non chiude nessuna strada, l'azione riesce senza tiro.
+
+**Tre sì → prova.** Con un no, niente tiro, e nell'esito la cosa riesce o fallisce per motivi che si vedono nella scena.
+
+- **Coerenza**: tipo di prova, CD e modificatori vengono dalla situazione e dal PNG (volontà, carattere, interessi, paure, parametri). Una prova per una cosa che il PNG farebbe volentieri, o per una cosa impossibile, è incoerente quanto non chiamarla.
+- **Più azioni nello stesso messaggio**: si narra fino alla prima azione che richiede il tiro, e lì ci si ferma. Il resto si risolve dopo il tiro, alla luce del risultato.
+- **Combattimento**: ogni attacco, difesa o tecnica contro un avversario si tira sempre (§1). Trasformarsi o accendere l'aura non richiede tiro.
+- **Percezione**: ciò che è evidente Akira lo nota senza tiro. Una cosa nascosta si scopre con un tiro solo se il giocatore dichiara che Akira la cerca, ascolta, osserva.
+- **Tentativi falliti**: un'azione già bloccata non si ritira; il master lo dice in `[OOC]` (vedi *Niente secondo tentativo*).
+
+### Come si chiama la prova
+Il master risponde **senza narrare l'esito**. Può rimettere in scena l'azione di Akira fino al momento in cui l'esito è incerto, mai oltre: nessuna reazione del PNG che anticipi il risultato. Poi scrive:
   1. **tipo di prova** (es. Persuasione);
   2. **CD**;
   3. **modificatori**, voce per voce, con il totale;
   4. l'invito a tirare: `/tira <mod> <azione>`.
   Poi **si ferma** e aspetta il tiro.
+
+Il controllo automatico (`strumenti/controlla_dialoghi.py`) dà errore quando il giocatore tenta qualcosa e la bozza non chiama il tiro: il master deve chiamarlo, oppure ripassare il controllo con `--senza-prova "motivo"`, dicendo quale delle tre domande ha avuto un no.
 
 ### Come si risolve
 - **d10 + modificatori ≥ CD → riesce** (raggiungere la CD basta; confermato dal giocatore). Sotto la CD → non riesce.

@@ -28,12 +28,12 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 - **Nomi dei PNG nuovi**: **giochi di parole alla Toriyama**. Saiyan = verdure, namecciani = lumache, umani = cibi o oggetti quotidiani, alieni e mostri = in base al tema. I nomi già esistenti (Zaraya, Kras, Tyros, Ignis, Akira…) restano come sono. **Ogni PNG ha un nome diverso** da tutti gli altri, anche nel suono (niente Escar/Escargot, Tsumuri/Tsumi ambigui senza motivo).
 - **Fauna e flora di Terra Nova**: diverse da quelle della Terra, inventate ma **non senzienti** come gli umani. Niente animali antropomorfi parlanti. Creature strane, grandi, colorate, plausibili in un mondo di Toriyama.
 - **PNG canonici**: **vicini al loro carattere canonico** (Bu infantile, capriccioso, crudele senza malizia; Babidi viscido e vigliacco; Dabura regale…), con le differenze dovute a ciò che hanno vissuto in questa linea temporale.
-- **Combattimenti**: **onomatopee in stile manga** ("BOOOM", "ZAAAN", "DOGOOOM", "SHUUUN", "GAKIIN"), usate con ritmo: negli impatti e negli scatti, non in ogni riga.
+- **Combattimenti**: **onomatopee in stile manga** ("BOOOM", "ZAAAN", "DOGOOOM", "SHUUUN", "GAKIIN"), in maiuscolo su una riga propria, negli impatti e negli scatti (`regole/05-prosa-shonen.md` §3).
 
 ## ⛔ Errori gravissimi da evitare (decisi dal giocatore)
 
-### 1. PNG che parlano per metafore o per assoluti
-- **Massimo UNA metafora per PNG in tutta la sessione**, e solo se viene naturale per quel personaggio. Il default è **zero**. La gente vera parla in modo concreto: "Ho paura", "Non mi va", "Sei un idiota", "Domani piove, porta dentro la legna".
+### 1. Metafore e assoluti
+- **Nessuna metafora, mai** *(decisione del giocatore del 19/10/2026; prima era una a sessione per PNG)*. Vale per i PNG e per il narratore (`regole/05-prosa-shonen.md` §3). La gente vera parla in modo concreto: "Ho paura", "Non mi va", "Sei un idiota", "Domani piove, porta dentro la legna".
 - **Niente assoluti**: niente "sempre", "mai", "tutti", "nessuno", "è il destino", sentenze, massime, aforismi. Niente PNG che parlano come oracoli o come libri di filosofia.
 - **Gli amici non sono d'accordo per forza**. Hanno sogni, obiettivi nascosti, debolezze, cattivi giorni. **Possono e devono arrabbiarsi** se Akira fa qualcosa che non gli piace, e tenere il muso, discutere, sbagliare, chiedere scusa (o non farlo).
 - **Un robot o un androide non parla da robot**: parla come una persona, col suo carattere. Lo stesso vale per alieni, demoni e divinità: ognuno ha una voce personale, non una voce "di categoria".
@@ -41,14 +41,14 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 
 ### 2. Dialoghi piatti
 Sbagliato: `<Si ho capito Akira. devo andare adesso.>`
-Giusto: `«Ho capito, ho capito…» Si passò una mano sulla nuca, senza guardarlo. «Senti, Akira, adesso devo proprio andare, che mi stanno aspettando da mezz'ora.»`
+Giusto: `«Ho capito, ho capito...» Si passa una mano sulla nuca, senza guardarti. «Senti, Akira... adesso devo proprio andare. Mi aspettano da mezz'ora!»` (struttura completa in `regole/06-dialoghi.md`)
 - Dialoghi tra caporali **«…»**, con punteggiatura espressiva e corretta: virgole, puntini di sospensione, punti esclamativi e interrogativi, interruzioni con il trattino lungo (—), frasi lasciate a metà, maiuscole, accenti.
 - Azioni, gesti ed espressioni **tra le battute**: chi parla deve avere un corpo.
 - Italiano parlato vero: ripetizioni, esitazioni, intercalari coerenti col personaggio, frasi corte quando si è arrabbiati e lunghe quando si è nervosi.
 
 ### 3. "AI slop" — eliminarlo
 - **Niente caos di comodo**: le cose non precipitano "perché la storia deve andare avanti". Ogni evento ha una **causa nel mondo** (fronti, agende dei PNG, conseguenze), tempi realistici e coerenza. Se non è il momento, non succede.
-- **Niente frasi fatte**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", "non era solo X, era Y", "e in quel momento capì", triplette retoriche, chiusure a effetto in ogni paragrafo, PNG che "annuiscono gravemente".
+- **Niente frasi fatte**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", PNG che "annuiscono gravemente". Le terzine, il «non è X, è Y» e le chiuse a effetto sono strumenti dello stile di riferimento (`regole/riferimento-stile.md`): si usano nei punti che pesano, non come riempitivo in ogni paragrafo.
 - **Niente PNG-strumento** che esistono solo per dare informazioni o risolvere problemi ad Akira (Regola 8).
 - **Niente morale finale** o riassunto emotivo alla fine dei messaggi.
 - Descrizioni **concrete e specifiche** (cosa si vede, si sente, si annusa) invece di aggettivi astratti.
