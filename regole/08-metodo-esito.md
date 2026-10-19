@@ -80,6 +80,8 @@ Rileggi la bozza come la leggerebbe il giocatore e **cancella**, senza pietà:
 - ogni dettaglio che non fa vedere, non rivela, non prepara e non fa ridere;
 - ogni gesto, immagine o struttura che somiglia a un esempio delle guide.
 
+**Seconda passata**: rileggi un'ultima volta chiedendoti soltanto *che cosa, in questo testo, fa ancora capire che l'ha scritto un'IA?* Trova quella cosa e riscrivila o toglila.
+
 Se dopo i tagli l'esito è sotto il minimo, si torna alla fase 3 e si sviluppa la scena (cosa cambia, chi altro reagisce), non si rimettono frasi.
 
 **Controllo automatico** (obbligatorio): il messaggio del giocatore, poi la riga `===ESITO===`, poi la bozza.
@@ -113,3 +115,12 @@ EOF
 | Narratore-grilletto | Una reazione appesa a ogni frase di Akira, spesso citata | Una reazione all'insieme |
 | PNG-copione | Il PNG recita la propria scheda o i propri rapporti | I file servono a sapere, non a dire |
 | Ricalco degli esempi | Stessi gesti, stessa sequenza, stessa chiusa di un esempio | Partire dalla fase 1, non dal ricordo di un testo |
+| Sinonimi a rotazione | Lo stesso personaggio chiamato in tre modi per non ripetere il nome («l'uomo», «il mezzosangue», «il guerriero»; «la donna», «la botanica») | Il nome o il pronome; un appellativo solo se dice qualcosa in quel punto |
+| Gerundio di commento | La frase finisce spiegando cosa significa il gesto («…, rivelando quanto…», «…, segno che…», «…, come a dire…») | Tagliare: il gesto basta |
+| Importanza gonfiata | «Per la prima volta da quando…», «un momento che avrebbe cambiato tutto», «niente sarebbe stato più come prima» | Dire il fatto, o niente |
+| Cautele ammucchiate | «Quasi», «forse», «una specie di», «qualcosa di simile a», «in qualche modo» uno sull'altro | Dire la cosa |
+| Vocabolario da IA | Intenso, profondo, palpabile, carico di, un misto di, si stagliava, si ergeva, fungeva da, un velo di | Parole semplici e concrete |
+| Tre per forza | Ogni elenco è di tre: tre gesti, tre aggettivi, tre esempi | Uno o due, o quanti ne servono davvero |
+| Negazione-correzione | «Non era X, era Y», «non solo X, ma Y» usati per dare enfasi | Dire Y |
+
+Alcuni di questi meccanismi sono adattati, per la prosa narrativa italiana, dalla guida di Wikipedia *Signs of AI writing* e dalla skill Humanizer. Le loro regole su lineette e virgolette **non valgono** qui: la punteggiatura è quella della casa (caporali, trattino lungo per le interruzioni, `regole/05-prosa-shonen.md` §3).

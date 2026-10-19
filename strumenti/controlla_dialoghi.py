@@ -62,6 +62,12 @@ abbiamo avete hanno mi ti si ci vi ne me te se del dello della dei degli delle a
 dalla dai dagli dalle nel nello nella nei negli nelle sul sullo sulla sui sugli sulle io tu lui lei noi voi loro
 più già anche come quando dove cosa chi perché poi così questo questa quello quella mio mia tuo tua suo sua
 nostro nostra c era sei siamo""".split())
+VOCABOLARIO_IA = ["intenso", "intensa", "intensi", "intense", "palpabile", "un misto di", "carico di", "carica di",
+                  "si stagliava", "si ergeva", "fungeva da", "un velo di", "in qualche modo", "non poté fare a meno",
+                  "qualcosa di simile a", "una sorta di", "per la prima volta da quando", "niente sarebbe stato più",
+                  "avrebbe cambiato tutto"]
+GERUNDIO_COMMENTO = re.compile(r",\s*(rivelando|tradendo|dimostrando|segno che|come a dire|quasi a dire|a testimoniare)\b", re.IGNORECASE)
+NEGAZIONE_CORREZIONE = re.compile(r"\bnon era\b[^.!?;]{1,50},\s*era\b|\bnon (solo|soltanto)\b[^.!?;]{1,60}\bma (anche )?", re.IGNORECASE)
 LUNGA_AVVISO = 350
 LUNGA_ERRORE = 500
 MEZZO_SEGRETO = ["lascia perdere", "fai finta che non", "non ho detto niente", "dimentica quello che"]
@@ -146,6 +152,13 @@ def controlla(testo):
     for c in CLICHE:
         if c in low:
             errori.append(f"FRASE FATTA: \"{c}\" → toglila e mostra la cosa concreta, o niente")
+    trovate = [v for v in VOCABOLARIO_IA if re.search(rf"\b{re.escape(v)}\b", testo.lower())]
+    if trovate:
+        avvisi.append("VOCABOLARIO DA IA: " + ", ".join(f"\"{v}\"" for v in trovate) + " → parole semplici e concrete, o il fatto e basta")
+    for m in GERUNDIO_COMMENTO.finditer(narr):
+        avvisi.append(f"GERUNDIO DI COMMENTO: \"{m.group(0).strip(', ')}\" → la frase spiega cosa significa il gesto: taglia, il gesto basta")
+    for m in NEGAZIONE_CORREZIONE.finditer(testo):
+        avvisi.append(f"NEGAZIONE-CORREZIONE: \"{m.group(0)[:50]}\" → «non era X, era Y» per dare enfasi: di' Y")
     for m in VERBI_MENTALI.finditer(narr):
         avvisi.append(f"VERBO MENTALE nella narrazione: \"{m.group(0)}\" → i pensieri dei PNG non si narrano e Akira non decide né pensa al posto del giocatore")
     n_grilletti = sum(len(re.findall(p, testo)) for p in GRILLETTI)
