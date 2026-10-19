@@ -52,6 +52,3 @@
 | g13 sera (s4) | Il governatore Ganascia di Clod City, durante la pausa del Consiglio, ha detto ai notiziari che ad Arcorp ci sono «troppe coincidenze» e che la cupola si è incrinata la settimana in cui «certa gente arriva in città» | Schermo della piazza, notiziario |
 | g14 notte (s4) | Ganascia ha letto ad alta voce, due volte, il rapporto di Tobias; Tights gli ha ordinato di riscriverlo | L'ha sentito dal pianerottolo |
 | g14 notte (s4) | Raccomandazione vincolante del Consiglio: niente uscite dal quartiere est; due Arc-G2 all'abitazione; Orto vietato a lui e a Zemi; valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto 3 a 1: **Tights ha votato contro** | Il foglio portato da Tights |
-| g14 notte (s4) | La Capsule ha in archivio la sua firma di ki dal 774; il picco dell'Orto ha una firma «non in archivio» | Grafico portato da Tights |
-| g14 notte (s4) | In seduta Ganascia voleva far valutare Zemi dai suoi tecnici di Clod City; il re ha chiesto quanto potrebbe diventare forte da grande | Tights |
-| g14 notte (s4) | Il rapporto di Tobias diceva «nessun controllo osservato» e non riportava la provocazione di Lattuga, che Tobias aveva saputo da Mirtillo al cancello. Tights riaprirà la faccenda con la testimonianza di Mirtillo, ma la valutazione resta | Tights, Tobias |
