@@ -17,6 +17,8 @@ PROSA
 - Energia shonen: esclamativi quando servono, onomatopee in corsivo maiuscolo negli impatti, gag con i tempi giusti. Grammatica controllata frase per frase.
 DIALOGHI
 - Ogni battuta ha senso parola per parola: verbo giusto, ragionamento che torna, nessuna contraddizione, tempi verbali coerenti (nei racconti, presente storico dall'inizio alla fine).
+- TEMPI CONCORDATI: timore, pensiero o previsione al passato → il futuro di allora al condizionale passato («avevo paura che avrebbe cominciato»), l'ipotesi al congiuntivo trapassato («se lo fosse venuto a sapere»); dopo paura, dubbio e desiderio il congiuntivo. Il parlato sta nel lessico, non negli errori (solo i bambini sbagliano, e di proposito).
+- PESO NEI MOMENTI FORTI: la tirata chiude su ciò che il PNG vuole, detto dritto, con la parola che pesa in fondo («…perché stiamo parlando di nostra figlia»). Niente code che sgonfiano (battutine, commenti su di sé, spiegazioni) e niente frasi da terapeuta («ne hai diritto», «è comprensibile», «sono qui per te»). Prova: l'ultima frase, da sola, dice cosa c'è in gioco?
 - Parlato, non scritto: uno o due tratti del parlato per battuta (be', mica, cioè, dai, dislocazioni, autocorrezioni), scelti per il personaggio. Niente registro solenne ("per questo, e solo per questo").
 - Frasi intere: niente raffiche di telegrammi da 2-4 parole separati da punti. Niente sillogismi da scrittore in bocca ai bambini.
 - Ogni PNG vuole qualcosa; sottotesto (non dice esattamente ciò che prova); niente "come sai, Bob"; niente battute da citazione; la gag non si spiega. Un beat ogni 2-3 battute.

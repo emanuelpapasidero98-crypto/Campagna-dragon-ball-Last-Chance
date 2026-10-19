@@ -32,7 +32,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s3) «Andrò benissimo se arriviamo in orario, e Cannella ha detto alle due meno dieci, quindi la tavola calda ce la facciamo bastare per mezz'ora, non un minuto di più.»
 - (s3) «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
 - (s3) «Sapevo cosa facevo, Akira, e se vuoi sentirmelo dire lo dico: ti ho mentito apposta.»
-- (s3) «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola.»
+- (s3, riformulata) «Urlami contro quanto vuoi, ma girati e guardami negli occhi, Akira, perché stiamo parlando di nostra figlia.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.

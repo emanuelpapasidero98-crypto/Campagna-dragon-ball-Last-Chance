@@ -8,7 +8,9 @@ vietati da regole/06-dialoghi.md e regole/07-dialoghi-shonen.md:
 - glosse del narratore e narratore-grilletto;
 - "mezzo segreto" interrotto;
 - assoluti in bocca ai PNG;
-- parole ripetute tra battute diverse (possibili concetti ripetuti).
+- parole ripetute tra battute diverse (possibili concetti ripetuti);
+- linguaggio da terapeuta ("ne hai diritto", "è comprensibile"...);
+- possibili errori di concordanza dei tempi (timori e pensieri al passato).
 
 Uso:
   python3 strumenti/controlla_dialoghi.py bozza.txt
@@ -35,6 +37,18 @@ GLOSSE = [
 GRILLETTI = [r"\bAlla parola\b", r"\bAl complimento\b", r"\bAll'ultima frase\b", r"\bSull'ultima frase\b"]
 MEZZO_SEGRETO = ["lascia perdere", "fai finta che non", "non ho detto niente", "dimentica quello che"]
 ASSOLUTI = ["sempre", "mai", "tutti", "nessuno", "ogni volta"]
+TERAPEUTA = [
+    "ne hai diritto", "ne hai tutto il diritto", "hai tutto il diritto", "è comprensibile",
+    "è normale che tu", "non ti giudico", "voglio essere onest", "ho bisogno che tu sappia",
+    "i tuoi sentimenti", "sono qui per te", "capisco come ti senti",
+]
+PASSATO_PENSIERO = re.compile(
+    r"\b(avevo|aveva|avevamo) paura\b|\b(temevo|temeva|pensavo|pensava|credevo|credeva|speravo|sperava|immaginavo|ero sicur[oa]|ero convint[oa])\b",
+    re.IGNORECASE)
+SUBORDINATA = re.compile(r"\b(che|se|appena|quando|finché)\b", re.IGNORECASE)
+CONDIZ_CONGIUNT = re.compile(
+    r"\b\w+(rei|resti|rebbe|remmo|reste|rebbero|ssi|sse|ssimo|ssero)\b|\b(fosse|fossi|fossero|sia|siano|abbia|abbiano)\b",
+    re.IGNORECASE)
 STOP = set("""
 alla allo alle agli dalla dalle dallo della delle dello degli nella nelle nello negli sulla sulle sullo sugli
 mentre perché perche quando quello quella quelli quelle questo questa questi queste anche ancora adesso allora
@@ -115,6 +129,24 @@ def controlla(testo):
         for a in ASSOLUTI:
             if re.search(rf"\b{a}\b", b.lower()):
                 avvisi.append(f"riga {riga}: ASSOLUTO \"{a}\" in una battuta → serve davvero? «{b[:70]}»")
+
+    # 5-bis. Linguaggio da terapeuta.
+    for riga, b in bb:
+        for t in TERAPEUTA:
+            if t in b.lower():
+                errori.append(f"riga {riga}: LINGUAGGIO DA TERAPEUTA \"{t}\" → una persona arrabbiata o in colpa non valida le emozioni dell'altro, riscrivi in modo diretto: «{b[:70]}»")
+
+    # 5-ter. Concordanza dei tempi: timore o pensiero al passato seguito da una subordinata
+    # senza condizionale né congiuntivo ("Avevo paura che appena lo viene a sapere comincia…").
+    for riga, b in bb:
+        for f in frasi(b):
+            m = PASSATO_PENSIERO.search(f)
+            if not m:
+                continue
+            resto = f[m.end():]
+            if SUBORDINATA.search(resto) and not CONDIZ_CONGIUNT.search(resto):
+                avvisi.append(f"riga {riga}: CONCORDANZA DEI TEMPI, timore o pensiero al passato: il futuro di allora va al condizionale passato (avrebbe cominciato), l'ipotesi al congiuntivo trapassato (se lo fosse venuto a sapere): «{f[:90]}»")
+                break
 
     # 6. Possibili concetti ripetuti: parole piene che tornano in 3+ battute diverse.
     conta = Counter()

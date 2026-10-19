@@ -9,9 +9,9 @@ Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Obiettivo del
 1. **Parlato costruito, non trascritto.** Il dialogo deve *suonare* spontaneo, ma ogni battuta è scelta. Niente convenevoli inutili: si entra nella conversazione tardi e se ne esce presto.
 2. **Ogni battuta fa almeno una cosa**: fa avanzare la scena, rivela il carattere, crea tensione, fa ridere. Se non fa niente, si taglia.
 3. **Ogni PNG vuole qualcosa** in ogni scena: un'informazione, l'approvazione, essere lasciato in pace, nascondere qualcosa, far ridere. Parla **per ottenerlo**, non per informare il giocatore.
-4. **Sottotesto.** Le persone girano intorno alle cose importanti. Chi è ferito fa una battuta, chi ha paura cambia discorso, chi è geloso fa una domanda innocente. **Non dire mai esattamente ciò che si prova**, soprattutto quando conta. Il non detto lo legge il giocatore.
+4. **Sottotesto.** Le persone girano intorno alle cose importanti. Chi è ferito fa una battuta, chi ha paura cambia discorso, chi è geloso fa una domanda innocente. **Non dire mai esattamente ciò che si prova**, soprattutto quando conta. Il non detto lo legge il giocatore. Il sottotesto riguarda ciò che si **prova**, non ciò che si **vuole**: nel momento più alto il PNG chiede la cosa che vuole in modo diretto (principio 21).
 5. **Niente "come sai, Bob".** Due PNG non si spiegano a vicenda cose che sanno già solo perché il giocatore le scopra. Le informazioni passano attraverso il **conflitto** (uno vuole sapere, l'altro non vuole dire), una **domanda vera** o qualcuno che **non sa**.
-6. **Logica letterale.** Ogni battuta deve avere senso **parola per parola**. Il verbo è quello giusto? Il ragionamento torna? I tempi verbali sono coerenti? (vedi §3: "restituirla" invece di "raccoglierla").
+6. **Logica letterale.** Ogni battuta deve avere senso **parola per parola**. Il verbo è quello giusto? Il ragionamento torna? I tempi verbali sono coerenti e concordati (principio 22)? (vedi §3: "restituirla" invece di "raccoglierla").
 7. **Frasi intere, non telegrammi.** Il finto ritmo fatto di frasi da 2-4 parole separate da punti ("Il riso non morde. Ci vai tu? Io non lo conosco.") suona scritto e artificiale. Il parlato lega con **virgole, "e", "ma", "che", "allora", "quindi"**. Le frasi corte si usano solo per un effetto preciso (un ordine secco, uno shock), una alla volta.
 8. **Niente battute "da citazione".** La tendenza dell'IA è scrivere battute rifinite, argute, simmetriche, aforistiche. Le persone vere sono **meno brillanti**: ripetono, si correggono, trovano la parola giusta al secondo tentativo. Una battuta memorabile ogni tanto, non in ogni scambio.
 9. **La gag non si spiega.** Preparazione, sorpresa, stop. Se la battuta ha bisogno di una spiegazione, va riscritta.
@@ -37,6 +37,26 @@ Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Obiettivo del
     - **Il PNG non etichetta gli altri per mestiere**: niente «lei dia pure i nomi alle sue piante, signora» se la scena parla d'altro.
     - **Un tic vale una volta per scena**, e una seconda solo se porta qualcosa di nuovo. Il direttore che guarda l'orologio quando arriva è un tratto; che lo guardi mentre si avvicinano al muro dei nomi dice che è nervoso; che lo guardi cinque volte è una gag ripetuta.
     - **Prova del cambio di mestiere**: immagina che il PNG faccia un altro lavoro. Se la battuta perde senso, o se togliendo il riferimento al lavoro non resta niente, il PNG sta parlando del suo cartellino e non della situazione: riscrivila.
+21. **Il peso nei momenti forti: la battuta che chiude.** In una confessione, un'accusa, un addio, una supplica o una minaccia, l'ultima battuta della tirata è il colpo, e deve pesare. È qui che i testi generati cedono: arrivano al punto più alto e lo sgonfiano con una coda morbida, ironica o spiegata (vedi §3-ter). Quando la scena è leggera, la leggerezza resta; questo principio vale quando **c'è bisogno di peso**.
+    - **Il PNG dice ciò che vuole, dritto**: «guardami», «non toccarla», «resta», «vattene da casa mia». Senza ammortizzatori, senza "se ti va", senza giustificarsi.
+    - **La parola che pesa va in fondo**: la persona o la posta in gioco. In italiano l'ultima parola della frase è quella che resta in testa: «…perché stiamo parlando di nostra figlia» pesa, «…mi sembra di parlare da sola» no.
+    - **Niente code che sgonfiano**: dopo la richiesta forte non si aggiungono battutine, osservazioni su di sé, spiegazioni del perché o immagini. La coda ironica è il modo in cui il testo si protegge dal peso: si taglia.
+    - **Niente linguaggio da terapeuta**: "ne hai diritto", "hai tutto il diritto di", "è comprensibile", "è normale che tu…", "non ti giudico", "voglio essere onesta con te", "ho bisogno che tu sappia che", "sono qui per te". Una persona arrabbiata o in colpa non valida le emozioni dell'altro come uno psicologo: dice «Urlami contro quanto vuoi», «Arrabbiati, fai come ti pare». Il controllo automatico segnala queste frasi come errore.
+    - **Il picco può essere breve** (`07-dialoghi-shonen.md` §2, regola 1): il periodo lungo costruisce, l'ultima proposizione colpisce.
+    - **Prova del finale**: leggi solo l'ultima frase della battuta. Se da sola non dice cosa c'è in gioco, o se finisce su un commento invece che su una richiesta o un fatto, riscrivila.
+22. **Concordanza dei tempi.** Il parlato sta nel lessico e nella sintassi (segnali discorsivi, dislocazioni, interruzioni), **non negli errori di grammatica**: i PNG adulti usano i tempi giusti. L'errore tipico dei testi generati è il presente buttato dentro un discorso al passato.
+
+    | Situazione | Sbagliato | Giusto |
+    |---|---|---|
+    | Timore o previsione al passato su qualcosa che allora era futuro | «Avevo paura del governo, che appena lo viene a sapere comincia a trattarla come tratta te.» | «Avevo paura del governo, che se lo fosse venuto a sapere avrebbe cominciato a trattarla come tratta te.» |
+    | Futuro visto dal passato | «Pensavo che torni stasera.» | «Pensavo che saresti tornato stasera.» |
+    | Ipotesi irreale nel passato | «Se lo sapevo, te lo dicevo.» | «Se l'avessi saputo, te l'avrei detto.» |
+    | Paura, dubbio, desiderio + congiuntivo | «Ho paura che lo scopre.» · «Avevo paura che lo scopriva.» | «Ho paura che lo scopra.» · «Avevo paura che lo scoprisse.» |
+    | Ciò che è vero ancora oggi | — | Resta al presente: «tua figlia ha il ki», «…come tratta te» |
+    | Racconto | Presente e passato mischiati | Un solo tempo base dall'inizio alla fine: passato prossimo e imperfetto, oppure presente storico |
+
+    - **Eccezione**: i bambini possono sbagliare **di proposito**, come Zemi con «prima che mi addormento». Vale solo per loro, o per un PNG che nella scheda parla così per carattere.
+    - Il controllo automatico dà un **avviso** quando un timore o un pensiero al passato è seguito da una subordinata senza condizionale né congiuntivo: va ricontrollata a mano.
 
 ---
 
@@ -100,6 +120,29 @@ Prosa e punteggiatura erano buone; il problema era **di cosa** parlavano i PNG. 
 
 ---
 
+## 3-ter. Analisi della sessione 3: il finale che si sgonfia e i tempi sbagliati
+
+Sulla terrazza, la notte del g13, Akira chiede a Syntia, di spalle, da quanto sa del ki di Zemi. Anche qui la scena giocata resta quella: la riscrittura mostra solo la tecnica.
+
+**Originale** (le ultime due battute):
+
+> «Avevo paura di come l'avresti presa, tu che da tre anni ti tieni tutto dentro e che alla prima notizia di guai ti chiudi, perché se avessi saputo che tua figlia ha il ki avresti ricominciato a guardarla come guardi te stesso, come una cosa da tenere a bada. E avevo paura del governo, che appena lo viene a sapere comincia a trattare lei come tratta te.» Si passò il dorso della mano sotto gli occhi, una volta sola. «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola.»
+
+**Cosa non va**
+- **Finale che si sgonfia**: la tirata arriva al punto più alto e chiude su un commento su di sé («mi sembra di parlare da sola»). Il senso si capisce, ma il peso va perso: in fondo doveva esserci la posta, cioè la figlia.
+- **Linguaggio da terapeuta**: «ne hai diritto» è una frase da psicologo, non da moglie che si vergogna e si difende.
+- **Tempi**: «avevo paura del governo, che appena lo viene a sapere comincia…» butta il presente dentro un timore al passato. Serve «che se lo fosse venuto a sapere avrebbe cominciato…».
+- **Logica letterale**: «avresti *ricominciato* a guardarla» non ha senso, perché Akira non l'ha mai guardata così.
+- **Concetti ripetuti**: «ti tieni tutto dentro» e «ti chiudi» sono la stessa cosa. Nella battuta prima, «il sasso l'ho detto io prima che tu me lo chiedessi», «sapevo cosa facevo» e «ti ho mentito apposta» dicevano tre volte che aveva mentito di proposito.
+
+**Riscrittura**
+
+> «Avevo paura di come l'avresti presa, perché da tre anni, alla prima brutta notizia, ti chiudi e smetti di parlare, e se avessi saputo che tua figlia ha il ki l'avresti guardata come guardi te stesso, come una cosa da tenere a bada. E avevo paura del governo, che se lo fosse venuto a sapere avrebbe cominciato a trattare lei come tratta te.» Si passò il dorso della mano sotto gli occhi, una volta sola. «Urlami contro quanto vuoi, ma girati e guardami negli occhi, Akira, perché stiamo parlando di nostra figlia.»
+
+**Perché funziona**: i tempi sono concordati e ogni concetto compare una volta. L'ultima battuta dice ciò che Syntia vuole («girati e guardami negli occhi») senza scusarsi, e finisce sulla parola che pesa, «nostra figlia». La concessione resta, ma con la voce di Syntia («Urlami contro quanto vuoi»), non con quella di uno psicologo.
+
+---
+
 ## 4. Esempi di riferimento (illustrativi, non sono eventi della campagna)
 
 ### Esempio A — Sottotesto in famiglia
@@ -146,4 +189,6 @@ Prosa e punteggiatura erano buone; il problema era **di cosa** parlavano i PNG. 
 13. Forma: battute brevi solo se cariche, mai due frasi brevi di fila chiuse dal punto, nessun concetto ripetuto (`regole/07-dialoghi-shonen.md` §2)?
 14. Il controllo `strumenti/controlla_dialoghi.py` dà zero errori?
 15. **Cartellino**: il mestiere, la passione o il tic del PNG compaiono più di una volta nella scena? In un momento emotivo il PNG parla della persona e di ciò che è successo, o del suo lavoro? Prova del cambio di mestiere (§1, principio 20). Il controllo automatico questo non lo vede: va verificato a occhio.
-16. Prova ad alta voce: lo direbbe davvero così?
+16. **Peso**: nei momenti forti l'ultima frase della tirata dice ciò che il PNG vuole, con la posta in fondo? C'è una coda che sgonfia (battutina, commento su di sé, spiegazione) o una frase da terapeuta ("ne hai diritto")? (§1, principio 21)
+17. **Tempi**: timori, pensieri e ipotesi al passato usano il condizionale passato e il congiuntivo (§1, principio 22)?
+18. Prova ad alta voce: lo direbbe davvero così?

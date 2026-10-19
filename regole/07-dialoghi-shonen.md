@@ -18,7 +18,7 @@ Quando un personaggio ha qualcosa da dire (la provocazione del rivale, lo sfogo 
 | **Stupore** | Breve e carica, spesso interrotta | «Ma che…?!» · «Non può essere!» |
 | **Provocazione del rivale** | Lunga, arrogante, con esclamativi e una domanda di sfida in fondo | un periodo scorrevole, con un "!" o un "?" che chiude |
 | **Battibecco comico** (lo schema di Bulma e Goku, del Genio e Crilin) | Uno dice un'assurdità, l'altro ribatte con una frase sola, esasperata | due battute rapide, ognuna intera |
-| **Momento emotivo** | La voce si spezza, ma con "…" e "—", non con il punto | frasi lunghe interrotte da pause |
+| **Momento emotivo** | La voce si spezza, ma con "…" e "—", non con il punto; in fondo arriva la frase che pesa, cioè ciò che il personaggio vuole, detto dritto | frasi lunghe interrotte da pause, che chiudono sulla posta in gioco («…perché stiamo parlando di nostra figlia»), mai su una battutina o un commento su di sé |
 | **Quotidiano** | Battute veloci, ci si interrompe, si cambia argomento | botta e risposta con gesti in mezzo |
 
 Gli shonen hanno anche un **tono diretto**: i personaggi dicono chiaramente cosa **vogliono** ("adesso ti batto", "voglio vedere quanto vali"). Ciò che **provano**, invece, si vede da quello che fanno. Il pianto trattenuto, la risata che si spegne, il pugno che trema dicono più di qualsiasi spiegazione.

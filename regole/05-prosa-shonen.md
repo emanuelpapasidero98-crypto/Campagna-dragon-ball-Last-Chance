@@ -45,7 +45,7 @@ Esempio del testo bocciato:
 12. **Chiusura aperta.** Si finisce su un'immagine o una battuta a cui Akira può reagire. Mai un riassunto, una morale o un "e ora cosa farai?".
 13. **Gli esempi non si copiano.** Gli esempi di questa guida mostrano uno stile, non frasi da riusare. È vietato riprendere immagini o frasi degli esempi (le spalle che "si abbassano di un dito", la spalla mancante che "prude in mezzo alla gente"…): diventerebbero tic che si ripetono a ogni sessione. Ogni immagine va trovata nuova, per la scena che si sta scrivendo.
 14. **Niente tic ripetuti.** Lo stesso gesto, la stessa immagine o la stessa reazione fisica non si usano due volte nella stessa sessione. Attenzione ai cliché fisici delle emozioni (stomaco che si stringe, petto stretto, brivido): sono il tic più tipico dei testi generati. A volte basta nominare l'emozione in modo semplice, a volte basta la battuta.
-15. **Grammatica controllata.** Prima di inviare, rileggi ogni frase per accordi, soggetti e preposizioni ("**la** spalla… tornò a prudergli", non "**alla** spalla… tornò a prudere").
+15. **Grammatica controllata.** Prima di inviare, rileggi ogni frase per accordi, soggetti e preposizioni ("**la** spalla… tornò a prudergli", non "**alla** spalla… tornò a prudere"), e nelle battute la concordanza dei tempi ("avevo paura che, se l'avesse saputo, avrebbe…", non "avevo paura che appena lo sa…"; `06-dialoghi.md`, principio 22).
 16. **Una comparsa per scena**, se non serve alla trama. Le comparse sono un dettaglio: una riga, e solo se dice qualcosa (come la gente guarda Akira, per esempio).
 17. **Dialoghi**: valgono le regole di `regole/06-dialoghi.md`.
 

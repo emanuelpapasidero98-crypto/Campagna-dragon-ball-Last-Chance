@@ -115,3 +115,7 @@ Nessun combattimento. Nessun tiro di Akira in questa sessione.
   - **Concetto ripetuto nella scena**: la puntualità detta da Syntia, dal narratore, da Mirtillo e da Cannella («puntualissimi» due volte).
   - Il controllo automatico non vede il cartellino: va verificato a occhio (checklist `06-dialoghi.md` §5, punto 15).
 - Dalla prossima scena valgono le regole nuove: un solo rimando al mestiere per PNG per scena, nei momenti emotivi si parla della persona, ogni PNG improvvisato ha anche una cosa che non c'entra col ruolo.
+- Dopo la sessione il giocatore ha segnalato due errori nella confessione di Syntia sulla terrazza (regole aggiornate su `main`: principi 21 e 22 di `06-dialoghi.md` e §3-ter):
+  - **Finale che si sgonfia**: «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola» chiude il momento più alto su un commento su di sé, e «ne hai diritto» è linguaggio da terapeuta. Doveva chiudere su ciò che Syntia vuole e sulla posta in gioco («guardami negli occhi… stiamo parlando di nostra figlia»).
+  - **Tempi verbali**: «avevo paura del governo, che appena lo viene a sapere comincia…» → «che se lo fosse venuto a sapere avrebbe cominciato…».
+  - Nella stessa tirata: «avresti *ricominciato* a guardarla» (non l'ha mai guardata così) e concetti ripetuti («ti tieni tutto dentro» / «ti chiudi»; tre modi di dire «ti ho mentito apposta»).
