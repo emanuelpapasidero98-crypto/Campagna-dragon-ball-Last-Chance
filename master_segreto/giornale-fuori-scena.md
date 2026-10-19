@@ -194,3 +194,12 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Alba g14**: Ignis e Okura partono a nord per la «mano grigia»; Zarcon li segue di nascosto (Crepa 4/6). Tyros vuole incontrare «la voce» (Fronda 5/6); se Babidi lo contatta, si allea. Babidi tenta di marchiare Rapan (Primo contatto 3/4).
 - **G14-15**: la voce sull'Orto raggiunge Ganascia. La stampa può parlarne.
 - **Entro g16**: valutazione del potenziale di Zemi al laboratorio della Capsule; seconda lezione di Syntia (g16, Aula Magna, microfono nuovo).
+
+---
+## Sessione 4
+
+### G13 ~21:05 · Capsule Corp, sala del Consiglio → pianerottolo dell'attico
+- **Cosa**: durante una pausa della seduta Tights scrive tre messaggi di fila a Tobias, furiosa per il rapporto («"Nessun controllo osservato"? Era una bambina di sei anni provocata da un'adulta, e tu lo sapevi!»; «Ganascia l'ha letto a voce alta due volte»; «Non muoverti da lì»). Tobias legge i primi due e brontola da solo; il terzo non lo apre.
+- **Cosa (2)**: Cannella scrive a Syntia alle 20:50 (messaggio non letto): si scusa per l'ora, chiede di sentirsi domattina per la lezione del g16 e la supplica, se la chiamano i giornalisti, di dire che è stato «un problema dei vetri».
+- **Chi lo sa**: Tights, Tobias; Cannella.
+- **Come Akira può scoprirlo**: ha sentito i ronzii e il brontolio di Tobias (sa che qualcuno lo sta rimproverando per iscritto, non chi); se Syntia legge il messaggio o glielo dice; Tights all'una.
