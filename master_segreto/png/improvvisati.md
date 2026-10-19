@@ -61,3 +61,8 @@ Ogni PNG ha anche **una cosa che non c'entra col suo ruolo** (un affetto, una pr
 - **Una cosa che non c'entra col ruolo**: il ginocchio destro non le tiene più le scale, e non lo dice a nessuno.
 - **Sa**: chi è Akira e cosa ha detto nel 774; ha visto Zemi scatenare il ki. **Non sa**: Akyr, Zaraya, il lavaggio del cervello (conosce solo il messaggio).
 - **Parametri** (verso Akira): Rispetto 1 · Amore 1 · Odio **5** · Spietatezza 2 · Lealtà 5 (ai suoi morti e all'Orto)
+
+## Aggiornamenti di fine sessione 3 (g13 ~21:05)
+- **Cannella**: ha ottenuto che la lezione del g16 si faccia e che il comunicato parli di «anomalia di pressione». Teme che il Consiglio sappia (lo sa: il picco è nei sensori). Parametri invariati.
+- **Mirtillo**: compila la segnalazione dei pannelli («onda di pressione non chiarita», senza nominare una bambina). Non può nasconderla alla manutenzione. Parametri invariati (Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 4).
+- **Zia Lattuga**: non ha cambiato idea su Akira (Odio 5). Ha visto Zemi muovere l'aria e lo racconterà alla squadra; da lei la voce arriva al quartiere dell'Orto entro la sera. Parametri invariati.

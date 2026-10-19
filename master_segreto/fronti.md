@@ -43,6 +43,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
 | L'anomalia | `[■■■■■■]` 6/6 ✅ CRISI (g12-13) | 2: Tights fa rianalizzare i dati e trova un oggetto · 3: Tights porta la cosa al Consiglio · 4: il re ordina una ricognizione segreta (Tobias e una sonda) · 5: incidente con la vecchia Terra (la sonda viene vista o distrutta) · 6: crisi: il Consiglio deve decidere (cannoni, chiusura totale dello scudo, cercare Akira o farne un capro espiatorio) |
+| **Esito della seduta del g13 (s3)** | **capro espiatorio** | Raccomandazione vincolante: Akira e famiglia non lasciano il quartiere est di Arcorp; due Arc-G2 al portone dall'una; Orto chiuso a lui e a Zemi; **valutazione del potenziale di Zemi al laboratorio della Capsule entro 3 giorni**. Cannoni e scudo rinviati. Tights contraria, in minoranza. Tights lo comunica ad Akira all'una |
 | Sorveglianza di Akira | attiva | Se Akira fa qualcosa di "allarmante" (aura alta, voli, scontri), il Consiglio lo sa entro poche ore |
 | Il braccio Mk II | `[■■■■■]` 5/5 ✅ completato (g8) | Tights lo completa. Cosa farne dipende dal rapporto con Akira |
 

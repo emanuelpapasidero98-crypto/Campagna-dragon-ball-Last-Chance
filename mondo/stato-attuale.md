@@ -3,10 +3,10 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 3 in corso
-- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:00)
+- **Sessione corrente**: 3 conclusa. Prossima: 4
+- **Data in gioco**: anno 777, giorno 13, sera (circa le 21:05)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico, circa le 21:05 del g13. Akira è in piedi a guardare fuori, di spalle, verso le cupole illuminate dell'Orto (si rende conto che ha incrinato l'intera cupola, non solo qualche vetro); ha chiesto a Syntia da quanto sa che Zemi può usare il ki e le ha detto che gli ha mentito volontariamente sul «sasso» del g6, senza che lui avesse chiesto niente. Syntia, seduta al tavolino con le mani aperte, ha risposto con i fatti: sa del ki di Zemi da più di un anno (la lampada della scuola, ufficialmente un cortocircuito, esplosa mentre due bambini le dicevano cos'era suo padre; Syntia era nel corridoio e ha visto la mano accesa), e da circa quattro mesi (una notte ha trovato Zemi che dormiva staccata dal letto di una spanna). Ha ammesso: «ti ho mentito apposta» (aveva capito che lui aveva sentito qualcosa, l'ha visto fermo alla finestra a guardare verso la città), e di aver chiesto lei a Zemi di tenerlo segreto («una cosa nostra»): «la colpa è mia». Ha detto di aver avuto paura di come l'avrebbe presa (che la guardasse come una cosa da tenere a bada) e del governo (che trattasse Zemi come tratta lui). Gli ha chiesto di arrabbiarsi pure, ma di girarsi. Zemi dorme nella cameretta; sul pianerottolo c'è Tobias. All'una di notte è atteso Tights (non è sicuro che venga). Akira non ha ancora detto a Zemi dove Tobias compra il riso.
+- **Scena in sospeso**: terrazza dell'attico, circa le 21:05 del g13. Akira è in piedi a guardare fuori, di spalle, verso le cupole illuminate dell'Orto (vede il pannello incrinato della cupola grande). Ha chiesto a Syntia da quanto sa che Zemi può usare il ki e le ha detto che gli ha mentito volontariamente sul «sasso» del g6, senza che lui avesse chiesto niente. Syntia, seduta al tavolino con due tazze di caffè (fatto con le lattine di Tights), ha risposto con i fatti: sa del ki di Zemi da più di un anno (la lampada della scuola, ufficialmente un cortocircuito, esplosa mentre due bambini le dicevano cos'era suo padre; lei era nel corridoio e ha visto la mano accesa), da circa quattro mesi ha visto Zemi dormire staccata dal letto di una spanna; ha ammesso «ti ho mentito apposta» e di aver chiesto lei a Zemi di tenerlo segreto («una cosa nostra»): «la colpa è mia». Le sue paure dette: che Akira guardasse Zemi come «una cosa da tenere a bada», e il governo. **Ultima cosa detta da Syntia**: «Arrabbiati pure, ne hai diritto, ma girati, che a parlare con la tua schiena mi sembra di parlare da sola.» Akira non ha ancora risposto né si è girato. Zemi dorme nella cameretta (Dino Dino, il disegno con due braccia appeso con due puntine nuove). Sul pianerottolo, oltre la porta d'ingresso, si è seduto Tobias. All'una di notte è atteso Tights (non è sicuro che venga). Akira non ha ancora detto a Zemi dove Tobias compra il riso.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -20,18 +20,17 @@
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
 
 ## Fili aperti noti al giocatore
-- **Stasera**: confronto con Syntia (quando Zemi dorme) e, all'una di notte, Tights all'attico (se verrà). Tobias fuori dalla porta.
-- **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva (la tecnica della lampada) e gli ha mentito sulla vetrina («un sasso»). Lattuga, Cannella e Mirtillo hanno visto; Tobias è arrivato subito dopo e ha il comunicatore in mano.
-- Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro). Syntia dovrà rispondergli a casa, non davanti a Zemi.
-- Akira non ha risposto a Zemi su dove Tobias compra il riso. Syntia gli ha chiesto cosa gli ha detto Tobias.
-- Tobias ha scritto a qualcuno al comunicatore appena Akira ha finito di parlare.
-- I sensori della città hanno registrato il picco di ki all'Orto; Tobias non sa ancora cosa scrive nel rapporto di stasera. Stasera Tights è in riunione fino a notte.
+- **Stasera**: il confronto con Syntia è in corso (lui è di spalle sulla terrazza); all'una di notte, Tights all'attico (se verrà), con Tobias fuori dalla porta.
+- **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
+- **Tobias**: sorveglia Akira per ordine del governo; ha scritto a Tights dell'invito delle una, non garantisce che lei venga; non sa cosa scriverà nel rapporto di stasera (il picco è nei sensori). Tights stasera è in riunione (seduta straordinaria del Consiglio, iniziata alle 19, «in corso»).
+- **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
+- Akira non ha risposto a Zemi su dove Tobias compra il riso (banco 14, mercato coperto, tendone blu: lo sa solo lui).
+- Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro).
 - Babidi è sulla vecchia Terra (Akira non lo sa).
-- Tobias sorveglia Akira per ordine del governo (lo ha ammesso) e **stasera scrive un rapporto** su di lui. Gli è sfuggito che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
-- La vetrina di Nova City "rotta da sola" vicino a Zemi, e il ki piccolo percepito per mezzo secondo il g6.
+- Gli è sfuggito a Tobias che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
 - Tights sa che sono ad Arcorp e ha procurato l'alloggio. Akira non la vede da tre anni. Siede nel Consiglio: secondo Tobias è lei quella a cui chiedere.
-- Il Consiglio è in seduta straordinaria; pattuglie raddoppiate; voce che "i saiyan costruiscono una nave".
-- Le lezioni di Syntia: sei in tre settimane (g13 fatta, prossima g16); i nomi delle piante dell'Orto dell'Est. Alle 14 del g13 incontro col direttore dell'Orto; Cannella al comunicatore: «No, solo la signora— cioè, non lo so, non gliel'ho chiesto.»
+- Pattuglie raddoppiate ad Arcorp; voce che "i saiyan costruiscono una nave".
+- Le lezioni di Syntia: sei in tre settimane (g13 fatta, prossima g16); i nomi delle piante dell'Orto dell'Est.
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi

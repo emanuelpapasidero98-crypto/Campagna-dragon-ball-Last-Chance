@@ -106,12 +106,15 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 - (s2, riformulata) «Il riso me lo faccio da solo, perché quello della mensa del governatorato sa di colla, e ne avevo fatto troppo, come al solito, quindi me lo sono mangiato tutto, che buttarlo mi dà fastidio.»
 - (s2, riformulata) «Se te lo dico lo stesso, stasera mi tolgono l'incarico, e dalla prossima lezione di tua moglie in fondo all'aula ci mettono due Arc-G2 con le luci accese… secondo te alla preside piacerebbe di più?»
 - (s2, riformulata) «L'ultima volta che l'ho vista mi tirava i capelli finché non le davo la crosta del riso, quella che resta attaccata in fondo alla pentola, e strillava "osta! osta!" con le mani tese.»
+- (s3) «Era ora che uno dei due si muovesse, comunque.»
+- (s3) «Quanto a soli, io fuori dalla porta ci sto lo stesso, perché l'ordine è quello e non lo decidiamo né tu né io, ma dentro non entro.»
 
 **Diario dei rapporti**
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
 - s1 · g13: in borghese in ultima fila all'Aula Magna, con un contenitore di riso. Sorveglia Akira di persona per ordine del re. Si sono visti; non si sono ancora parlati.
 - s2 · g13: Akira lo fissa durante la lezione; lui regge lo sguardo e riprende a mangiare. Dopo, Akira sale da lui. Si offende per "bio-androide" (mangia, dorme). Ammette la sorveglianza. Il rapporto di stasera lo scrive "parola per parola", e gli rinfaccia il messaggio di morte del 774 partito dal suo drone mentre lui era a terra. Ricorda Zemi piccola alla Capsule (la crosta del riso). Gli sfugge che "starebbe a guardare da tutt'altra parte". Akira gli chiede risposte e **gli chiede scusa per Akyr**: le scuse le accetta, impacciato («Non me l'aspettavo, ecco»), ma non parla (Persuasione fallita). Lo rimanda a Tights. Gli dice dove compra il riso per Zemi.
 - s3 · g13 mezzogiorno: appena Akira se ne va («capisco… non più»), scrive a Tights al comunicatore (gli ha detto di chiedere a lei, non ha rivelato niente, Akira si è scusato). Alza tre dita verso Zemi quando lei grida per il riso. Segue la famiglia: pranza al bancone della tavola calda, aspetta su una panchina al cancello delle cupole. Alle 14:10 registra il picco di ki e corre dentro: arriva alle 14:12 al margine della piazza, passa in rassegna la scena, guarda Akira per ultimo. Ha il comunicatore in mano, spento. Non ha ancora deciso cosa scrivere nel rapporto. Davanti alla resa di Akira si scosta dal sentiero e non dice niente; fa fermare con un gesto i due Arc-G2 accorsi sopra la cupola. Akira gli chiede di non dispiegare pattuglie per la bambina: li rimanda all'incrocio (la vista di Zemi spaventata dai robot senza faccia lo ammorbidisce), non ne chiama altri finché decide lui sul posto, ma dice che il picco è nei sensori e che non sa ancora cosa scriverà stasera; avverte che Tights stasera è in riunione fino a notte. Accompagna Akira e Zemi al cancello e si ferma al pilastro, senza guardarli. A Zemi: «Se ne vanno, guarda.»
+- s3 · g13 sera: tornato dal Consiglio (dove ha presentato di persona il rapporto sull'Orto, scritto male e di fretta: tiro 1), si siede sul pianerottolo dell'attico. Ha il rimorso di aver scritto «nessun controllo osservato» senza il contesto della provocazione di Lattuga. Non lo ha detto ad Akira.
 - s3 · g13 14:40: Akira gli chiede di dire a Tights che stasera all'una l'aspetta all'attico, solo loro due, perché vuole dirle di persona dell'incidente e parlarle anche di altro. Tobias, in privato contento che uno dei due si muova («Era ora che uno dei due si muovesse, comunque»), accetta di scriverglielo subito, ma non garantisce che lei venga; ricorda che lui sta fuori dalla porta per ordine e non entra.
 
 ## Re Korinzo
@@ -307,6 +310,7 @@ Regola generale: zero metafore di default (massimo una per PNG a sessione), nien
 **Battute dette in gioco**
 - (s2) «Bene! Benissimo, grazie, bellissima domanda— cioè, no, bellissima proprio no, ma insomma.»
 - (s2, riformulata) «Altre domande? Sulle piante, eh, sulle piante!»
+- (s3) «Venga, signora, venga con me e il direttore, che una stanza con delle sedie la troviamo, e vedrà che per la seconda lezione si sistema tutto!»
 
 **Diario dei rapporti**
 - s1 · g13: stringe la mano sinistra ad Akira senza fare una piega. Gli segnala, nervosa, la presenza di "un signore del governatorato".

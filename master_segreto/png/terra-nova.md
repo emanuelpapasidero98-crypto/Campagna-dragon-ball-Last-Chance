@@ -50,3 +50,9 @@
 
 ## Androidi Arc-G2 (modello)
 HP 35 · Ki 30 · Attacco 20 · Difesa 15 · **BP 4.000.000** · Volo · Ki Blast (+5%) · Raffica (+10%) · Cannone Fotonico (Intermedia, +15%) · Barriera (+10% difesa) · Autodistruzione (a 5 HP o su comando, +80%). Senza volto, metallo Cotchin bianco-azzurro con linee luminose. Dopo il 774 ne restano circa **120** operativi.
+
+## Aggiornamenti di fine sessione 3 (g13 ~21:05)
+- **Tobias**: tornato dal Consiglio (ha presentato il rapporto di persona, scritto male: tiro 1), si è seduto sul pianerottolo dell'attico. Parametri invariati (Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 5 · Lealtà 6). **Sa ora**: il ki è di Zemi; Syntia ha calmato la bambina con una tecnica già nota (non l'ha sentita); Akira vuole parlare a Tights di persona; il Consiglio ha deciso il «capro espiatorio». **Non sa**: che Syntia sapeva del ki. **Prossimo passo**: restare fuori dalla porta all'una; se Akira chiede, dirà del rapporto sbagliato.
+- **Tights**: ha ricevuto il messaggio di Tobias (invito all'una, da soli). In seduta contro la maggioranza (voto contrario). **Verrà all'una** (decisione presa). Porta la notifica del Consiglio da dare di persona. **Prossimo passo**: dire ad Akira cosa ha deciso il Consiglio; non scusarsi per prima (orgoglio); valutare cosa fare del braccio Mk II.
+- **Re Korinzo**: ha firmato la raccomandazione vincolante su Akira e la valutazione del potenziale di Zemi (3 giorni), con dolore. Rimanda cannoni e scudo.
+- **Ganascia**: ha ottenuto che il Consiglio guardi Akira e la bambina. Sa dell'Orto dalla lettura del rapporto di Tobias.

@@ -93,5 +93,8 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s1 · g11] Tights rifornisce le case solo di caffè (dodici lattine nel frigo dell'attico). Syntia: «Non ha la minima idea di cosa mangiano le persone normali.»
 - [s2 · g13] Akira chiama Zemi anche **"scimmietta"** (lei si offende).
 - [s2 · g13] Lezioni di Syntia: la prima (g13) dura poco più di un'ora, con la registrazione notturna dei Dindon della radura di casa e una radice di patatrac che schiocca (*PAK!*). **Seconda lezione: g16, stessa ora, stessa aula.** Cannella ha promesso un microfono nuovo. Dopo la lezione una decina di persone si fa firmare l'*Atlante*.
+- [s3 · g13] Dopo il picco di ki all'Orto, il governatorato ha comunicato ai notiziari: «un'anomalia di pressione ha incrinato la volta della cupola grande dell'Orto dell'Est; nessun ferito; area chiusa al pubblico per le verifiche».
+- [s3 · g13] Dalle 21 Tobias si siede sul pianerottolo dell'attico, contro la parete, e fa la guardia a Akira (la giacca grigia gli fruscia sull'intonaco).
+- [s3 · g13] Syntia ha fatto il caffè con le lattine di Tights e lo beve sulla terrazza con Akira al tavolino. Quando è agitata gira la tazza di un quarto alla volta (già stabilito).
 - [s2 · g13] Alle 14 del g13 Cannella porta Syntia all'Orto Botanico dell'Est a conoscere il direttore. Syntia vuole che Akira venga.
 

@@ -49,11 +49,11 @@
 - **Senza braccio e spalla destri**: persi nella base di Gero (769).
 - **Ritiro**: da 3 anni non combatte e non si allena. Il potenziale non si è assopito.
 - **Sensi di colpa e incubi**: la morte di Tsumuri e degli allievi, e le uccisioni commesse da Akyr.
-- **Reputazione**: su Terra Nova è temuto e guardato con sospetto. Ad Arcorp (g11-13) la gente si scansa, i posti accanto a lui restano vuoti.
+- **Reputazione**: su Terra Nova è temuto e guardato con sospetto. Ad Arcorp (g11-13) la gente si scansa, i posti accanto a lui restano vuoti. All'Orto dell'Est (g13) i giardinieri si scostano in silenzio e la caposquadra zia Lattuga lo accusa per la morte del marito nel 774.
 - **Dove vive ora**: dal g11, con Syntia e Zemi, in un attico della Capsule nella zona est di Arcorp City, per le tre settimane delle lezioni di Syntia. La casa nella foresta è chiusa.
 
 ## Affetti
-- **Syntia**, moglie · **Zemi**, figlia, 6 anni
+- **Syntia**, moglie (dal g13 sera: ha ammesso di avergli mentito sul ki di Zemi) · **Zemi**, figlia, 6 anni (ki latente, esploso il g13 all'Orto)
 - **Tights Brief**, amica (rapporti raffreddati, non si sentono più) · **Bulma Brief**, amica (nel passato / dimensione alternativa)
 - **Moori** · **Re Kaioh** · **Tsumuri** (deceduto, 774)
 - **Allievi** (deceduti, ora nell'Aldilà): Lace, Mellor, Zestra, Escar

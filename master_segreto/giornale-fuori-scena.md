@@ -185,3 +185,12 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 ### G13 sera · Distese del Nord / Città dell'Ovest
 - **Babidi → Rapan**: al calare del buio, contatto telepatico (tiro 5): voce nella testa, promesse di potere e vendetta. Rapan si spaventa e non dice di no; il giorno dopo lo racconta a Cipoll, che lo riferisce a Tyros. **Tyros** vuole incontrare «la voce». **Zarcon**, nella torre, decide di seguire Ignis e Okura a nord all'alba del g14, di nascosto.
 - **Come Akira può scoprirlo**: per ora nessun modo.
+
+---
+## Programma per la sessione 4 (cosa accade se Akira non cambia il corso)
+- **G13 ~00:40**: finisce la seduta del Consiglio. **01:00**: Tights arriva all'attico (decisione già presa) con la notifica del Consiglio; Tobias fuori dalla porta; due Arc-G2 al portone da quell'ora.
+- **Notte g13→g14**: tiro segreto Incubi di Akira (stress forte; con 1-2 si sveglia con l'aura accesa e la sorveglianza lo registra).
+- **Re Kaioh**: contatta Akira da solo, dalla notte del g13 in poi (Shin diffida, il Kaioshin cerca Akira). Mai davanti alla famiglia.
+- **Alba g14**: Ignis e Okura partono a nord per la «mano grigia»; Zarcon li segue di nascosto (Crepa 4/6). Tyros vuole incontrare «la voce» (Fronda 5/6); se Babidi lo contatta, si allea. Babidi tenta di marchiare Rapan (Primo contatto 3/4).
+- **G14-15**: la voce sull'Orto raggiunge Ganascia. La stampa può parlarne.
+- **Entro g16**: valutazione del potenziale di Zemi al laboratorio della Capsule; seconda lezione di Syntia (g16, Aula Magna, microfono nuovo).
