@@ -36,6 +36,10 @@
 - [s4 · g14 ~01:10] Alle una e passa la cupola grande dell'Orto è ancora accesa dall'interno; la piattaforma dei tecnici è ferma a metà della volta, con le torce spente.
 - [s4] Di Tobias Akira non percepisce il ki (non l'ha mai percepito, nemmeno nel 774): lo sente solo dai rumori.
 
+- [s4 · g14 ~01:13] Il tavolino di ferro della terrazza, spostato dal pugno di Akira, ha lasciato una riga chiara sulle piastrelle.
+- [s4 · g14 ~01:15] Sotto il cappotto Tights ha il vestito elegante della seduta, stropicciato, con una macchia di caffè secca sul polsino sinistro. Il cappotto resta sullo schienale della sedia; la cartella del governo sotto la sedia, col sigillo verso il pavimento.
+- [s4 · g14 ~01:15] Tights spegne lo schermo dei notiziari della cucina (mostrava ancora «SEDUTA STRAORDINARIA DEL CONSIGLIO — CONCLUSA»). Beve il caffè delle lattine freddo, in piedi, aperto con un dito.
+
 ### Battute memorabili dei PNG
 - Syntia: «Allora lo sai da oggi pomeriggio, ci hai cenato sopra, mi hai lasciato pure fare il caffè, e me lo dici adesso, in coda a una predica su chi tiene i segreti in questa famiglia, e nemmeno per chiedermi cosa ne penso, solo per avvisarmi che arriva.»
 - Syntia: «Quindi che volevi vederla da solo lo vengo a sapere da lei, a messaggio… e cos'è che dovevi dirle, Akira, che io non dovevo sentire?»
@@ -54,6 +58,10 @@
 - Syntia (a Tights): «Alle lezioni ci sono io. A tutte.» — Tights: «Ovvio.»
 - Tights: «Questo, domattina, glielo chiedete voi.» — Syntia: «Glielo chiedo io.»
 - Tights: «Fra tre giorni, in laboratorio, la misuro io.»
+- Syntia (davanti alla mano tesa di Akira): «Vado a vedere se dorme.»
+- Tights: «Quella cosa sul re non la ripeti. Né qui, né fuori di qui.» · «L'ultima volta che ti ha sentito minacciare qualcuno, eri in televisione.»
+- Tights (a Tobias, attraverso la porta): «Siediti. Mi fai venire il mal di testa.»
+- Tights: «In Consiglio ci siedo anch'io, Akira.»
 
 ### Momenti chiave nei rapporti
 - g13 ~21:10: Akira si volta, severo, e a bassa voce rimprovera Syntia (doveva dirglielo, Zemi potrebbe far male a qualcuno, è spaventata da sé stessa, ora il governo lo sa ed è in allerta «inutilmente»); le dice di aver fatto chiamare Tights per l'una, che spiegherà la situazione e capirà il da farsi; rivendica il diritto di sapere, non vuole che Zemi sia etichettata come «la figlia di un mostro», «così non sei di aiuto». Si siede al tavolo.
@@ -65,5 +73,7 @@
 - g14 ~01:08: Akira dice a Syntia che Tights ha votato contro; a Tights: Zemi non entra nel laboratorio; perché misurarla, arma o minaccia?; dica al Consiglio che è stato lui; la userebbero come arma; arresti lui e lasci in pace Syntia e Zemi; ordini a Tobias di allenare Zemi senza fare rapporto al governo; non le ha mai chiesto nulla per aver salvato l'umanità. **In sospeso: Persuasione CD 10, +2** (far allenare Zemi da Tobias all'insaputa del governo). La prima versione di questo esito (grafico della firma, provocazione di Lattuga, Tobias chiamato dentro) è stata scartata dopo l'aggiornamento delle regole e non vale.
 - (Versione riscritta su richiesta del giocatore dopo /aggiorna-regole: la prima versione di questa risposta è stata scartata e non vale.)
 - g14 ~01:10: **Persuasione riuscita** (d10 9 +2 = 11, CD 10). Tights rifiuta di arrestare Akira (inutile: Zemi la prenderebbero gli Arc-G2) e dice per la prima volta stanotte il suo nome. Rivela che il re ha chiesto quanto diventerà forte Zemi. Accetta che Tobias alleni Zemi, rapporti solo a lei e niente al re, e lo scrive subito a Tobias; non risponde al conto che Akira le ha messo davanti (si toglie le mani dal tavolo). Tobias risponde chiedendo se Zemi lo vuole. Syntia, fredda con Akira, si rivolge solo a Tights: sarà a tutte le lezioni e a Zemi lo chiede lei. Tights tiene il punto sul laboratorio: fra tre giorni la misura lei. Aspetta la risposta di Akira.
+
+- g14 ~01:13: Akira dice a Tights che Zemi non è un'arma e minaccia il re («Korinzo saprà cosa vuol dire avere paura»): Tights guarda verso la porta d'ingresso (Tobias), Syntia alza la testa di scatto. Poi Akira cambia voce: chiede a Tights come sta, le dà ragione sulle sue macchine (senza di loro, da solo, non avrebbe battuto i saiyan), si fida solo di lei nel Consiglio, «sarai sempre parte della famiglia», e tende la mano sorridendo a Syntia. Syntia non la prende: «Vado a vedere se dorme», e va nella cameretta. Tights, rimasta sola con lui, lo avverte sulla minaccia (il re lo ha già sentito minacciare in televisione nel 774); poi si toglie il cappotto, fa sedere Tobias, spegne il notiziario e porta due lattine di caffè (quella di Akira dalla parte della sua unica mano). Al «come stai?» non risponde a voce; alla fiducia risponde «In Consiglio ci siedo anch'io, Akira». Prima volta da soli in tre anni.
 
 ## Errori segnalati dal giocatore
