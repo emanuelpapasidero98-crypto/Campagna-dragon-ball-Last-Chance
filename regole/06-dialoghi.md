@@ -22,6 +22,7 @@ Guida **vincolante**, complementare a `regole/05-prosa-shonen.md`. Obiettivo del
     - **Segnale d'allarme concreto**: una battuta che comincia con la parola chiave di Akira seguita da "sì" ("Fantastica, sì…", "L'ho visto, sì.", "Il pranzo sì, ci sto.") va riscritta. È ammessa **al massimo una volta per messaggio**.
     - **Anche su più battute vale la stessa regola**: se Akira ha detto quattro cose (complimento, Tobias, pranzo, Orto), il PNG non le smaltisce una dopo l'altra nell'ordine in cui sono arrivate. Ne raccoglie una o due, magari partendo dall'ultima o da quella che gli brucia, e il resto lo lascia cadere o lo tira fuori più tardi.
     - Un complimento si **devia** ("Ho detto 'rami' due volte di fila!") invece di confermarlo.
+    - **Niente eco non vuol dire ignorare.** In un litigio o in un confronto il PNG risponde **nel merito** alle accuse che lo toccano, spesso a più di una: le contesta, ne ribalta qualcuna, ne concede solo se è vero, e rilancia con le sue. Si evita la conferma ordinata punto per punto, non la risposta (Regola 10 e §3-quater).
 15. **Il PNG non spiega le proprie battute.** Dopo aver detto una cosa, non aggiunge la spiegazione di quello che intendeva ("…Quindi scusa se stavolta preferisco scriverlo io", "Non te lo sto rinfacciando, te lo sto solo ricordando" usati in serie). Se la battuta è chiara, si ferma lì.
 16. **Il narratore non spiega i dialoghi.** Niente commenti che ripetono in chiaro ciò che la battuta o il gesto hanno già mostrato: "non c'era niente da scherzare, e glielo si leggeva in faccia", "e stavolta non per sbaglio", "la dolcezza di un attimo prima se n'era già andata", "e fu proprio da lì che cominciò". È la glossa del narratore: annuncia o riassume l'emozione invece di lasciarla al lettore. Si taglia. Altre forme vietate: "Non era una domanda.", "si capiva che non aveva nessuna intenzione di…", "in un modo che con la smorfia non c'entrava niente", "come se di colpo fosse diventato…" usato per spiegare un sentimento.
     - **Niente narratore che fa da "grilletto" alle parole di Akira**: "Al complimento fece una smorfia…", "Alla parola Tobias il rossore se ne andò…", "Alla parola bio-androide…". Usato una volta può andare; ripetuto diventa una struttura meccanica che smonta le battute del giocatore pezzo per pezzo.
@@ -143,6 +144,72 @@ Sulla terrazza, la notte del g13, Akira chiede a Syntia, di spalle, da quanto sa
 
 ---
 
+## 3-quater. Analisi della scena sulla terrazza (g13 sera): la rabbia ignorata e l'esito troppo corto
+
+Sulla terrazza Akira si volta e si arrabbia, senza alzare la voce: rinfaccia a Syntia di aver mentito e di aver fatto mentire Zemi invece di affrontare le cose insieme, le dice che adesso il governo lo sa, respinge l'idea di guardare la figlia come «una cosa da tenere a bada», parla del potenziale enorme di Zemi e del rischio che faccia del male a qualcuno, di come avrebbe potuto aiutarla a controllarsi, di chi là fuori aspetta un suo passo falso; poi dice che all'una verrà Tights, che le parlerà da solo e che Syntia, «se vuole», può partecipare. Si siede e si copre la faccia con la mano.
+
+**Originale** (circa 1300 caratteri):
+
+> Quando si voltò, Syntia era dove l'aveva lasciata, con le due mani attorno alla tazza e gli occhi nei suoi, e non li spostò per tutto il tempo in cui lui parlò: né quando la voce gli si indurì sul nome di Zemi, né quando il braccio sinistro si alzò verso le luci di Arcorp, perché lei non guardò dove puntava il dito. Una sola volta gli occhi le scattarono verso l'interno dell'attico, dove c'era la porta d'ingresso, e tornarono subito su di lui.
+>
+> Non lo interruppe. Aspettò che si sedesse, che l'unica mano gli coprisse la faccia e che la tazza restasse intatta sul tavolino, e anche dopo lasciò passare qualche secondo, abbastanza perché si sentisse il ronzio dell'insegna del negozio, giù al pianterreno.
+>
+> «Oggi in piazza Zemi ti ha teso le braccia, Akira» disse infine, piano, con la voce che usava accanto alla porta della cameretta, «e dopo che l'hai guardata come l'hai guardata le ha ritirate.»
+>
+> La sedia di lei scricchiolò, per la prima volta da quando era cominciato tutto.
+>
+> «All'una ci sono anch'io» disse, «e la prima cosa che chiedo a Tights è cosa vogliono fare di Zemi.»
+
+**Cosa non va**
+- **La rabbia di Akira è ignorata.** Syntia resta immobile, lascia parlare e poi pianta una sola frase tagliente: è il tic del PNG che risponde a uno sfogo con il silenzio e la battuta a effetto (Regola 10). Delle accuse non ne raccoglie nessuna nel merito.
+- **Il PNG non lotta per le sue convinzioni.** Syntia ha argomenti forti (la paura che il mondo dei combattimenti si prenda Zemi, la causa vera delle esplosioni, gli allievi morti) e non ne usa nessuno.
+- **Asseconda Akira**: «All'una ci sono anch'io» accetta il suo invito così com'è, senza notare che anche lui le ha tenuto nascosta una cosa (Tights) per ore, proprio mentre la accusava di mentire.
+- **Esito troppo corto e povero**: niente stato d'animo mostrato mentre lui parla, nessun sviluppo, nessun dettaglio che aggiunga qualcosa. Sono 1300 caratteri contro un minimo di 5000.
+
+**Riscrittura** (5100 caratteri; è un esempio: i dettagli nuovi non sono fatti stabiliti)
+
+> Quando Akira si voltò, Syntia aveva ancora le dita intrecciate attorno alla tazza e il mento alto, pronta a prendersi tutto quello che sarebbe arrivato, e per le prime parole riuscì a reggergli lo sguardo senza battere ciglio. Fu su «costringere nostra figlia a mentire» che qualcosa cedette: la bocca le si strinse in una linea sottile e le nocche le diventarono bianche contro la ceramica. Su «una cosa da tenere a bada» posò la tazza con un colpo secco, e il caffè ormai freddo scavalcò il bordo e le macchiò le dita senza che lei ci badasse. Ma fu «potenziale enorme» a cambiarle la faccia: il colore le scese dalle guance tutto in una volta e gli occhi le corsero verso la porta della cameretta, di scatto, prima di tornare su di lui. Da là dietro, attraverso la parete, ad Akira arrivava il ki di Zemi, piccolo e tiepido, che saliva e scendeva al ritmo del suo respiro: da quando lo aveva riconosciuto, all'Orto, non riusciva più a smettere di sentirlo.
+>
+> Quando il braccio di Akira si alzò verso le luci di Arcorp, lei non seguì il dito. Lo lasciò finire, lo lasciò sedere e coprirsi la faccia con la mano, e poi fu lei ad alzarsi, con la sedia che strisciò sulle piastrelle della terrazza in un rumore lungo e sgraziato. Andò fino alla ringhiera e ci si appoggiò con tutte e due le mani, di fronte alle cupole dell'Orto illuminate dall'interno, dove il pannello incrinato della cupola grande spiccava come un graffio bianco. Quando si girò aveva gli occhi rossi, ma la voce che le uscì era quella bassa, calma e precisa che Akira le aveva sentito poche volte in dodici anni, e mai per una cosa da poco.
+>
+> «Non l'ho costretta a mentire, le ho chiesto di tenerlo per noi due, perché una bambina di sei anni che fa scoppiare le lampade deve avere almeno una persona con cui non vergognarsi.» Si sfregò col pollice sinistro la mezzaluna di puntini bianchi che aveva alla base del destro, avanti e indietro. «…e "noi due" voleva dire anche senza di te, e questo è sbagliato, lo so da un anno che è sbagliato, quindi non c'è bisogno che me lo spieghi tu.»
+>
+> Non gli diede il tempo di rispondere.
+>
+> «Ma il governo lo sa da oggi alle due e dieci, Akira, e non perché sono stata zitta io: lo sa perché una donna, davanti a un muro di nomi, ha detto a nostra figlia che un giorno le racconteranno cos'ha fatto suo padre.» Indicò il pannello incrinato alle sue spalle senza voltarsi. «La lampada della scuola, la vetrina del signor coso, la piazza di oggi… vuoi sapere cosa c'era tutte e tre le volte? C'era qualcuno che parlava male di te, e lei che sentiva ogni parola.»
+>
+> Tornò al tavolino, ma non si sedette. Rimase in piedi dall'altra parte, le mani piantate sul piano accanto alla tazza rovesciata a metà, e si chinò verso di lui quel tanto che bastava perché le parole non arrivassero fino alla cameretta.
+>
+> «E non me lo dire con quella voce, "potenziale enorme", che è la stessa con cui stasera ne staranno parlando al Consiglio.» Le tremò il mento, una volta, e lei lo fermò stringendo i denti. «"Aiutarla a controllarlo", dici, e come? Portandola nel bosco ogni mattina a sparare contro gli alberi finché non le viene bene? Io quei quattro ragazzi li conoscevo, Akira, li conoscevo per nome, e adesso li chiami nel sonno—»
+>
+> Oltre la parete, il ki di Zemi ebbe un sussulto, una fiammata minuscola che si spense subito, e quasi insieme, dal pianerottolo oltre la porta d'ingresso, arrivò un colpo di tosse breve e secco, e subito dopo il fruscio di una giacca che strisciava contro l'intonaco.
+>
+> Syntia si zittì di colpo. Guardò la porta, e Akira le vide serrare la mascella su qualcosa che restò dentro; quando riprese, la voce era scesa di un tono, ma lei non era tornata indietro di un passo.
+>
+> «Ecco, appunto» disse, con un'occhiata alla porta. «Lo so che là fuori aspettano solo un tuo passo falso, lo so meglio di te, visto che c'è un uomo seduto sul nostro pianerottolo a contare quante volte alzo la voce, ed è proprio per questo che non volevo che cominciassero ad aspettare anche quelli di lei.»
+>
+> Si guardò le dita macchiate di caffè e se le asciugò sui pantaloni, con due passate brusche.
+>
+> «La colpa che mi brucia davvero non è il sasso, è la piazza di oggi: ci sei arrivato senza sapere niente, e quando lei ti ha teso le braccia le hai risposto "andiamo a casa" con una faccia che non ti aveva ancora visto… se te l'avessi detto un anno fa, quella faccia forse non gliel'avresti fatta.»
+>
+> Poi aggrottò la fronte e si raddrizzò, staccando le mani dal tavolo, e per un lungo momento lo fissò in silenzio, finché non tornò indietro a una cosa che lui aveva detto quasi di passaggio.
+>
+> «Tights all'una, qui?» Fece una risata breve, senza allegria. «E da quando lo sai, tu? Da oggi pomeriggio, immagino, e me lo dici adesso, buttato lì in fondo con un "le parlerò da solo" e un "se vuoi", dopo tutto quello che mi hai appena detto sul mentire.»
+>
+> Si rimise a sedere, lentamente, e spinse la propria tazza fino al bordo del tavolino, accanto alla sua, che lui non aveva toccato.
+>
+> «All'una ci sono, Akira, e non perché me lo concedi tu: qualunque cosa Tights abbia da dire su Zemi, la dice davanti a sua madre.»
+
+**Perché funziona**
+- **Stato d'animo mostrato mentre lui parla**: tre reazioni precise sui tre passaggi che la colpiscono (le nocche, la tazza, il colore che se ne va), poi il gesto di alzarsi e andare alla ringhiera.
+- **Risposta nel merito, in più tempi**: concede ciò che è vero («questo è sbagliato, lo so da un anno»), contesta il resto (non l'ha costretta, la causa delle esplosioni sono gli altri), contrattacca sul punto che le fa più paura (allenare Zemi, gli allievi morti) e rinfaccia ad Akira il suo segreto su Tights.
+- **Lotta per le sue convinzioni e non lo asseconda**: all'una ci sarà, ma per diritto suo, non perché lui glielo concede.
+- **Un fatto nuovo arriva attraverso il conflitto**: le tre esplosioni avevano la stessa causa. Akira non lo sapeva.
+- **Coralità**: Tobias sul pianerottolo si fa sentire con un colpo di tosse, e Syntia reagisce a lui. Il ki di Zemi che sussulta oltre la parete lo percepisce solo Akira: è un'informazione che Syntia non ha.
+- **Chiusura con peso**: l'ultima battuta finisce su «sua madre» e lascia ad Akira una situazione aperta.
+
+---
+
 ## 4. Esempi di riferimento (illustrativi, non sono eventi della campagna)
 
 ### Esempio A — Sottotesto in famiglia
@@ -190,5 +257,6 @@ Sulla terrazza, la notte del g13, Akira chiede a Syntia, di spalle, da quanto sa
 14. Il controllo `strumenti/controlla_dialoghi.py` dà zero errori?
 15. **Cartellino**: il mestiere, la passione o il tic del PNG compaiono più di una volta nella scena? In un momento emotivo il PNG parla della persona e di ciò che è successo, o del suo lavoro? Prova del cambio di mestiere (§1, principio 20). Il controllo automatico questo non lo vede: va verificato a occhio.
 16. **Peso**: nei momenti forti l'ultima frase della tirata dice ciò che il PNG vuole, con la posta in fondo? C'è una coda che sgonfia (battutina, commento su di sé, spiegazione) o una frase da terapeuta ("ne hai diritto")? (§1, principio 21)
-17. **Tempi**: timori, pensieri e ipotesi al passato usano il condizionale passato e il congiuntivo (§1, principio 22)?
-18. Prova ad alta voce: lo direbbe davvero così?
+17. **Master, non assistente**: se Akira ha accusato o si è arrabbiato, il PNG ha risposto nel merito e difeso le sue convinzioni? Ha accettato qualcosa solo per far piacere al giocatore? (Regola 10, §3-quater)
+18. **Tempi**: timori, pensieri e ipotesi al passato usano il condizionale passato e il congiuntivo (§1, principio 22)?
+19. Prova ad alta voce: lo direbbe davvero così?

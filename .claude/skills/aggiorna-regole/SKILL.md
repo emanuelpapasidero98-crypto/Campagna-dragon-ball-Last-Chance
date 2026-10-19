@@ -37,14 +37,14 @@ Le regole caricate a inizio sessione sono la versione **vecchia**: vanno sostitu
 - `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`
 - `regole/05-prosa-shonen.md`, `regole/06-dialoghi.md`, `regole/07-dialoghi-shonen.md`, e ogni altro file nuovo comparso in `regole/`
 - `.claude/promemoria-master.md`
-- `master_segreto/png/voci-e-diario.md`
+- `master_segreto/png/voci-e-diario.md` e `master_segreto/png/rapporti-tra-png.md`, se esiste
 - `Comandi chat.md`
 
 Se esistono strumenti nuovi in `strumenti/` (come `controlla_dialoghi.py`), da ora in poi vanno usati come indicano le regole.
 
 ## 4. Verifica
 - Controlla che `git status` sia pulito e che il merge sia riuscito.
-- Prova lo strumento di controllo, se esiste: `python3 strumenti/controlla_dialoghi.py <<'EOF'` con una riga qualsiasi, poi `EOF`.
+- Prova lo strumento di controllo, se esiste: `python3 strumenti/controlla_dialoghi.py --solo-dialoghi <<'EOF'` con una riga qualsiasi, poi `EOF`.
 
 ## 5. Rispondi al giocatore (fuori gioco, breve)
 - Una riga di conferma: `[Regole aggiornate da main · partita salvata · scena ferma dove era]`.

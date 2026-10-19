@@ -10,13 +10,23 @@ vietati da regole/06-dialoghi.md e regole/07-dialoghi-shonen.md:
 - assoluti in bocca ai PNG;
 - parole ripetute tra battute diverse (possibili concetti ripetuti);
 - linguaggio da terapeuta ("ne hai diritto", "è comprensibile"...);
-- possibili errori di concordanza dei tempi (timori e pensieri al passato).
+- possibili errori di concordanza dei tempi (timori e pensieri al passato);
+- esito troppo corto (minimo 5000 caratteri, 3500 con --breve).
 
 Uso:
   python3 strumenti/controlla_dialoghi.py bozza.txt
   python3 strumenti/controlla_dialoghi.py <<'EOF'
   ...testo...
   EOF
+
+Opzioni:
+  --breve          esito che non regge di più (un round di combattimento, uno
+                   scambio rapido): minimo 3500 caratteri invece di 5000
+  --solo-dialoghi  nessun controllo di lunghezza: per battute singole, per i
+                   messaggi che chiamano un tiro e per le risposte fuori gioco
+
+La lunghezza si conta spazi compresi, senza i blocchi di calcolo tra ``` e
+senza le righe fuori gioco tra parentesi quadre.
 
 Esce con codice 1 se trova ERRORI. Gli AVVISI vanno valutati a mano.
 """
@@ -173,9 +183,30 @@ def controlla(testo):
     return errori, avvisi
 
 
+MINIMO_ESITO = 5000
+MINIMO_BREVE = 3500
+
+
+def lunghezza_esito(testo):
+    """Caratteri della narrazione, spazi compresi, senza calcoli tra ``` e righe fuori gioco."""
+    senza_calcoli = re.sub(r"```.*?```", "", testo, flags=re.DOTALL)
+    righe = [r for r in senza_calcoli.split("\n") if not r.strip().startswith("[")]
+    return len("\n".join(righe).strip())
+
+
 def main():
-    testo = open(sys.argv[1], encoding="utf-8").read() if len(sys.argv) > 1 else sys.stdin.read()
+    args = sys.argv[1:]
+    breve = "--breve" in args
+    solo_dialoghi = "--solo-dialoghi" in args
+    file = [a for a in args if not a.startswith("--")]
+    testo = open(file[0], encoding="utf-8").read() if file else sys.stdin.read()
     errori, avvisi = controlla(testo)
+    if not solo_dialoghi:
+        minimo = MINIMO_BREVE if breve else MINIMO_ESITO
+        n_car = lunghezza_esito(testo)
+        print(f"Lunghezza dell'esito: {n_car} caratteri (minimo {minimo})")
+        if n_car < minimo:
+            errori.append(f"ESITO TROPPO CORTO: {n_car} caratteri su {minimo} → approfondisci con sostanza (il PNG risponde nel merito, stati d'animo mostrati, altri PNG presenti, dettagli coerenti con la scena), mai con riempitivi né con azioni di Akira (regole/04-metodo-mondo-vivo.md §9)")
     n = len(battute(testo))
     print(f"Battute analizzate: {n}")
     for e in errori:

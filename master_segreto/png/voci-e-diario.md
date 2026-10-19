@@ -8,7 +8,7 @@ Per ogni PNG:
 - **Battute dette in gioco**: le migliori battute pronunciate davvero, da aggiungere a ogni `/fine-sessione`.
 - **Diario dei rapporti con Akira**: momenti chiave, promesse, litigi, rancori, debiti, cose dette che pesano. Data in gioco e sessione.
 
-Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute. **Niente telegrammi**: le frasi si legano con virgole e congiunzioni, le battute brevi sono solo quelle cariche (!, ?, …, —), vedi `regole/07-dialoghi-shonen.md`. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
+Regola generale: zero metafore di default (massimo una per PNG a sessione), niente assoluti, punteggiatura viva, gesti tra le battute. **Niente telegrammi**: le frasi si legano con virgole e congiunzioni, le battute brevi sono solo quelle cariche (!, ?, …, —), vedi `regole/07-dialoghi-shonen.md`. Prima di aggiungere qui una battuta detta in gioco, passala a `strumenti/controlla_dialoghi.py --solo-dialoghi` e salvala solo se non ha errori (altrimenti riformulala, segnandola come *riformulata*).
 
 **La voce è il modo, non l'argomento.** Gli esempi qui sotto mostrano ritmo, registro e atteggiamento. Se un esempio parla del mestiere o della passione del PNG (il riso di Tobias, il cane di Ignis, la leva di Korinzo), è **un** dettaglio, non il filo di ogni battuta: in gioco compare al massimo una volta per scena, e mai al posto delle cose che contano in un momento emotivo (`regole/06-dialoghi.md`, principio 20).
 

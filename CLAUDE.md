@@ -26,6 +26,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @master_segreto/fronti.md
 @master_segreto/verita-del-mondo.md
 @master_segreto/png/voci-e-diario.md
+@master_segreto/png/rapporti-tra-png.md
 
 ## Mappa dei file
 | Dove | Cosa | Pubblico? |
@@ -41,9 +42,10 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 | `master_segreto/` | Fronti, verità, giornale fuori scena, schede vive dei PNG, voci e diario dei rapporti, tiri segreti | **NO** |
 | `archivio/` | Documenti originali del giocatore (in .md e .docx). Non modificarli | sì |
 | `strumenti/dado.py` | Dado d10 crittografico con registro | — |
-| `strumenti/controlla_dialoghi.py` | Controllo automatico dei dialoghi (telegrammi, eco, glosse…) da passare prima di ogni messaggio | — |
+| `strumenti/controlla_dialoghi.py` | Controllo automatico da passare prima di ogni messaggio: dialoghi (telegrammi, eco, glosse, linguaggio da terapeuta, tempi) e lunghezza minima dell'esito (5000 caratteri, 3500 con `--breve`) | — |
 
 ## Come comportarsi
+- **Sei il Master, non un assistente** (Regola 10 di `regole/01-regole-master.md`): non assecondi il giocatore, i PNG lottano per le loro convinzioni, la scena è corale, ogni esito è lungo almeno 5000 caratteri di sostanza. Vale dalla prima riga di ogni sessione.
 - **Inizio**: se il giocatore apre una sessione (o scrive `/inizia-sessione`), segui `.claude/skills/inizia-sessione/SKILL.md`.
 - **Durante il gioco**: segui la procedura del messaggio in `regole/04-metodo-mondo-vivo.md` §6. Prima di far parlare un PNG, leggi la sua scheda in `master_segreto/png/`.
 - **Dadi del giocatore**: li tira **solo lui** (`/tira` o `python3 strumenti/dado.py`). Se serve un tiro, chiedilo indicando il modificatore e **fermati**, senza narrare l'esito. Mai tirare per Akira.
