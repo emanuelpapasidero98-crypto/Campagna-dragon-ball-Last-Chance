@@ -222,3 +222,20 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Re Kaioh**: osserva Akira, solo sulla terrazza per ore, ma lo vede in mezzo a una crisi di famiglia con l'incontro con Tights in arrivo, e decide di aspettare un momento più tranquillo (coerente con il suo carattere). F3 resta 5/6.
 - **F5 Incubi**: Akira non ha dormito; nessun tiro per ora.
 - **Babidi, saiyan**: nessun avanzamento in queste ore (programma: all'alba del g14).
+
+### G14 01:05-01:16 · attico (sessione 4, in scena)
+- **Tights**: fuori dalla vista di Akira non fa niente, ma decide: farà la valutazione di Zemi da sola, senza tecnici, e il rapporto al Consiglio lo scriverà lei. Ha un problema pratico: i sensori della città registrano i picchi di ki, quindi le lezioni di Tobias vanno fatte in un posto schermato dentro il quartiere est (le viene in mente il seminterrato tecnico del palazzo della Capsule dove sta l'attico: da verificare domani). Pensa al Mk II nel cassetto e non lo nomina.
+- **Tobias**: non ha sentito la minaccia di Akira al re (voci basse, porta chiusa). Seduto sul pianerottolo; ha scritto a Tights «e zemi, lo vuole?» e non ha avuto risposta.
+- **Chi lo sa**: Tights, Syntia (la minaccia al re); Tights, Syntia, Akira, Tobias (le lezioni).
+- **Come Akira può scoprirlo**: dalle domande che farà a Tights; dal posto che Tights sceglierà per le lezioni.
+
+---
+## Programma per la sessione 5 (cosa accade se Akira non cambia il corso)
+- **Notte g14**: quando Akira va a dormire, tiro segreto Incubi (stress forte: la minaccia al re, Syntia che non gli ha preso la mano). Con 1-2 si sveglia con l'aura accesa e i due Arc-G2 al portone lo registrano (F4 Sorveglianza).
+- **Re Kaioh**: aspetta un momento in cui Akira sia solo e tranquillo. Akira con Tights sulla terrazza non è solo; se resta solo dopo, il contatto può arrivare.
+- **Alba g14**: Ignis e Okura partono a nord per la «mano grigia»; Zarcon li segue di nascosto (Crepa 4/6). Babidi tenta di marchiare Rapan (Primo contatto 3/4). Tyros vuole incontrare «la voce» (Fronda 5/6): se Babidi lo contatta, si allea.
+- **Mattina g14**: Syntia chiede a Zemi delle lezioni con Tobias (da sola). Tobias riscrive il rapporto per il re. Cannella cerca Syntia per la lezione del g16 e per i giornalisti. Ganascia torna ai notiziari o manda qualcuno a Arcorp (tiro segreto se serve).
+- **G14-15**: Tights cerca un posto schermato per le lezioni dentro il quartiere est e organizza la valutazione.
+- **G16**: seconda lezione di Syntia all'Aula Magna (microfono nuovo). Akira può andarci? L'Aula Magna non è nel quartiere est? *(da decidere con coerenza: l'università è vicina all'Orto, nella zona est; se è dentro il quartiere est, sì)*.
+- **Entro il g17**: valutazione di Zemi al laboratorio della Capsule (Akira ha detto che lì dentro non entra).
+

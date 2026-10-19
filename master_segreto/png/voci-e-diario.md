@@ -37,6 +37,9 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - (s3) «Guardami, Zemi, guarda me, respira come con la lampada: dentro per tre, fuori per tre, ecco, brava, così.»
 - (s3) «Sapevo cosa facevo, Akira, e se vuoi sentirmelo dire lo dico: ti ho mentito apposta.»
 - (s3, riformulata) «Urlami contro quanto vuoi, ma girati e guardami negli occhi, Akira, perché stiamo parlando di nostra figlia.»
+- (s4) «E se poi dicono che deve imparare a gestirlo, chi glielo insegna, Akira… tu?»
+- (s4) «Tre contro uno. E tu, Tights, eri i tre o eri l'uno?»
+- (s4) «Vado a vedere se dorme.» (davanti alla mano tesa di Akira)
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
@@ -53,6 +56,9 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - s3 · g13 14:20: Akira le dice che bisogna andare e che devono parlare. Lei: «Stasera, quando Zemi dorme, mi dici quello che hai da dirmi e io ti ascolto». Resta a parlare con Mirtillo e Cannella, gli affida Zemi: «portala giù e aspettami all'ingresso». Non ha ancora detto ad Akira niente sul perché del silenzio; lo farà stasera.
 - s3 · g13 14:30: Akira le ha risposto di sì («non preoccuparti») e ha preso in braccio Zemi; lei è rimasta nella stanza con Mirtillo e Cannella.
 - s3 · g13 21:05: sulla terrazza, dopo cena, Akira le chiede di spalle da quanto sa e le dice che le ha mentito volontariamente sul «sasso». Lei ammette tutto con i fatti (la lampada della scuola più di un anno fa, i quattro mesi fa con Zemi staccata dal letto, il «segreto nostro» chiesto a Zemi, la paura di come l'avrebbe presa lui e di come lo avrebbe trattato il governo). Si prende la colpa; gli chiede di girarsi. Il confronto è aperto.
+- s4 · g13 21:10-21:20: Akira, voltatosi, la rimprovera a bassa voce (doveva dirglielo; il governo ora è in allerta; ha il diritto di sapere; «così non sei di aiuto») e le dice di aver fatto chiamare Tights. Lei non risponde alle accuse: gli rinfaccia di averle taciuto Tights fino a dopo cena, scrive a Tights che ci sarà anche lei e scopre dalla risposta che lui voleva vederla da sola. Rifiuta il piano di Akira di prendersi la colpa (Ganascia aspetta solo quello; Zemi il ki ce l'avrebbe lo stesso) e gli chiede chi insegnerebbe a Zemi: lui? Al «pensavo a Tobias» dice no (riferisce al governo) e va nella cameretta. Fredda fino all'una. Non ha risposto al «ti amo».
+- s4 · g14 01:05-01:12: chiede a Tights se era «i tre o l'uno»; risponde Akira per lei (contro). Sente Akira offrirsi all'arresto «per lasciare in pace Syntia e Zemi» e chiedere Tobias come maestro: quando Tights accetta (rapporti solo a lei), pone la condizione di essere a tutte le lezioni e di chiedere lei a Zemi se vuole. Parla solo a Tights, mai ad Akira.
+- s4 · g14 01:13: sente Akira minacciare il re. Akira, dopo aver detto a Tights che sarà sempre parte della famiglia, le tende la mano sorridendo: lei la guarda a lungo, non la prende, «Vado a vedere se dorme», e si siede sul bordo del letto di Zemi. Rabbia e paura non dette (l'arresto offerto, le decisioni prese senza di lei, la minaccia al re).
 
 ## Zemi
 **Voce**
@@ -87,7 +93,13 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 
 **Non direbbe mai**: chiedere scusa per prima, se non è costretta; "non lo so" senza mettersi subito a cercare la risposta; parole dolci dirette.
 
-**Battute dette in gioco**: —
+**Attenzione al cartellino**: il caffè (le lattine, le macchie) è un dettaglio suo, da usare al massimo una volta per scena e quasi sempre in un gesto, non in bocca. L'affetto lo mostra coi gesti (il cappotto tolto, la lattina dalla parte giusta), non con le parole.
+
+**Battute dette in gioco**
+- (s4) «Se arresto te, Akira, fra tre giorni la vengono a prendere quei due.»
+- (s4) «Quella cosa sul re non la ripeti. Né qui, né fuori di qui.»
+- (s4) «In Consiglio ci siedo anch'io, Akira.»
+- (s4, a Tobias attraverso la porta) «Siediti. Mi fai venire il mal di testa.»
 
 **Diario dei rapporti**
 - 769: lavorano insieme contro Gero. Lei lo cura e gli costruisce i guanti Phase-S.
@@ -95,6 +107,10 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - 774: lei protegge Syntia e Zemi per tre anni. Pace con i saiyan.
 - 774-777: Akira le restituisce il braccio e smettono di sentirsi.
 - s1 · g4 (fuori scena): saputo da Syntia che vengono ad Arcorp, procura loro un attico della Capsule e scrive "non dirlo a lui". Riempie il frigo di caffè. Il g8 finisce il braccio Mk II.
+- s4 · g13 21:11: risponde a Syntia che viene all'una e che non parla di Zemi «da sola con lui come vorrebbe lui».
+- s4 · g14 01:05: arriva all'attico dalla seduta, non saluta Akira, gli guarda la manica vuota. Porta la raccomandazione del Consiglio (voto 3 a 1: lei contraria) e dice di persona della valutazione di Zemi nel suo laboratorio.
+- s4 · g14 01:10: Akira le chiede di dire al Consiglio che è stato lui, di arrestarlo, di far allenare Zemi da Tobias senza rapporti al governo, ricordandole che non le ha mai chiesto niente per averli salvati (il conto la irrigidisce). **Persuasione riuscita**: rifiuta l'arresto (inutile), gli dice che il re ha chiesto quanto diventerà forte Zemi, e ordina a Tobias di allenarla con i rapporti solo a lei. Tiene il punto sul laboratorio: la misura lei. Dice il suo nome per la prima volta in tre anni.
+- s4 · g14 01:13-01:16: Akira minaccia il re davanti a lei («Korinzo saprà cosa vuol dire avere paura»): gli ordina di non ripeterlo (il re l'ha già sentito minacciare in televisione nel 774). Poi Akira le chiede **come sta**, le dà ragione sulle sue macchine, le dice che di quel Consiglio si fida solo di lei e che sarà sempre parte della famiglia. Lei non risponde a voce: si toglie il cappotto, mette la cartella del governo sotto la sedia, gli porta una lattina di caffè dalla parte della sua unica mano, e rifiuta di essere messa a parte («In Consiglio ci siedo anch'io, Akira»). Sono soli sulla terrazza per la prima volta in tre anni. Il primo passo l'ha fatto lui.
 
 ## G-1 Tobias
 **Voce**
@@ -112,6 +128,8 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - (s2, riformulata) «L'ultima volta che l'ho vista mi tirava i capelli finché non le davo la crosta del riso, quella che resta attaccata in fondo alla pentola, e strillava "osta! osta!" con le mani tese.»
 - (s3) «Era ora che uno dei due si muovesse, comunque.»
 - (s3) «Quanto a soli, io fuori dalla porta ci sto lo stesso, perché l'ordine è quello e non lo decidiamo né tu né io, ma dentro non entro.»
+- (s4, tra sé) «Lo so, lo so da me, non c'è bisogno che me lo scrivi due volte…»
+- (s4, messaggio a Tights, tutto minuscolo) «e zemi, lo vuole?»
 
 **Diario dei rapporti**
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
@@ -120,6 +138,7 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 - s3 · g13 mezzogiorno: appena Akira se ne va («capisco… non più»), scrive a Tights al comunicatore (gli ha detto di chiedere a lei, non ha rivelato niente, Akira si è scusato). Alza tre dita verso Zemi quando lei grida per il riso. Segue la famiglia: pranza al bancone della tavola calda, aspetta su una panchina al cancello delle cupole. Alle 14:10 registra il picco di ki e corre dentro: arriva alle 14:12 al margine della piazza, passa in rassegna la scena, guarda Akira per ultimo. Ha il comunicatore in mano, spento. Non ha ancora deciso cosa scrivere nel rapporto. Davanti alla resa di Akira si scosta dal sentiero e non dice niente; fa fermare con un gesto i due Arc-G2 accorsi sopra la cupola. Akira gli chiede di non dispiegare pattuglie per la bambina: li rimanda all'incrocio (la vista di Zemi spaventata dai robot senza faccia lo ammorbidisce), non ne chiama altri finché decide lui sul posto, ma dice che il picco è nei sensori e che non sa ancora cosa scriverà stasera; avverte che Tights stasera è in riunione fino a notte. Accompagna Akira e Zemi al cancello e si ferma al pilastro, senza guardarli. A Zemi: «Se ne vanno, guarda.»
 - s3 · g13 sera: tornato dal Consiglio (dove ha presentato di persona il rapporto sull'Orto, scritto male e di fretta: tiro 1), si siede sul pianerottolo dell'attico. Ha il rimorso di aver scritto «nessun controllo osservato» senza il contesto della provocazione di Lattuga. Non lo ha detto ad Akira.
 - s3 · g13 14:40: Akira gli chiede di dire a Tights che stasera all'una l'aspetta all'attico, solo loro due, perché vuole dirle di persona dell'incidente e parlarle anche di altro. Tobias, in privato contento che uno dei due si muova («Era ora che uno dei due si muovesse, comunque»), accetta di scriverglielo subito, ma non garantisce che lei venga; ricorda che lui sta fuori dalla porta per ordine e non entra.
+- s4 · g13 sera → g14 01:16: sul pianerottolo tutta la notte. Tights lo rimprovera per iscritto e poi di persona (Ganascia ha letto il suo rapporto due volte ai consiglieri): domani lo riscrive. Cammina avanti e indietro quando vede Ganascia ai notiziari. All'1:10 riceve da Tights l'ordine di allenare Zemi con i rapporti solo a lei (Akira lo aveva chiesto): risponde chiedendo se Zemi lo vuole. Tights gli dice di sedersi. Non ha sentito la minaccia di Akira al re.
 
 ## Re Korinzo
 **Voce**
@@ -328,6 +347,8 @@ Regola generale: le battute seguono lo schema e la punteggiatura di `regole/06-d
 ## Governatore Ganascia di Clod City *(nuovo, s1, solo fuori scena)*
 **Voce**
 - «Coincidenza? Certo. E io sono una ballerina.» Mastica la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui cade qualcosa dal cielo. Io lo dico e basta.»
+- (s4, ai notiziari, riformulata) «Ad Arcorp ci sono troppe coincidenze. Una cupola dell'Orto si incrina proprio la settimana in cui certa gente arriva in città. Io alle coincidenze non ci credo.»
+- **Diario**: s4 · g13 21:15, nella pausa del Consiglio, parla ai giornalisti (Akira e Syntia lo vedono sullo schermo della piazza). In seduta ha letto due volte ad alta voce il rapporto di Tobias; ha chiesto tecnici «indipendenti» per la valutazione di Zemi (respinto).
 
 ## Rapan e Cipoll *(nuovi, s1, solo fuori scena — saiyan dei Senza Cielo)*
 - **Rapan**: «Una mano! Con quattro dita! Generale, lo giuro sulla mia coda... era grigia. Grigia e fredda. E non puzzava di niente! Di niente, capite?!»

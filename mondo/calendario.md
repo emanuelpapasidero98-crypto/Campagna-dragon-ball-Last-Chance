@@ -18,3 +18,4 @@ Il "giorno 1" è il giorno dell'incipit (la cena). Annotare ogni passaggio di te
 | Anno 777, giorno 13, sera (21:05-21:20) | 4 | Sulla terrazza il confronto con Syntia continua: Tights confermata per l'una, Ganascia ai notiziari, Akira decide di prendersi la colpa, Syntia rifiuta Tobias come maestro di Zemi |
 | Anno 777, giorno 13 21:20 → giorno 14 01:04 | 4 (salto) | Attesa di Tights. Il Consiglio chiude alle 00:40; due Arc-G2 al portone dalle 00:52 |
 | Anno 777, giorno 14, 01:05 | 4 | Tights all'attico con la raccomandazione vincolante del Consiglio |
+| Anno 777, giorno 14, 01:05-01:16 | 4 | Tights all'attico: Persuasione riuscita (Tobias allenerà Zemi, rapporti solo a Tights); la valutazione al laboratorio resta (entro il g17). Syntia va nella cameretta; Akira e Tights restano soli sulla terrazza. Prossime scadenze: g16 seconda lezione di Syntia; entro g17 valutazione di Zemi |

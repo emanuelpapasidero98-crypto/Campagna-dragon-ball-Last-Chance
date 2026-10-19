@@ -49,12 +49,12 @@
 - **Senza braccio e spalla destri**: persi nella base di Gero (769).
 - **Ritiro**: da 3 anni non combatte e non si allena. Il potenziale non si è assopito.
 - **Sensi di colpa e incubi**: la morte di Tsumuri e degli allievi, e le uccisioni commesse da Akyr.
-- **Reputazione**: su Terra Nova è temuto e guardato con sospetto. Ad Arcorp (g11-13) la gente si scansa, i posti accanto a lui restano vuoti. All'Orto dell'Est (g13) i giardinieri si scostano in silenzio e la caposquadra zia Lattuga lo accusa per la morte del marito nel 774.
+- **Reputazione**: su Terra Nova è temuto e guardato con sospetto. Ad Arcorp (g11-13) la gente si scansa, i posti accanto a lui restano vuoti. All'Orto dell'Est (g13) i giardinieri si scostano in silenzio e la caposquadra zia Lattuga lo accusa per la morte del marito nel 774. La sera del g13 il governatore Ganascia allude a lui ai notiziari («certa gente»). Dal g14, per raccomandazione del Consiglio, non può lasciare il quartiere est di Arcorp e ha due Arc-G2 al portone.
 - **Dove vive ora**: dal g11, con Syntia e Zemi, in un attico della Capsule nella zona est di Arcorp City, per le tre settimane delle lezioni di Syntia. La casa nella foresta è chiusa.
 
 ## Affetti
-- **Syntia**, moglie (dal g13 sera: ha ammesso di avergli mentito sul ki di Zemi) · **Zemi**, figlia, 6 anni (ki latente, esploso il g13 all'Orto)
-- **Tights Brief**, amica (rapporti raffreddati, non si sentono più) · **Bulma Brief**, amica (nel passato / dimensione alternativa)
+- **Syntia**, moglie (dal g13 sera: ha ammesso di avergli mentito sul ki di Zemi; dal g13 21:20 è fredda con lui, e il g14 all'1:13 non ha preso la sua mano) · **Zemi**, figlia, 6 anni (ki latente, esploso il g13 all'Orto)
+- **Tights Brief**, amica (tre anni senza sentirsi; il g14 notte è venuta all'attico, Akira le ha chiesto come sta e le ha detto che sarà sempre parte della famiglia; ha accettato che Tobias alleni Zemi) · **Bulma Brief**, amica (nel passato / dimensione alternativa)
 - **Moori** · **Re Kaioh** · **Tsumuri** (deceduto, 774)
 - **Allievi** (deceduti, ora nell'Aldilà): Lace, Mellor, Zestra, Escar
 

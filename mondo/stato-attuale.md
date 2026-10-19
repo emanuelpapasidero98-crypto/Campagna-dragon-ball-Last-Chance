@@ -3,7 +3,7 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 4 in corso
+- **Sessione corrente**: 4 conclusa (la prossima è la 5)
 - **Data in gioco**: anno 777, giorno 14, notte (circa l'1:16)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
 - **Scena in sospeso**: terrazza dell'attico, circa l'1:16 del g14. Akira e Tights soli al tavolino. Tights senza cappotto (sullo schienale), la cartella del governo sotto la sedia, beve una lattina di caffè e guarda le cupole; ha detto ad Akira di non ripetere la minaccia al re («L'ultima volta che ti ha sentito minacciare qualcuno, eri in televisione») e che in Consiglio ci siede anche lei. Non ha risposto a voce al «come stai?». La lattina di Akira è davanti a lui, chiusa. Syntia non ha preso la mano di Akira: «Vado a vedere se dorme», è nella cameretta seduta sul bordo del letto di Zemi. Tobias seduto sul pianerottolo (Tights gli ha detto di sedersi). Zemi dorme.
@@ -22,13 +22,16 @@
 ## Fili aperti noti al giocatore
 - **Stanotte**: Tights all'attico con la decisione del Consiglio. Tobias allenerà Zemi (Tights d'accordo, rapporti solo a lei); Syntia sarà presente a ogni lezione e chiederà a Zemi se vuole. La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona. Akira aveva detto che Zemi là dentro non entra.
 - **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
-- **Tobias**: sorveglia Akira per ordine del governo; ha scritto a Tights dell'invito delle una, non garantisce che lei venga; non sa cosa scriverà nel rapporto di stasera (il picco è nei sensori). Tights stasera è in riunione (seduta straordinaria del Consiglio, iniziata alle 19, «in corso»).
+- **Tobias**: sorveglia Akira per ordine del governo; il suo rapporto sull'Orto è stato letto due volte da Ganascia in Consiglio e Tights gli ha ordinato di riscriverlo. Allenerà Zemi (ordine di Tights, rapporti solo a lei). Ha chiesto se Zemi lo vuole. Stanotte è seduto sul pianerottolo.
 - **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
 - Akira non ha risposto a Zemi su dove Tobias compra il riso (banco 14, mercato coperto, tendone blu: lo sa solo lui).
 - Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro).
 - Babidi è sulla vecchia Terra (Akira non lo sa).
-- Gli è sfuggito a Tobias che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
-- Tights sa che sono ad Arcorp e ha procurato l'alloggio. Akira non la vede da tre anni. Siede nel Consiglio: secondo Tobias è lei quella a cui chiedere.
+- Gli è sfuggito a Tobias (s2) che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
+- **Tights**: è all'attico, sulla terrazza con Akira, senza cappotto. Ha votato contro la raccomandazione, ma in Consiglio ci siede («In Consiglio ci siedo anch'io»). Akira le ha chiesto come sta: non ha risposto. Gli ha ordinato di non ripetere la minaccia al re.
+- **Syntia**: fredda con Akira dalle 21:20; non ha preso la sua mano ed è nella cameretta con Zemi. Non gli ha risposto sull'arresto offerto né sul «ti amo».
+- **Il re** ha chiesto in seduta quanto diventerà forte Zemi. Akira, davanti a Tights e Syntia, ha detto che se qualcuno torce un capello a Zemi «Korinzo saprà cosa vuol dire avere paura».
+- **La raccomandazione**: Akira e famiglia non lasciano il quartiere est; due Arc-G2 al portone; Orto vietato ad Akira e Zemi; valutazione di Zemi al laboratorio della Capsule entro tre giorni (entro il g17).
 - Pattuglie raddoppiate ad Arcorp; voce che "i saiyan costruiscono una nave".
 - Le lezioni di Syntia: sei in tre settimane (g13 fatta, prossima g16); i nomi delle piante dell'Orto dell'Est.
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.

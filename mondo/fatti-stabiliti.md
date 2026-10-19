@@ -30,6 +30,12 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s3 · g13] Nell'attico: uno schermo sottile sulla parete della cucina (notiziari); un tavolino sulla terrazza; la cameretta di Zemi con un letto troppo grande; sotto il palazzo c'è un negozio dove Syntia ha comprato la cena. Il disegno di Zemi (il papà con due braccia) è appeso alla parete della cameretta con due puntine nuove. Dino Dino è con lei.
 - [s3 · g13] Dalla terrazza dell'attico, di notte, si vedono le cupole dell'Orto illuminate dall'interno e il pannello incrinato della cupola grande.
 
+- [s4 · g13 sera] La terrazza dell'attico ha una **ringhiera di vetro**: di sera riflette la luce del soggiorno e chi sta al tavolino. Il tavolino è di ferro, con due sedie di ferro che scricchiolano. Dal g14 c'è una riga chiara sulle piastrelle dove il tavolino è slittato sotto il pugno di Akira.
+- [s4 · g13 sera] Dalla terrazza, oltre i tetti, si vede lo **schermo dei notiziari** sulla facciata di un edificio della piazza (lettere bianche su fondo blu). In cucina c'è un altro schermo sottile, sulla parete.
+- [s4 · g13 sera] Di sera, dentro la cupola grande dell'Orto, i tecnici delle verifiche lavorano con le torce su una piattaforma che sale lungo la volta sotto i pannelli incrinati; all'una del g14 la piattaforma è ferma a metà, con le torce spente.
+- [s4 · g14] Dalle 00:52 del g14, due **Arc-G2** stanno davanti al portone del palazzo dell'attico, rivolti alla strada, con le linee luminose accese (ordine del Consiglio).
+- [s4] Ad Arcorp, di notte, non si sente il verso dei Dindon.
+
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
 - [s1 · g1] Pancotto: l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti"; Syntia pensa che abbia sbattuto contro il vetro della serra (c'era una piuma attaccata). Ala sinistra fasciata con uno strofinaccio a quadretti (quello buono). Vive in una cassetta di legno accanto alla stufa. Fa «Krooo». Al g11 apre l'ala a metà: sta guarendo. Viaggia in una scatola di cartone bucata.
@@ -53,6 +59,14 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 
 - [s3 · g13 sera] La lampada della scuola di Zemi, più di un anno fa: la maestra ha parlato di un cortocircuito. In realtà è esplosa perché Zemi, mentre due bambini le dicevano cos'era suo padre, ha acceso il ki; Syntia (nel corridoio) ha visto la sua mano accesa. Circa quattro mesi fa, una notte, Syntia ha trovato Zemi che dormiva staccata dal letto di una spanna. Syntia le ha detto che era «una cosa nostra».
 
+- [s4 · g13] **Governatore Ganascia** di Clod City, visto ai notiziari: largo, mascella enorme, mastica davanti al microfono. Ha detto: «troppe coincidenze», «certa gente arriva in città».
+- [s4 · g14] **Tights**, tre anni dopo: più magra, capelli biondi corti schiacciati da un lato, occhiaie. Cappotto (abbottonato storto di un'asola) sopra il vestito elegante della seduta, stropicciato, con una macchia di caffè secca sul polsino sinistro. Cartella grigia col sigillo del governo. Comunicatore sottile con un angolo scheggiato. Scrive messaggi tutti minuscoli e senza punti. Beve il caffè delle lattine freddo, aperto con un dito.
+- [s4] **Tobias** scrive i messaggi tutto minuscolo. Quando è nervoso cammina avanti e indietro sul pianerottolo e brontola da solo. Akira non ne percepisce il ki (non l'ha mai percepito): lo sente solo dai rumori.
+- [s4 · g13 sera] Syntia, la sera del g13: la camicia verde della lezione, una manica arrotolata più dell'altra, i capelli sciolti su una spalla. Sul comunicatore ha tre anni di messaggi con Tights.
+- [s4] Il ki di Zemi, per Akira, attraverso le pareti: una puntina calda, il primo che sente tra quelli della città; si accende un poco quando lei si rigira nel sonno.
+- [s4] Zemi, la mattina, apre un occhio da sotto il cuscino e lo richiude subito.
+- [s4] Ricordo di Akira (774): Syntia, con Zemi di tre anni in braccio, accanto a Tights su un balcone alto della piazza di Arcorp; la bambina non toglieva gli occhi da Akyr.
+
 ## Oggetti
 - [pre-campagna] Il braccio Arc-G è nero opaco con venature rosse fluorescenti. Akira l'ha restituito a Tights.
 - [s1 · g1] Sotto la scodella di Akira c'è un anello di gomma rossa che Syntia ha incollato tre anni fa, perché non scivoli quando lui mangia con una mano sola. Non ne hanno mai parlato.
@@ -66,6 +80,9 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s2 · g13] Le razioni delle Arche (771-772): barrette grigie con un numero stampato sopra; solo dal numero si capiva il gusto. Tutti su Terra Nova se le ricordano, e non con piacere.
 - [s3 · g13] Tobias ha un comunicatore grande quanto il palmo di una mano, nella tasca interna della giacca grigia; quando scrive inclina lo schermo contro il ginocchio e muove le labbra mentre rilegge.
 - [s3 · g13] Syntia, dopo le firme, ha un pennarello blu in mano e una borsa con le copie dell'*Atlante* appoggiata a una gamba.
+
+- [s4 · g14] **Raccomandazione vincolante del Consiglio** (seduta del g13, chiusa alle 00:40, firmata dal re): 1) Akira e famiglia non lasciano il quartiere est di Arcorp fino a nuova disposizione; 2) due Arc-G2 presso l'abitazione dall'1:00 del g14; 3) Orto dell'Est interdetto ad Akira e a Zemi; 4) valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto: tre favorevoli, uno contrario («Brief, T. — Arcorp City»).
+- [s4 · g14] Nel frigo dell'attico ci sono ancora lattine di caffè di Tights.
 
 ## Fauna e flora di Terra Nova
 *(aliene, non senzienti)*
@@ -97,4 +114,5 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s3 · g13] Dalle 21 Tobias si siede sul pianerottolo dell'attico, contro la parete, e fa la guardia a Akira (la giacca grigia gli fruscia sull'intonaco).
 - [s3 · g13] Syntia ha fatto il caffè con le lattine di Tights e lo beve sulla terrazza con Akira al tavolino. Quando è agitata gira la tazza di un quarto alla volta (già stabilito).
 - [s2 · g13] Alle 14 del g13 Cannella porta Syntia all'Orto Botanico dell'Est a conoscere il direttore. Syntia vuole che Akira venga.
-
+- [s4 · g13] Notiziari della sera del g13: «SEDUTA STRAORDINARIA DEL CONSIGLIO — IN CORSO», poi alle 00:40 «CONCLUSA. NESSUNA DICHIARAZIONE»; la foto della cupola grande dal basso con «ANOMALIA DI PRESSIONE ALL'ORTO DELL'EST — NESSUN FERITO».
+- [s4 · g14] Tobias allenerà Zemi (ordine di Tights): i rapporti li fa solo a Tights, al re niente. Syntia sarà presente a ogni lezione.

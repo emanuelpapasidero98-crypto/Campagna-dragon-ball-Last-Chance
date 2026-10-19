@@ -18,20 +18,24 @@ I parametri verso Akira stanno nelle schede; qui ci sono i rapporti **tra PNG**.
 - Amiche. Tights ha protetto Syntia e Zemi alla Capsule Corp per tre anni (771-774). Si scrivono ogni tanto, anche dopo che Akira e Tights hanno smesso di parlarsi. Tights le ha procurato l'attico ad Arcorp («non dirlo a lui»).
 - Sotto: Syntia non sa che Tights siede nel Consiglio che sorveglia Akira, né che ha votato contro. Se lo scopre, si sente tradita due volte. Tights è goffa con lei come con tutte le persone a cui vuole bene.
 - Insieme: si capiscono al volo e si rimproverano come sorelle; Syntia è l'unica che può dire a Tights «smettila di fare la dura».
+- **s4 (g13-14)**: Syntia ha scoperto in una notte che Tights siede nel Consiglio che ha deciso su Zemi, e che ha votato contro (glielo ha detto Akira). Le ha scritto «ci sono anch'io», le ha chiesto «eri i tre o l'uno?», e poi le ha imposto la sua condizione sulle lezioni («Ovvio», ha risposto Tights). Ora Syntia parla a Tights e non ad Akira; Tights ha visto Syntia rifiutare la mano di Akira e tra i due non si mette.
 
 **Syntia ↔ Tobias**
 - Si conoscono dalla Capsule Corp (772-774): lui cucinava per tutto il piano dei tecnici e dava la crosta del riso a Zemi piccola.
 - Sotto: dal g13 Syntia lo vede come il sorvegliante di suo marito, l'uomo seduto sul suo pianerottolo. Lo ricorda gentile, e questo rende la cosa peggiore. Tobias le vuole bene e si vergogna del rapporto scritto male.
 - Insieme: lei è fredda e cortese, lui evita di guardarla.
+- **s4**: Tobias allenerà Zemi; Syntia sarà presente a ogni lezione. Lei lo voleva lontano perché riferisce al governo: ora i rapporti vanno solo a Tights. Lo terrà d'occhio.
 
 **Zemi ↔ Tobias**
 - Lei è curiosa e ben disposta («il signore del riso»), lui con lei si ammorbidisce suo malgrado (le alza tre dita per il riso, rimanda via i robot che la spaventano).
 - Insieme: Zemi gli fa domande dirette, Tobias risponde a monosillabi e poi le dà più di quanto voleva.
+- **s4**: Tobias sarà il suo maestro per il controllo del ki, se lei vuole («e zemi, lo vuole?»). Zemi non lo sa ancora.
 
 **Tights ↔ Tobias**
 - Tights lo ha aggiornato e ricostruito: per Tobias è quasi una madre, e la Lealtà 6 è soprattutto per lei. Le scrive tutto.
 - Sotto: Tobias vuole che lei e Akira facciano pace («Era ora che uno dei due si muovesse»). Tights lo usa come occhi e orecchie e se ne sente in colpa.
 - Insieme: lui la protegge anche da sé stessa (le dice di dormire, di mangiare); lei lo tratta in modo brusco e affettuoso, come un fratello minore.
+- **s4**: Tights furiosa per il rapporto (glielo fa riscrivere), lo tiene sul pianerottolo, poi gli ordina di allenare Zemi con i rapporti solo a lei, contro l'ordine del re di riferire. Tobias obbedisce, ma chiede se la bambina lo vuole. «Siediti. Mi fai venire il mal di testa.»
 
 ---
 
@@ -40,6 +44,7 @@ I parametri verso Akira stanno nelle schede; qui ci sono i rapporti **tra PNG**.
 **Re Korinzo ↔ Tights**
 - Lei siede nel Consiglio e guida la Capsule Corp; lui la rispetta per la competenza e la teme per il carattere. Sulla sorveglianza di Akira e sul «capro espiatorio» lei ha votato contro.
 - Insieme: lui le chiede numeri, lei glieli dà con sarcasmo. Litigano in modo civile, e alla fine il re decide da solo.
+- **s4**: Tights gli nasconde le lezioni di Zemi con Tobias e farà da sola la valutazione. Il re ha chiesto in seduta quanto diventerà forte la bambina: Tights lo ha riferito ad Akira.
 
 **Re Korinzo ↔ Ganascia**
 - Il governatore di Clod City gli soffia nelle orecchie la «coincidenza» dell'arrivo di Akira e vuole i cannoni. Korinzo lo ascolta perché ha paura, non perché lo stima.
@@ -47,6 +52,7 @@ I parametri verso Akira stanno nelle schede; qui ci sono i rapporti **tra PNG**.
 
 **Re Korinzo ↔ Tobias**
 - Lo ha messo lui su Akira. Tobias obbedisce agli ordini del re, ma riferisce prima a Tights.
+- **s4**: Tobias ora ha due ordini in conflitto: riferire al re su Akira, non riferire al re sulle lezioni di Zemi (Tights). Se il re gli chiede della bambina, deve mentire.
 
 **Cannella ↔ Syntia**
 - Cannella l'ha voluta a ogni costo per le lezioni e per l'Orto; adesso teme che Akira costi i fondi all'università. Syntia le è grata e insieme non le perdona l'imbarazzo su Akira.
