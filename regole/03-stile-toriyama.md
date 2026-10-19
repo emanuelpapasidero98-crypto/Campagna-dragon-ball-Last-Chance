@@ -28,7 +28,7 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 - **Nomi dei PNG nuovi**: **giochi di parole alla Toriyama**. Saiyan = verdure, namecciani = lumache, umani = cibi o oggetti quotidiani, alieni e mostri = in base al tema. I nomi già esistenti (Zaraya, Kras, Tyros, Ignis, Akira…) restano come sono. **Ogni PNG ha un nome diverso** da tutti gli altri, anche nel suono (niente Escar/Escargot, Tsumuri/Tsumi ambigui senza motivo).
 - **Fauna e flora di Terra Nova**: diverse da quelle della Terra, inventate ma **non senzienti** come gli umani. Niente animali antropomorfi parlanti. Creature strane, grandi, colorate, plausibili in un mondo di Toriyama.
 - **PNG canonici**: **vicini al loro carattere canonico** (Bu infantile, capriccioso, crudele senza malizia; Babidi viscido e vigliacco; Dabura regale…), con le differenze dovute a ciò che hanno vissuto in questa linea temporale.
-- **Combattimenti**: **onomatopee in stile manga** ("BOOOM", "ZAAAN", "DOGOOOM", "SHUUUN", "GAKIIN"), usate con ritmo: negli impatti e negli scatti, non in ogni riga.
+- **Combattimenti**: **onomatopee in stile manga** ("BOOOM", "ZAAAN", "DOGOOOM", "SHUUUN", "GAKIIN"), in maiuscolo su una riga propria, negli impatti e negli scatti (`regole/05-prosa-shonen.md` §3).
 
 ## ⛔ Errori gravissimi da evitare (decisi dal giocatore)
 
@@ -41,14 +41,14 @@ Il giocatore vuole che la storia abbia senso **dentro Dragon Ball**. Questa guid
 
 ### 2. Dialoghi piatti
 Sbagliato: `<Si ho capito Akira. devo andare adesso.>`
-Giusto: `«Ho capito, ho capito…» Si passò una mano sulla nuca, senza guardarlo. «Senti, Akira, adesso devo proprio andare, che mi stanno aspettando da mezz'ora.»`
+Giusto: `«Ho capito, ho capito...» Si passa una mano sulla nuca, senza guardarti. «Senti, Akira... adesso devo proprio andare. Mi aspettano da mezz'ora!»` (struttura completa in `regole/06-dialoghi.md`)
 - Dialoghi tra caporali **«…»**, con punteggiatura espressiva e corretta: virgole, puntini di sospensione, punti esclamativi e interrogativi, interruzioni con il trattino lungo (—), frasi lasciate a metà, maiuscole, accenti.
 - Azioni, gesti ed espressioni **tra le battute**: chi parla deve avere un corpo.
 - Italiano parlato vero: ripetizioni, esitazioni, intercalari coerenti col personaggio, frasi corte quando si è arrabbiati e lunghe quando si è nervosi.
 
 ### 3. "AI slop" — eliminarlo
 - **Niente caos di comodo**: le cose non precipitano "perché la storia deve andare avanti". Ogni evento ha una **causa nel mondo** (fronti, agende dei PNG, conseguenze), tempi realistici e coerenza. Se non è il momento, non succede.
-- **Niente frasi fatte**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", "non era solo X, era Y", "e in quel momento capì", triplette retoriche, chiusure a effetto in ogni paragrafo, PNG che "annuiscono gravemente".
+- **Niente frasi fatte**: "un brivido gli corse lungo la schiena", "l'aria si fece pesante", "il silenzio era assordante", "qualcosa era cambiato", PNG che "annuiscono gravemente". Le terzine, il «non è X, è Y» e le chiuse a effetto sono strumenti dello stile di riferimento (`regole/riferimento-stile.md`): si usano nei punti che pesano, non come riempitivo in ogni paragrafo.
 - **Niente PNG-strumento** che esistono solo per dare informazioni o risolvere problemi ad Akira (Regola 8).
 - **Niente morale finale** o riassunto emotivo alla fine dei messaggi.
 - Descrizioni **concrete e specifiche** (cosa si vede, si sente, si annusa) invece di aggettivi astratti.

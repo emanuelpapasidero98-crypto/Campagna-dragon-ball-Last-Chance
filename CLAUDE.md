@@ -11,10 +11,10 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 @regole/04-metodo-mondo-vivo.md
 @regole/05-prosa-shonen.md
 @regole/06-dialoghi.md
-@regole/07-dialoghi-shonen.md
 @regole/08-metodo-esito.md
+@regole/riferimento-stile.md
 
-> **Ogni esito si costruisce con il metodo di `regole/08-metodo-esito.md`**: prima si decide cosa pensa e cosa vuole ogni PNG e quale mossa fa, poi si scrive. Le guide 05, 06 e 07 dicono come deve suonare il testo e valgono per ogni messaggio narrativo, dalla prima all'ultima risposta della sessione. Un loro riassunto viene inoltre iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
+> **Ogni esito si costruisce con il metodo di `regole/08-metodo-esito.md`** (prima si decide cosa pensa e cosa vuole ogni PNG e quale mossa fa, poi si scrive) e si scrive **nello stile di `regole/riferimento-stile.md`**: esiti di giocatori reali che il master deve replicare, con le tecniche spiegate in `regole/05-prosa-shonen.md` (prosa) e `regole/06-dialoghi.md` (dialoghi). Un riassunto viene iniettato a ogni messaggio del giocatore dal promemoria automatico (`.claude/promemoria-master.md`).
 
 ## Stato corrente (caricato sempre)
 @mondo/stato-attuale.md
@@ -32,7 +32,7 @@ I file della repo sono **la memoria del mondo**. La chat si dimentica, i file no
 ## Mappa dei file
 | Dove | Cosa | Pubblico? |
 |---|---|---|
-| `regole/` | Regole del master, sistema di gioco, stile, metodo del mondo vivo, prosa, dialoghi, metodo per costruire gli esiti (08) | sì |
+| `regole/` | Regole del master, sistema di gioco, stile, metodo del mondo vivo, prosa, dialoghi, metodo per costruire gli esiti (08), riferimento di stile (esiti di giocatori reali da replicare) | sì |
 | `mondo/ambientazione.md` | Fatti stabiliti del mondo | sì |
 | `mondo/stato-attuale.md` · `mondo/calendario.md` | Dove, quando, cosa | sì |
 | `mondo/fatti-stabiliti.md` | Dettagli inventati in gioco, da non contraddire | sì |
