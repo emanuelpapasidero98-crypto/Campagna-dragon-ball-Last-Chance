@@ -17,7 +17,7 @@ Guida completa ai comandi: **`Comandi chat.md`**.
 Dal terminale puoi tirare anche direttamente: `python3 strumenti/dado.py --mod -3 --motivo "Kamehameha"`.
 
 ## Dove sta la memoria
-- `regole/`: le tue regole, il sistema di gioco con i chiarimenti, lo stile Toriyama, il metodo del mondo vivo, la guida alla prosa, la guida ai dialoghi, il metodo per costruire gli esiti e il riferimento di stile (esiti di giocatori reali da replicare)
+- `regole/`: le tue regole, il sistema di gioco con i chiarimenti, lo stile Toriyama, il metodo del mondo vivo, la guida alla prosa, la guida ai dialoghi, e il metodo per costruire gli esiti
 - `mondo/`: ambientazione, stato attuale, calendario
 - `personaggi/`: scheda di Akira e ciò che Akira sa
 - `cronaca/`: riepilogo della campagna, resoconti delle sessioni, registro dei dadi

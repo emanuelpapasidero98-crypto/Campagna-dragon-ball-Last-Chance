@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
 """Controllo automatico degli esiti del master.
 
-È tarato sullo stile di riferimento (regole/riferimento-stile.md): i testi di
-riferimento passano con zero errori. Segnala:
+Prosa di regole/05-prosa-shonen.md (terza persona vicina ad Akira, periodi
+scorrevoli) e battute di regole/06-dialoghi.md. Segnala:
 - eco delle parole del giocatore (battute dei PNG o narrazione che ripetono il suo messaggio);
-- battute-catena («…, e…, e…») e battute-monologo;
-- glosse del narratore, narratore-grilletto, frasi fatte;
-- linguaggio da terapeuta;
+- battute-telegramma, battute-catena («…, e…, e…») e battute-monologo;
+- PNG senza emozione (battute piatte, senza punteggiatura espressiva);
+- frasi fatte, nella narrazione e nelle battute;
+- una frase per riga e narrazione a singhiozzo;
+- glosse del narratore, narratore-grilletto, linguaggio da terapeuta;
 - metafore (quantità figurate, emozioni che «divorano»), similitudini nelle
   battute o più di una nella narrazione;
 - tentativi del giocatore (convincere, scoprire, nascondersi, colpire…)
   risolti senza chiamare il tiro;
 - esito troppo corto (minimo 5000 caratteri, 3500 con --breve);
 - avvisi: battute e frasi lunghe, assoluti, mezzo segreto, tempi verbali,
-  accumulo di episodi, ipotesi sentimentali, parole ripetute, Akira in terza
-  persona o deciso dal master, narrazione al passato remoto.
+  accumulo di episodi, ipotesi sentimentali, parole ripetute, narrazione in
+  seconda persona o al presente, Akira deciso dal master.
 
 Uso (il messaggio del giocatore prima, poi la riga ===ESITO===, poi la bozza):
   python3 strumenti/controlla_dialoghi.py <<'EOF'
@@ -64,6 +66,48 @@ GLOSSE = [
 ]
 GRILLETTI = [r"\bAlla parola\b", r"\bAl complimento\b", r"\bAll'ultima frase\b", r"\bSull'ultima frase\b",
              r"\b[Ss]u «", r"\b[Aa]rriv\w* a «", r"\b[Ff]u su «", r"\b[Aa]l nome di [A-Z]", r"\b[Ii]l nome di [A-Z]"]
+FRASI_FATTE = [
+    (r"\bstomaco\b[^.!?]{0,30}\b(?:strin|stret|chius|chiud|annod|contor|sottosopra)\w*|\b(?:strin|chius|chiud)\w*\s+lo stomaco", "lo stomaco che si stringe"),
+    (r"\bnodo (?:alla gola|allo stomaco|in gola)\b", "il nodo alla gola"),
+    (r"\bcuore\b[^.!?]{0,25}\b(?:salt\w*|perde|perse|manca|mancò)\s+un battito|\bcuore in gola\b", "il cuore che salta un battito"),
+    (r"\bsangue\b[^.!?]{0,20}\b(?:gel|ghiacci)\w*", "il sangue che si gela"),
+    (r"\bbrivid\w*", "il brivido"),
+    (r"\b(?:tratten|trattien|trattenn)\w*\s+il (?:fiato|respiro)\b|\bfiato sospeso\b|\bfiato (?:gli|le|ti|mi) si mozz\w*", "il fiato trattenuto"),
+    (r"\bnocche\b[^.!?]{0,20}\b(?:bianch|sbianc)\w*", "le nocche bianche"),
+    (r"\b(?:serr|contra|strins|string)\w*\s+(?:la\s+)?mascella\b|\bmascella\b[^.!?]{0,15}\b(?:serr|contra|indur)\w*", "la mascella serrata"),
+    (r"\bdeglut\w*", "deglutire"),
+    (r"\b(?:linea|riga) sottile\b", "le labbra in una linea sottile"),
+    (r"\bsbatt\w*\s+(?:le\s+)?palpebre\b", "sbattere le palpebre"),
+    (r"\b(?:alz|inarc|sollev)\w*\s+(?:un|il)\s+sopracciglio\b", "il sopracciglio alzato"),
+    (r"\bocchi al cielo\b", "gli occhi al cielo"),
+    (r"\bocchi\b[^.!?]{0,15}\bsi (?:assottigli|ridu|strins|stringo)\w*", "gli occhi che si assottigliano"),
+    (r"\bsorriso che non (?:arriv|raggiung)\w*", "il sorriso che non arriva agli occhi"),
+    (r"\b(?:sorriso|risata)\s+amar\w*|\bamaramente\b|\brisata senza (?:allegria|gioia)\b", "il sorriso amaro"),
+    (r"\b(?:sbuff|risat)\w*\b[^.!?]{0,25}\bdal naso\b|\bdal naso\b[^.!?]{0,15}\b(?:sbuff|risat)\w*", "lo sbuffo dal naso"),
+    (r"\bpass\w*\s+una mano\s+(?:tra|fra|nei|sui)\s+(?:i\s+)?capelli\b|\bpass\w*\s+(?:una mano|le mani)\s+sul (?:viso|volto)\b", "la mano tra i capelli"),
+    (r"\b(?:respiro|sospiro) profondo\b|\brespir\w*\s+a fondo\b", "il respiro profondo"),
+    (r"\b(?:secondo|secondi|momento|momenti|istante|istanti|attimo|attimi|pausa)\s+di troppo\b|\bpausa troppo lunga\b", "il secondo di troppo"),
+    (r"\btempo\b[^.!?]{0,15}\b(?:si ferm|sembr\w* fermarsi|si dilat|sembr\w* dilatarsi)\w*", "il tempo che si ferma"),
+    (r"\bsilenzio\b[^.!?]{0,10}\b(?:cal[aò]|scese|scende|pesante|assordante|carico|denso|teso)\b", "il silenzio che cala"),
+    (r"\baria\b[^.!?]{0,15}\b(?:si fa|si fece|si è fatta|diventa|diventò)\s+(?:pesante|densa|elettrica|irrespirabile)\b", "l'aria che si fa pesante"),
+    (r"\bnon c'(?:è|era) niente di \w+ nella (?:sua )?voce\b|(?:^|[.!?…]\s+)(?:È|E'|Era) peggio[.!]", "«non c'è niente di… È peggio.»"),
+    (r"\bqualcosa\b[^.!?]{0,20}\bsi (?:rompe|ruppe|spezza|spezzò|incrina|incrinò)\b[^.!?]{0,15}\bdentro\b", "qualcosa che si rompe dentro"),
+    (r"\be in quel momento capì\b|\bin quell'istante capì\b", "e in quel momento capì"),
+    (r"\bannu\w*\s+(?:grave|lenta)mente\b", "annuire gravemente"),
+    (r"\bocchi lucidi\b|\blacrima solitaria\b", "gli occhi lucidi"),
+    (r"\bpeso (?:sul|nel) petto\b|\bpetto (?:stretto|che si stringe)\b", "il peso sul petto"),
+    (r"\bvoce\b[^.!?]{0,10}\bsi (?:incrin|spezz)\w*|\bvoce rotta\b", "la voce che si spezza"),
+    (r"\bun'eternità\b", "un'eternità"),
+]
+FRASI_FATTE_RX = [(re.compile(rx, re.IGNORECASE | re.MULTILINE), nome) for rx, nome in FRASI_FATTE]
+FRASI_FATTE_BATTUTE = [
+    "mi fai venire il mal di testa", "dobbiamo parlare", "non è come pensi", "non è quello che sembra",
+    "fidati di me", "andrà tutto bene", "ce la faremo", "non sei solo", "non sei sola", "non è il momento",
+    "lo sai benissimo", "sai benissimo", "è complicato", "non è colpa tua", "possiamo parlarne",
+    "lascia che ti spieghi", "ascoltami bene", "non ci posso credere", "ti conosco troppo bene",
+    "sono fiero di te", "sono fiera di te", "non mi lasci scelta", "è finita", "abbiamo un problema",
+    "non ne vale la pena",
+]
 CLICHE = ["ogni parola messa al suo posto", "un momento di troppo", "qualcosa le cambiava", "qualcosa gli cambiava",
           "non sentì niente di tutto questo", "di chi dorme male", "il silenzio era assordante", "l'aria si fece pesante"]
 MEZZO_SEGRETO = ["lascia perdere", "fai finta che non", "non ho detto niente", "dimentica quello che"]
@@ -121,9 +165,10 @@ SUBORDINATA = re.compile(r"\b(che|se|appena|quando|finché)\b", re.IGNORECASE)
 CONDIZ_CONGIUNT = re.compile(
     r"\b\w+(rei|resti|rebbe|remmo|reste|rebbero|ssi|sse|ssimo|ssero)\b|\b(fosse|fossi|fossero|sia|siano|abbia|abbiano)\b",
     re.IGNORECASE)
-AKIRA_DECISO = re.compile(r"\b(decidi di|scegli di|pensi che|ti dici che|vuoi che)\b", re.IGNORECASE)
-AKIRA_TERZA = re.compile(r"\bAkira\s+(si|ha|è|era|sente|sentì|vede|vide|guarda|guardò|non|fa|fece|resta|restò)\b")
-PASSATO_REMOTO = re.compile(r"\b(disse|fece|ebbe|vide|sentì|guardò|rispose|chiese|prese|mise|tornò|restò|rimase|alzò|posò|si voltò|si girò)\b")
+AKIRA_DECISO = re.compile(r"\bAkira\s+(?:decise|decide|scelse|sceglie|pensò|pensa|cercò|cerca|volle|vuole|si chiese|si disse)\b")
+SECONDA_PERSONA = re.compile(r"\b(?:tuo|tua|tuoi|tue|stringi|allunghi|lanci|guardi|vedi|ti giri|ti alzi|ti volti|ti siedi)\b", re.IGNORECASE)
+PRESENTE = re.compile(r"\b(?:guarda|dice|chiede|prende|posa|alza|apre|chiude|torna|resta|sorride|si alza|si gira|si volta|sente|vede|risponde|scuote|abbassa|stringe)\b")
+PASSATO_REMOTO = re.compile(r"\b(?:disse|fece|ebbe|vide|sentì|guardò|rispose|chiese|prese|mise|tornò|restò|rimase|alzò|posò|si voltò|si girò|aprì|chiuse|sorrise|scosse|abbassò|strinse)\b")
 STOP = set("""
 alla allo alle agli dalla dalle dallo della delle dello degli nella nelle nello negli sulla sulle sullo sugli
 mentre perché perche quando quello quella quelli quelle questo questa questi queste anche ancora adesso allora
@@ -185,6 +230,33 @@ def controlla(testo):
                 avvisi.append(f"riga {riga}: frase lunga dentro una battuta ({len(f)} caratteri): «{f[:70]}»")
                 break
 
+    # 1-bis. Telegrammi: frasi corte e piatte (chiuse dal punto) in fila dentro la stessa battuta.
+    piatta = lambda f: f.endswith(".") and not f.endswith("…")
+    n_parole = lambda f: len(PAROLA.findall(f))
+    for riga, b in bb:
+        ff = frasi(b)
+        corte = [f for f in ff if n_parole(f) <= 4]
+        piatte = [f for f in corte if piatta(f)]
+        coppie = [(a, c) for a, c in zip(ff, ff[1:]) if piatta(a) and piatta(c) and n_parole(a) <= 6 and n_parole(c) <= 6]
+        if len(piatte) >= 2:
+            errori.append(f"riga {riga}: TELEGRAMMA, {len(corte)} frasi corte nella stessa battuta (di cui {len(piatte)} piatte) → una frase intera, o un frammento carico (! ? … —): «{b[:90]}»")
+        elif coppie:
+            errori.append(f"riga {riga}: FRASI STACCATE, due frasi brevi e piatte di fila chiuse dal punto → uniscile, o rendile cariche: «{coppie[0][0]} {coppie[0][1]}»")
+        if sum(1 for f in ff if piatta(f)) >= 4:
+            errori.append(f"riga {riga}: TROPPI PUNTI nella stessa battuta → spezza con un'azione o lega le frasi: «{b[:90]}»")
+        for f in FRASI_FATTE_BATTUTE:
+            if re.search(rf"\b{re.escape(f)}\b", b, re.IGNORECASE):
+                errori.append(f"riga {riga}: FRASE FATTA IN BATTUTA \"{f}\" → cosa direbbe QUESTA persona, adesso? (regole/05 §4): «{b[:70]}»")
+
+    # 1-ter. PNG senza emozione: battute senza punteggiatura espressiva.
+    espressiva = lambda b: bool(re.search(r"[!?…—]", b)) or bool(re.search(r"\b[A-ZÀ-Ý]{3,}\b", b))
+    if len(bb) >= 4:
+        quota = sum(1 for _, b in bb if espressiva(b)) / len(bb)
+        if quota == 0:
+            errori.append(f"PNG SENZA EMOZIONE: nessuna delle {len(bb)} battute ha un esclamativo, una domanda, dei puntini o un'interruzione → si deve sentire cosa provano (regole/06 §2-bis)")
+        elif quota < 0.3:
+            avvisi.append(f"PNG SENZA EMOZIONE? Solo {round(quota * 100)}% delle battute ha punteggiatura espressiva → copri il nome: si capisce cosa prova chi parla? (regole/06 §2-bis)")
+
     # 2. Eco in apertura di battuta ("Sì, …", "X, sì").
     eco = []
     for riga, b in bb:
@@ -209,13 +281,26 @@ def controlla(testo):
     n_grilletti = sum(len(re.findall(p, testo)) for p in GRILLETTI)
     if n_grilletti >= 2:
         errori.append(f"NARRATORE-GRILLETTO ripetuto {n_grilletti} volte (una reazione appesa a ogni frase di Akira) → una reazione all'insieme")
+    for rx, nome in FRASI_FATTE_RX:
+        m = rx.search(narr)
+        if m:
+            errori.append(f"FRASE FATTA: \"{m.group(0).strip(' .!?…')}\" ({nome}) → scrivi la cosa vera di questa scena, o togli (regole/05 §4)")
     for m in AKIRA_DECISO.finditer(narr):
         avvisi.append(f"AKIRA DECISO DAL MASTER: \"{m.group(0)}\" → decisioni, intenzioni e pensieri li dichiara il giocatore (Regola 5)")
-    if AKIRA_TERZA.search(narr):
-        avvisi.append("AKIRA IN TERZA PERSONA nella narrazione → nella narrazione Akira è «tu», al presente (regole/05)")
-    remoti = PASSATO_REMOTO.findall(narr)
-    if len(remoti) >= 4:
-        avvisi.append(f"NARRAZIONE AL PASSATO ({', '.join(sorted(set(remoti))[:6])}…) → l'esito si scrive al presente (regole/05)")
+    if len(SECONDA_PERSONA.findall(narr)) >= 3:
+        avvisi.append("NARRAZIONE IN SECONDA PERSONA → si racconta in terza persona vicina ad Akira (regole/05 §2, punto 3)")
+    if len(PRESENTE.findall(narr)) >= 6 and len(PASSATO_REMOTO.findall(narr)) < 3:
+        avvisi.append("NARRAZIONE AL PRESENTE → il racconto è al passato remoto e all'imperfetto (regole/05 §2, punto 3)")
+    righe_narr = [r for r in testo.split("\n") if r.strip() and "«" not in r and not r.strip().startswith(("[", "```", "|"))]
+    isolate = [r for r in righe_narr if len(PAROLA.findall(r)) <= 25]
+    if len(righe_narr) >= 8 and len(isolate) / len(righe_narr) >= 0.6:
+        errori.append(f"UNA FRASE PER RIGA: {len(isolate)} paragrafi di narrazione su {len(righe_narr)} sono di una o due frasi corte → paragrafi di più frasi, periodi che scorrono (regole/05 §2)")
+    serie = 0
+    for f in frasi(re.sub(r"\s*\n\s*", " ", narr)):
+        serie = serie + 1 if len(PAROLA.findall(f)) <= 5 else 0
+        if serie == 3:
+            avvisi.append(f"NARRAZIONE A SINGHIOZZO: tre frasi brevissime di fila → fondile (regole/05 §2): \"{f[:60]}\"")
+            break
     trovate = [v for v in VOCABOLARIO_IA if re.search(rf"\b{re.escape(v)}\b", low)]
     if trovate:
         avvisi.append("VOCABOLARIO DA IA: " + ", ".join(f"\"{v}\"" for v in trovate) + " → parole concrete")

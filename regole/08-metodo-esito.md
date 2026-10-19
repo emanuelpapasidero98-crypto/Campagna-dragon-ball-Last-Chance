@@ -1,6 +1,6 @@
 # Il metodo: come si costruisce un esito
 
-Guida **vincolante** e **prioritaria**: si segue a ogni messaggio narrativo. Il riferimento di stile (`regole/riferimento-stile.md`) e le guide 05 e 06 dicono come deve **suonare** il testo; questa dice **come si arriva al testo**, cioè cosa succede, cosa vuole ogni PNG e cosa dice. Uno stile perfetto con un contenuto sbagliato resta un esito sbagliato.
+Guida **vincolante** e **prioritaria**: si segue a ogni messaggio narrativo. Le guide 05 e 06 dicono come deve **suonare** il testo; questa dice **come si arriva al testo**, cioè cosa succede, cosa vuole ogni PNG e cosa dice. Uno stile perfetto con un contenuto sbagliato resta un esito sbagliato.
 
 ---
 
@@ -43,9 +43,11 @@ Il dado non sostituisce il metodo: decide **se** Akira ottiene ciò che cerca. *
 Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapporti (Regola 8):
 
 4. **Cosa sa adesso**, e cosa non sa. Non può dire niente che non sappia.
-5. **Cosa prova**, in una parola: vergogna, rabbia, paura, sollievo, gelosia, stanchezza…
+5. **Cosa prova**, in una parola: vergogna, rabbia, paura, sollievo, gelosia, stanchezza… E **da dove si sentirà**: le parole che sceglie, il ritmo, la voce, un gesto suo (`regole/06-dialoghi.md` §2-bis). Un PNG che prova qualcosa e parla come una statua è un errore.
 6. **Cosa vuole ottenere da questo scambio**, in concreto e adesso: che lui la smetta, essere perdonata, non perdere il controllo della situazione, proteggere qualcuno, guadagnare tempo, ferirlo, andarsene.
 7. **Cosa non dirà**, e perché. Ciò che una scheda segna come "non detto" **resta non detto**, a meno che la scena non lo strappi fuori con una ragione forte (una domanda diretta e precisa, un crollo che si è visto arrivare).
+
+- **Cosa ha intorno e cosa gli ha lasciato la giornata**: dove si trova, chi c'è, cosa sente, la stanchezza, la fame, il freddo, ciò che è appena successo. Il PNG reagisce anche a questo e agli altri PNG presenti, non solo ad Akira (`regole/06-dialoghi.md` §4, punti 14-15).
 
 > I file della memoria (schede, diario, rapporti tra PNG) servono al master **per sapere**, non sono un copione **da recitare**. Un PNG non elenca ad alta voce i fatti della propria scheda e non racconta all'altro il loro rapporto.
 
@@ -67,21 +69,20 @@ Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapport
 
 ## Fase 4 — Costruire l'esito
 
-14. **Ordine** (`regole/05-prosa-shonen.md` §6):
-    1. l'apertura sul momento: un suono, un'immagine, la reazione immediata a ciò che Akira ha fatto nel suo insieme. Non una reazione per ogni sua frase, e senza citare le sue parole per appenderci una reazione (narratore-grilletto);
-    2. la messa in scena dell'azione di Akira, con parole nuove, e la sua risoluzione secondo dadi e situazione;
-    3. la mossa del PNG: la catena della fase 3 detta con la sua voce, nello schema di `regole/06-dialoghi.md` §1;
-    4. gli altri PNG presenti, se ci sono: una mossa ciascuno, anche tra loro (Regola 6), solo se nasce dai loro obiettivi;
-    5. ciò che cambia nella scena;
-    6. la chiusura con l'aggancio, a cui Akira può reagire.
-15. **Narrazione**: seconda persona al presente per Akira, righe e alternanza tra periodi d'immagine e righe brevi (`regole/05-prosa-shonen.md`). Le immagini e l'atmosfera ci sono quando **costruiscono il momento** (lo spettacolo, la tensione, il dolore); non ci sono quando riempiono e basta. Il narratore non rivela pensieri, piani o segreti dei PNG che Akira non può conoscere.
+14. **Ordine**:
+    1. una reazione immediata, **una**, a ciò che Akira ha fatto nel suo insieme. Non una reazione per ogni sua frase, e senza citare le sue parole nella narrazione (narratore-grilletto);
+    2. la mossa del PNG: la catena della fase 3 detta con la sua voce, con l'emozione che si sente;
+    3. gli altri PNG presenti, se ci sono: una mossa ciascuno, anche tra loro (Regola 6), solo se nasce dai loro obiettivi;
+    4. ciò che cambia nella scena;
+    5. la chiusura aperta, a cui Akira può reagire.
+15. **Narrazione**: terza persona vicina ad Akira, al passato, a periodi scorrevoli (`regole/05-prosa-shonen.md`). Dentro ci vanno le azioni che portano la mossa o cambiano la scena, i gesti che portano un'emozione, e ciò che Akira percepisce passivamente quando aggiunge qualcosa. Niente cataloghi di gesti, niente dettagli messi per riempire, nessuna spiegazione di ciò che un PNG pensa o non percepisce. Il narratore sta negli occhi di Akira: non sa cosa pensano o sanno gli altri.
 16. **Battute**: una cosa sola per battuta, una o due frasi, **senza catene di «e»** (`regole/06-dialoghi.md` §2). Se un PNG ha più da dire, in mezzo ci va una riga di narrazione e poi una battuta nuova. Il controllo automatico avvisa sopra i 200 caratteri e blocca sopra i 300, e blocca le catene di «e».
 17. **Lunghezza**: viene dalla scena che si sviluppa, non dall'allungare le battute o la narrazione. Il minimo è 5000 caratteri quando nella scena succede qualcosa, ci sono più PNG o passa del tempo. Quando l'esito è la risposta di un PNG in un dialogo a due, la scena di norma non regge di più e il minimo è 3500 (`--breve`). **Mai** riempire con frasi dello stesso tipo di quelle tagliate in fase 3.
 
 ## Fase 5 — Scrivere
 
 18. **Traduci la catena in parlato**: le stesse idee, nello stesso ordine, con il **modo** di parlare del PNG (voci-e-diario). **Non aggiungere idee mentre scrivi**: se ti viene una frase "bella" che non era nella catena, quasi sempre è slop, e si toglie.
-19. **Applica lo stile**: quello del riferimento, con le tecniche di `regole/05-prosa-shonen.md` (voce del narratore, righe, alternanza, onomatopee) e la struttura e la punteggiatura delle battute di `regole/06-dialoghi.md`. Si imita la tecnica, non si ricopiano le frasi.
+19. **Applica la forma** delle guide 05 e 06: periodi scorrevoli, battute dentro i paragrafi, emozioni che si sentono, punteggiatura della casa, peso sull'ultima parola nei momenti forti, tempi concordati, zero frasi fatte.
 
 ## Fase 6 — Rilettura distruttiva
 
@@ -100,7 +101,10 @@ Poi **cancella**, senza pietà:
 - ogni catena di «e» dentro una battuta;
 - ogni metafora, nella narrazione o nelle battute, e ogni similitudine oltre la prima;
 - ogni argomento che non passa la prova dell'«e allora?»;
-- ogni frase ricopiata dal riferimento o da un esito precedente, e ogni nome dell'altra campagna.
+- ogni frase fatta, nella narrazione o nelle battute (`regole/05-prosa-shonen.md` §4);
+- ogni PNG che parla senza che si senta cosa prova (`regole/06-dialoghi.md` §2-bis);
+- ogni catalogo di gesti e ogni frase isolata su una riga che non sia un impatto;
+- ogni frase ricopiata da una guida o da un esito precedente.
 
 **Seconda passata**: rileggi un'ultima volta chiedendoti soltanto *che cosa, in questo testo, fa ancora capire che l'ha scritto un'IA?* Trova quella cosa e riscrivila o toglila.
 
@@ -136,13 +140,20 @@ EOF
 | Narratore che rivela | Il narratore svela pensieri, piani o segreti dei PNG che Akira non può conoscere | Si nomina solo lo stato d'animo che si vede |
 | Narratore-grilletto | Una reazione appesa a ogni frase di Akira, spesso citata | Una reazione all'insieme |
 | PNG-copione | Il PNG recita la propria scheda o i propri rapporti | I file servono a sapere, non a dire |
-| Ricalco | Frasi, gesti o chiuse ricopiati dal riferimento o da esiti precedenti | Si imita la tecnica, le frasi si trovano nuove |
+| Ricalco | Frasi, gesti o chiuse ricopiati da una guida o da esiti precedenti | Partire dalla fase 1, non dal ricordo di un testo |
 | Tentativo risolto a tavolino | Akira prova a convincere, scoprire, nascondersi o colpire, e l'esito decide da solo come va | Fase 1-bis: si chiama il tiro e ci si ferma |
-| Metafora | Una cosa detta come se fosse un'altra («una marea di ki», «le braccia sono pistoni»), un'emozione che «divora» o «morde» | Zero metafore: il dettaglio concreto (`regole/05-prosa-shonen.md` §3) |
+| PNG-statua | Il PNG parla per constatazioni secche e senza tono, e non si capisce cosa prova | Emozione nelle parole, nel ritmo, nella voce (`regole/06-dialoghi.md` §2-bis) |
+| Catalogo di gesti | Il narratore registra dita, oggetti, vestiti, frigoriferi, uno dopo l'altro | Un gesto che porta l'emozione, il resto si taglia |
+| Frase fatta | «Lo stomaco gli si strinse», «un secondo di troppo», «le labbra in una linea sottile», «mi fai venire il mal di testa» | La cosa vera di questa scena, o niente (`regole/05-prosa-shonen.md` §4) |
+| Metafora | Una cosa detta come se fosse un'altra («una marea di ki», «le braccia erano pistoni»), un'emozione che «divora» o «morde» | Zero metafore: il dettaglio concreto |
 | Catena di «e» | Battute costruite come *frase, e frase, e frase*, che spiegano ogni passaggio | Una cosa per frase, la spiegazione si taglia |
 | Stupidaggine per dire qualcosa | Un argomento che non cambia niente per la decisione in gioco | Prova dell'«e allora?» |
+| Sinonimi a rotazione | Lo stesso personaggio chiamato in tre modi per non ripetere il nome («l'uomo», «il mezzosangue», «il guerriero») | Il nome o il pronome; un appellativo solo se dice qualcosa in quel punto |
 | Gerundio di commento | La frase finisce spiegando cosa significa il gesto («…, rivelando quanto…», «…, segno che…», «…, come a dire…») | Tagliare: il gesto basta |
+| Importanza gonfiata | «Per la prima volta da quando…», «un momento che avrebbe cambiato tutto», «niente sarebbe stato più come prima» | Dire il fatto, o niente |
 | Cautele ammucchiate | «Quasi», «forse», «una specie di», «qualcosa di simile a», «in qualche modo» uno sull'altro | Dire la cosa |
-| Vocabolario da IA | Palpabile, un misto di, in qualche modo, qualcosa di simile a | Parole concrete |
+| Vocabolario da IA | Intenso, profondo, palpabile, carico di, un misto di, si stagliava, si ergeva, fungeva da | Parole semplici e concrete |
+| Tre per forza | Ogni elenco è di tre: tre gesti, tre aggettivi, tre esempi | Uno o due, o quanti ne servono davvero |
+| Negazione-correzione | «Non era X, era Y», «non solo X, ma Y» usati per dare enfasi | Dire Y |
 
-Alcuni di questi meccanismi sono adattati dalla guida di Wikipedia *Signs of AI writing* e dalla skill Humanizer. Le altre regole di quelle guide (epiteti al posto del nome, terzine, «non è X, è Y», enfasi epica, lineette, virgolette) **non valgono** qui: sono tecniche dello stile di riferimento, e la punteggiatura è quella di `regole/06-dialoghi.md` §3.
+Alcuni di questi meccanismi sono adattati, per la prosa narrativa italiana, dalla guida di Wikipedia *Signs of AI writing* e dalla skill Humanizer. Le loro regole su lineette e virgolette **non valgono** qui: la punteggiatura è quella della casa (`regole/05-prosa-shonen.md` §3).
