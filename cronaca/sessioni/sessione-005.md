@@ -19,5 +19,6 @@
 - Tights: «E a te, lì dove c'era l'innesto… di notte fa ancora male?»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
+- g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
 
 ## Errori segnalati dal giocatore
