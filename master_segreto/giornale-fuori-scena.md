@@ -247,3 +247,17 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **Cosa**: a seduta chiusa, Tights (governatrice di Arcorp) dà lei le istruzioni di posizionamento ai due Arc-G2 della raccomandazione: davanti al portone, rivolti alla strada, non al palazzo. Il testo dice solo «presso l'abitazione». Le unità registrano comunque tutto ciò che rilevano e i dati vanno anche alla sorveglianza del Consiglio (Ganascia li può chiedere).
 - **Perché**: dopo la dichiarazione di Ganascia prevede giornalisti e curiosi al portone dalla mattina del g14.
 - **Chi lo sa**: Tights; Akira (glielo ha detto lei, s5).
+
+### Salto g14 01:22 → g15 23:50 (sessione 5, chiesto dal giocatore «fino all'arrivo con Zemi alla Capsule»; interrotto dal contatto di Re Kaioh)
+- **G14 01:30 · Capsule**: Tights torna al laboratorio, non dorme le tre ore. Apre il cassetto del Mk II e lo richiude. Decide che di sedute e crisi con Akira non parla.
+- **G14 07:00-12:00 · Orto e Capsule**: Tights con i tecnici dell'Orto (pannelli: sostituzione in sei giorni). Manda due tecnici della Capsule a schermare il seminterrato tecnico del palazzo dell'attico (lavori tutto il pomeriggio). Messaggio a Syntia con ora e luogo della prima lezione (g15 15:00).
+- **G14 mattina · portone**: una dozzina di giornalisti (tiro 7). Gli Arc-G2 li tengono sul marciapiede. Uno prova dalle scale di servizio e Tobias lo rimanda giù. Notiziari: «famiglia sottoposta a raccomandazione del Consiglio», foto della terrazza dal basso.
+- **G14 mattina · cameretta**: Syntia chiede a Zemi delle lezioni. Zemi: «Il signore del riso? Quello della crosta?», «E il papà lo sa?»; Syntia: «l'ha chiesto lui»; Zemi: «Allora sì».
+- **G14 pomeriggio · Distese del Nord**: scontro (vedi fronti). Pui Pui morto, Okura pietrificata, Ignis in fuga, Zarcon testimone nascosto.
+- **G14 sera · Città dell'Ovest**: Ignis riferisce a Zaraya. Zaraya sa degli intrusi. Ramo Zaraya-Babidi aperto: è furiosa e vuole la testa del nano, ma vede anche cosa può fare quella magia.
+- **Notte g14→15 · Senza Cielo**: Tyros e quattro dei suoi accettano il marchio di Babidi.
+- **G14 sera → g15 · Consiglio**: i satelliti registrano lo scontro con immagini nitide (critico). Seduta urgente g15 mattina, a porte chiuse; cannoni in allerta («esercitazione»). Il Consiglio vuole Tobias di nuovo in orbita: Tights lo trattiene per le lezioni di Zemi, e Tobias le chiede di spiegarlo lei al re. Ganascia ottiene un suo tecnico alla valutazione di Zemi.
+- **G15 15:00-16:00 · seminterrato**: prima lezione (Tobias, Syntia, Zemi). Nessun picco registrato. Zemi tiene una luce ferma sul palmo per tre respiri; Tobias le dice «brava» a mezza voce. Syntia sollevata.
+- **G15 sera · attico**: messaggio di Tights a Syntia: valutazione il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re.
+- **G15 · Aldilà / Kaioshin**: Shin decide di andare su Terra Nova a cercare Akira; Re Kaioh lo precede e contatta Akira alle 23:50.
+- **Chi lo sa**: vedi le singole voci. **Come Akira può scoprirlo**: per ora sa solo ciò che ha visto e sentito in casa (giornalisti, notiziari, Tobias che dice «lassù», il ki di Zemi che sparisce nel seminterrato, il messaggio di Tights riferito da Syntia, Re Kaioh).

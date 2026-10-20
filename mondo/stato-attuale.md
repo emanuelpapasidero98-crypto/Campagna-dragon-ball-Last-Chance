@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:22)
+- **Data in gioco**: anno 777, giorno 15, quasi mezzanotte (circa le 23:50)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: attico, circa l'1:22 del g14. Akira solo sulla terrazza, al tavolino, con la lattina che aveva aperto per Tights piena davanti a lui e il caffè schizzato sul ferro; la sedia di Tights di traverso. Tights se n'è andata in aeromobile verso la Capsule dopo avergli rinfacciato i tre anni di silenzio (Persuasione fallita, 1 naturale). Syntia ha offerto a Tights il divano (rifiutato), ha guardato a lungo Akira dal corridoio ed è rientrata nella cameretta chiudendo la porta fino in fondo. Tobias ha richiuso la porta d'ingresso ed è di nuovo seduto sul pianerottolo. Zemi dorme.
+- **Scena in sospeso**: attico, g15 verso le 23:50. Il salto chiesto dal giocatore (fino all'arrivo alla Capsule con Zemi) si è interrotto: la casa dorme, Akira è sveglio e Re Kaioh gli parla nella testa per la prima volta in tre anni: ha aspettato due giorni che fosse tranquillo, c'è una persona che sta venendo a cercarlo e vuole che Akira lo sappia prima da lui. Syntia e Zemi nella cameretta (porta chiusa), Tobias sul pianerottolo, Arc-G2 al portone. Valutazione di Zemi: g17 alle 9 alla Capsule.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -38,6 +38,11 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G15 ~23:50 (s5): Re Kaioh contatta Akira telepaticamente: una persona sta venendo a cercarlo.
+- G15 sera (s5): Syntia riferisce il messaggio di Tights: valutazione il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re.
+- G15 15:00-16:00 (s5): prima lezione di Zemi con Tobias nel seminterrato schermato (Syntia presente). Il ki di Zemi sparisce alla percezione di Akira per un'ora. Zemi torna felice: ha tenuto una luce ferma sulla mano per tre respiri.
+- G15 mattina (s5): seduta urgente del Consiglio a porte chiuse; comunicato su «un'esercitazione dei sistemi di difesa orbitale». Tobias al comunicatore: «se mi mandate di nuovo lassù, alle tre chi c'è con la bambina?»; resta.
+- G14 (s5): giornalisti sotto il portone, tenuti a distanza dagli Arc-G2; Tobias ne rimanda giù uno dalle scale di servizio. Syntia chiede a Zemi delle lezioni: Zemi dice sì («l'ha chiesto lui»). Tecnici della Capsule nel seminterrato.
 - G14 ~01:16-01:22 (s5): Tights gli dice di aver fatto girare gli Arc-G2 verso la strada (giornalisti) e che registrano lo stesso; gli chiede se l'innesto gli fa male di notte. Akira: no, ma fatica a dormire; le apre la lattina e le chiede come sta e cosa succede (è dimagrita, non dorme). **Persuasione fallita, critico**: Tights gli rinfaccia che dopo avergli riportato il braccio non l'ha più sentito, rifiuta di raccontargli le sedute («non a uno che dieci minuti fa voleva far paura al re») e se ne va (alle sette ha i tecnici dell'Orto). Syntia le offre il divano, lei rifiuta. Syntia chiude la porta della cameretta.
 - G14 ~01:12-01:16 (s4): Akira a Tights: Zemi non è un'arma; se qualcuno le torce un capello «Korinzo saprà cosa vuol dire avere paura»; Syntia e Zemi prima di tutto; Tobias le insegni solo il controllo. Poi le chiede come sta, le dà ragione sulle sue macchine, si fida solo di lei nel Consiglio, «sarai sempre parte della famiglia». Tende la mano a Syntia: lei non la prende e va nella cameretta. Tights: la minaccia al re non la ripete; nel 774 il re lo ha già sentito minacciare in televisione. Si toglie il cappotto, fa sedere Tobias, spegne il notiziario, porta due lattine di caffè: «In Consiglio ci siedo anch'io, Akira.»
 - G14 ~01:08-01:12 (s4): Akira chiede a Tights di dire al Consiglio che è stato lui, di arrestarlo e di far allenare Zemi da Tobias senza rapporti al governo (Persuasione CD 10: 9+2 = 11, riuscita). Tights: arrestarlo non serve (Zemi la verrebbero a prendere gli Arc-G2), il re ha chiesto quanto diventerà forte; Tobias la allena, rapporti solo a lei. Tobias risponde «e zemi, lo vuole?». Syntia: alle lezioni c'è lei, a Zemi lo chiede lei. Tights: fra tre giorni in laboratorio la misura lei.

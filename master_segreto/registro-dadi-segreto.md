@@ -38,3 +38,16 @@
 - `2026-10-18 22:23:52 UTC` 🎲 Tobias_tono_del_rapporto: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g13_sera:rapporto_al_re_sull_Orto_(7+=inquadra_con_contesto_a_favore_di_Zemi)
 - `2026-10-19 15:53:49 UTC` 🎲 Ganascia: d10 = 7 | mod +0 → totale 7 | CD 6 → PROVA SUPERATA | Parla ai notiziari durante la pausa della seduta (coincidenze ad Arcorp)
 - `2026-10-19 16:20:40 UTC` 🎲 Zemi: d10 = 3 | mod +0 → totale 3 | CD 7 → PROVA FALLITA | Si sveglia per le voci degli adulti sulla terrazza (porte aperte, 1 di notte)
+- `2026-10-20 10:08:27 UTC` 🎲 F5_Incubi: d10 = 7 | mod -1 → totale 6 | Successo Parziale | notte_g14:stress_forte(Tights_andata_via,Syntia,minaccia_al_re)
+- `2026-10-20 10:08:27 UTC` 🎲 F5_Incubi: d10 = 4 | mod -1 → totale 3 | Fallimento | notte_g15:stress_forte
+- `2026-10-20 10:08:27 UTC` 🎲 F5_Incubi: d10 = 3 | mod -1 → totale 2 | Fallimento | notte_g16:vigilia_della_valutazione
+- `2026-10-20 10:08:27 UTC` 🎲 F1_Primo_contatto: d10 = 4 | mod +0 → totale 4 | Successo Parziale | g14:Ignis_e_Okura_arrivano_alle_Distese_del_Nord
+- `2026-10-20 10:08:27 UTC` 🎲 F2_Crepa_Zarcon: d10 = 6 | mod +0 → totale 6 | Successo Parziale | g14:Zarcon_segue_Ignis_e_Okura
+- `2026-10-20 10:08:27 UTC` 🎲 F2_Fronda_Tyros: d10 = 10 | mod +0 → totale 10 | SUCCESSO CRITICO | g14-15:Babidi_tramite_Rapan_contatta_Tyros
+- `2026-10-20 10:08:28 UTC` 🎲 F3_Caccia_Shin: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g14-16:Shin_impaziente,Re_Kaioh_temporeggia
+- `2026-10-20 10:08:28 UTC` 🎲 F7_Re_Kaioh: d10 = 8 | mod -1 → totale 7 | Successo Pieno | g14-16:trova_Akira_solo_e_tranquillo?(confinato,crisi_familiare)
+- `2026-10-20 10:08:28 UTC` 🎲 Giornalisti_al_portone: d10 = 6 | mod +1 → totale 7 | Successo Pieno | g14_mattina:dopo_Ganascia
+- `2026-10-20 10:08:28 UTC` 🎲 Ganascia: d10 = 9 | mod +0 → totale 9 | Successo Pieno | g14-16:mossa_contro_Akira/valutazione
+- `2026-10-20 10:09:48 UTC` 🎲 F4_Lezione1_picco: d10 = 10 | mod +1 → totale 11 | SUCCESSO CRITICO | g15_15:00_seminterrato_foderato_in_fretta:_i_sensori_registrano_un_picco?(1-4_si)
+- `2026-10-20 10:09:48 UTC` 🎲 Zemi_lezione1: d10 = 7 | mod +0 → totale 7 | Successo Pieno | g15:come_va_la_prima_lezione_con_Tobias_(Syntia_presente)
+- `2026-10-20 10:09:48 UTC` 🎲 Consiglio_satelliti_nord: d10 = 10 | mod +0 → totale 10 | SUCCESSO CRITICO | g14_sera:i_satelliti_vedono_lo_scontro_nel_nord(auree_SSJ)?

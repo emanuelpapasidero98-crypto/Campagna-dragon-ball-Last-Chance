@@ -11,10 +11,10 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
 | Recupero della sfera di Bu | `[■■■■]` 4/4 ✅ (G1 notte) | La sfera è a bordo. Inizia la raccolta di energia |
-| Primo contatto coi saiyan | `[■■■□]` 3/4 (g13 sera) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
-| Esercito Majin | `[□□□□□□]` 0/6 | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
-| **Energia di Bu** | `[■□□□□□□□□□□□]` 1/12 | **Majin Bu si risveglia** |
-| Scoperta di Kras | `[□□□□□□□□]` 0/8 | Babidi localizza Varda e parte con la navicella (vedi F6) |
+| Primo contatto coi saiyan | `[■■■■]` 4/4 ✅ (g14 pomeriggio) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
+| Esercito Majin | `[■■□□□□]` 2/6 (notte g14→15) | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
+| **Energia di Bu** | `[■■□□□□□□□□□□]` 2/12 | **Majin Bu si risveglia** |
+| Scoperta di Kras | `[■□□□□□□□]` 1/8 (g15) | Babidi localizza Varda e parte con la navicella (vedi F6) |
 
 - L'energia avanza di 1 per ogni grande combattimento vicino alla navicella o ai majin, di 2 per un torneo all'ultimo sangue "sfruttato", di 1-3 per ogni saiyan forte prosciugato. L'energia di Kras darebbe **+6**.
 - La Scoperta di Kras può avanzare solo dopo che almeno un saiyan marchiato ha raccontato a Babidi del Leggendario (serve Esercito Majin ≥ 1).
@@ -25,9 +25,9 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| Scoperta degli intrusi | `[■■□]` 2/3 | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
-| Fronda dei Senza Cielo (Tyros) | `[■■■■■□]` 5/6 (g13 sera) | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
-| La crepa di Zarcon | `[■■■■□□]` 4/6 (g13 notte) | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
+| Scoperta degli intrusi | `[■■■]` 3/3 ✅ (g14 sera) | Zaraya sa che sulla Terra c'è qualcuno di estraneo e manda le guardie |
+| Fronda dei Senza Cielo (Tyros) | `[■■■■■■]` 6/6 ✅ (notte g14→15: Tyros si allea con Babidi) | Tyros sfida apertamente Zaraya oppure si allea con Babidi (molto probabile se Babidi lo contatta prima) |
+| La crepa di Zarcon | `[■■■■■□]` 5/6 (g14) | Zarcon si spezza: o si sottomette a Babidi (marchio) per superare la madre, o si ribella a entrambi. Possibile SSJ, scatenato dal dolore |
 | Zaraya e Babidi | — | Ramo da decidere al contatto: Zaraya cerca di **usare** Babidi (i cannoni) e Babidi di **marchiarla**. Tiro contrapposto, con Zaraya a +2 per l'orgoglio |
 
 ## F3 — I Kaioshin: "La caccia"
@@ -35,7 +35,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 
 | Orologio | Stato | Quando si riempie |
 |---|---|---|
-| La caccia | `[■■■■■□]` 5/6 | 2: individuano la navicella · 3: tentano un colpo e trovano Dabura · 4: battuta d'arresto (Kibith ferito o pietrificato, a seconda dei tiri) · 5: Shin chiede a Re Kaioh chi sia il guerriero più forte e affidabile · 6: **Shin va su Terra Nova a cercare Akira** |
+| La caccia | `[■■■■■■]` 6/6 ✅ (g15) | 2: individuano la navicella · 3: tentano un colpo e trovano Dabura · 4: battuta d'arresto (Kibith ferito o pietrificato, a seconda dei tiri) · 5: Shin chiede a Re Kaioh chi sia il guerriero più forte e affidabile · 6: **Shin va su Terra Nova a cercare Akira** |
 
 ## F4 — Terra Nova: "L'anomalia"
 **Il re vuole**: proteggere 2 miliardi di persone senza dipendere da Akira. **Tights vuole**: la verità e la sicurezza, e (non lo ammetterà mai) ricucire con Akira.
@@ -126,3 +126,16 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G14 00:40-01:05 (s4) | F4 Anomalia (Consiglio) | esito applicato | Seduta chiusa, raccomandazione firmata dal re (3 a 1, Tights contraria). Due Arc-G2 al portone alle 00:52. Tights la porta di persona all'attico all'1:05 |
 | G14 01:05-01:16 (s4) | F4 Le lezioni segrete | nuovo orologio 0/4 | Persuasione di Akira riuscita: Tights ordina a Tobias di allenare Zemi con i rapporti solo a lei. La valutazione resta (entro il g17), la farà Tights da sola. La minaccia di Akira al re («Korinzo saprà cosa vuol dire avere paura») l'hanno sentita solo Tights e Syntia (Tobias no): nessun effetto sulla sorveglianza per ora |
 | G14 01:16 (s4) | — | nessun avanzamento | Fine sessione 4 a notte fonda (meno di un'ora di gioco dall'arrivo di Tights). All'alba del g14 scattano gli eventi in programma (Ignis e Okura a nord, Zarcon li segue, Babidi e Rapan, Tyros) |
+| G14 01:16-01:22 (s5) | — | nessun avanzamento | Tights se ne va dopo la Persuasione fallita (critico) di Akira |
+| Salto g14 01:22 → g15 23:50 (s5, chiesto dal giocatore fino all'arrivo alla Capsule; interrotto dal contatto di Re Kaioh) | F5 Incubi | tiri 6 (notte g14), 3 (notte g15, ancora da dormire), 2 (notte g16→17: **aura accesa**, da applicare quando dorme) | Stress forte: Tights andata via, Syntia, minaccia al re, vigilia della valutazione |
+| G14 pomeriggio | F1 Primo contatto | 3 → 4 ✅ | Tiro 4. Ignis e Okura arrivano alle Distese del Nord e trovano la barriera. Babidi manda fuori Pui Pui; in SSJ lo uccidono (prima vittima). Esce Dabura: pietrifica Okura con lo sputo; Ignis fugge e torna a riferire |
+| G14 pomeriggio | F1 Energia | 1 → 2 | Grande combattimento vicino alla navicella |
+| G14 pomeriggio | F2 Crepa di Zarcon | 4 → 5 | Tiro 6. Zarcon, nascosto tra le rocce, vede Okura (che gli insegnava a cacciare) diventare di pietra e non interviene. Torna alla Città dell'Ovest di notte, di nascosto, con la vergogna addosso |
+| G14 sera | F2 Scoperta intrusi | 2 → 3 ✅ | Ignis riferisce a Zaraya: Okura pietrificata, un demone alto e un nano col mantello. Zaraya furiosa; prepara la risposta (ramo Zaraya-Babidi ancora aperto) |
+| Notte g14→15 | F2 Fronda | 5 → 6 ✅ | Tiro 10 (critico). Babidi, tramite Rapan, parla a Tyros: Tyros accetta il patto e il marchio, con Rapan, Cipoll e altri due Senza Cielo. Guerra civile saiyan alle porte |
+| Notte g14→15 | F1 Esercito Majin | 0 → 2 | Conseguenza del critico: cinque saiyan marchiati (Tyros, Rapan, Cipoll, due giovani) |
+| G15 | F1 Scoperta di Kras | 0 → 1 | Tyros, marchiato, racconta a Babidi del Leggendario sigillato e portato via da un namecciano nel 774 |
+| G14 sera | F4 (satelliti) | tiro 10 (critico) | I satelliti registrano lo scontro nel nord: auree dorate, un'esplosione, e per la prima volta immagini nitide della cupola organica e di una figura alta con le corna. Seduta urgente del Consiglio la mattina del g15, a porte chiuse. Cannoni a ioni in allerta, coperti dal comunicato «esercitazione dei sistemi di difesa orbitale». Il Consiglio vuole rimandare Tobias in orbita; Tights lo trattiene per Zemi (per ora) |
+| G14-16 | F4 Ganascia | tiro 9 | Approfittando della paura in seduta, Ganascia ottiene dal re che alla valutazione di Zemi (g17 ore 9, Capsule) assista un tecnico scelto da Clod City |
+| G15 15:00 | F4 Lezioni segrete | 0 (tiro 10, critico) | Prima lezione di Tobias a Zemi nel seminterrato del palazzo, foderato in fretta dai tecnici di Tights il g14: la schermatura regge del tutto, nessun picco nei sensori. Blocca anche la percezione del ki da fuori (Akira sente il ki di Zemi sparire per un'ora). Lezione riuscita (tiro 7): Zemi tiene una luce ferma sul palmo per tre respiri |
+| G15 | F3 Caccia | 5 → 6 ✅ | Tiro 5. Dopo aver visto Dabura pietrificare Okura e i saiyan marchiati, Shin decide di andare di persona su Terra Nova a cercare Akira. Re Kaioh, che temporeggiava, lo precede: contatta Akira la notte del g15 verso le 23:50 (tiro 7) |

@@ -15,6 +15,10 @@
 - [s5 · g14 ~01:20] Tights ha i tecnici dell'Orto alle sette, sotto la cupola, per i pannelli. È scesa a piedi dalle scale ed è ripartita in aeromobile verso ovest (la Capsule).
 - [s5 · g14 ~01:21] Syntia ha chiuso la porta della cameretta fino in fondo (scatto della serratura, non a chiave); prima era socchiusa.
 - [s5 · g14 ~01:21] Sul tavolino di ferro della terrazza ci sono gocce di caffè schizzate dalla lattina aperta da Akira; la sedia di Tights è rimasta di traverso.
+- [s5 · g14] Il palazzo dell'attico ha undici piani; nel seminterrato c'è un locale tecnico che i tecnici della Capsule hanno schermato il g14 (trapani tutto il pomeriggio). Dentro, il ki non si percepisce da fuori e i sensori non registrano.
+- [s5 · g14] I giornalisti usano telecamere a capsula portate in spalla; ad Arcorp esistono scale di servizio nel palazzo.
+- [s5 · g15] Il notiziario della piazza, di notte, mostra «ESERCITAZIONE DI DIFESA ORBITALE» sopra la foto di un cielo nero con lampi bianchi in basso.
+- [s5 · g15] Prima lezione di Zemi: tenere una luce ferma sul palmo per tre respiri (dentro per tre, fuori per tre).
 ### Battute memorabili dei PNG
 - Tights: «Sul foglio c'è scritto "presso l'abitazione"… da che parte devono guardare, lì sopra, non c'è scritto!»
 - Tights: «Registrano lo stesso, però, eh! Se accendi l'aura anche solo per un momento, Ganascia lo sa prima di me.»
@@ -25,9 +29,17 @@
 - Syntia (a Tights): «Resta qui, sul divano.» · «Alle sei e mezza ti sveglio io, e il caffè te lo faccio io, caldo, non da una lattina.»
 - Tights: «Se mi siedo su quel divano, alle sei e mezza mi trovi ancora con le scarpe e il cappotto.»
 - Tobias: «Ti accompagno giù.» — Tights: «Tu resti dove ti ho detto.»
+- Tobias (al giornalista): «Le scale non sono un'entrata, e io non sono uno che risponde alle domande… quindi giù, per favore, adesso!»
+- Zemi: «Il signore del riso? Quello della crosta?» · «E il papà lo sa?» · «Allora sì.»
+- Syntia: «Domani alle tre, nel seminterrato del palazzo. Oggi la Capsule ci manda i tecnici a sistemare le pareti.»
+- Tobias (al comunicatore): «Tights, se mi mandate di nuovo lassù, alle tre chi c'è con la bambina?» · «…Va bene, resto qui, ma al re glielo spieghi tu, perché io non ci riesco.»
+- Zemi: «Papà! Ho tenuto la luce ferma sulla mano per tre respiri, tre!» · «Il signore del riso dice che sono brava, però l'ha detto piano piano, che quasi non si sentiva.»
+- Syntia: «Dopodomani alle nove, alla Capsule. Ci portano loro, con quei due di sotto.» · «E il re vuole che alla valutazione ci sia anche un tecnico di Clod City… l'ha scritto Tights, ordine del re.»
+- Re Kaioh (telepatia): "Akira? Akira, sei sveglio? …Sì che sei sveglio, ti vedo da qui, non fare finta!" · "c'è una persona che sta venendo a cercarti, e preferisco che tu lo sappia prima da me."
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
 - g14 ~01:20: **Persuasione fallita con 1 naturale** (1+3 = 4 contro CD 8). Tights gli rimette davanti la lattina, gli rinfaccia i tre anni (il braccio riportato, poi più niente), rifiuta di raccontargli le sedute per la minaccia al re e se ne va. Syntia, nel corridoio, le offre il divano e il caffè caldo (rifiutato), guarda a lungo Akira e rientra nella cameretta chiudendo la porta. Tobias si offre di accompagnare Tights (rifiutato), guarda Akira lungo il corridoio e richiude la porta d'ingresso un po' forte.
+- Salto g14 01:22 → g15 23:50 (chiesto dal giocatore fino all'arrivo alla Capsule, interrotto da Re Kaioh). Syntia gli parla solo per le cose pratiche (le lezioni, la valutazione) e dorme con Zemi a porta chiusa. Zemi, dopo la prima lezione, corre da lui felice. Tobias protegge la famiglia dai giornalisti e resta per la bambina invece di tornare in orbita. Re Kaioh lo contatta per la prima volta in tre anni.
 
 ## Errori segnalati dal giocatore

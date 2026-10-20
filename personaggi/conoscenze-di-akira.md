@@ -57,3 +57,12 @@
 | g14 notte (s4) | **Tights accetta che Tobias alleni Zemi**: i rapporti li farà solo a lei, al re niente. Glielo ha scritto subito. Tobias ha risposto chiedendo se Zemi lo vuole | Tights; ha visto il messaggio di Tobias |
 | g14 notte (s4) | La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona | Tights |
 | g14 notte (s4) | Syntia sarà presente a tutte le lezioni di Zemi con Tobias e chiederà lei a Zemi, domattina, se vuole | Syntia, a Tights |
+| g14 notte (s5) | Tights ha fatto girare gli Arc-G2 del portone verso la strada; registrano comunque: se accende l'aura, Ganascia lo sa prima di lei | Tights |
+| g14 notte (s5) | Tights ce l'ha con lui per i tre anni di silenzio dopo che le ha riportato il braccio; non gli racconta le sedute del Consiglio (per la minaccia al re) | Tights |
+| g14 (s5) | Giornalisti sotto il portone; i notiziari parlano della «famiglia sottoposta a raccomandazione del Consiglio» | L'ha visto |
+| g14 (s5) | Zemi ha accettato le lezioni con Tobias; le lezioni si fanno nel seminterrato del palazzo, schermato dai tecnici della Capsule | L'ha sentito; Syntia |
+| g15 (s5) | Seduta urgente del Consiglio a porte chiuse; comunicato su un'«esercitazione dei sistemi di difesa orbitale». Il governo voleva rimandare Tobias «lassù»; Tobias è rimasto per la bambina | Notiziari; ha sentito Tobias al comunicatore |
+| g15 (s5) | Nel seminterrato schermato il ki di Zemi non si percepisce da fuori | L'ha sentito sparire per un'ora |
+| g15 (s5) | Alla prima lezione Zemi ha tenuto una luce ferma sulla mano per tre respiri | Zemi |
+| g15 sera (s5) | Valutazione di Zemi il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re | Syntia (messaggio di Tights) |
+| g15 ~23:50 (s5) | Re Kaioh lo contatta: una persona sta venendo a cercarlo | Re Kaioh, telepatia |
