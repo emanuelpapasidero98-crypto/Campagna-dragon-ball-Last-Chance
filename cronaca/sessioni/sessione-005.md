@@ -69,6 +69,10 @@
 - Tobias: «Questo stregone… è basso? Con un mantello che arriva per terra?» · «…lo sapevo, io, che non era una roccia»
 - Tobias: «Glielo scrivo io a Tights, adesso, subito.» · «Tu, quando esce quella con le valigette, di questa cosa non dici una parola, che quella riferisce tutto a Ganascia prima ancora di sedersi in aeromobile.»
 - Tobias: «Lassù ci ho passato quattro giorni, io, a guardare quella roba… e un nome, quelli del Consiglio, non me l'hanno detto.» · «Quanto tempo abbiamo, secondo il tuo Re Kaioh, prima che quello stregone si giri da questa parte?»
+- Tobias: «Quattro secondi di video, prima che saltasse: una cupola scura, mezza sotto la neve, che si muoveva su e giù da sola.» · «Sulle foto, davanti alla stessa roba del video, stavolta c'era un altro: alto, con le corna.»
+- Tobias: «Ieri sera è successo di nuovo, ma stavolta erano aure dorate contro aure dorate… saiyan contro saiyan, capisci? A un certo punto una si è spenta, e non si è più riaccesa.»
+- Tobias: «E io, in tutto questo, dovevo stare seduto sul tuo pianerottolo a contare quante volte esci a buttare la spazzatura.»
+- Tobias: «E adesso non so più se ci devo scrivere la luce di tua figlia… o questo nome che mi hai detto tu.» · «Quella era tutta la parete, Akira.»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -83,5 +87,7 @@
 - g17 ~09:05: Akira bacia Zemi e prova a baciare Syntia: lei gira appena il viso (angolo della bocca), non ricambia, non si scosta. Tights guarda il pannello della porta per non guardarli.
 - g17 ~09:10: Akira confida a Tobias Babidi e Re Kaioh, perché crede che Tights non voglia più parlargli. Tobias collega tutto alla figura del video della sonda, si tradisce, scrive a Tights, avverte Akira su Tenaglia e si siede sulla stessa panca. Tights legge e guarda Akira dall'oblò.
 - g17 ~09:20: Akira dice a Tobias di non sapere che aspetto abbia Babidi; gli parla di Dabura, del marchio con la M, dei cinque saiyan, del potere che cresce col marchio, di Re Kaioh spaventato come per Kras; gli chiede se i satelliti hanno mandato immagini. **In sospeso: Persuasione CD 8, +3** (Rispetto 4 +1; situazione +2 −1; coerenza +1). Il tentativo bloccato della s2 è riaperto dal fatto nuovo.
+- g17 ~09:25: **Persuasione riuscita** su Tobias (6+3 = 9, CD 8): racconta la sonda del g8, le foto del g14 e la battaglia del g16. Rabbia verso il Consiglio. Dilemma sul rapporto al re.
+- g17 ~09:30: la valutazione di Zemi accende tutta la parete. Tights nasconde lo schermo a Tenaglia e spegne. Tenaglia annota e guarda Akira.
 
 ## Errori segnalati dal giocatore

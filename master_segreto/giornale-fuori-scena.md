@@ -273,3 +273,7 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **G17 08:30-08:55**: Tobias porta la famiglia alla Capsule in aeromobile grigio del governatorato, scortati dai due Arc-G2. Tobias dice ad Akira del picco e del rapporto chiesto dal re. Alla Capsule li aspettano Tights e l'ingegner Tenaglia di Clod City.
 - **G17, più tardi**: arriva Shin su Terra Nova (ora da decidere in scena).
 - **Come Akira può scoprirlo**: guerra al nord e morte di Ignis: per ora nessun modo (scudo); i cannoni pronti: forse da Tights, se parla.
+
+### G17 ~09:30 · laboratorio di Tights (in scena, visto dall'oblò)
+- **Valutazione di Zemi**: il potenziale latente satura lo strumento di Tights (tutta la scala). Tights è l'unica ad aver visto il numero sullo schermo: lo nasconde a Tenaglia. Tenaglia ha visto la parete piena e lo ha scritto a verbale (lo porterà a Ganascia). Tights deve decidere cosa scrivere nel rapporto al Consiglio (tentata di non riportare il numero vero). Il re ha chiesto «quanto diventerà forte»: la risposta di Tenaglia sarà «oltre la scala».
+- **Prossimo**: la misura di Akira. Tenaglia ha paura e lo nasconde dietro la procedura.

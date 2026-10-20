@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:15)
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:30)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), corridoio davanti al laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:15, Capsule, corridoio davanti al laboratorio di Tights. Akira e Tobias seduti ai due capi della panca, a guardare l'oblò. Akira ha detto a Tobias di Babidi, della creatura e di Re Kaioh (non di Shin). Tobias si è tradito (lo stregone «basso, con un mantello»? quattro giorni «lassù»), ha scritto subito a Tights e gli ha chiesto di non dire niente davanti a Tenaglia. Dentro, Tights ha letto il messaggio e lo ha guardato attraverso il vetro, poi ha avviato la misura di Zemi (bracciali ai polsi, luci verdi). Tenaglia ha notato il comunicatore. Tobias chiede: quanto tempo abbiamo, secondo Re Kaioh, prima che lo stregone si giri verso Terra Nova? Dopo Zemi tocca ad Akira. Shin arriva in giornata.
+- **Scena in sospeso**: g17, circa le 9:30, Capsule, corridoio davanti al laboratorio di Tights. Akira e Tobias sulla panca. Tobias gli ha raccontato cosa hanno visto la sonda e i satelliti (il basso col mantello, l'alto con le corna, saiyan contro saiyan il g16: un'aura spenta) e che non sa cosa scrivere al re. Dentro, la misura di Zemi ha acceso tutta la parete di luci verdi; Tights ha nascosto lo schermo a Tenaglia e ha spento; Zemi cerca il papà con gli occhi; Syntia la stringe; Tenaglia ha scritto, sottolineato e ora guarda Akira. Tobias: «Quella era tutta la parete, Akira.» Dopo tocca ad Akira. Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -18,7 +18,7 @@
 ## Tentativi falliti (non ripetibili finché la situazione non cambia davvero)
 | Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
 |---|---|---|---|
-| s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
+| ~~s2 · g13 tarda mattina~~ | ~~Persuasione (CD 10, +2: 7 → 9)~~ | ~~Tobias · sapere cosa succede~~ | **Superato il g17 (s5)**: con il fatto nuovo di Babidi, Persuasione CD 8 +3 (6 → 9) riuscita: Tobias gli ha detto cosa hanno visto i satelliti |
 | s5 · g14 ~01:20 | Persuasione (CD 8, +3: 1 naturale → 4, critico) | Tights · farle dire cosa la preoccupa / cosa sta succedendo (crisi, sedute del Consiglio) | Un fatto nuovo vero: tempo trascorso e un rapporto ricucito (i tre anni di silenzio affrontati), un'informazione che Akira porta di suo sulla crisi, o Tights che sceglie da sola di parlarne. Cambiare solo le parole non basta |
 
 ## Fili aperti noti al giocatore
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:20-09:30 (s5): Persuasione su Tobias riuscita (6+3 = 9 contro CD 8): sonda del g8, foto del g14, saiyan contro saiyan il g16. Finisce la misura di Zemi: tutta la parete di luci verdi.
 - G17 ~09:05-09:15 (s5): Akira bacia Zemi sulla fronte («papà farà la stessa cosa»; Zemi: «Anche a te ti mettono i fili?»). Bacia Syntia: lei gira appena la faccia, il bacio le arriva all'angolo della bocca; non ricambia e non si scosta. Sulla panca Akira racconta a Tobias di Babidi e di Re Kaioh. Tobias si tradisce sullo stregone, scrive a Tights; Tights legge e lo guarda dall'oblò.
 - G17 ~09:00 (s5): Akira accetta la valutazione. Tenaglia: prima Zemi, genitori fuori. Syntia rifiuta di staccarsi da Zemi; Tights, padrona del laboratorio, la fa restare e lascia fuori Akira. Tenaglia lo mette a verbale («Sua Maestà lo leggerà»). Zemi nota il dinosauro sulla valigetta di Tenaglia, che arrossisce e non risponde.
 - G17 08:30-08:55 (s5): Tobias li porta alla Capsule (giornalisti raddoppiati, scorta di Arc-G2). Gli dice che i sensori hanno preso il picco di Zemi del g16 e che il re gli ha chiesto un rapporto, non ancora mandato. Alla Capsule: Tights e l'ingegner Tenaglia; la valutazione è estesa al padre per ordine del re.
