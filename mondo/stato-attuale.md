@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:05)
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:15)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), corridoio davanti al laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:05, Capsule Corporation di Arcorp, corridoio curvo davanti al laboratorio di Tights. Akira ha accettato la valutazione («non ho nessun problema»). Dentro il laboratorio (schermato: Akira non sente più il ki di Zemi) ci sono Tights, Tenaglia, Syntia con Zemi in braccio; si comincia da Zemi (un'ora o più), poi tocca ad Akira. Tights lo ha lasciato fuori (il suo ki falserebbe la lettura) e gli ha indicato una panca. Tobias appoggiato al muro di fronte, con il rapporto per il re non ancora mandato. Akira voleva parlare a Tights di Babidi. Shin arriva su Terra Nova in giornata.
+- **Scena in sospeso**: g17, circa le 9:15, Capsule, corridoio davanti al laboratorio di Tights. Akira e Tobias seduti ai due capi della panca, a guardare l'oblò. Akira ha detto a Tobias di Babidi, della creatura e di Re Kaioh (non di Shin). Tobias si è tradito (lo stregone «basso, con un mantello»? quattro giorni «lassù»), ha scritto subito a Tights e gli ha chiesto di non dire niente davanti a Tenaglia. Dentro, Tights ha letto il messaggio e lo ha guardato attraverso il vetro, poi ha avviato la misura di Zemi (bracciali ai polsi, luci verdi). Tenaglia ha notato il comunicatore. Tobias chiede: quanto tempo abbiamo, secondo Re Kaioh, prima che lo stregone si giri verso Terra Nova? Dopo Zemi tocca ad Akira. Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:05-09:15 (s5): Akira bacia Zemi sulla fronte («papà farà la stessa cosa»; Zemi: «Anche a te ti mettono i fili?»). Bacia Syntia: lei gira appena la faccia, il bacio le arriva all'angolo della bocca; non ricambia e non si scosta. Sulla panca Akira racconta a Tobias di Babidi e di Re Kaioh. Tobias si tradisce sullo stregone, scrive a Tights; Tights legge e lo guarda dall'oblò.
 - G17 ~09:00 (s5): Akira accetta la valutazione. Tenaglia: prima Zemi, genitori fuori. Syntia rifiuta di staccarsi da Zemi; Tights, padrona del laboratorio, la fa restare e lascia fuori Akira. Tenaglia lo mette a verbale («Sua Maestà lo leggerà»). Zemi nota il dinosauro sulla valigetta di Tenaglia, che arrossisce e non risponde.
 - G17 08:30-08:55 (s5): Tobias li porta alla Capsule (giornalisti raddoppiati, scorta di Arc-G2). Gli dice che i sensori hanno preso il picco di Zemi del g16 e che il re gli ha chiesto un rapporto, non ancora mandato. Alla Capsule: Tights e l'ingegner Tenaglia; la valutazione è estesa al padre per ordine del re.
 - Notte g16→17, 03:12 (s5): Akira si sveglia dall'incubo con l'aura accesa; gli Arc-G2 la registrano (linee rosse, facce verso l'alto). Zemi si sveglia e lo chiama; Syntia corre da lei; Tobias bussa.

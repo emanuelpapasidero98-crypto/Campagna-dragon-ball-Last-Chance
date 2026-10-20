@@ -65,6 +65,10 @@
 - Syntia (a Tenaglia): «Io da mia figlia non mi stacco, ingegnere.» · «Se il mio ki le dà fastidio, misuri anche me, così vede quanto poco ce n'è.»
 - Tights: «Il laboratorio è mio, gli strumenti li ho costruiti io, e cosa falsa una lettura lo decido io!» · «Tu no… tu aspetti fuori, che se ti agiti tu, mi salta il quadro di tutto il piano!»
 - Zemi (a Tenaglia): «Anche tu ce l'hai, il dinosauro…»
+- Zemi: «Anche a te ti mettono i fili?» · «Allora dopo vediamo chi fa la luce più grande!»
+- Tobias: «Questo stregone… è basso? Con un mantello che arriva per terra?» · «…lo sapevo, io, che non era una roccia»
+- Tobias: «Glielo scrivo io a Tights, adesso, subito.» · «Tu, quando esce quella con le valigette, di questa cosa non dici una parola, che quella riferisce tutto a Ganascia prima ancora di sedersi in aeromobile.»
+- Tobias: «Lassù ci ho passato quattro giorni, io, a guardare quella roba… e un nome, quelli del Consiglio, non me l'hanno detto.» · «Quanto tempo abbiamo, secondo il tuo Re Kaioh, prima che quello stregone si giri da questa parte?»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -76,5 +80,7 @@
 - g16 00:10: Akira risponde a Re Kaioh («davvero molta» rabbia; aiuterà; terrà i guai lontano da Terra Nova; proverà a parlare con Tights). Re Kaioh lo ringrazia.
 - Salto g16 → g17 08:55 (chiesto dal giocatore). La sera del g16 Akira racconta tutto a Syntia: lei ha paura per Zemi e pone la condizione di decidere insieme; dorme nella cameretta ma con la porta aperta. Alle 3:12 Akira si sveglia con l'aura accesa: Zemi chiama il papà, Syntia lo guarda e corre dalla bambina. Tobias li porta alla Capsule e gli confida del picco e del rapporto chiesto dal re. Tights, furiosa e spaventata per l'aura. L'ordine del re estende la valutazione ad Akira.
 - g17 ~09:00: Akira saluta Tenaglia e accetta la valutazione senza discutere; a Tights non risponde. Tights e Syntia fanno fronte comune contro Tenaglia (Syntia resta con Zemi); Tights lascia fuori Akira, fredda. Tenaglia mette tutto a verbale. Zemi e il dinosauro di Tenaglia: un attimo di imbarazzo dell'ingegnere.
+- g17 ~09:05: Akira bacia Zemi e prova a baciare Syntia: lei gira appena il viso (angolo della bocca), non ricambia, non si scosta. Tights guarda il pannello della porta per non guardarli.
+- g17 ~09:10: Akira confida a Tobias Babidi e Re Kaioh, perché crede che Tights non voglia più parlargli. Tobias collega tutto alla figura del video della sonda, si tradisce, scrive a Tights, avverte Akira su Tenaglia e si siede sulla stessa panca. Tights legge e guarda Akira dall'oblò.
 
 ## Errori segnalati dal giocatore

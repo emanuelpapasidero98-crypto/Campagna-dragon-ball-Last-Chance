@@ -79,3 +79,5 @@
 | g16 sera (s5) | Syntia sa di Re Kaioh, Shin e Babidi (gliel'ha detto lui); vuole che ogni decisione con quel dio la prendano insieme | Syntia |
 | g17 notte (s5) | Alle 3:12 si è svegliato con l'aura accesa; gli Arc-G2 l'hanno registrata. Ganascia l'ha saputo alle 3:30, Tights alle 4 | Lui stesso; Tights |
 | g17 mattina (s5) | Per ordine del re (firmato alle 7 del g17) la valutazione è estesa anche a lui. A farla, con Tights, c'è l'ingegner Tenaglia di Clod City | Tenaglia |
+| g17 ~09:10 (s5) | Tobias, sentendo di Babidi, gli ha chiesto se lo stregone è basso, con un mantello fino a terra: l'ha visto, o ne ha visto qualcosa («…lo sapevo, io, che non era una roccia»). Dice di aver passato quattro giorni «lassù» a guardare «quella roba» e che il Consiglio non gli ha mai detto un nome | Tobias |
+| g17 ~09:10 (s5) | Tobias ha scritto subito a Tights di Babidi; Tights l'ha letto in laboratorio e lo ha guardato attraverso l'oblò, bianca in faccia. Tobias: davanti a Tenaglia non dire niente, riferisce tutto a Ganascia | Tobias; l'ha visto |
