@@ -43,3 +43,7 @@ Caratteri, affetti e parametri: `archivio/lista-png-originale.md`, invariati sal
 - **Zestra**: parla un po' di più.
 - **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Lace** Caotico Buono (leader, disobbedisce per ciò che è giusto, come nel 771) · **Mellor** Caotico Neutrale (orgoglioso, attaccato al potere, farebbe di tutto per vincere, ma darebbe la vita per i compagni) · **Zestra** Neutrale Buono (prudente, strategica, buona senza clamore) · **Escar** Legale Buono (candido, fa il suo dovere anche quando ha paura).
 - **Escar**: si sente finalmente utile grazie alla Genkidama.
+
+## Aggiornamenti in corso di sessione 5 (g15)
+- **Shin**: F3 6/6. Dopo lo scontro del g14 (Pui Pui morto, Okura pietrificata da Dabura) e i Senza Cielo marchiati, decide di andare su Terra Nova a cercare Akira con il Kai Kai di Kibith (ferito: il viaggio è faticoso). Arrivo previsto il g16 o il g17. Diffida di Akira (Akyr).
+- **Re Kaioh**: g15 ~23:50 contatta Akira, solo e sveglio di notte. Gli rivela Shin, Babidi, Majin Bu (pianeti distrutti, dei cinque Kaioshin ne è rimasto uno), lo scontro dei saiyan al nord (una non è tornata: non sa il nome). Si scusa di avergli fatto il nome. Lo avverte che Shin non si fida (sa di Akyr). Gli chiede di promettere che ascolterà Shin fino in fondo. Prova: senso di colpa e preoccupazione. Non ha parlato degli allievi.

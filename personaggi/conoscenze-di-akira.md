@@ -66,3 +66,6 @@
 | g15 (s5) | Alla prima lezione Zemi ha tenuto una luce ferma sulla mano per tre respiri | Zemi |
 | g15 sera (s5) | Valutazione di Zemi il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re | Syntia (messaggio di Tights) |
 | g15 ~23:50 (s5) | Re Kaioh lo contatta: una persona sta venendo a cercarlo | Re Kaioh, telepatia |
+| g15 ~23:50 (s5) | **Chi lo cerca è Shin, il Kaioshin dell'Est**, un dio sopra tutti i Kaioh. Sulla vecchia Terra è arrivato uno stregone, **Babidi**, che vuole svegliare un mostro sepolto lì da milioni di anni, **Majin Bu**; secondo Shin, Bu ha distrutto pianeti interi e dei cinque Kaioshin ne è rimasto uno. Shin gli dà la caccia da settimane, da solo non ce la fa, il suo servitore è mezzo morto | Re Kaioh, telepatia |
+| g15 ~23:50 (s5) | Il g14 i saiyan si sono scontrati con Babidi al nord e una di loro non è tornata | Re Kaioh |
+| g15 ~23:50 (s5) | Re Kaioh ha fatto il suo nome a Shin come guerriero più forte e affidabile. Shin arriva domani o dopodomani, e non si fida di lui: sa di Akyr | Re Kaioh |

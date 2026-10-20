@@ -6,7 +6,7 @@
 - **Sessione corrente**: 5 (in corso)
 - **Data in gioco**: anno 777, giorno 15, quasi mezzanotte (circa le 23:50)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: attico, g15 verso le 23:50. Il salto chiesto dal giocatore (fino all'arrivo alla Capsule con Zemi) si è interrotto: la casa dorme, Akira è sveglio e Re Kaioh gli parla nella testa per la prima volta in tre anni: ha aspettato due giorni che fosse tranquillo, c'è una persona che sta venendo a cercarlo e vuole che Akira lo sappia prima da lui. Syntia e Zemi nella cameretta (porta chiusa), Tobias sul pianerottolo, Arc-G2 al portone. Valutazione di Zemi: g17 alle 9 alla Capsule.
+- **Scena in sospeso**: attico, g15 verso le 23:55. La casa dorme; Akira è sveglio e parla telepaticamente con Re Kaioh. Re Kaioh gli ha detto che lo cerca Shin, il Kaioshin dell'Est, per Babidi e Majin Bu sulla vecchia Terra; che i saiyan si sono già scontrati con loro (una non è tornata); che il nome di Akira l'ha fatto lui; che Shin arriva domani o dopodomani e non si fida di lui (sa di Akyr). Gli chiede di promettere che non lo manderà via prima che abbia finito di parlare. Valutazione di Zemi: g17 alle 9 alla Capsule.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -38,6 +38,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G15 ~23:55 (s5): Re Kaioh rivela ad Akira Shin, Babidi e Majin Bu; Shin arriva il g16 o il g17 e non si fida di lui. Gli chiede di promettere di ascoltarlo fino in fondo.
 - G15 ~23:50 (s5): Re Kaioh contatta Akira telepaticamente: una persona sta venendo a cercarlo.
 - G15 sera (s5): Syntia riferisce il messaggio di Tights: valutazione il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re.
 - G15 15:00-16:00 (s5): prima lezione di Zemi con Tobias nel seminterrato schermato (Syntia presente). Il ki di Zemi sparisce alla percezione di Akira per un'ora. Zemi torna felice: ha tenuto una luce ferma sulla mano per tre respiri.
