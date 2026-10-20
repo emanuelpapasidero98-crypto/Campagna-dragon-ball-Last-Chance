@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:16)
+- **Data in gioco**: anno 777, giorno 14, notte (circa l'1:22)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico, circa l'1:17 del g14. Akira e Tights soli al tavolino. Tights (senza cappotto, cartella sotto la sedia) gli ha detto di aver fatto girare i due Arc-G2 verso la strada (domattina arriveranno i giornalisti) e che registrano comunque: se accende l'aura, Ganascia lo sa prima di lei. Ha mentito a Tobias di aver cenato. Ha allungato la mano per aprire la lattina di Akira e si è fermata. Gli ha chiesto: «E a te, lì dove c'era l'innesto… di notte fa ancora male?». La lattina di Akira è ancora chiusa. Syntia è in piedi vicino alla porta socchiusa della cameretta, non esce. Tobias sul pianerottolo. Zemi dorme.
+- **Scena in sospeso**: attico, circa l'1:22 del g14. Akira solo sulla terrazza, al tavolino, con la lattina che aveva aperto per Tights piena davanti a lui e il caffè schizzato sul ferro; la sedia di Tights di traverso. Tights se n'è andata in aeromobile verso la Capsule dopo avergli rinfacciato i tre anni di silenzio (Persuasione fallita, 1 naturale). Syntia ha offerto a Tights il divano (rifiutato), ha guardato a lungo Akira dal corridoio ed è rientrata nella cameretta chiudendo la porta fino in fondo. Tobias ha richiuso la porta d'ingresso ed è di nuovo seduto sul pianerottolo. Zemi dorme.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -18,6 +18,7 @@
 | Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
 |---|---|---|---|
 | s2 · g13 tarda mattina | Persuasione (CD 10, +2: 7 → 9) | Tobias · sapere cosa succede (saiyan, Consiglio, di cosa sospettano Akira) | Un fatto nuovo: un'informazione che Akira porta di suo, la decisione del Consiglio, un ordine diverso a Tobias o il permesso di Tights. Tobias lo ha rimandato a Tights |
+| s5 · g14 ~01:20 | Persuasione (CD 8, +3: 1 naturale → 4, critico) | Tights · farle dire cosa la preoccupa / cosa sta succedendo (crisi, sedute del Consiglio) | Un fatto nuovo vero: tempo trascorso e un rapporto ricucito (i tre anni di silenzio affrontati), un'informazione che Akira porta di suo sulla crisi, o Tights che sceglie da sola di parlarne. Cambiare solo le parole non basta |
 
 ## Fili aperti noti al giocatore
 - **Stanotte**: Tights all'attico con la decisione del Consiglio. Tobias allenerà Zemi (Tights d'accordo, rapporti solo a lei); Syntia sarà presente a ogni lezione e chiederà a Zemi se vuole. La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona. Akira aveva detto che Zemi là dentro non entra.
@@ -37,6 +38,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G14 ~01:16-01:22 (s5): Tights gli dice di aver fatto girare gli Arc-G2 verso la strada (giornalisti) e che registrano lo stesso; gli chiede se l'innesto gli fa male di notte. Akira: no, ma fatica a dormire; le apre la lattina e le chiede come sta e cosa succede (è dimagrita, non dorme). **Persuasione fallita, critico**: Tights gli rinfaccia che dopo avergli riportato il braccio non l'ha più sentito, rifiuta di raccontargli le sedute («non a uno che dieci minuti fa voleva far paura al re») e se ne va (alle sette ha i tecnici dell'Orto). Syntia le offre il divano, lei rifiuta. Syntia chiude la porta della cameretta.
 - G14 ~01:12-01:16 (s4): Akira a Tights: Zemi non è un'arma; se qualcuno le torce un capello «Korinzo saprà cosa vuol dire avere paura»; Syntia e Zemi prima di tutto; Tobias le insegni solo il controllo. Poi le chiede come sta, le dà ragione sulle sue macchine, si fida solo di lei nel Consiglio, «sarai sempre parte della famiglia». Tende la mano a Syntia: lei non la prende e va nella cameretta. Tights: la minaccia al re non la ripete; nel 774 il re lo ha già sentito minacciare in televisione. Si toglie il cappotto, fa sedere Tobias, spegne il notiziario, porta due lattine di caffè: «In Consiglio ci siedo anch'io, Akira.»
 - G14 ~01:08-01:12 (s4): Akira chiede a Tights di dire al Consiglio che è stato lui, di arrestarlo e di far allenare Zemi da Tobias senza rapporti al governo (Persuasione CD 10: 9+2 = 11, riuscita). Tights: arrestarlo non serve (Zemi la verrebbero a prendere gli Arc-G2), il re ha chiesto quanto diventerà forte; Tobias la allena, rapporti solo a lei. Tobias risponde «e zemi, lo vuole?». Syntia: alle lezioni c'è lei, a Zemi lo chiede lei. Tights: fra tre giorni in laboratorio la misura lei.
 - G13 ~21:05 (s3): sulla terrazza Akira chiede conto a Syntia del ki di Zemi e del «sasso»; Syntia ammette tutto (più di un anno, la lampada della scuola, i quattro mesi, il segreto chiesto a Zemi) e gli chiede di girarsi.
