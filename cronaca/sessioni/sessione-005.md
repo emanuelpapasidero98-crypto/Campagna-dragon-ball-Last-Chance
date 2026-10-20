@@ -19,6 +19,9 @@
 - [s5 · g14] I giornalisti usano telecamere a capsula portate in spalla; ad Arcorp esistono scale di servizio nel palazzo.
 - [s5 · g15] Il notiziario della piazza, di notte, mostra «ESERCITAZIONE DI DIFESA ORBITALE» sopra la foto di un cielo nero con lampi bianchi in basso.
 - [s5 · g15] Prima lezione di Zemi: tenere una luce ferma sul palmo per tre respiri (dentro per tre, fuori per tre).
+- [s5 · g15 notte] Syntia dorme nella cameretta con Zemi; nel letto matrimoniale l'altra metà resta vuota. Di notte sul soffitto della camera si vede il riverbero azzurro degli Arc-G2.
+- [s5 · g15 notte] Akira, stringendolo, ha strappato il lenzuolo per una spanna.
+- [s5] Il marchio di Babidi, per come lo descrive Re Kaioh: una M disegnata sulla fronte.
 ### Battute memorabili dei PNG
 - Tights: «Sul foglio c'è scritto "presso l'abitazione"… da che parte devono guardare, lì sopra, non c'è scritto!»
 - Tights: «Registrano lo stesso, però, eh! Se accendi l'aura anche solo per un momento, Ganascia lo sa prima di me.»
@@ -39,11 +42,15 @@
 - Re Kaioh: "Ma che "lei"! Dammi del tu, Akira, che sennò mi sento ancora più vecchio di quello che sono!"
 - Re Kaioh: "Mi ha chiesto il nome del guerriero più forte di cui ci si potesse fidare." · "…E io gli ho detto il tuo."
 - Re Kaioh: "Quando arriva, non mandarlo via prima che abbia finito di parlare… me lo prometti?"
+- Re Kaioh: "Piano, Akira, piano… e piantala con il lei, che mi fai sentire Enma!"
+- Re Kaioh: "Babidi, invece, da solo è piccolo e vigliacco, e uno come te lo butterebbe giù con uno schiaffo. Il guaio è un altro… entra nella testa di chi si porta dentro tanta rabbia, e lo fa diventare suo."
+- Re Kaioh: "Se Zaraya ce la farebbe contro Bu, non lo so. Shin dice di no, ma Shin in questi giorni non dorme, e vede Bu dappertutto." · "Questo non dirglielo, eh, quando arriva!"
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
 - g14 ~01:20: **Persuasione fallita con 1 naturale** (1+3 = 4 contro CD 8). Tights gli rimette davanti la lattina, gli rinfaccia i tre anni (il braccio riportato, poi più niente), rifiuta di raccontargli le sedute per la minaccia al re e se ne va. Syntia, nel corridoio, le offre il divano e il caffè caldo (rifiutato), guarda a lungo Akira e rientra nella cameretta chiudendo la porta. Tobias si offre di accompagnare Tights (rifiutato), guarda Akira lungo il corridoio e richiude la porta d'ingresso un po' forte.
 - Salto g14 01:22 → g15 23:50 (chiesto dal giocatore fino all'arrivo alla Capsule, interrotto da Re Kaioh). Syntia gli parla solo per le cose pratiche (le lezioni, la valutazione) e dorme con Zemi a porta chiusa. Zemi, dopo la prima lezione, corre da lui felice. Tobias protegge la famiglia dai giornalisti e resta per la bambina invece di tornare in orbita. Re Kaioh lo contatta per la prima volta in tre anni.
 - g15 ~23:55: Akira risponde a Re Kaioh con rispetto (gli dà del lei) e gli chiede chi lo cerca. Re Kaioh, imbarazzato, gli chiede di dargli del tu; poi gli rivela Shin, Babidi, Majin Bu, lo scontro dei saiyan al nord, e si scusa di avergli fatto il nome. Avverte che Shin non si fida di lui (Akyr) e gli chiede di promettere di ascoltarlo fino in fondo.
+- g15 ~23:58: Akira, sconvolto, chiede se Zaraya non potrebbe battere Bu, quanto sia potente Babidi, e se il servitore l'ha ferito Bu o lo stregone. Re Kaioh (che si spazientisce perché Akira gli dà ancora del lei): Bu dorme; è stato Dabura; Babidi è debole ma si prende chi ha rabbia dentro; cinque saiyan marchiati; su Zaraya non sa. Gli scappa una critica a Shin e chiede di non riferirgliela.
 
 ## Errori segnalati dal giocatore

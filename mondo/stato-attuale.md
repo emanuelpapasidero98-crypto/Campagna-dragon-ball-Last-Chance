@@ -38,6 +38,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G15 ~23:58 (s5): Re Kaioh: Bu dorme ancora (serve energia); Kibith l'ha ferito Dabura, re dei demoni al servizio di Babidi, che ha anche pietrificato la saiyan; Babidi è debole ma si prende chi ha rabbia dentro; cinque saiyan marchiati (M sulla fronte); su Zaraya contro Bu non sa. Akira, a letto, strappa il lenzuolo stringendolo. Zemi si agita nel sonno, Syntia la calma contando.
 - G15 ~23:55 (s5): Re Kaioh rivela ad Akira Shin, Babidi e Majin Bu; Shin arriva il g16 o il g17 e non si fida di lui. Gli chiede di promettere di ascoltarlo fino in fondo.
 - G15 ~23:50 (s5): Re Kaioh contatta Akira telepaticamente: una persona sta venendo a cercarlo.
 - G15 sera (s5): Syntia riferisce il messaggio di Tights: valutazione il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re.
