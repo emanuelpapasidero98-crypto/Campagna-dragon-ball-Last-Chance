@@ -34,7 +34,7 @@ Il giocatore vuole che dai dialoghi **traspaia ciò che provano i PNG**. Un PNG 
    - **dal ritmo**: chi è arrabbiato accorcia e incalza, chi è nervoso si inceppa, si corregge, ricomincia, chi è stanco lascia le frasi a metà;
    - **dalla punteggiatura**, senza esagerare: un esclamativo dove una persona alzerebbe davvero la voce, domande, puntini, interruzioni (—), il maiuscolo solo per chi urla;
    - **dalla voce e dal corpo** intorno alla battuta: un tono, un gesto legato a quella emozione in quella situazione.
-2. **Due strati**: l'emozione di superficie si sente nelle parole, quella sotto trapela in un dettaglio (`regole/07-psicologia-dei-png.md` §2).
+2. **Due strati**: l'emozione di superficie si sente nelle parole, quella sotto trapela in un dettaglio (`regole/07-psicologia-dei-png.md` §3).
 3. **Il PNG può dire ciò che prova**, quando il momento è forte ed è nel suo carattere («Mi hai fatto paura, Akira!», «Sono stanca morta, Akira!»). Il sottotesto serve per ciò che il PNG **nasconde apposta** (quello che la scheda segna come non detto), non per ogni sentimento.
 4. **La freddezza è un'emozione anche lei**, e si vede: chi è freddo per carattere o per scelta lo è in modo riconoscibile (cosa evita, cosa non concede, come taglia corto). Non è il tono di base di tutti i PNG.
 5. **Prova**: copri il nome di chi parla e i gesti. Dalla battuta da sola si capisce cosa prova? Se no, riscrivila.

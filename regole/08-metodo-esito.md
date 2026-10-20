@@ -40,10 +40,10 @@ Il dado non sostituisce il metodo: decide **se** Akira ottiene ciò che cerca. *
 
 ## Fase 2 — Mettersi nei panni di ogni PNG presente
 
-Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapporti (Regola 8), e lo **schema di `regole/07-psicologia-dei-png.md`**, che vale per tutti, anche per i PNG nuovi: le sei leve (temperamento, bisogno, paura, difesa, rapporto con chi ha davanti, stato del corpo), i due strati dell'emozione, la difesa sotto pressione, cosa gli scappa (§8 di quella guida).
+Per ogni PNG in scena, rispondi usando **solo** le schede, il diario e i rapporti (Regola 8), e lo **schema di `regole/07-psicologia-dei-png.md`**, che vale per tutti, anche per i PNG nuovi: l'allineamento (cosa sceglie quando deve decidere), le sei leve (temperamento, bisogno, paura, difesa, rapporto con chi ha davanti, stato del corpo), i due strati dell'emozione, la difesa sotto pressione, cosa gli scappa (§9 di quella guida).
 
 4. **Cosa sa adesso**, e cosa non sa. Non può dire niente che non sappia.
-5. **Cosa prova**, su due strati: l'emozione di superficie e quella sotto (`regole/07-psicologia-dei-png.md` §2). Le parole seguono la superficie; lo strato sotto trapela in un dettaglio. E **da dove si sentirà**: le parole che sceglie, il ritmo, la voce, un gesto suo (`regole/06-dialoghi.md` §2-bis). Un PNG che prova qualcosa e parla come una statua è un errore.
+5. **Cosa prova**, su due strati: l'emozione di superficie e quella sotto (`regole/07-psicologia-dei-png.md` §3). Le parole seguono la superficie; lo strato sotto trapela in un dettaglio. E **da dove si sentirà**: le parole che sceglie, il ritmo, la voce, un gesto suo (`regole/06-dialoghi.md` §2-bis). Un PNG che prova qualcosa e parla come una statua è un errore.
 6. **Cosa vuole ottenere da questo scambio**, in concreto e adesso: che lui la smetta, essere perdonata, non perdere il controllo della situazione, proteggere qualcuno, guadagnare tempo, ferirlo, andarsene.
 7. **Cosa non dirà**, e perché. Ciò che una scheda segna come "non detto" **resta non detto**, a meno che la scena non lo strappi fuori con una ragione forte (una domanda diretta e precisa, un crollo che si è visto arrivare).
 
@@ -143,7 +143,8 @@ EOF
 | PNG-copione | Il PNG recita la propria scheda o i propri rapporti | I file servono a sapere, non a dire |
 | Ricalco | Frasi, gesti o chiuse ricopiati da una guida o da esiti precedenti | Partire dalla fase 1, non dal ricordo di un testo |
 | Tentativo risolto a tavolino | Akira prova a convincere, scoprire, nascondersi o colpire, e l'esito decide da solo come va | Fase 1-bis: si chiama il tiro e ci si ferma |
-| PNG trasparente o da dibattito | Dice esattamente ciò che prova, in ordine, o risponde nel merito a ogni accusa invece di difendersi | Due strati dell'emozione e difese (`regole/07-psicologia-dei-png.md` §2-3) |
+| PNG trasparente o da dibattito | Dice esattamente ciò che prova, in ordine, o risponde nel merito a ogni accusa invece di difendersi | Due strati dell'emozione e difese (`regole/07-psicologia-dei-png.md` §3-4) |
+| PNG fuori dalla sua bussola | Un PNG sceglie contro il proprio allineamento senza una pressione che lo giustifichi (il Legale che rompe la parola per comodità, il Malvagio che si commuove) | Allineamento (`regole/07-psicologia-dei-png.md` §1) |
 | PNG-statua | Il PNG parla per constatazioni secche e senza tono, e non si capisce cosa prova | Emozione nelle parole, nel ritmo, nella voce (`regole/06-dialoghi.md` §2-bis) |
 | Catalogo di gesti | Il narratore registra dita, oggetti, vestiti, frigoriferi, uno dopo l'altro | Un gesto che porta l'emozione, il resto si taglia |
 | Frase fatta | Una battuta che potrebbe dire chiunque in qualsiasi storia («mi fai venire il mal di testa», «dobbiamo parlare», «fidati di me») | Ciò che direbbe questa persona, adesso (`regole/06-dialoghi.md` §4, punto 16) |

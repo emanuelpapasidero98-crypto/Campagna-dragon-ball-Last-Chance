@@ -9,6 +9,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Desiderio**: la supremazia saiyan, rompere un giorno il trattato, cancellare la vergogna di essere stata risparmiata. **Paura**: la debolezza, che Zarcon finisca come il padre Tarcos (che lei stessa uccise).
 - **Sa**: il trattato, i cannoni, i tornei, il dissenso di Tyros (lo sospetta). **Non sa**: Babidi (finché F2 "Scoperta degli intrusi" non è a 3). Non sa che Akira si è ritirato.
 - **Parametri**: Rispetto 4 (lo riconosce come guerriero: l'ha battuta) · Amore 1 · **Odio 5** · Spietatezza 6 · Lealtà 5 (alla razza e al figlio)
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Malvagia**. Gerarchia, razza, ordine e la propria supremazia contano più della vita dei singoli; punizioni estreme, nessuna pietà per i deboli. Ha un codice (di solito non uccide al primo incontro) e rispetta il trattato finché le conviene: rompere un patto in modo aperto le costerebbe l'onore davanti alla sua gente.
 - **Combattimento**: HP 100 · Ki 75 · Attacco 48 · Difesa 37 · **BP 18.000.000** (+10/+10)
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Garlick Gun (Intermedia, +20%) · Barriera Repulsiva (+25% difesa) · Final Flash (Avanzata, +50%, ricarica 3 turni) · Luna Artificiale (5 Ki)
   - Oozaru cosciente (×10, +5%/+5%) · SSJ (×50, +15%/+15%, 1 Ki/turno) · SSJ Full Power (×65, +25%/+25%, gratuito)
@@ -22,6 +23,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Desiderio**: che la madre lo guardi con orgoglio. Vedere il mondo oltre i cannoni. **Paura**: diventare come lei. Deluderla.
 - **Segreti**: fumetti, libri e dischi terrestri nascosti in una cantina della vecchia Città dell'Ovest. Sa leggere il terrestre. Mito ambiguo di Akira.
 - **Parametri** (verso Akira): Rispetto 4 · Amore 1 · Odio 3 · Spietatezza 2 · Lealtà 4
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Neutrale** (per ora, ed è l'allineamento più in bilico di tutti). Obbedisce alla madre e alle regole della corte, odia uccidere ma lo fa se gli viene ordinato. La «crepa» (F2) può portarlo verso il Buono o verso il Malvagio.
 - **Combattimento**: HP 55 · Ki 40 · Attacco 30 · Difesa 26 · **BP 7.000.000** (+5/+5)
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Barriera (+10% difesa) · **Falce Crescente** (sua tecnica: lama di ki a mezzaluna lanciata dalla coda e dal braccio; Intermedia, +20%)
   - Oozaru cosciente (×10) · SSJ: **potenziale non sbloccato** (F2) · Zenkai 3 disponibili
@@ -33,6 +35,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Fu lui** a mettere alle strette Akira nel 771 in SSJ. Sopravvissuto al 774.
 - **Desiderio**: servire la regina e morire in un combattimento degno. **Paura**: una morte inutile.
 - **Parametri**: Rispetto 4 · Amore 1 · Odio 3 · Spietatezza 4 · Lealtà 6
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Neutrale**. L'ordine della regina è legge; il suo codice d'onore (niente colpi a un nemico a terra senza ordine, solo combattimenti degni) viene prima della pietà e della crudeltà.
 - **Combattimento**: HP 60 · Ki 40 · Attacco 32 · Difesa 31 · **BP 7.500.000** (+8/+8) · Volo, Ki Blast, Raffica, Barriera, Oozaru cosciente, SSJ (×50)
 
 ## Okura — Guardia Reale (viola) *(okra)*
@@ -40,6 +43,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Voce**: sarcastica, provocatoria, ride in battaglia. Fuori dal campo è sorprendentemente premurosa con i bambini saiyan, a cui insegna a cacciare.
 - **Segreto**: sul trattato la pensa come Tyros, ma resta fedele a Zaraya. Per ora.
 - **Parametri**: Rispetto 3 · Amore 1 · Odio 4 · Spietatezza 4 · Lealtà 4
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Caotico Neutrale**. Sarcastica, provocatoria, segue il proprio istinto; la sua fedeltà è a Zaraya come persona, non al trattato né alla corte, e potrebbe cambiare. Premurosa con i piccoli saiyan, spietata in battaglia.
 - **Combattimento**: HP 60 · Ki 40 · Attacco 31 · Difesa 30 · **BP 7.200.000** (+8/+8) · come Ignis
 
 ## Generale Tyros
@@ -48,6 +52,7 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Storia**: avanguardia del 771, sconfitto da Akira, catturato, interrogato e messo in stasi. Liberato dai saiyan nel 771. Non perdona né Akira né il trattato.
 - **Desiderio**: rompere i cannoni, tornare tra le stelle, prendere il posto di Zaraya. **Paura**: essere ricordato come quello che fu catturato dagli umani.
 - **Parametri**: Rispetto 2 · Amore 1 · **Odio 5** · Spietatezza 5 · Lealtà 2 (verso Zaraya; 5 verso i Senza Cielo)
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Neutrale Malvagio**. Parla di onore e di cielo, ma il suo centro è il rancore e l'ambizione: prendere il posto di Zaraya, vendicare la cattura. Userebbe chiunque, anche una voce sconosciuta nella testa, pur di arrivarci.
 - **Combattimento**: HP 45 · Ki 35 · Attacco 28 · Difesa 24 · **BP 6.000.000** (+5/+5) · Volo, Ki Blast, Raffica, Barriera, Oozaru (perde coscienza)
 - **I Senza Cielo**: circa 40 saiyan scontenti, in maggioranza giovani adulti ed elite.
 - **Aggiornamento (s1, g13)**: F2 Fronda 4/6. Ha la mano grigia a quattro dita portata da Rapan e Cipoll. Prima l'ha ignorata, poi ha mandato una squadra a nord (g6-8, niente trovato). Il g12 l'ha gettata nell'arena: "C'è qualcosa al nord, Terra Nova manda sonde nel nostro cielo, e la regina guarda i tornei." Molti giovani lo acclamano. **Babidi lo ha scelto** come primo bersaglio. **Prossimo passo**: tornare a nord con più uomini prima delle guardie della regina.
@@ -57,3 +62,4 @@ Popolazione: circa **420** (bambini compresi). Capitale: **Città dell'Ovest**, 
 - **Generale**: HP 28 · Ki 20 · Att 20 · Dif 20 · BP 2–2,5M · Oozaru senza coscienza
 - **Elite**: HP 35 · Ki 30 · Att 25 · Dif 25 · BP 4–5M · Oozaru cosciente
 - Parametri tipici: Rispetto 2-4 · Amore 1 · Odio 4 · Spietatezza 4 · Lealtà 6 (alla regina; più bassa tra i Senza Cielo)
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): tipicamente **Legale Malvagio** (i fedeli alla regina: gerarchia saiyan, poca pietà per i deboli) o **Neutrale Malvagio** (i Senza Cielo più rancorosi). I giovani possono essere Caotici.

@@ -10,6 +10,7 @@
 - **Segreti**: il braccio Arc-G Mk II (F4). Ha votato contro la sorveglianza di Akira, ma non l'ha avvertito.
 - **Sa**: anomalia (rapporto di Wanton), sorveglianza, tutto della tecnologia di Terra Nova. **Non sa**: cosa sia l'anomalia; nulla di Babidi o dei Kaioshin.
 - **Parametri**: Rispetto 5 · Amore 4 · Odio 2 · Spietatezza 3 · Lealtà 4
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Neutrale Buono**. Lavora dentro le istituzioni (siede nel Consiglio, rispetta i voti) ma le aggira quando la coscienza lo chiede: ha messo Tobias su Zemi con i rapporti solo a lei, contro l'ordine del re. Pragmatica fino alla durezza: per salvare la maggioranza farebbe scelte terribili.
 - **Aggiornamento (s1, g13)**: ha trovato l'oggetto (F4) e ha visto i 4 secondi della sonda (cupola organica pulsante, figura bassa col mantello). Ha procurato l'attico ad Akira e famiglia. **Braccio Mk II completato (g8)**: in una capsula nel cassetto della scrivania del laboratorio privato. Più leggero; Kaioken −20% di costi; fusione Kaioken+SSJ di nuovo possibile. Non sa cosa farne. Al Consiglio ha detto lei stessa che Akira arrivava ad Arcorp e se n'è pentita. **Prossimo passo**: seduta d'emergenza del Consiglio, sera del g13. Spingerà, a modo suo, per "cercare Akira", senza ammettere perché.
 - **Aggiornamento (s3, g13 mezzogiorno)**: riceve il messaggio di Tobias («Akira mi ha chiesto cosa succede. Gli ho detto di chiederlo a te… Si è scusato per il 774»). Non risponde: scrive due risposte e le cancella. Sa che Akira la cercherà e che ha chiesto scusa; non farà il primo passo.
 
@@ -20,6 +21,7 @@
 - **Desiderio**: proteggere Terra Nova e Tights. **Paura**: essere solo una macchina. Il nucleo nel cervello.
 - **Incarico segreto**: controlli periodici della casa di Akira (sorveglianza del Consiglio). Lo fa con scrupolo e un vago disagio.
 - **Parametri**: Rispetto 3 · Amore 1 · Odio **1** (era 2: le scuse di Akira per Akyr, s2 g13) · Spietatezza 5 · Lealtà 6
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Neutrale**. L'ordine ricevuto e la lealtà (a Tights prima di tutto) sono il suo codice: fa anche gli incarichi che non gli piacciono, e se l'ordine è colpire colpisce (Spietatezza 5). Ha una coscienza (il rimorso per il rapporto), ma la tiene dentro il dovere. Ora vive il dilemma peggiore del suo allineamento: due ordini in conflitto (il re e Tights).
 - **Combattimento**: HP 65 · Ki infinito · Attacco 32 · Difesa 36 · **BP 9.500.000** (fascia +8/+8)
   - Volo · Ki Blast (+5%) · Raffica (+10%) · Raggio ai neutrini (Avanzata, +20%) · Barriera Repulsiva (1 Ki ogni 20 m, +25% difesa)
   - Fusione meccanica (con 3 Arc-G: BP ×25 per 5 turni, +8% danni e difesa; poi perde metà HP)
@@ -37,6 +39,7 @@
 - **Desiderio**: che nessuno debba mai più fuggire. **Paura**: Akira che impazzisce, i saiyan, il cielo.
 - **Sa**: il passato pubblico di Akira, il trattato, la sorveglianza (l'ha proposta lui). **Non sa**: l'anomalia (la saprà a F4 = 3).
 - **Parametri** (verso Akira): Rispetto 3 · Amore 1 · Odio 2 · Spietatezza 3 · Lealtà 5 (al popolo)
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Neutrale**. L'ordine e la sopravvivenza di due miliardi di persone vengono prima della giustizia verso un singolo: per questo ha firmato il capro espiatorio. Onesto e non crudele, ma pensa per numeri e per stabilità.
 - **Aggiornamento (s1, g13)**: sa dell'anomalia, della sonda e del video. Ha ordinato la ricognizione, raddoppiato le pattuglie e messo Tobias su Akira. Ganascia gli ha messo in testa la "coincidenza". **Prossimo passo**: seduta d'emergenza la sera del g13 (F4 6/6): cannoni, chiusura dello scudo, cercare Akira o farne un capro espiatorio.
 
 ## Karin *(improvvisato: diverso dal canone)*
@@ -47,8 +50,10 @@
 - **Sa**: la leggenda di **Majin Bu** come racconto antico, sentito da Kami (morto da tempo). Non sa che Babidi è arrivato. Sa coltivare e preparare i senzu.
 - **Senzu disponibili**: 4 (ne crescono circa 1 al mese).
 - **Parametri**: Rispetto 4 · Amore 3 · Odio 1 · Spietatezza 2 · Lealtà 4
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Neutrale Buono**. Aiuta (i senzu nel 774) a modo suo e quando decide lui, senza nessuna fedeltà a re e governi; diffida dei guerrieri. Brontolone, ma dalla parte della vita.
 
 ## Androidi Arc-G2 (modello)
+- **Allineamento** (`regole/07-psicologia-dei-png.md` §1): **Legale Neutrale**. Macchine che eseguono gli ordini del Consiglio, senza una morale propria.
 HP 35 · Ki 30 · Attacco 20 · Difesa 15 · **BP 4.000.000** · Volo · Ki Blast (+5%) · Raffica (+10%) · Cannone Fotonico (Intermedia, +15%) · Barriera (+10% difesa) · Autodistruzione (a 5 HP o su comando, +80%). Senza volto, metallo Cotchin bianco-azzurro con linee luminose. Dopo il 774 ne restano circa **120** operativi.
 
 ## Aggiornamenti di fine sessione 3 (g13 ~21:05)
