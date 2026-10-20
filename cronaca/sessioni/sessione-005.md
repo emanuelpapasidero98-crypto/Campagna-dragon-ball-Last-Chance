@@ -29,6 +29,8 @@
 - [s5 · g17] **Ingegner Tenaglia** di Clod City: alta, magra, cinquant'anni, chignon grigio, completo grigio con lo stemma di Clod City, guanti, due valigette di metallo (su una un adesivo sbiadito a forma di dinosauro arancione).
 - [s5 · g17] Atrio della Capsule: alto e rotondo, bianco, pavimento lucido, un robot delle pulizie basso e tondo che tira uno straccio, bancone dell'accoglienza. Il laboratorio di Tights è in fondo a un corridoio curvo, porta di metallo grigio con oblò, apertura a palmo, chiusura pneumatica; dentro, un braccio meccanico pieno di cavi che scende dal soffitto. Le pareti sono schermate (il ki da fuori non si sente). Nel corridoio una panca di metallo bianca senza schienale.
 - [s5 · g17] Tenaglia scrive con una stilografica, a verbale, sul margine del foglio dell'ordine.
+- [s5 · g17] Per Akira Tenaglia prepara bracciali più spessi, neri, con lucine rosse sul bordo; ne usa uno solo (un braccio).
+- [s5 · g17] I bracciali della misura lasciano segni rossi sui polsi di Zemi.
 ### Battute memorabili dei PNG
 - Tights: «Sul foglio c'è scritto "presso l'abitazione"… da che parte devono guardare, lì sopra, non c'è scritto!»
 - Tights: «Registrano lo stesso, però, eh! Se accendi l'aura anche solo per un momento, Ganascia lo sa prima di me.»
@@ -73,6 +75,13 @@
 - Tobias: «Ieri sera è successo di nuovo, ma stavolta erano aure dorate contro aure dorate… saiyan contro saiyan, capisci? A un certo punto una si è spenta, e non si è più riaccesa.»
 - Tobias: «E io, in tutto questo, dovevo stare seduto sul tuo pianerottolo a contare quante volte esci a buttare la spazzatura.»
 - Tobias: «E adesso non so più se ci devo scrivere la luce di tua figlia… o questo nome che mi hai detto tu.» · «Quella era tutta la parete, Akira.»
+- Tobias: «Lassù, da solo, senza una nave non ci arrivi.» · «E le navi ce le ha lei, non io.»
+- Tobias: «E l'ordine di non farti uscire dal quartiere est ce l'ho in tasca io… firmato dal re, Akira, non me lo sono inventato.»
+- Tobias: «Tua figlia la guardo io, quella è un'altra storia.» · «Ma il discorso su quando muori non lo vieni a fare a me sulla panca di un corridoio, lo fai a tua moglie… che ce l'hai lì, a due metri.»
+- Tobias: «Questo tuo Kaioshin, se compare dal niente in mezzo ad Arcorp, gli Arc-G2 gli sparano prima che apra bocca.» · «Dove arriva? E quando?»
+- Zemi: «Papà, ho acceso tutte le luci… tutte quante.» · «Ho fatto male?»
+- Syntia: «Di cosa stavate parlando, voi due, mentre io ero là dentro?»
+- Tenaglia: «Tocca a lei, signore.» · «Si tolga la giacca, prego, e si sieda sullo sgabello.»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -89,5 +98,6 @@
 - g17 ~09:20: Akira dice a Tobias di non sapere che aspetto abbia Babidi; gli parla di Dabura, del marchio con la M, dei cinque saiyan, del potere che cresce col marchio, di Re Kaioh spaventato come per Kras; gli chiede se i satelliti hanno mandato immagini. **In sospeso: Persuasione CD 8, +3** (Rispetto 4 +1; situazione +2 −1; coerenza +1). Il tentativo bloccato della s2 è riaperto dal fatto nuovo.
 - g17 ~09:25: **Persuasione riuscita** su Tobias (6+3 = 9, CD 8): racconta la sonda del g8, le foto del g14 e la battaglia del g16. Rabbia verso il Consiglio. Dilemma sul rapporto al re.
 - g17 ~09:30: la valutazione di Zemi accende tutta la parete. Tights nasconde lo schermo a Tenaglia e spegne. Tenaglia annota e guarda Akira.
+- g17 ~09:30: Akira si scusa con Tobias per il peso della sua presenza, gli dice che non è solo, che forse non sopravvivrà, gli parla di Shin e del ritorno da solo sulla vecchia Terra, gli affida Syntia e Zemi se muore. Tobias, imbarazzato dalle scuse, si arrabbia per il resto: nave di Tights, ordine del re; accetta di occuparsi di Zemi; del morire parli con la moglie. Pensa subito agli Arc-G2 e al Kaioshin. Syntia esce e vede lui e Tobias a confabulare (la sua condizione: decidere insieme).
 
 ## Errori segnalati dal giocatore

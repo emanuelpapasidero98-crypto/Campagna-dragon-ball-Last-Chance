@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:30)
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:35)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), corridoio davanti al laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:30, Capsule, corridoio davanti al laboratorio di Tights. Akira e Tobias sulla panca. Tobias gli ha raccontato cosa hanno visto la sonda e i satelliti (il basso col mantello, l'alto con le corna, saiyan contro saiyan il g16: un'aura spenta) e che non sa cosa scrivere al re. Dentro, la misura di Zemi ha acceso tutta la parete di luci verdi; Tights ha nascosto lo schermo a Tenaglia e ha spento; Zemi cerca il papà con gli occhi; Syntia la stringe; Tenaglia ha scritto, sottolineato e ora guarda Akira. Tobias: «Quella era tutta la parete, Akira.» Dopo tocca ad Akira. Shin arriva in giornata.
+- **Scena in sospeso**: g17, circa le 9:35, Capsule, corridoio davanti al laboratorio, porta aperta. Akira sulla panca. Ha chiesto scusa a Tobias, gli ha parlato di Shin e del piano di tornare sulla vecchia Terra da solo, gli ha chiesto di proteggere Syntia e Zemi se muore. Tobias: senza nave non ci arriva e le navi le ha Tights; l'ordine di non farlo uscire dal quartiere ce l'ha lui; Zemi la guarda lui, ma del morire parli con la moglie; se il Kaioshin compare in città gli Arc-G2 gli sparano: dove e quando arriva? Zemi aggrappata alle sue gambe: «ho acceso tutte le luci… ho fatto male?». Syntia sulla soglia: «di cosa stavate parlando, voi due?». Tenaglia sulla soglia con un solo bracciale nero: tocca a lui, giacca via, sullo sgabello. Tights dentro, faccia bianca, lo guarda. Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:30-09:35 (s5): Akira si scusa con Tobias e gli dice di Shin, del ritorno sulla vecchia Terra da solo, della famiglia se muore. Tobias si arrabbia (nave, ordine del re), prenderà cura di Zemi, gli rimanda il discorso del morire a Syntia, chiede dove e quando arriva il Kaioshin. Esce Zemi, poi Syntia, che chiede di cosa parlavano. Tenaglia lo chiama per la misura.
 - G17 ~09:20-09:30 (s5): Persuasione su Tobias riuscita (6+3 = 9 contro CD 8): sonda del g8, foto del g14, saiyan contro saiyan il g16. Finisce la misura di Zemi: tutta la parete di luci verdi.
 - G17 ~09:05-09:15 (s5): Akira bacia Zemi sulla fronte («papà farà la stessa cosa»; Zemi: «Anche a te ti mettono i fili?»). Bacia Syntia: lei gira appena la faccia, il bacio le arriva all'angolo della bocca; non ricambia e non si scosta. Sulla panca Akira racconta a Tobias di Babidi e di Re Kaioh. Tobias si tradisce sullo stregone, scrive a Tights; Tights legge e lo guarda dall'oblò.
 - G17 ~09:00 (s5): Akira accetta la valutazione. Tenaglia: prima Zemi, genitori fuori. Syntia rifiuta di staccarsi da Zemi; Tights, padrona del laboratorio, la fa restare e lascia fuori Akira. Tenaglia lo mette a verbale («Sua Maestà lo leggerà»). Zemi nota il dinosauro sulla valigetta di Tenaglia, che arrossisce e non risponde.
