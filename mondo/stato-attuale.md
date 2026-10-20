@@ -3,10 +3,10 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 4 conclusa (la prossima è la 5)
+- **Sessione corrente**: 5 (in corso)
 - **Data in gioco**: anno 777, giorno 14, notte (circa l'1:16)
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: terrazza dell'attico, circa l'1:16 del g14. Akira e Tights soli al tavolino. Tights senza cappotto (sullo schienale), la cartella del governo sotto la sedia, beve una lattina di caffè e guarda le cupole; ha detto ad Akira di non ripetere la minaccia al re («L'ultima volta che ti ha sentito minacciare qualcuno, eri in televisione») e che in Consiglio ci siede anche lei. Non ha risposto a voce al «come stai?». La lattina di Akira è davanti a lui, chiusa. Syntia non ha preso la mano di Akira: «Vado a vedere se dorme», è nella cameretta seduta sul bordo del letto di Zemi. Tobias seduto sul pianerottolo (Tights gli ha detto di sedersi). Zemi dorme.
+- **Scena in sospeso**: terrazza dell'attico, circa l'1:17 del g14. Akira e Tights soli al tavolino. Tights (senza cappotto, cartella sotto la sedia) gli ha detto di aver fatto girare i due Arc-G2 verso la strada (domattina arriveranno i giornalisti) e che registrano comunque: se accende l'aura, Ganascia lo sa prima di lei. Ha mentito a Tobias di aver cenato. Ha allungato la mano per aprire la lattina di Akira e si è fermata. Gli ha chiesto: «E a te, lì dove c'era l'innesto… di notte fa ancora male?». La lattina di Akira è ancora chiusa. Syntia è in piedi vicino alla porta socchiusa della cameretta, non esce. Tobias sul pianerottolo. Zemi dorme.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65

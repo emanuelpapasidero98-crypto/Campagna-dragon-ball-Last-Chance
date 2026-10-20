@@ -239,3 +239,11 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **G16**: seconda lezione di Syntia all'Aula Magna (microfono nuovo). Akira può andarci? L'Aula Magna non è nel quartiere est? *(da decidere con coerenza: l'università è vicina all'Orto, nella zona est; se è dentro il quartiere est, sì)*.
 - **Entro il g17**: valutazione di Zemi al laboratorio della Capsule (Akira ha detto che lì dentro non entra).
 
+
+---
+## Sessione 5
+
+### G14 ~00:45 · Capsule Corp → portone dell'attico
+- **Cosa**: a seduta chiusa, Tights (governatrice di Arcorp) dà lei le istruzioni di posizionamento ai due Arc-G2 della raccomandazione: davanti al portone, rivolti alla strada, non al palazzo. Il testo dice solo «presso l'abitazione». Le unità registrano comunque tutto ciò che rilevano e i dati vanno anche alla sorveglianza del Consiglio (Ganascia li può chiedere).
+- **Perché**: dopo la dichiarazione di Ganascia prevede giornalisti e curiosi al portone dalla mattina del g14.
+- **Chi lo sa**: Tights; Akira (glielo ha detto lei, s5).
