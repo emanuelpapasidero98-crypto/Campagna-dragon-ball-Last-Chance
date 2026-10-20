@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 15, quasi mezzanotte (circa le 23:50)
+- **Data in gioco**: anno 777, giorno 16, appena dopo mezzanotte
 - **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: attico, g15 verso le 23:55. La casa dorme; Akira è sveglio e parla telepaticamente con Re Kaioh. Re Kaioh gli ha detto che lo cerca Shin, il Kaioshin dell'Est, per Babidi e Majin Bu sulla vecchia Terra; che i saiyan si sono già scontrati con loro (una non è tornata); che il nome di Akira l'ha fatto lui; che Shin arriva domani o dopodomani e non si fida di lui (sa di Akyr). Gli chiede di promettere che non lo manderà via prima che abbia finito di parlare. Valutazione di Zemi: g17 alle 9 alla Capsule.
+- **Scena in sospeso**: attico, g16 appena dopo mezzanotte. Akira a letto, solo, sveglio, il lenzuolo strappato; parla telepaticamente con Re Kaioh, che gli ha detto: il Consiglio non sa (ma i satelliti hanno visto le luci al nord); Babidi ha marchiato i saiyan di persona; Dabura ha fatto scappare Shin, forse vicino a Zaraya trasformata di tre anni fa, più forte col marchio. Re Kaioh ha sentito la minaccia al re e gli chiede sinceramente quanta rabbia gli è rimasta dentro. Tobias sul pianerottolo (ha parlato con Tights, sveglia: alle otto e mezza del g17 li porterà giù lui). Syntia e Zemi nella cameretta. Shin arriva il g16 o il g17.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -38,6 +38,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G16 ~00:05 (s5): Akira dice a Re Kaioh che non si allena da tre anni e non sa se riuscirebbe a trasformarsi, che parlerà con il Kaioshin, che teme di essere controllato da Babidi e non vuole che arrivi su Terra Nova; chiede quanto è forte Dabura rispetto a Zaraya. Re Kaioh risponde e gli chiede quanta rabbia gli è rimasta.
 - G15 ~23:58 (s5): Re Kaioh: Bu dorme ancora (serve energia); Kibith l'ha ferito Dabura, re dei demoni al servizio di Babidi, che ha anche pietrificato la saiyan; Babidi è debole ma si prende chi ha rabbia dentro; cinque saiyan marchiati (M sulla fronte); su Zaraya contro Bu non sa. Akira, a letto, strappa il lenzuolo stringendolo. Zemi si agita nel sonno, Syntia la calma contando.
 - G15 ~23:55 (s5): Re Kaioh rivela ad Akira Shin, Babidi e Majin Bu; Shin arriva il g16 o il g17 e non si fida di lui. Gli chiede di promettere di ascoltarlo fino in fondo.
 - G15 ~23:50 (s5): Re Kaioh contatta Akira telepaticamente: una persona sta venendo a cercarlo.
