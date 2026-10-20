@@ -82,5 +82,6 @@
 - g17 ~09:00: Akira saluta Tenaglia e accetta la valutazione senza discutere; a Tights non risponde. Tights e Syntia fanno fronte comune contro Tenaglia (Syntia resta con Zemi); Tights lascia fuori Akira, fredda. Tenaglia mette tutto a verbale. Zemi e il dinosauro di Tenaglia: un attimo di imbarazzo dell'ingegnere.
 - g17 ~09:05: Akira bacia Zemi e prova a baciare Syntia: lei gira appena il viso (angolo della bocca), non ricambia, non si scosta. Tights guarda il pannello della porta per non guardarli.
 - g17 ~09:10: Akira confida a Tobias Babidi e Re Kaioh, perché crede che Tights non voglia più parlargli. Tobias collega tutto alla figura del video della sonda, si tradisce, scrive a Tights, avverte Akira su Tenaglia e si siede sulla stessa panca. Tights legge e guarda Akira dall'oblò.
+- g17 ~09:20: Akira dice a Tobias di non sapere che aspetto abbia Babidi; gli parla di Dabura, del marchio con la M, dei cinque saiyan, del potere che cresce col marchio, di Re Kaioh spaventato come per Kras; gli chiede se i satelliti hanno mandato immagini. **In sospeso: Persuasione CD 8, +3** (Rispetto 4 +1; situazione +2 −1; coerenza +1). Il tentativo bloccato della s2 è riaperto dal fatto nuovo.
 
 ## Errori segnalati dal giocatore
