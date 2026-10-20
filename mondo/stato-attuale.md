@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (le 8:55)
-- **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), piazzale davanti all'ingresso
-- **Scena in sospeso**: g17, 8:55, piazzale della Capsule Corporation di Arcorp. Akira, Syntia e Zemi (con Dino Dino) appena scesi dall'aeromobile grigio del governatorato guidato da Tobias, con i due Arc-G2 di scorta. Davanti all'ingresso Tights (camice sul vestito del g14, occhi rossi) e l'ingegner Tenaglia di Clod City. Tights ad Akira: l'aura delle 3:12 è arrivata a Ganascia alle 3:30, a lei alle 4. Tenaglia: per ordine del re, firmato alle 7, la valutazione è estesa anche al padre. Akira voleva parlare a Tights di Babidi. Shin arriva su Terra Nova in giornata.
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:05)
+- **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), corridoio davanti al laboratorio di Tights
+- **Scena in sospeso**: g17, circa le 9:05, Capsule Corporation di Arcorp, corridoio curvo davanti al laboratorio di Tights. Akira ha accettato la valutazione («non ho nessun problema»). Dentro il laboratorio (schermato: Akira non sente più il ki di Zemi) ci sono Tights, Tenaglia, Syntia con Zemi in braccio; si comincia da Zemi (un'ora o più), poi tocca ad Akira. Tights lo ha lasciato fuori (il suo ki falserebbe la lettura) e gli ha indicato una panca. Tobias appoggiato al muro di fronte, con il rapporto per il re non ancora mandato. Akira voleva parlare a Tights di Babidi. Shin arriva su Terra Nova in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:00 (s5): Akira accetta la valutazione. Tenaglia: prima Zemi, genitori fuori. Syntia rifiuta di staccarsi da Zemi; Tights, padrona del laboratorio, la fa restare e lascia fuori Akira. Tenaglia lo mette a verbale («Sua Maestà lo leggerà»). Zemi nota il dinosauro sulla valigetta di Tenaglia, che arrossisce e non risponde.
 - G17 08:30-08:55 (s5): Tobias li porta alla Capsule (giornalisti raddoppiati, scorta di Arc-G2). Gli dice che i sensori hanno preso il picco di Zemi del g16 e che il re gli ha chiesto un rapporto, non ancora mandato. Alla Capsule: Tights e l'ingegner Tenaglia; la valutazione è estesa al padre per ordine del re.
 - Notte g16→17, 03:12 (s5): Akira si sveglia dall'incubo con l'aura accesa; gli Arc-G2 la registrano (linee rosse, facce verso l'alto). Zemi si sveglia e lo chiama; Syntia corre da lei; Tobias bussa.
 - G16 sera (s5): Akira racconta a Syntia di Re Kaioh, Shin e Babidi. Syntia teme per Zemi (la rabbia); condizione: qualunque decisione con quel dio si prende con lei prima di dirgli di sì. Dorme nella cameretta, ma lascia la porta aperta.

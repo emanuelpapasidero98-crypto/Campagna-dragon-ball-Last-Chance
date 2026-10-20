@@ -27,6 +27,8 @@
 - [s5 · g17] La Capsule Corporation di Arcorp: cupola bianca enorme, rotonda e lucida, scritta CAPSULE CORP. a lettere blu sul fianco, edifici più bassi intorno, piazzale per aeromobili. Fuori dal quartiere est, a ovest.
 - [s5 · g17] Aeromobile grigio del governatorato (lo guida Tobias). In volo i due Arc-G2 stanno ai lati, uno per parte.
 - [s5 · g17] **Ingegner Tenaglia** di Clod City: alta, magra, cinquant'anni, chignon grigio, completo grigio con lo stemma di Clod City, guanti, due valigette di metallo (su una un adesivo sbiadito a forma di dinosauro arancione).
+- [s5 · g17] Atrio della Capsule: alto e rotondo, bianco, pavimento lucido, un robot delle pulizie basso e tondo che tira uno straccio, bancone dell'accoglienza. Il laboratorio di Tights è in fondo a un corridoio curvo, porta di metallo grigio con oblò, apertura a palmo, chiusura pneumatica; dentro, un braccio meccanico pieno di cavi che scende dal soffitto. Le pareti sono schermate (il ki da fuori non si sente). Nel corridoio una panca di metallo bianca senza schienale.
+- [s5 · g17] Tenaglia scrive con una stilografica, a verbale, sul margine del foglio dell'ordine.
 ### Battute memorabili dei PNG
 - Tights: «Sul foglio c'è scritto "presso l'abitazione"… da che parte devono guardare, lì sopra, non c'è scritto!»
 - Tights: «Registrano lo stesso, però, eh! Se accendi l'aura anche solo per un momento, Ganascia lo sa prima di me.»
@@ -59,6 +61,10 @@
 - Tobias: «Ieri pomeriggio i sensori l'hanno presa, la luce di Zemi. Il re mi ha chiesto un rapporto, e io non gliel'ho ancora mandato.»
 - Tights: «Alle tre e dodici, stanotte… a Ganascia è arrivato alle tre e mezza, a me alle quattro.»
 - Tenaglia: «Ingegner Tenaglia, Clod City. Per ordine di Sua Maestà, firmato alle sette di stamattina, la valutazione è estesa anche al padre.»
+- Tenaglia: «Si comincia dalla minore, come da ordine originale. Durante la sua misura, i genitori attendono fuori: il ki di un adulto vicino falsa la lettura.» · «Lo metto a verbale, dottoressa Brief. Sua Maestà lo leggerà.»
+- Syntia (a Tenaglia): «Io da mia figlia non mi stacco, ingegnere.» · «Se il mio ki le dà fastidio, misuri anche me, così vede quanto poco ce n'è.»
+- Tights: «Il laboratorio è mio, gli strumenti li ho costruiti io, e cosa falsa una lettura lo decido io!» · «Tu no… tu aspetti fuori, che se ti agiti tu, mi salta il quadro di tutto il piano!»
+- Zemi (a Tenaglia): «Anche tu ce l'hai, il dinosauro…»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -69,5 +75,6 @@
 - g16 ~00:05: Akira confessa a Re Kaioh di non allenarsi da tre anni e di non sapere se si trasformerebbe; parlerà con il Kaioshin; ha paura di essere controllato da Babidi; non vuole che arrivi su Terra Nova. Re Kaioh è onesto (non sa se Babidi può prenderlo; non ha i numeri di Dabura) e gli chiede quanta rabbia gli è rimasta, perché lo ha sentito minacciare il re.
 - g16 00:10: Akira risponde a Re Kaioh («davvero molta» rabbia; aiuterà; terrà i guai lontano da Terra Nova; proverà a parlare con Tights). Re Kaioh lo ringrazia.
 - Salto g16 → g17 08:55 (chiesto dal giocatore). La sera del g16 Akira racconta tutto a Syntia: lei ha paura per Zemi e pone la condizione di decidere insieme; dorme nella cameretta ma con la porta aperta. Alle 3:12 Akira si sveglia con l'aura accesa: Zemi chiama il papà, Syntia lo guarda e corre dalla bambina. Tobias li porta alla Capsule e gli confida del picco e del rapporto chiesto dal re. Tights, furiosa e spaventata per l'aura. L'ordine del re estende la valutazione ad Akira.
+- g17 ~09:00: Akira saluta Tenaglia e accetta la valutazione senza discutere; a Tights non risponde. Tights e Syntia fanno fronte comune contro Tenaglia (Syntia resta con Zemi); Tights lascia fuori Akira, fredda. Tenaglia mette tutto a verbale. Zemi e il dinosauro di Tenaglia: un attimo di imbarazzo dell'ingegnere.
 
 ## Errori segnalati dal giocatore
