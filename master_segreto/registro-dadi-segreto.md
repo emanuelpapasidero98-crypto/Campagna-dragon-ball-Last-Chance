@@ -51,3 +51,14 @@
 - `2026-10-20 10:09:48 UTC` 🎲 F4_Lezione1_picco: d10 = 10 | mod +1 → totale 11 | SUCCESSO CRITICO | g15_15:00_seminterrato_foderato_in_fretta:_i_sensori_registrano_un_picco?(1-4_si)
 - `2026-10-20 10:09:48 UTC` 🎲 Zemi_lezione1: d10 = 7 | mod +0 → totale 7 | Successo Pieno | g15:come_va_la_prima_lezione_con_Tobias_(Syntia_presente)
 - `2026-10-20 10:09:48 UTC` 🎲 Consiglio_satelliti_nord: d10 = 10 | mod +0 → totale 10 | SUCCESSO CRITICO | g14_sera:i_satelliti_vedono_lo_scontro_nel_nord(auree_SSJ)?
+- `2026-10-20 10:55:04 UTC` 🎲 F3_Shin_arrivo: d10 = 3 | mod +0 → totale 3 | Fallimento | giorno_di_arrivo_su_Terra_Nova:1-5_g17,6-10_g16(interrompe_il_salto)
+- `2026-10-20 10:55:04 UTC` 🎲 F4_Lezione2_picco: d10 = 3 | mod +1 → totale 4 | Successo Parziale | g16_15:00_seminterrato:i_sensori_registrano?(1-4_si)
+- `2026-10-20 10:55:04 UTC` 🎲 Zemi_lezione2: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g16:seconda_lezione_con_Tobias
+- `2026-10-20 10:55:04 UTC` 🎲 F4_Consiglio_g16: d10 = 2 | mod -1 → totale 1 | Fallimento | seduta_g16_con_le_immagini_dei_satelliti:1-3_cannoni_pronti/Ganascia,4-6_rinvio,7-9_il_re_vuole_sapere_cosa_sa_Akira,10_cercare_Akira
+- `2026-10-20 10:55:04 UTC` 🎲 Ganascia_alla_Capsule: d10 = 3 | mod +1 → totale 4 | Successo Parziale | g17:dopo_l'aura_di_Akira_alle_3,viene_di_persona?(6+)
+- `2026-10-20 10:55:04 UTC` 🎲 F2_Zaraya: d10 = 9 | mod +0 → totale 9 | Successo Pieno | g16-17:mossa_di_Zaraya_dopo_Okura(1-4_prepara,5-8_manda_guerrieri,9-10_va_lei)
+- `2026-10-20 10:55:04 UTC` 🎲 F2_Crepa_Zarcon: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g16-17:Zarcon_con_la_vergogna_di_Okura
+- `2026-10-20 10:55:04 UTC` 🎲 F1_Energia: d10 = 8 | mod +0 → totale 8 | Successo Pieno | g16-17:Babidi_usa_i_marchiati_contro_i_lealisti?
+- `2026-10-20 10:55:24 UTC` 🎲 Zaraya_vs_marchio: d10 = 4 | mod +2 → totale 6 | Successo Parziale | g16_Distese_del_Nord:Babidi_tenta_di_marchiarla(orgoglio_+2)
+- `2026-10-20 10:55:24 UTC` 🎲 Babidi_marchio_Zaraya: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g16:tentativo_di_marchio_su_Zaraya
+- `2026-10-20 10:55:24 UTC` 🎲 Zaraya_esito_spedizione: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g16:scontro_al_nord(1-3_ritirata_con_perdite,4-6_stallo,7-9_vantaggio,10_colpo_grosso)

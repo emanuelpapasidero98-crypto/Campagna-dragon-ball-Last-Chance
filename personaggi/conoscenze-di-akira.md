@@ -75,3 +75,7 @@
 | g16 ~00:05 (s5) | Re Kaioh non sa se il Consiglio sa, ma le luci al nord del g14 le hanno viste di sicuro i satelliti. Non sa se Babidi può prendere anche lui (è ciò che teme Shin); i saiyan li ha marchiati di persona, davanti alla navicella; a distanza, per quanto ne sa Re Kaioh, non ci arriva | Re Kaioh |
 | g16 ~00:05 (s5) | Shin ha parlato con Dabura dentro la navicella e ha dovuto scappare. Secondo Re Kaioh, Zaraya di tre anni fa, trasformata del tutto, forse gli arriva vicino; col marchio di Babidi Dabura è più forte, non si sa quanto. Re Kaioh l'ha sentito minacciare il re sulla terrazza | Re Kaioh |
 | g16 ~00:05 (s5) | Tights a mezzanotte era ancora sveglia; Tobias li porterà giù lui alle otto e mezza per la valutazione; domattina (g16) Tights ha di nuovo il Consiglio | Ha sentito Tobias al comunicatore |
+| g16 (s5) | Il g16 alle 15:07 la schermatura del seminterrato non ha retto: i sensori hanno preso il picco di Zemi. Il re ha chiesto a Tobias un rapporto, che Tobias non ha ancora mandato | L'ha sentito; Tobias |
+| g16 sera (s5) | Syntia sa di Re Kaioh, Shin e Babidi (gliel'ha detto lui); vuole che ogni decisione con quel dio la prendano insieme | Syntia |
+| g17 notte (s5) | Alle 3:12 si è svegliato con l'aura accesa; gli Arc-G2 l'hanno registrata. Ganascia l'ha saputo alle 3:30, Tights alle 4 | Lui stesso; Tights |
+| g17 mattina (s5) | Per ordine del re (firmato alle 7 del g17) la valutazione è estesa anche a lui. A farla, con Tights, c'è l'ingegner Tenaglia di Clod City | Tenaglia |

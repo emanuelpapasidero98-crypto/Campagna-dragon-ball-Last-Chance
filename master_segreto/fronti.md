@@ -13,7 +13,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | Recupero della sfera di Bu | `[■■■■]` 4/4 ✅ (G1 notte) | La sfera è a bordo. Inizia la raccolta di energia |
 | Primo contatto coi saiyan | `[■■■■]` 4/4 ✅ (g14 pomeriggio) | Pui Pui, Yakon o Dabura si scontrano con i saiyan. Si scopre che esistono gli intrusi. Prime vittime |
 | Esercito Majin | `[■■□□□□]` 2/6 (notte g14→15) | Babidi ha un nucleo di saiyan marchiati (probabilmente i Senza Cielo). Guerra civile saiyan aperta |
-| **Energia di Bu** | `[■■□□□□□□□□□□]` 2/12 | **Majin Bu si risveglia** |
+| **Energia di Bu** | `[■■■■□□□□□□□□]` 4/12 (g16) | **Majin Bu si risveglia** |
 | Scoperta di Kras | `[■□□□□□□□]` 1/8 (g15) | Babidi localizza Varda e parte con la navicella (vedi F6) |
 
 - L'energia avanza di 1 per ogni grande combattimento vicino alla navicella o ai majin, di 2 per un torneo all'ultimo sangue "sfruttato", di 1-3 per ogni saiyan forte prosciugato. L'energia di Kras darebbe **+6**.
@@ -46,7 +46,7 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | **Esito della seduta del g13 (s3)** | **capro espiatorio** | Raccomandazione vincolante: Akira e famiglia non lasciano il quartiere est di Arcorp; due Arc-G2 al portone dall'una; Orto chiuso a lui e a Zemi; **valutazione del potenziale di Zemi al laboratorio della Capsule entro 3 giorni**. Cannoni e scudo rinviati. Tights contraria, in minoranza. Tights lo comunica ad Akira all'una |
 | Sorveglianza di Akira | attiva | Se Akira fa qualcosa di "allarmante" (aura alta, voli, scontri), il Consiglio lo sa entro poche ore |
 | Il braccio Mk II | `[■■■■■]` 5/5 ✅ completato (g8) | Tights lo completa. Cosa farne dipende dal rapporto con Akira |
-| **Le lezioni segrete di Zemi** (nuovo, s4) | `[□□□□]` 0/4 | Avanza di 1 per ogni picco di ki di Zemi registrato dai sensori della città, per ogni domanda diretta del re a Tobias sulla bambina, per ogni mossa di Ganascia sulla valutazione (tiro segreto se incerto). A 4: il re (e quindi il Consiglio) scopre che Zemi viene allenata in segreto da Tobias per ordine di Tights. Crisi per Tights (accusa di aver ingannato il re), Tobias sospeso o richiamato, Ganascia in vantaggio |
+| **Le lezioni segrete di Zemi** (nuovo, s4) | `[■□□□]` 1/4 (g16) | Avanza di 1 per ogni picco di ki di Zemi registrato dai sensori della città, per ogni domanda diretta del re a Tobias sulla bambina, per ogni mossa di Ganascia sulla valutazione (tiro segreto se incerto). A 4: il re (e quindi il Consiglio) scopre che Zemi viene allenata in segreto da Tobias per ordine di Tights. Crisi per Tights (accusa di aver ingannato il re), Tobias sospeso o richiamato, Ganascia in vantaggio |
 
 ## F5 — Casa di Akira: "La quiete"
 | Orologio | Stato | Quando si riempie |
@@ -139,3 +139,14 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G14-16 | F4 Ganascia | tiro 9 | Approfittando della paura in seduta, Ganascia ottiene dal re che alla valutazione di Zemi (g17 ore 9, Capsule) assista un tecnico scelto da Clod City |
 | G15 15:00 | F4 Lezioni segrete | 0 (tiro 10, critico) | Prima lezione di Tobias a Zemi nel seminterrato del palazzo, foderato in fretta dai tecnici di Tights il g14: la schermatura regge del tutto, nessun picco nei sensori. Blocca anche la percezione del ki da fuori (Akira sente il ki di Zemi sparire per un'ora). Lezione riuscita (tiro 7): Zemi tiene una luce ferma sul palmo per tre respiri |
 | G15 | F3 Caccia | 5 → 6 ✅ | Tiro 5. Dopo aver visto Dabura pietrificare Okura e i saiyan marchiati, Shin decide di andare di persona su Terra Nova a cercare Akira. Re Kaioh, che temporeggiava, lo precede: contatta Akira la notte del g15 verso le 23:50 (tiro 7) |
+| Salto g16 00:10 → g17 08:55 (s5, chiesto dal giocatore fino all'arrivo alla Capsule) | F3 Shin | arrivo | Tiro 3: Shin arriva su Terra Nova il **g17** (dopo l'arrivo di Akira alla Capsule, ora da decidere in scena), non il g16 |
+| G16 15:07 | F4 Lezioni segrete | 0 → 1 | Tiro 4 (sensori). Seconda lezione: a Zemi la luce scappa per un respiro (lezione parziale, tiro 5) e la schermatura del seminterrato non regge del tutto: i sensori registrano un picco nel palazzo dell'attico. Il re chiede a Tobias un rapporto sul picco; Tobias non l'ha ancora mandato |
+| G16 | F4 Consiglio | tiro 1 | Con le immagini dei satelliti: **cannoni a ioni pronti al fuoco sulle Distese del Nord**, in attesa dell'ordine del re. Ganascia più forte in seduta |
+| G16 pomeriggio | F2 Zaraya | tiro 9 | Zaraya va di persona a nord con Ignis e una squadra di guardie |
+| G16 pomeriggio | F2 Zaraya e Babidi | contrapposto 6 contro 5 | Babidi tenta di marchiarla: Zaraya resiste (di poco). Babidi ha sentito la sua rabbia e il suo punto debole (il figlio, la vergogna del 774) |
+| G16 pomeriggio | F2 spedizione | tiro 1 (critico) | Babidi le scaglia contro i Senza Cielo marchiati di Tyros e Dabura. **Ignis muore coprendo la ritirata della regina** (ucciso da Tyros, marchiato). Zaraya ferita, torna alla Città dell'Ovest. Guerra civile saiyan di fatto aperta |
+| G16 | F1 Energia | 2 → 4 | Tiro 8. Grande scontro vicino alla navicella (+1); vantaggio: l'energia di Ignis prosciugata mentre moriva (+1) |
+| G16 | F2 Crepa di Zarcon | 5 (tiro 1, critico: inciampo) | Prima di partire Zaraya scopre (da Ignis) che Zarcon li aveva seguiti il g14 e non era intervenuto per Okura: lo picchia davanti alla corte e lo chiude nella torre. Non vede la battaglia. Saprà della morte di Ignis al ritorno della madre |
+| G16 sera | F4 satelliti | — | I satelliti registrano il secondo scontro al nord (auree dorate contro auree dorate) |
+| Notte g16→17, 03:12 | F5 Incubi / F4 Sorveglianza | tiro 2 → **aura accesa** | Akira si sveglia dall'incubo con l'aura accesa per pochi secondi. Gli Arc-G2 al portone lo registrano: Ganascia lo sa alle 3:30, Tights alle 4 |
+| G17 07:00 | F4 Ganascia | tiro 4 (non viene di persona) | Dopo il picco delle 15:07 e l'aura delle 3:12, il re firma un ordine: **la valutazione è estesa anche al padre**. Ganascia non viene; manda il suo tecnico, l'ingegner Tenaglia |

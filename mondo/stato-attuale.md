@@ -4,12 +4,13 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 16, appena dopo mezzanotte
-- **Luogo**: Arcorp City, attico della Capsule (zona est), terrazza
-- **Scena in sospeso**: attico, g16 appena dopo mezzanotte. Akira a letto, solo, sveglio, il lenzuolo strappato; parla telepaticamente con Re Kaioh, che gli ha detto: il Consiglio non sa (ma i satelliti hanno visto le luci al nord); Babidi ha marchiato i saiyan di persona; Dabura ha fatto scappare Shin, forse vicino a Zaraya trasformata di tre anni fa, più forte col marchio. Re Kaioh ha sentito la minaccia al re e gli chiede sinceramente quanta rabbia gli è rimasta dentro. Tobias sul pianerottolo (ha parlato con Tights, sveglia: alle otto e mezza del g17 li porterà giù lui). Syntia e Zemi nella cameretta. Shin arriva il g16 o il g17.
+- **Data in gioco**: anno 777, giorno 17, mattina (le 8:55)
+- **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), piazzale davanti all'ingresso
+- **Scena in sospeso**: g17, 8:55, piazzale della Capsule Corporation di Arcorp. Akira, Syntia e Zemi (con Dino Dino) appena scesi dall'aeromobile grigio del governatorato guidato da Tobias, con i due Arc-G2 di scorta. Davanti all'ingresso Tights (camice sul vestito del g14, occhi rossi) e l'ingegner Tenaglia di Clod City. Tights ad Akira: l'aura delle 3:12 è arrivata a Ganascia alle 3:30, a lei alle 4. Tenaglia: per ordine del re, firmato alle 7, la valutazione è estesa anche al padre. Akira voleva parlare a Tights di Babidi. Shin arriva su Terra Nova in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
+- Ha dormito pochissimo per due notti (incubi; alle 3:12 del g17 si è svegliato con l'aura accesa)
 - Senza braccio destro (il braccio Arc-G è stato restituito a Tights)
 - Non si allena da 3 anni. Incubi ricorrenti sulla morte di Tsumuri e degli allievi
 - Equipaggiamento con sé: nessuno di rilievo
@@ -38,6 +39,12 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 08:30-08:55 (s5): Tobias li porta alla Capsule (giornalisti raddoppiati, scorta di Arc-G2). Gli dice che i sensori hanno preso il picco di Zemi del g16 e che il re gli ha chiesto un rapporto, non ancora mandato. Alla Capsule: Tights e l'ingegner Tenaglia; la valutazione è estesa al padre per ordine del re.
+- Notte g16→17, 03:12 (s5): Akira si sveglia dall'incubo con l'aura accesa; gli Arc-G2 la registrano (linee rosse, facce verso l'alto). Zemi si sveglia e lo chiama; Syntia corre da lei; Tobias bussa.
+- G16 sera (s5): Akira racconta a Syntia di Re Kaioh, Shin e Babidi. Syntia teme per Zemi (la rabbia); condizione: qualunque decisione con quel dio si prende con lei prima di dirgli di sì. Dorme nella cameretta, ma lascia la porta aperta.
+- G16 15:07 (s5): seconda lezione: a Zemi la luce scappa; Akira sente il lampo del suo ki attraverso il seminterrato. «La luce mi è scappata.»
+- G16 mattina (s5): Syntia alla seconda lezione da sola; giornalisti anche sotto l'università.
+- G16 00:10 (s5): Akira risponde a Re Kaioh che di rabbia ne ha «davvero molta», che non può rifiutarsi di aiutare, che cercherà di tenere i guai lontano da Terra Nova e che proverà a parlare con Tights. Re Kaioh lo ringrazia e lo manda a dormire.
 - G16 ~00:05 (s5): Akira dice a Re Kaioh che non si allena da tre anni e non sa se riuscirebbe a trasformarsi, che parlerà con il Kaioshin, che teme di essere controllato da Babidi e non vuole che arrivi su Terra Nova; chiede quanto è forte Dabura rispetto a Zaraya. Re Kaioh risponde e gli chiede quanta rabbia gli è rimasta.
 - G15 ~23:58 (s5): Re Kaioh: Bu dorme ancora (serve energia); Kibith l'ha ferito Dabura, re dei demoni al servizio di Babidi, che ha anche pietrificato la saiyan; Babidi è debole ma si prende chi ha rabbia dentro; cinque saiyan marchiati (M sulla fronte); su Zaraya contro Bu non sa. Akira, a letto, strappa il lenzuolo stringendolo. Zemi si agita nel sonno, Syntia la calma contando.
 - G15 ~23:55 (s5): Re Kaioh rivela ad Akira Shin, Babidi e Majin Bu; Shin arriva il g16 o il g17 e non si fida di lui. Gli chiede di promettere di ascoltarlo fino in fondo.

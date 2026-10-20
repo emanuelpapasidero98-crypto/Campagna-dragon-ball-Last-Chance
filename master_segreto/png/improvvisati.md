@@ -76,3 +76,13 @@ Ogni PNG ha anche **una cosa che non c'entra col suo ruolo** (un affetto, una pr
 - **Cannella**: ha ottenuto che la lezione del g16 si faccia e che il comunicato parli di «anomalia di pressione». Teme che il Consiglio sappia (lo sa: il picco è nei sensori). Parametri invariati.
 - **Mirtillo**: compila la segnalazione dei pannelli («onda di pressione non chiarita», senza nominare una bambina). Non può nasconderla alla manutenzione. Parametri invariati (Rispetto 3 · Amore 1 · Odio 1 · Spietatezza 1 · Lealtà 4).
 - **Zia Lattuga**: non ha cambiato idea su Akira (Odio 5). Ha visto Zemi muovere l'aria e lo racconterà alla squadra; da lei la voce arriva al quartiere dell'Orto entro la sera. Parametri invariati.
+
+## Ingegner Tenaglia *(nuova, s5 · g17)*
+- **Chi è**: tecnica di Clod City, scelta da Ganascia per assistere alla valutazione di Zemi (ordine del re). Dal g17 07:00 ha anche l'ordine di valutare Akira.
+- **Aspetto**: alta e magra, sui cinquant'anni, capelli grigi in uno chignon stretto, completo grigio con lo stemma di Clod City sul taschino, guanti, due valigette di metallo; su una c'è un adesivo sbiadito a forma di dinosauro arancione (di sua figlia).
+- **Voce**: educata e piatta, da sportello; dà del lei; frasi complete, mai una parola in più; non tende la mano.
+- **Allineamento**: Legale Neutrale. Esegue l'ordine firmato dal re alla lettera; non ha niente contro la bambina, ha paura del padre e lo nasconde dietro la procedura.
+- **Sei leve**: riservata, spigolosa, calma, riflessiva · bisogno: controllo (fare le cose secondo il protocollo) · paura: essere ingannata (sa che Tights è contraria e non si fida dei suoi strumenti) · difesa: razionalizzazione (il foglio, le regole), di riserva il blocco · rapporto: estranea; deve rendere conto a Ganascia · corpo: si è alzata alle cinque per volare da Clod City.
+- **Una cosa che non c'entra col ruolo**: ha una figlia di otto anni che le attacca adesivi sulle valigette; non lo racconta.
+- **Desiderio**: fare la misura completa e portarla a Ganascia. **Sa**: il rapporto di Tobias, il picco del g16 alle 15:07, l'aura delle 3:12, l'ordine del re. **Non sa**: le lezioni segrete, Babidi.
+- **Parametri** (verso Akira): Rispetto 2 · Amore 1 · Odio 2 · Spietatezza 3 · Lealtà 4 (al re e a Ganascia)

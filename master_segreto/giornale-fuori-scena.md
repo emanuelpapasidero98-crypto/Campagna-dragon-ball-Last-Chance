@@ -261,3 +261,15 @@ Ogni voce: data · luogo · chi · cosa · conseguenze · chi lo sa · **come Ak
 - **G15 sera · attico**: messaggio di Tights a Syntia: valutazione il g17 alle 9 alla Capsule, trasferimento con gli Arc-G2, presente un tecnico di Clod City per ordine del re.
 - **G15 · Aldilà / Kaioshin**: Shin decide di andare su Terra Nova a cercare Akira; Re Kaioh lo precede e contatta Akira alle 23:50.
 - **Chi lo sa**: vedi le singole voci. **Come Akira può scoprirlo**: per ora sa solo ciò che ha visto e sentito in casa (giornalisti, notiziari, Tobias che dice «lassù», il ki di Zemi che sparisce nel seminterrato, il messaggio di Tights riferito da Syntia, Re Kaioh).
+
+### Salto g16 00:10 → g17 08:55 (sessione 5, chiesto dal giocatore «fino all'arrivo alla Capsule»)
+- **G16 mattina · Consiglio**: seduta con le immagini dei satelliti (cupola organica, figura con le corna, auree). Esito (tiro 1): cannoni a ioni pronti al fuoco sulle Distese del Nord, in attesa dell'ordine del re. Ganascia in vantaggio. Tights stanca, in minoranza, non propone di chiedere aiuto ad Akira (ferita dalla notte del g14).
+- **G16 mattina · Aula Magna**: seconda lezione di Syntia, da sola (microfono nuovo che fischia; giornalisti sotto l'università). Zemi a casa con Akira.
+- **G16 15:07 · seminterrato**: seconda lezione di Zemi: la luce le scappa per un respiro, picco registrato dai sensori nel palazzo. Tobias non ha ancora mandato al re il rapporto chiesto sul picco: deve decidere se mentire.
+- **G16 pomeriggio · Distese del Nord**: Zaraya va a nord con Ignis e le guardie. Babidi tenta di marchiarla e fallisce di poco. Tyros e i marchiati, con Dabura, la attaccano: Ignis muore coprendo la ritirata (ucciso da Tyros). Zaraya ferita torna alla Città dell'Ovest. Zarcon, chiuso nella torre per punizione, non c'era.
+- **G16 sera**: Akira racconta a Syntia di Re Kaioh, Shin, Babidi. Syntia: paura per Zemi (la rabbia), condizione: ogni decisione con quel dio si prende con lei. Dorme nella cameretta, porta aperta.
+- **Notte g16→17, 03:12**: Akira si sveglia con l'aura accesa. Gli Arc-G2 la registrano (le linee passano al rosso). Zemi si sveglia e chiama il papà; Syntia va da lei. Tobias bussa una volta.
+- **G17 07:00 · Consiglio**: il re firma l'estensione della valutazione al padre (spinta di Ganascia).
+- **G17 08:30-08:55**: Tobias porta la famiglia alla Capsule in aeromobile grigio del governatorato, scortati dai due Arc-G2. Tobias dice ad Akira del picco e del rapporto chiesto dal re. Alla Capsule li aspettano Tights e l'ingegner Tenaglia di Clod City.
+- **G17, più tardi**: arriva Shin su Terra Nova (ora da decidere in scena).
+- **Come Akira può scoprirlo**: guerra al nord e morte di Ignis: per ora nessun modo (scudo); i cannoni pronti: forse da Tights, se parla.
