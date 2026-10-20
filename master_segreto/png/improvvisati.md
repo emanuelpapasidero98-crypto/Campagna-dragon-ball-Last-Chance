@@ -2,6 +2,8 @@
 
 Registro di ogni PNG creato durante il gioco. Ognuno deve essere **diverso** da tutti gli altri.
 
+Per ogni PNG nuovo si annotano anche le **sei leve** di `regole/07-psicologia-dei-png.md`: temperamento (espansivo/riservato, morbido/spigoloso, calmo/nervoso, riflessivo/impulsivo), bisogno, paura, difesa preferita e di riserva, rapporto con Akira. Servono a farlo reagire come una persona in ogni scena futura.
+
 Ogni PNG ha anche **una cosa che non c'entra col suo ruolo** (un affetto, una preoccupazione, un gusto, una seccatura). Il ruolo e il tic si vedono nell'aspetto e nei gesti; in bocca al PNG compaiono al massimo una volta per scena (`regole/06-dialoghi.md` §4, punto 6).
 
 ## Wanton *(wonton)*

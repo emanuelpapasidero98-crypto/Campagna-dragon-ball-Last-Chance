@@ -43,7 +43,7 @@ Ogni PNG importante ha **un desiderio, una paura e un prossimo passo concreto**.
 
 ## 7. PNG improvvisati
 
-- Prima di farlo parlare gli do: nome coerente con lo stile, aspetto, voce, un desiderio, una paura, i 5 parametri, cosa sa. **Mai** copie di PNG esistenti.
+- Prima di farlo parlare gli do: nome coerente con lo stile, aspetto, voce, le **sei leve** di `regole/07-psicologia-dei-png.md` (temperamento, bisogno, paura, difesa preferita e di riserva, rapporto con Akira e con gli altri presenti, stato del corpo), un desiderio concreto, i 5 parametri, cosa sa. **Mai** copie di PNG esistenti.
 - Gli do anche **una cosa che non c'entra col suo ruolo**: un affetto, una preoccupazione di casa, un gusto, una seccatura della giornata. Il mestiere si vede nell'aspetto e nei gesti; in bocca al PNG compare al massimo una volta per scena. La **voce** è il modo di parlare (ritmo, registro, atteggiamento), non l'argomento preferito (`regole/06-dialoghi.md` §4, punto 6).
 - Lo registro subito in `master_segreto/png/improvvisati.md` (o in una scheda dedicata, se diventa importante).
 

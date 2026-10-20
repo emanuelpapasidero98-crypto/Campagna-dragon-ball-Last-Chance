@@ -7,7 +7,7 @@ description: Apre una nuova sessione di gioco della campagna Dragon Ball Last Ch
 
 1. **Sincronizza**: `git pull` sul ramo corrente. Se esiste `origin/main` più aggiornato, portalo dentro con un merge.
 2. **Rileggi la memoria**, nell'ordine:
-   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (la prosa: terza persona vicina ad Akira, periodi scorrevoli, mai frasi fatte), **`regole/06-dialoghi.md`** (le battute: emozioni dei PNG che si sentono, PNG che reagiscono al mondo e tra loro), **`regole/08-metodo-esito.md`** (il metodo con cui si costruisce ogni esito: va seguito a ogni messaggio) e `Comandi chat.md`;
+   - `CLAUDE.md` e **tutte** le regole, per intero: `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`, **`regole/05-prosa-shonen.md`** (la prosa: terza persona vicina ad Akira, periodi scorrevoli, mai frasi fatte), **`regole/06-dialoghi.md`** (le battute: emozioni dei PNG che si sentono, PNG che reagiscono al mondo e tra loro), **`regole/07-psicologia-dei-png.md`** (come funzionano le persone: lo schema per far reagire ogni PNG, anche nuovo), **`regole/08-metodo-esito.md`** (il metodo con cui si costruisce ogni esito: va seguito a ogni messaggio) e `Comandi chat.md`;
    - `mondo/stato-attuale.md`, `mondo/calendario.md`;
    - `cronaca/riepilogo-campagna.md` e l'ultimo file in `cronaca/sessioni/`;
    - `mondo/fatti-stabiliti.md`;

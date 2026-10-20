@@ -35,7 +35,7 @@ Poi: `git add -A && git commit --no-edit`.
 Le regole caricate a inizio sessione sono la versione **vecchia**: vanno sostituite nella tua memoria. Rileggi con lo strumento di lettura, dall'inizio alla fine, **tutti** questi file. Da questo momento valgono solo queste versioni:
 - `CLAUDE.md`
 - `regole/01-regole-master.md`, `regole/02-sistema-di-gioco.md`, `regole/03-stile-toriyama.md`, `regole/04-metodo-mondo-vivo.md`
-- `regole/05-prosa-shonen.md`, `regole/06-dialoghi.md`, `regole/08-metodo-esito.md`, e ogni altro file nuovo comparso in `regole/` (se un file di regole è sparito da `main`, non vale più)
+- `regole/05-prosa-shonen.md`, `regole/06-dialoghi.md`, `regole/07-psicologia-dei-png.md`, `regole/08-metodo-esito.md`, e ogni altro file nuovo comparso in `regole/` (se un file di regole è sparito da `main`, non vale più)
 - `.claude/promemoria-master.md`
 - `master_segreto/png/voci-e-diario.md` e `master_segreto/png/rapporti-tra-png.md`, se esiste
 - `Comandi chat.md`
