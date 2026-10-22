@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:35)
-- **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), corridoio davanti al laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:35, Capsule, corridoio davanti al laboratorio, porta aperta. Akira sulla panca. Ha chiesto scusa a Tobias, gli ha parlato di Shin e del piano di tornare sulla vecchia Terra da solo, gli ha chiesto di proteggere Syntia e Zemi se muore. Tobias: senza nave non ci arriva e le navi le ha Tights; l'ordine di non farlo uscire dal quartiere ce l'ha lui; Zemi la guarda lui, ma del morire parli con la moglie; se il Kaioshin compare in città gli Arc-G2 gli sparano: dove e quando arriva? Zemi aggrappata alle sue gambe: «ho acceso tutte le luci… ho fatto male?». Syntia sulla soglia: «di cosa stavate parlando, voi due?». Tenaglia sulla soglia con un solo bracciale nero: tocca a lui, giacca via, sullo sgabello. Tights dentro, faccia bianca, lo guarda. Shin arriva in giornata.
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:40)
+- **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), laboratorio di Tights
+- **Scena in sospeso**: g17, circa le 9:40, laboratorio di Tights (porta chiusa, pareti schermate). Akira è entrato per la sua misura, in piedi. Tights: le pareti reggono la base, se si trasforma salta tutto; a mezza voce, senza farsi sentire da Tenaglia: «Solo la base, per favore… solo quella.» Tenaglia: l'ordine del re parla di potenziale massimo; ha scritto degli incubi; tiene aperto il bracciale nero per il polso sinistro: «Quanto vuole mostrarci, signore, lo decide lei.» Sul bancone il foglio di Zemi con OLTRE SCALA sottolineato due volte. Luci della parete accese al minimo. Fuori, dall'oblò: Syntia ha costretto Tobias a dirle qualcosa e ora guarda Akira attraverso il vetro, con Zemi alla gonna. Tobias ha ordinato alle unità del quartiere di non sparare a sconosciuti. Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:40 (s5): Akira dice a Tobias che parlerà con Tights e non sa dove arriva il Kaioshin; Tobias scrive alle unità del quartiere di non sparare. Akira abbraccia Zemi («Allora adesso tocca a te accendere le luci!») e dice a Syntia che Tobias le spiegherà. Nel laboratorio chiede se la stanza regge e parla degli incubi. Tights e Tenaglia si scontrano su base o massimo.
 - G17 ~09:30-09:35 (s5): Akira si scusa con Tobias e gli dice di Shin, del ritorno sulla vecchia Terra da solo, della famiglia se muore. Tobias si arrabbia (nave, ordine del re), prenderà cura di Zemi, gli rimanda il discorso del morire a Syntia, chiede dove e quando arriva il Kaioshin. Esce Zemi, poi Syntia, che chiede di cosa parlavano. Tenaglia lo chiama per la misura.
 - G17 ~09:20-09:30 (s5): Persuasione su Tobias riuscita (6+3 = 9 contro CD 8): sonda del g8, foto del g14, saiyan contro saiyan il g16. Finisce la misura di Zemi: tutta la parete di luci verdi.
 - G17 ~09:05-09:15 (s5): Akira bacia Zemi sulla fronte («papà farà la stessa cosa»; Zemi: «Anche a te ti mettono i fili?»). Bacia Syntia: lei gira appena la faccia, il bacio le arriva all'angolo della bocca; non ricambia e non si scosta. Sulla panca Akira racconta a Tobias di Babidi e di Re Kaioh. Tobias si tradisce sullo stregone, scrive a Tights; Tights legge e lo guarda dall'oblò.

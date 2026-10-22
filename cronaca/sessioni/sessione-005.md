@@ -82,6 +82,11 @@
 - Zemi: «Papà, ho acceso tutte le luci… tutte quante.» · «Ho fatto male?»
 - Syntia: «Di cosa stavate parlando, voi due, mentre io ero là dentro?»
 - Tenaglia: «Tocca a lei, signore.» · «Si tolga la giacca, prego, e si sieda sullo sgabello.»
+- Zemi: «Allora adesso tocca a te accendere le luci!» · «Tutte, eh, sennò ho vinto io.»
+- Tights: «Le pareti le ho fatte io, e reggono tutto quello che hai alla base.» · «Se ti trasformi, qua dentro salta tutto, pareti comprese, e con le pareti anche il segreto di chi c'era dentro.»
+- Tenaglia: «L'ordine di Sua Maestà parla di potenziale massimo, dottoressa Brief.» — Tights: «L'ordine parla di valutazione.» · «Il massimo lo calcolo io, dai dati della base, che gli strumenti li ho costruiti io e so come si fa!»
+- Tenaglia: «Si sieda, prego.» · «Quanto vuole mostrarci, signore, lo decide lei.»
+- Tights (a mezza voce): «Solo la base, per favore… solo quella.»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -99,5 +104,6 @@
 - g17 ~09:25: **Persuasione riuscita** su Tobias (6+3 = 9, CD 8): racconta la sonda del g8, le foto del g14 e la battaglia del g16. Rabbia verso il Consiglio. Dilemma sul rapporto al re.
 - g17 ~09:30: la valutazione di Zemi accende tutta la parete. Tights nasconde lo schermo a Tenaglia e spegne. Tenaglia annota e guarda Akira.
 - g17 ~09:30: Akira si scusa con Tobias per il peso della sua presenza, gli dice che non è solo, che forse non sopravvivrà, gli parla di Shin e del ritorno da solo sulla vecchia Terra, gli affida Syntia e Zemi se muore. Tobias, imbarazzato dalle scuse, si arrabbia per il resto: nave di Tights, ordine del re; accetta di occuparsi di Zemi; del morire parli con la moglie. Pensa subito agli Arc-G2 e al Kaioshin. Syntia esce e vede lui e Tobias a confabulare (la sua condizione: decidere insieme).
+- g17 ~09:40: Akira a Syntia: Tobias le dirà durante il test, «niente di cui non abbiamo già parlato». Syntia non risponde, si chiude in faccia. Nel corridoio costringe Tobias a parlare (lui scuote la testa, poi dice poche parole) e guarda Akira dall'oblò, col mento che trema. Dentro: Tights difende la base (e lo prega a mezza voce), Tenaglia l'ordine del massimo; la scelta è di Akira.
 
 ## Errori segnalati dal giocatore
