@@ -36,6 +36,11 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s4 · g14] Dalle 00:52 del g14, due **Arc-G2** stanno davanti al portone del palazzo dell'attico, rivolti alla strada, con le linee luminose accese (ordine del Consiglio).
 - [s4] Ad Arcorp, di notte, non si sente il verso dei Dindon.
 
+- [s5 · g14] Il palazzo dell'attico ha undici piani. Nel seminterrato c'è un locale tecnico che i tecnici della Capsule hanno schermato il g14: dentro, il ki non si percepisce da fuori e i sensori della città di norma non registrano (il g16 un picco forte di Zemi è passato). Il palazzo ha scale di servizio.
+- [s5 · g14] Di notte il riverbero azzurrino delle linee degli Arc-G2 si vede sulle finestre del palazzo di fronte e sul soffitto della camera da letto dell'attico.
+- [s5 · g17] **Capsule Corporation di Arcorp**: cupola bianca enorme, rotonda e lucida, scritta CAPSULE CORP. a lettere blu sul fianco, edifici più bassi intorno, piazzale per aeromobili. Fuori dal quartiere est, a ovest. Atrio alto e rotondo, bianco, pavimento lucido, bancone dell'accoglienza, un robot delle pulizie basso e tondo che tira uno straccio.
+- [s5 · g17] **Laboratorio di Tights**: in fondo a un corridoio curvo; porta di metallo grigio con oblò rotondo, apertura a palmo, chiusura pneumatica, luce verde sopra lo stipite quando è in uso. Dentro: freddo, odore di metallo caldo e olio; un braccio meccanico pieno di cavi che scende dal soffitto; un pannello con schermo; una parete con una fila di luci verdi che si accendono da sinistra a destra in base alla misura; uno sgabello. Pareti schermate: il ki da fuori non si sente, i sensori della città non registrano; reggono la base di Akira, non una trasformazione (Tights). Nel corridoio una panca di metallo bianca senza schienale.
+
 ## Persone e animali
 - [pre-campagna] Zemi ha un uccello ferito dal becco a pala che chiama **Pancotto**.
 - [s1 · g1] Pancotto: l'ha trovato Zemi nel fosso dietro l'orto. Zemi giura che l'ha picchiato "un uccello cattivo, grosso, con i denti"; Syntia pensa che abbia sbattuto contro il vetro della serra (c'era una piuma attaccata). Ala sinistra fasciata con uno strofinaccio a quadretti (quello buono). Vive in una cassetta di legno accanto alla stufa. Fa «Krooo». Al g11 apre l'ala a metà: sta guarendo. Viaggia in una scatola di cartone bucata.
@@ -67,6 +72,13 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s4] Zemi, la mattina, apre un occhio da sotto il cuscino e lo richiude subito.
 - [s4] Ricordo di Akira (774): Syntia, con Zemi di tre anni in braccio, accanto a Tights su un balcone alto della piazza di Arcorp; la bambina non toglieva gli occhi da Akyr.
 
+- [s5 · g14] Tights non ha cenato la notte del g14 e ha mentito a Tobias («ho mangiato»). Tobias le chiede se ha mangiato e le dice di dormire.
+- [s5 · g15] Prima lezione di Zemi con Tobias: tenere una luce ferma sul palmo per tre respiri (dentro per tre, fuori per tre). Seconda lezione (g16): la luce le «scappa». Zemi chiama Tobias «il signore del riso».
+- [s5 · g15 notte] Syntia dorme nella cameretta con Zemi; nel letto matrimoniale l'altra metà resta vuota. Akira, stringendolo, ha strappato il lenzuolo dal suo lato per una spanna.
+- [s5 · g17] **Ingegner Tenaglia** di Clod City (tecnica scelta da Ganascia): alta e magra, sui cinquant'anni, capelli grigi in uno chignon stretto, completo grigio con lo stemma di Clod City sul taschino, guanti, voce educata e piatta «da sportello», dà del lei, scrive a verbale con una stilografica. Due valigette di metallo (una con un adesivo sbiadito a forma di dinosauro arancione) e una terza più grande. Ha paura di Akira.
+- [s5 · g17] Zemi, alla misura, ha i bracciali ai polsi (segni rossi dopo); respira «dentro per tre, fuori per tre» con gli occhi chiusi e riempie tutta la parete di luci.
+- [s5 · g17] L'aura di Akira dopo tre anni: lenta all'inizio, poi un formicolio caldo anche dove manca la spalla destra; blu pallido, poi intenso, poi fiamma (*WUUUOSHHH*). A metà della base il vento solleva i fogli, scioglie lo chignon di Tenaglia, fa oscillare il braccio meccanico e vibrare l'oblò.
+
 ## Oggetti
 - [pre-campagna] Il braccio Arc-G è nero opaco con venature rosse fluorescenti. Akira l'ha restituito a Tights.
 - [s1 · g1] Sotto la scodella di Akira c'è un anello di gomma rossa che Syntia ha incollato tre anni fa, perché non scivoli quando lui mangia con una mano sola. Non ne hanno mai parlato.
@@ -83,6 +95,11 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 
 - [s4 · g14] **Raccomandazione vincolante del Consiglio** (seduta del g13, chiusa alle 00:40, firmata dal re): 1) Akira e famiglia non lasciano il quartiere est di Arcorp fino a nuova disposizione; 2) due Arc-G2 presso l'abitazione dall'1:00 del g14; 3) Orto dell'Est interdetto ad Akira e a Zemi; 4) valutazione del potenziale di Zemi al laboratorio della Capsule entro tre giorni. Voto: tre favorevoli, uno contrario («Brief, T. — Arcorp City»).
 - [s4 · g14] Nel frigo dell'attico ci sono ancora lattine di caffè di Tights.
+
+- [s5 · g17] Strumenti della valutazione: per Zemi due bracciali di metallo collegati al braccio meccanico; per Akira un bracciale nero più spesso con lucine rosse sul bordo (uno solo, al polso sinistro; si scalda) e due dischetti di metallo alle tempie. Lo strumento di Tenaglia è una scatoletta di metallo collegata al bracciale, con il numero in verde. Misura di Akira a metà base: 4.900.000.
+- [s5 · g17] Il foglio di Tenaglia sulla misura di Zemi riporta, in stampatello, OLTRE SCALA, sottolineato due volte.
+- [s5 · g17] Aeromobile grigio del governatorato, guidato da Tobias; in volo i due Arc-G2 stanno ai lati, uno per parte.
+- [s5] I giornalisti di Arcorp usano telecamere a capsula portate in spalla.
 
 ## Fauna e flora di Terra Nova
 *(aliene, non senzienti)*
@@ -116,3 +133,10 @@ Formato: `- [sessione N · data in gioco] Fatto.`
 - [s2 · g13] Alle 14 del g13 Cannella porta Syntia all'Orto Botanico dell'Est a conoscere il direttore. Syntia vuole che Akira venga.
 - [s4 · g13] Notiziari della sera del g13: «SEDUTA STRAORDINARIA DEL CONSIGLIO — IN CORSO», poi alle 00:40 «CONCLUSA. NESSUNA DICHIARAZIONE»; la foto della cupola grande dal basso con «ANOMALIA DI PRESSIONE ALL'ORTO DELL'EST — NESSUN FERITO».
 - [s4 · g14] Tobias allenerà Zemi (ordine di Tights): i rapporti li fa solo a Tights, al re niente. Syntia sarà presente a ogni lezione.
+- [s5 · g14] I due Arc-G2 al portone dell'attico guardano la strada perché li ha fatti girare Tights (la raccomandazione dice solo «presso l'abitazione»). Registrano comunque: quando registrano un'aura, le linee passano dal blu al rosso e le facce si girano verso la fonte.
+- [s5 · g14-15] Lo schermo dei notiziari della piazza, di notte, ripete i servizi: Ganascia (TROPPE COINCIDENZE), poi «ESERCITAZIONE DI DIFESA ORBITALE» sopra la foto di un cielo nero con lampi bianchi in basso.
+- [s5 · g15] Il governatorato chiama «esercitazione dei sistemi di difesa orbitale» quello che succede in cielo dal g15.
+- [s5 · g16] Il microfono nuovo dell'Aula Magna fischia più del vecchio (Syntia).
+- [s5] Il marchio di Babidi, per come lo descrive Re Kaioh: una M disegnata sulla fronte.
+- [s5 · g17] Tobias ha ordinato alle unità Arc-G2 del quartiere di non aprire il fuoco su sconosciuti senza il suo via.
+- [s5 · g14] Sul tavolino di ferro della terrazza dell'attico sono rimaste due macchie di caffè secco (la lattina aperta da Akira per Tights); la sedia di Tights era rimasta di traverso.

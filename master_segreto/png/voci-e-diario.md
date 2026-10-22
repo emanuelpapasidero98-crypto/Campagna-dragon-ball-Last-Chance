@@ -40,6 +40,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - (s4) «E se poi dicono che deve imparare a gestirlo, chi glielo insegna, Akira… tu?»
 - (s4) «Tre contro uno. E tu, Tights, eri i tre o eri l'uno?»
 - (s4) «Vado a vedere se dorme.» (davanti alla mano tesa di Akira)
+- (s5) «Rabbia… E Zemi, Akira? Lei quando si arrabbia fa scoppiare le lampade!»
+- (s5) «Qualunque cosa decidi di fare con quel dio, la decidi qui, con me, prima di dirgli di sì.»
+- (s5) «Io da mia figlia non mi stacco, ingegnere.»
 
 **Diario dei rapporti**
 - 765: conosce Akira durante la ricostruzione, sei mesi dopo la caduta di Freezer.
@@ -59,6 +62,12 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - s4 · g13 21:10-21:20: Akira, voltatosi, la rimprovera a bassa voce (doveva dirglielo; il governo ora è in allerta; ha il diritto di sapere; «così non sei di aiuto») e le dice di aver fatto chiamare Tights. Lei non risponde alle accuse: gli rinfaccia di averle taciuto Tights fino a dopo cena, scrive a Tights che ci sarà anche lei e scopre dalla risposta che lui voleva vederla da sola. Rifiuta il piano di Akira di prendersi la colpa (Ganascia aspetta solo quello; Zemi il ki ce l'avrebbe lo stesso) e gli chiede chi insegnerebbe a Zemi: lui? Al «pensavo a Tobias» dice no (riferisce al governo) e va nella cameretta. Fredda fino all'una. Non ha risposto al «ti amo».
 - s4 · g14 01:05-01:12: chiede a Tights se era «i tre o l'uno»; risponde Akira per lei (contro). Sente Akira offrirsi all'arresto «per lasciare in pace Syntia e Zemi» e chiedere Tobias come maestro: quando Tights accetta (rapporti solo a lei), pone la condizione di essere a tutte le lezioni e di chiedere lei a Zemi se vuole. Parla solo a Tights, mai ad Akira.
 - s4 · g14 01:13: sente Akira minacciare il re. Akira, dopo aver detto a Tights che sarà sempre parte della famiglia, le tende la mano sorridendo: lei la guarda a lungo, non la prende, «Vado a vedere se dorme», e si siede sul bordo del letto di Zemi. Rabbia e paura non dette (l'arresto offerto, le decisioni prese senza di lei, la minaccia al re).
+- s5 · g14 01:16-01:22: assiste alla Persuasione fallita di Akira con Tights. Offre a Tights il divano («alle sei e mezza ti sveglio io, e il caffè te lo faccio io, caldo»); Tights rifiuta. Poi chiude la porta della cameretta. Ad Akira non dice niente.
+- s5 · g14-15: chiede lei a Zemi delle lezioni con Tobias («l'ha chiesto lui») ed è presente alla prima, nel seminterrato. Riferisce ad Akira, pratica e senza calore, il messaggio di Tights sulla valutazione del g17.
+- s5 · g16 sera: Akira le racconta di Re Kaioh, Shin e Babidi. Ha paura per Zemi (lo stregone si prende chi ha rabbia; Zemi, quando si arrabbia, fa scoppiare le lampade). Pone la condizione: ogni decisione con quel dio si prende con lei, prima di dirgli di sì. Dorme nella cameretta, ma lascia la porta aperta.
+- s5 · g17 03:12: corre da Zemi quando Akira si sveglia con l'aura accesa.
+- s5 · g17 09:00-09:10: davanti a Tenaglia rifiuta di staccarsi da Zemi; Tights la fa restare. Akira la bacia prima di entrare: lei gira appena la faccia, il bacio le arriva all'angolo della bocca; non ricambia e non si scosta.
+- s5 · g17 ~09:35-09:40: esce dal laboratorio e chiede di cosa parlavano Akira e Tobias; Akira le dice che glielo spiegherà Tobias. Incalzato, Tobias le dice solo che Akira gli ha chiesto di guardare la bambina se gli succede qualcosa e che vuole una nave da Tights. Syntia capisce che vuole partire da solo e che di morire ha parlato prima con Tobias che con lei: la condizione della sera prima è saltata. Rabbia e paura, non dette (porta chiusa, Tenaglia dentro). Il prossimo confronto con Akira sarà duro.
 
 ## Zemi
 **Voce**
@@ -77,6 +86,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - (s2) «Hai detto dopo… è dopo, adesso?»
 - (s3) «Ma lui non ha mica detto dov'è che lo compra, il signore!»
 - (s3) «Il mio papà è buono, sei tu che sei cattiva!» · «Papà… io non volevo.»
+- (s5) «Anche a te ti mettono i fili?» · «Allora dopo vediamo chi fa la luce più grande!»
+- (s5) «La luce mi è scappata. Il signore del riso ha detto che capita… però dopo ha fatto una faccia.»
+- (s5) «Papà, ho acceso tutte le luci… tutte quante.» · «Ho fatto male?»
 
 **Diario dei rapporti**
 - 774: incontra il padre per la prima volta (aveva 3 anni) mentre lui è Akyr.
@@ -84,6 +96,10 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - s1 · g13: in terza fila all'Aula Magna, con il vestito giallo. Nota subito Tobias e il suo riso.
 - s2 · g13: nota che Tobias guarda il papà e non la mamma. Akira le dice che ci ha parlato una volta e che andrà a salutarlo; la chiama "scimmietta". Non può andare con lui: gli affida la domanda sul riso, "senza inventare niente" (sa che il papà inventa le storie). Scopre da Syntia di aver mangiato il riso di Tobias da piccola e lo saluta con un «Ciaaao!» dal palco. Aspetta la risposta: banco 14 del mercato coperto, tendone blu.
 - s3 · g13: Akira non le dice dove Tobias compra il riso («è più buono se te lo prepara la mamma»): lei protesta, ancora senza risposta. Alla tavola calda assaggia il riso in bianco («colloso») e saluta Tobias due volte con la forchetta. All'Orto, sentendo Lattuga dire che un giorno le racconteranno cos'ha fatto suo padre, grida «Il mio papà è buono, sei tu che sei cattiva!» e il ki esplode davanti ad Akira. Poi, in lacrime, tende le braccia verso di lui: «Papà… io non volevo.» Akira la guarda severo e dice «adesso andiamo a casa…»: lei ritira le braccia e nasconde la faccia contro la spalla della mamma. Teme di aver fatto arrabbiare il papà. Dopo la carezza e il bacio si calma un poco; al cancello, in braccio al padre, «Ho sonno…» e si addormenta; in braccio al padre, con le braccia al suo collo, vede gli Arc-G2: «Papà, quelli lassù non hanno la faccia.» Poi, al cancello: «la mamma ha detto presto, ma presto quanto?» Prima ancora, a terra accanto a lui, tenendogli un lembo della manica: «Però prima mi hai guardata brutto, papà. Adesso non lo fai più, vero?»
+- s5 · g14: accetta le lezioni con Tobias («Il signore del riso? Quello della crosta?» · «E il papà lo sa?» · «Allora sì»).
+- s5 · g15-16: alla prima lezione tiene una luce ferma sulla mano per tre respiri e lo racconta subito al papà; alla seconda la luce le scappa e Tobias «fa una faccia».
+- s5 · g17 03:12: si sveglia per l'aura del papà e lo chiama.
+- s5 · g17 09:00-09:45: alla Capsule nota il dinosauro sulla valigetta di Tenaglia («Anche tu ce l'hai, il dinosauro…»). Il papà la bacia in fronte e le dice che farà la stessa cosa: «Anche a te ti mettono i fili?». Accende tutta la parete di luci verdi (OLTRE SCALA) e ha paura di aver fatto male; il papà le dice che è stata bravissima e la abbraccia: «Allora adesso tocca a te accendere le luci!» · «Tutte, eh, sennò ho vinto io.» Dall'oblò esulta quando il papà ne accende metà.
 
 ## Tights Brief
 **Voce**
@@ -100,6 +116,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - (s4) «Quella cosa sul re non la ripeti. Né qui, né fuori di qui.»
 - (s4) «In Consiglio ci siedo anch'io, Akira.»
 - (s4, a Tobias attraverso la porta) «Siediti. Mi fai venire il mal di testa.»
+- (s5) «Ah, adesso ti viene in mente di chiedermelo?» · «Il braccio me l'hai riportato tu, e da quel giorno non ti ho più sentito!»
+- (s5) «Le sedute non te le racconto, non a uno che dieci minuti fa voleva far paura al re.»
+- (s5, a mezza voce, in laboratorio) «Solo la base, per favore… solo quella.»
 
 **Diario dei rapporti**
 - 769: lavorano insieme contro Gero. Lei lo cura e gli costruisce i guanti Phase-S.
@@ -111,6 +130,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - s4 · g14 01:05: arriva all'attico dalla seduta, non saluta Akira, gli guarda la manica vuota. Porta la raccomandazione del Consiglio (voto 3 a 1: lei contraria) e dice di persona della valutazione di Zemi nel suo laboratorio.
 - s4 · g14 01:10: Akira le chiede di dire al Consiglio che è stato lui, di arrestarlo, di far allenare Zemi da Tobias senza rapporti al governo, ricordandole che non le ha mai chiesto niente per averli salvati (il conto la irrigidisce). **Persuasione riuscita**: rifiuta l'arresto (inutile), gli dice che il re ha chiesto quanto diventerà forte Zemi, e ordina a Tobias di allenarla con i rapporti solo a lei. Tiene il punto sul laboratorio: la misura lei. Dice il suo nome per la prima volta in tre anni.
 - s4 · g14 01:13-01:16: Akira minaccia il re davanti a lei («Korinzo saprà cosa vuol dire avere paura»): gli ordina di non ripeterlo (il re l'ha già sentito minacciare in televisione nel 774). Poi Akira le chiede **come sta**, le dà ragione sulle sue macchine, le dice che di quel Consiglio si fida solo di lei e che sarà sempre parte della famiglia. Lei non risponde a voce: si toglie il cappotto, mette la cartella del governo sotto la sedia, gli porta una lattina di caffè dalla parte della sua unica mano, e rifiuta di essere messa a parte («In Consiglio ci siedo anch'io, Akira»). Sono soli sulla terrazza per la prima volta in tre anni. Il primo passo l'ha fatto lui.
+- s5 · g14 01:16-01:22: gli spiega che ha fatto girare gli Arc-G2 verso la strada (registrano lo stesso) e gli chiede se l'innesto gli fa male di notte. Akira le apre la lattina, le chiede come sta e cosa succede: **Persuasione fallita, critico**. Gli rinfaccia i tre anni di silenzio dopo il braccio, rifiuta di raccontargli le sedute («non a uno che dieci minuti fa voleva far paura al re») e se ne va (alle sette ha i tecnici dell'Orto). Rifiuta il divano di Syntia. Odio 1 → 2.
+- s5 · g14-16: fa schermare il seminterrato dai suoi tecnici, trattiene Tobias a terra per le lezioni, scrive a Syntia (non ad Akira) della valutazione. Il g17 alle 4 sa dell'aura delle 3:12, mezz'ora dopo Ganascia.
+- s5 · g17 09:00-09:45: alla Capsule protegge prima Syntia (la fa restare con Zemi) e poi Akira (lo lascia fuori; si scontra con Tenaglia su base o massimo). Nasconde a Tenaglia il numero di Zemi. Legge il messaggio di Tobias su Babidi e guarda Akira dall'oblò, bianca in faccia. Quando lui si ferma a metà della base è sollevata e gli fa di sì con la testa («Va bene così, va bene»); registra il 4,9 milioni come «massimo espresso». Dal g14 non gli ha più parlato da sola.
 
 ## G-1 Tobias
 **Voce**
@@ -130,6 +152,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - (s3) «Quanto a soli, io fuori dalla porta ci sto lo stesso, perché l'ordine è quello e non lo decidiamo né tu né io, ma dentro non entro.»
 - (s4, tra sé) «Lo so, lo so da me, non c'è bisogno che me lo scrivi due volte…»
 - (s4, messaggio a Tights, tutto minuscolo) «e zemi, lo vuole?»
+- (s5, al comunicatore) «Tights, se mi mandate di nuovo lassù, alle tre chi c'è con la bambina?»
+- (s5) «Questo stregone… è basso? Con un mantello che arriva per terra?»
+- (s5) «Ma il discorso su quando muori non lo vieni a fare a me sulla panca di un corridoio, lo fai a tua moglie… che ce l'hai lì, a due metri.»
 
 **Diario dei rapporti**
 - 774: Akyr lo sconfigge e lo umilia, usandolo come esca e come trofeo. Poi Tobias combatte al fianco di Akira contro i saiyan e gli passa l'ultima fiala di senzu.
@@ -139,6 +164,9 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - s3 · g13 sera: tornato dal Consiglio (dove ha presentato di persona il rapporto sull'Orto, scritto male e di fretta: tiro 1), si siede sul pianerottolo dell'attico. Ha il rimorso di aver scritto «nessun controllo osservato» senza il contesto della provocazione di Lattuga. Non lo ha detto ad Akira.
 - s3 · g13 14:40: Akira gli chiede di dire a Tights che stasera all'una l'aspetta all'attico, solo loro due, perché vuole dirle di persona dell'incidente e parlarle anche di altro. Tobias, in privato contento che uno dei due si muova («Era ora che uno dei due si muovesse, comunque»), accetta di scriverglielo subito, ma non garantisce che lei venga; ricorda che lui sta fuori dalla porta per ordine e non entra.
 - s4 · g13 sera → g14 01:16: sul pianerottolo tutta la notte. Tights lo rimprovera per iscritto e poi di persona (Ganascia ha letto il suo rapporto due volte ai consiglieri): domani lo riscrive. Cammina avanti e indietro quando vede Ganascia ai notiziari. All'1:10 riceve da Tights l'ordine di allenare Zemi con i rapporti solo a lei (Akira lo aveva chiesto): risponde chiedendo se Zemi lo vuole. Tights gli dice di sedersi. Non ha sentito la minaccia di Akira al re.
+- s5 · g14-16: rimanda giù un giornalista dalle scale di servizio. Resta a terra per le lezioni di Zemi contro la volontà del Consiglio («alle tre chi c'è con la bambina?»). Prima lezione riuscita («brava», a mezza voce); alla seconda il picco passa la schermatura e il re gli chiede un rapporto, che non manda. A mezzanotte del g16 manda Tights a letto.
+- s5 · g17 03:12: bussa una volta alla porta dell'attico quando Akira si sveglia con l'aura accesa.
+- s5 · g17 08:30-09:40: porta la famiglia alla Capsule e dice ad Akira del picco e del rapporto chiesto dal re. Sulla panca del corridoio Akira gli racconta di Babidi e di Re Kaioh: si tradisce (lo stregone basso col mantello, «non era una roccia»), scrive subito a Tights, gli dice di tacere davanti a Tenaglia. **Persuasione riuscita**: gli racconta cosa hanno visto i satelliti. Akira gli chiede scusa per il peso che è stato, gli dice che vuole tornare sulla vecchia Terra da solo e gli affida la famiglia se muore. Tobias si arrabbia (senza nave non ci arriva, le navi le ha Tights, l'ordine del re ce l'ha in tasca lui); accetta di guardare Zemi, ma il discorso del morire lo rimanda a Syntia. Chiede dove e quando arriva il Kaioshin e, sentito che Akira non lo sa, ordina alle unità del quartiere di non sparare a sconosciuti senza il suo via. Incalzato da Syntia, le dice della bambina e della nave, e se ne vergogna. Rispetto 3 → 4, Amore 1 → 2.
 
 ## Re Korinzo
 **Voce**
@@ -181,6 +209,7 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - 771: sconfigge Akira, uccide i suoi allievi davanti a lui, lo cattura e gli frammenta la mente.
 - 771-774: lo usa come guardia e assassino, chiamandolo Akyr.
 - 774: Akira la batte col Super Kaioken, la risparmia e la costringe al trattato davanti a tutti.
+- s5 (fuori scena) · g14-16: sa degli intrusi da Ignis (Okura pietrificata). Il g16 va a nord di persona: Babidi tenta di marchiarla e lei resiste di poco; Tyros e i marchiati, con Dabura, la attaccano. Ignis muore coprendo la sua ritirata. Torna ferita alla Città dell'Ovest. Prima di partire ha picchiato Zarcon davanti alla corte e l'ha chiuso nella torre.
 
 ## Principe Zarcon
 **Voce**
@@ -194,6 +223,7 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 
 **Diario dei rapporti**
 - 774: Akira lo nomina per provocare Zaraya, poi la risparmia "anche per non far crescere Zarcon nell'odio". Zarcon sa che l'uomo che ha battuto sua madre le ha anche lasciato la vita.
+- s5 (fuori scena) · g14: segue di nascosto Ignis e Okura a nord e vede Okura (che gli insegnava a cacciare) diventare di pietra senza intervenire. g16: la madre lo scopre, lo picchia davanti alla corte e lo chiude nella torre. Non vede la battaglia; saprà della morte di Ignis al ritorno di lei.
 
 ## Ignis
 **Voce**
@@ -208,6 +238,7 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 **Diario dei rapporti**
 - 771: in SSJ mette alle strette Akira, che tenta un Kaioken x50 e non regge.
 - 774: combatte nella battaglia di Arcorp City e sopravvive.
+- **Morto** (s5, fuori scena, g16 pomeriggio): ucciso da Tyros, marchiato, mentre copriva la ritirata della regina nelle Distese del Nord. La sua energia è finita nella sfera di Bu.
 
 ## Okura
 **Voce**
@@ -219,7 +250,8 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 
 **Battute dette in gioco**: —
 
-**Diario dei rapporti**: —
+**Diario dei rapporti**
+- **Pietrificata** (s5, fuori scena, g14 pomeriggio): lo sputo di Dabura nelle Distese del Nord, davanti a Zarcon nascosto. Si libera solo se muore Dabura; se la statua si rompe, muore.
 
 ## Tyros
 **Voce**
@@ -233,6 +265,7 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 
 **Diario dei rapporti**
 - 771: sconfitto da Akira, catturato, interrogato da Akira e Tights.
+- s5 (fuori scena) · notte g14→15: accetta il patto e il marchio di Babidi, con Rapan, Cipoll e altri due Senza Cielo. Racconta a Babidi del Leggendario sigillato. Il g16 uccide Ignis.
 
 ## Babidi
 **Voce**
@@ -255,6 +288,7 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 **Battute dette in gioco**: —
 
 ## Pui Pui · Yakon · Majin Bu
+- **Pui Pui è morto** (s5, fuori scena, g14): ucciso da Ignis e Okura in SSJ alle Distese del Nord.
 - **Pui Pui**: «Insetti! Siete solo insetti! Io vengo da Zoon, lo sapete cosa vuol dire? …Ovvio che non lo sapete, voi insetti di periferia!»
 - **Yakon**: «Hm… tu brilli.» Si leccò le dita. «Mi piace quando brillano.»
 - **Bu**: «Bu non vuole! Bu è arrabbiato! Tu hai rotto il biscotto di Bu!» · «Hihihi! Tu diventi cioccolato, perché Bu ha fame!»
@@ -284,11 +318,15 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 
 **Non direbbe mai**: dare la soluzione di un problema che non conosce (Regola 8).
 
-**Battute dette in gioco**: —
+**Battute dette in gioco**
+- (s5, telepatia) "Piano, Akira, piano… e piantala con il lei, che mi fai sentire Enma!"
+- (s5) "Quando arriva, non mandarlo via prima che abbia finito di parlare… me lo prometti?"
+- (s5) "Per questo te lo chiedo, e rispondimi sinceramente: quella rabbia, Akira, quanta te ne è rimasta dentro?"
 
 **Diario dei rapporti**
 - 764: maestro di Akira nell'aldilà, gli insegna il Kaioken.
 - 771-774: lo guida contro i saiyan. Concede agli allievi 24 ore sulla Terra.
+- s5 · g15 23:50 → g16 00:10: lo contatta per la prima volta in tre anni, a letto, di notte. Gli dice di Shin, di Babidi, di Majin Bu, di Dabura e dei saiyan marchiati; gli chiede di ascoltare Shin fino in fondo e quanta rabbia gli è rimasta. Akira: «davvero molta»; non può rifiutarsi di aiutare, cercherà di tenere i guai lontano da Terra Nova, proverà a parlare con Tights. Re Kaioh lo ringrazia e lo manda a dormire. Teme anche lui che Babidi possa prenderselo, e glielo ha detto.
 
 ## Moori
 **Voce**
@@ -349,6 +387,26 @@ Regola generale: le battute seguono `regole/06-dialoghi.md`: una cosa per battut
 - «Coincidenza, certo, e io sono una ballerina.» Masticò la liquirizia. «Maestà, quell'uomo arriva ad Arcorp la stessa settimana in cui dal cielo cade una cosa che non sappiamo cos'è! Io lo dico, poi fate voi.»
 - (s4, ai notiziari, riformulata) «Ad Arcorp ci sono troppe coincidenze. Una cupola dell'Orto si incrina proprio la settimana in cui certa gente arriva in città. Io alle coincidenze non ci credo.»
 - **Diario**: s4 · g13 21:15, nella pausa del Consiglio, parla ai giornalisti (Akira e Syntia lo vedono sullo schermo della piazza). In seduta ha letto due volte ad alta voce il rapporto di Tobias; ha chiesto tecnici «indipendenti» per la valutazione di Zemi (respinto).
+- **Diario (s5, fuori scena)**: approfittando della paura in seduta ottiene dal re un suo tecnico alla valutazione di Zemi (l'ingegner Tenaglia). Sa dell'aura delle 3:12 alle 3:30 e spinge il re a firmare, alle 7 del g17, l'estensione della valutazione al padre. Non viene di persona. Più forte in Consiglio dopo i cannoni pronti al fuoco.
+
+## Ingegner Tenaglia *(nuova, s5)*
+**Voce** (il modo: educata e piatta, da sportello; dà del lei, frasi complete e procedurali, mai una parola in più; quando ha paura si attacca al protocollo e all'ordine firmato, e la voce le si inceppa solo quando la paura vince)
+- «Si comincia dalla minore, come da ordine originale.»
+- «Il protocollo lo prevede, signora, non l'ho scritto io.»
+- «È… è questo il massimo che può fare, signore?» (s5, detta in gioco)
+
+**Non direbbe mai**: una confidenza personale (la figlia, gli adesivi); un giudizio su Akira ad alta voce; disobbedire a un ordine firmato.
+**Attenzione al cartellino**: il verbale e la procedura sono la sua difesa, non l'argomento di ogni battuta (una volta per scena). Il dinosauro sulla valigetta sta nella narrazione.
+
+**Battute dette in gioco**
+- (s5) «Tocca a lei, signore.»
+- (s5) «È… è questo il massimo che può fare, signore?»
+- (s5, riformulata) «Lo metto a verbale, dottoressa Brief, così Sua Maestà lo legge.»
+
+**Diario dei rapporti**
+- s5 · g17 09:00: riceve la famiglia alla Capsule con Tights e annuncia l'estensione della valutazione al padre. Vuole i genitori fuori durante la misura di Zemi; Tights la scavalca e fa restare Syntia: lo mette a verbale. Zemi nota il dinosauro sulla valigetta: arrossisce e non risponde.
+- s5 · g17 ~09:30: vede la parete di luci piena per Zemi; scrive OLTRE SCALA, sottolineato due volte, e guarda Akira.
+- s5 · g17 ~09:40-09:45: si scontra con Tights (l'ordine del re chiede il massimo). Legge ad alta voce 4.900.000, spettinata dall'aura, ha paura e chiede ad Akira se è il suo massimo. Riferirà a Ganascia il numero e il dubbio.
 
 ## Rapan e Cipoll *(nuovi, s1, solo fuori scena — saiyan dei Senza Cielo)*
 - **Rapan**: «Una mano! Con quattro dita! Generale, giuro sulla mia coda, era grigia, grigia scura e non puzzava di niente, capite? Di niente, ed è questo il problema!»

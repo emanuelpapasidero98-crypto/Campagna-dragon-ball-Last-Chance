@@ -150,3 +150,5 @@ Legenda: `■` = segmento pieno. Quando un orologio si riempie, l'esito accade *
 | G16 sera | F4 satelliti | — | I satelliti registrano il secondo scontro al nord (auree dorate contro auree dorate) |
 | Notte g16→17, 03:12 | F5 Incubi / F4 Sorveglianza | tiro 2 → **aura accesa** | Akira si sveglia dall'incubo con l'aura accesa per pochi secondi. Gli Arc-G2 al portone lo registrano: Ganascia lo sa alle 3:30, Tights alle 4 |
 | G17 07:00 | F4 Ganascia | tiro 4 (non viene di persona) | Dopo il picco delle 15:07 e l'aura delle 3:12, il re firma un ordine: **la valutazione è estesa anche al padre**. Ganascia non viene; manda il suo tecnico, l'ingegner Tenaglia |
+| G17 ~09:45 (s5) | — | nessun avanzamento | Fine sessione 5 dentro il laboratorio (meno di un'ora dall'arrivo alla Capsule). In programma: Shin su Terra Nova il g17 (F3 6/6, già in viaggio); Tenaglia riferisce a Ganascia; Syntia sa della nave. Vedi il programma della sessione 6 nel giornale |
+| Notte g17→18 (pre-tiro, s5) | F5 Incubi | tiro 7 | Notte agitata, nessuna aura (da applicare quando dorme) |

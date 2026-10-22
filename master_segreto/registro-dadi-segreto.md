@@ -62,3 +62,4 @@
 - `2026-10-20 10:55:24 UTC` 🎲 Zaraya_vs_marchio: d10 = 4 | mod +2 → totale 6 | Successo Parziale | g16_Distese_del_Nord:Babidi_tenta_di_marchiarla(orgoglio_+2)
 - `2026-10-20 10:55:24 UTC` 🎲 Babidi_marchio_Zaraya: d10 = 5 | mod +0 → totale 5 | Successo Parziale | g16:tentativo_di_marchio_su_Zaraya
 - `2026-10-20 10:55:24 UTC` 🎲 Zaraya_esito_spedizione: d10 = 1 | mod +0 → totale 1 | FALLIMENTO CRITICO | g16:scontro_al_nord(1-3_ritirata_con_perdite,4-6_stallo,7-9_vantaggio,10_colpo_grosso)
+- `2026-10-22 21:53:22 UTC` 🎲 Incubi di Akira: d10 = 7 | mod +0 → totale 7 | Successo Pieno | Notte g17→18 (stress forte: Kaioshin, Syntia, Tenaglia): con 1-2 si sveglia con l'aura accesa

@@ -3,7 +3,7 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 5 (in corso)
+- **Sessione corrente**: 5 conclusa (la prossima è la 6)
 - **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:45)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), laboratorio di Tights
 - **Scena in sospeso**: g17, circa le 9:45, laboratorio di Tights. Akira sullo sgabello, bracciale nero al polso sinistro e due dischetti alle tempie, con l'aura blu accesa a fiamma e tenuta a metà del potenziale base (la parete di luci è accesa a metà). Lo strumento di Tenaglia segna 4.900.000. Tights, sollevata, gli ha fatto di sì con la testa e ha battuto qualcosa sul pannello («Va bene così, va bene»). Tenaglia, spettinata dal vento dell'aura, chiede: «È… è questo il massimo che può fare, signore?» Fuori dall'oblò: Zemi esultante («ho vinto io»), Syntia spaventata, Tobias che controlla i sensori (niente: la schermatura regge). Shin arriva in giornata.
@@ -19,24 +19,22 @@
 | Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
 |---|---|---|---|
 | ~~s2 · g13 tarda mattina~~ | ~~Persuasione (CD 10, +2: 7 → 9)~~ | ~~Tobias · sapere cosa succede~~ | **Superato il g17 (s5)**: con il fatto nuovo di Babidi, Persuasione CD 8 +3 (6 → 9) riuscita: Tobias gli ha detto cosa hanno visto i satelliti |
-| s5 · g14 ~01:20 | Persuasione (CD 8, +3: 1 naturale → 4, critico) | Tights · farle dire cosa la preoccupa / cosa sta succedendo (crisi, sedute del Consiglio) | Un fatto nuovo vero: tempo trascorso e un rapporto ricucito (i tre anni di silenzio affrontati), un'informazione che Akira porta di suo sulla crisi, o Tights che sceglie da sola di parlarne. Cambiare solo le parole non basta |
+| ~~s5 · g14 ~01:20~~ | ~~Persuasione (CD 8, +3: 1 naturale → 4, critico)~~ | ~~Tights · farle dire cosa la preoccupa / cosa sta succedendo~~ | **Sbloccato il g17 (s5)**: Akira ha portato un'informazione sua sulla crisi (Babidi, via Tobias); con Tights si può riprovare. I tre anni di silenzio restano un conto aperto |
 
 ## Fili aperti noti al giocatore
-- **Stanotte**: Tights all'attico con la decisione del Consiglio. Tobias allenerà Zemi (Tights d'accordo, rapporti solo a lei); Syntia sarà presente a ogni lezione e chiederà a Zemi se vuole. La valutazione al laboratorio resta, entro tre giorni: la farà Tights di persona. Akira aveva detto che Zemi là dentro non entra.
-- **Il ki di Zemi**: era lei il ki del g6. Syntia lo sapeva da più di un anno e gli ha mentito sulla vetrina («un sasso»); ha chiesto lei a Zemi di tenerlo segreto. Lattuga, Cannella e Mirtillo hanno visto; i sensori della città hanno registrato il picco.
-- **Tobias**: sorveglia Akira per ordine del governo; il suo rapporto sull'Orto è stato letto due volte da Ganascia in Consiglio e Tights gli ha ordinato di riscriverlo. Allenerà Zemi (ordine di Tights, rapporti solo a lei). Ha chiesto se Zemi lo vuole. Stanotte è seduto sul pianerottolo.
-- **L'Orto**: Akira e Zemi non possono tornarci per ora; Syntia sì. La lezione del g16 si fa. Comunicato del governatorato: «anomalia di pressione». Lattuga e i giardinieri sanno.
-- Akira non ha risposto a Zemi su dove Tobias compra il riso (banco 14, mercato coperto, tendone blu: lo sa solo lui).
-- Akira ha detto a Syntia, a pranzo, di aver chiesto scusa a Tobias per il passato (non le ha detto altro).
-- Babidi è sulla vecchia Terra (Akira non lo sa).
-- Gli è sfuggito a Tobias (s2) che "starebbe a guardare da tutt'altra parte… con quello che c'è da—". Su saiyan e Consiglio non parla: dice di chiedere a Tights.
-- **Tights**: è all'attico, sulla terrazza con Akira, senza cappotto. Ha votato contro la raccomandazione, ma in Consiglio ci siede («In Consiglio ci siedo anch'io»). Akira le ha chiesto come sta: non ha risposto. Gli ha ordinato di non ripetere la minaccia al re.
-- **Syntia**: fredda con Akira dalle 21:20; non ha preso la sua mano ed è nella cameretta con Zemi. Non gli ha risposto sull'arresto offerto né sul «ti amo».
-- **Il re** ha chiesto in seduta quanto diventerà forte Zemi. Akira, davanti a Tights e Syntia, ha detto che se qualcuno torce un capello a Zemi «Korinzo saprà cosa vuol dire avere paura».
-- **La raccomandazione**: Akira e famiglia non lasciano il quartiere est; due Arc-G2 al portone; Orto vietato ad Akira e Zemi; valutazione di Zemi al laboratorio della Capsule entro tre giorni (entro il g17).
-- Pattuglie raddoppiate ad Arcorp; voce che "i saiyan costruiscono una nave".
-- Le lezioni di Syntia: sei in tre settimane (g13 fatta, prossima g16); i nomi delle piante dell'Orto dell'Est.
-- La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
+- **La misura di Akira** (in corso): aura a metà base, 4,9 milioni. Tenaglia (Clod City, uomo di Ganascia) chiede se è il massimo. Tights lo vuole alla base e calcolerà lei il massimo. L'ordine del re chiede il potenziale massimo. Se si trasforma, il laboratorio salta (Tights).
+- **Zemi**: alla valutazione ha riempito la scala dello strumento («OLTRE SCALA» sul foglio di Tenaglia). Prende lezioni da Tobias (due finora, seminterrato schermato; il g16 un picco è stato registrato). Ha chiesto al papà se ha «fatto male».
+- **Shin, il Kaioshin dell'Est**, arriva su Terra Nova il g17 (oggi), non si sa dove né quando. Non si fida di Akira (Akyr). Akira ha promesso a Re Kaioh di ascoltarlo fino in fondo. Tobias ha ordinato alle unità Arc-G2 del quartiere di non sparare a sconosciuti senza il suo via.
+- **Babidi** sulla vecchia Terra (Distese del Nord): vuole svegliare Majin Bu (dorme in una sfera, serve energia). Dabura, re dei demoni, lo serve. Cinque saiyan marchiati (M sulla fronte). Il g16 saiyan contro saiyan: un'aura si è spenta. Akira teme di poter essere controllato (ha «davvero molta» rabbia).
+- **Il piano di Akira**: dopo Shin, tornare sulla vecchia Terra da solo. Tobias: serve una nave, le navi le ha Tights; l'ordine di non farlo uscire dal quartiere ce l'ha lui.
+- **Syntia**: la sua condizione era decidere insieme ogni cosa con quel dio. Akira ha parlato di partire e di morire con Tobias prima che con lei; lei l'ha saputo da Tobias (dall'oblò, mento che trema). Dorme nella cameretta con Zemi. Al bacio di Akira ha girato il viso.
+- **Tights**: sa da Tobias di Babidi e di Re Kaioh. Gli ha rinfacciato i tre anni di silenzio dopo il braccio riportato; non gli racconta le sedute (per la minaccia al re). Al laboratorio lo ha protetto (base, non massimo). Non ha ancora parlato con lui della crisi.
+- **Tobias**: ha detto ad Akira cosa hanno visto sonda e satelliti. Non ha ancora mandato al re il rapporto sul picco di Zemi del g16 (non sa se scriverci la luce di Zemi o il nome di Babidi). Guarderà Zemi se ad Akira succede qualcosa.
+- **Il Consiglio**: sedute urgenti il g15 e il g16; comunicato su un'«esercitazione dei sistemi di difesa orbitale». Ganascia sa dell'aura delle 3:12. Il re ha chiesto quanto diventerà forte Zemi e ha esteso la valutazione ad Akira.
+- **La raccomandazione**: Akira e famiglia non lasciano il quartiere est (oggi alla Capsule con scorta); due Arc-G2 al portone; Orto vietato ad Akira e Zemi.
+- **Gli incubi**: Akira dorme poco; il g17 alle 3:12 si è svegliato con l'aura accesa.
+- Le lezioni di Syntia: sei in tre settimane (g13 e g16 fatte). Giornalisti anche sotto l'università. Cannella preoccupata per i fondi.
+- Akira non ha risposto a Zemi su dove Tobias compra il riso (banco 14, mercato coperto, tendone blu). La domanda di Zemi su Lace. Il «sono io che devo…» che Akira non ha finito. La minaccia al re («Korinzo saprà cosa vuol dire avere paura»), sentita da Tights, Syntia e Re Kaioh.
 
 ## Ultimi eventi
 - G17 ~09:45 (s5): Akira accende l'aura nel laboratorio fino a metà del potenziale base (4,9 milioni sullo strumento di Tenaglia), senza trasformarsi. Tenaglia gli chiede se è il suo massimo.
