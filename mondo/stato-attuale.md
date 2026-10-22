@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 6 in corso (iniziata il 22/10/2026)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:45)
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:50)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:45, laboratorio di Tights. Akira sullo sgabello, bracciale nero al polso sinistro e due dischetti alle tempie, con l'aura blu accesa a fiamma e tenuta a metà del potenziale base (la parete di luci è accesa a metà). Lo strumento di Tenaglia segna 4.900.000. Tights, sollevata, gli ha fatto di sì con la testa e ha battuto qualcosa sul pannello («Va bene così, va bene»). Tenaglia, spettinata dal vento dell'aura, chiede: «È… è questo il massimo che può fare, signore?» Fuori dall'oblò: Zemi esultante («ho vinto io»), Syntia spaventata, Tobias che controlla i sensori (niente: la schermatura regge). Shin arriva in giornata.
+- **Scena in sospeso**: g17, circa le 9:50, laboratorio di Tights. Akira sullo sgabello con l'aura blu ancora accesa a metà base; il bracciale è al polso ma Tights ha staccato lo strumento (scatoletta spenta, parete di luci buia). Akira ha detto a Tenaglia che per adesso è tutto quello che riesce a fare: **Inganno fallito**. Tenaglia ha scritto la sua dichiarazione parola per parola e, accanto, il valore delle 3:12 (6.300.000 per quattro secondi, nel sonno); ha risposto a Ganascia («li ho, sì, ma sono due»; fra mezz'ora in aeromobile). Tights: «Un incubo non è una misura», poi ha chiuso la misura. Tenaglia aspetta alla porta con le valigette che Tights le apra; gli toglierà il bracciale quando si è raffreddato. Tights, la mano vicino al lettore, non apre e guarda Akira. Fuori: Zemi arrabbiata per le luci spente, Syntia che fissa Tenaglia, Tobias che guarda la valigetta. Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -19,6 +19,7 @@
 | Sessione · data | Prova | Bersaglio · obiettivo | Cosa servirebbe per riprovare |
 |---|---|---|---|
 | ~~s2 · g13 tarda mattina~~ | ~~Persuasione (CD 10, +2: 7 → 9)~~ | ~~Tobias · sapere cosa succede~~ | **Superato il g17 (s5)**: con il fatto nuovo di Babidi, Persuasione CD 8 +3 (6 → 9) riuscita: Tobias gli ha detto cosa hanno visto i satelliti |
+| s6 · g17 ~09:48 | Inganno (CD 8, −1: 5 → 4) | Tenaglia · farle credere che 4,9 milioni sono tutto ciò che riesce a fare per ora | Una misura nuova, un fatto nuovo che spieghi il valore delle 3:12, o un'altra persona da convincere (Ganascia, il re). Tenaglia ha già messo a verbale il dubbio |
 | ~~s5 · g14 ~01:20~~ | ~~Persuasione (CD 8, +3: 1 naturale → 4, critico)~~ | ~~Tights · farle dire cosa la preoccupa / cosa sta succedendo~~ | **Sbloccato il g17 (s5)**: Akira ha portato un'informazione sua sulla crisi (Babidi, via Tobias); con Tights si può riprovare. I tre anni di silenzio restano un conto aperto |
 
 ## Fili aperti noti al giocatore
@@ -37,6 +38,7 @@
 - Akira non ha risposto a Zemi su dove Tobias compra il riso (banco 14, mercato coperto, tendone blu). La domanda di Zemi su Lace. Il «sono io che devo…» che Akira non ha finito. La minaccia al re («Korinzo saprà cosa vuol dire avere paura»), sentita da Tights, Syntia e Re Kaioh.
 
 ## Ultimi eventi
+- G17 ~09:46-09:50 (s6): Tights prova a chiudere la misura («massimo espresso»); Tenaglia vuole la risposta di Akira. Akira le dice che per adesso è tutto quello che riesce a fare, che non si è allenato né ha usato i poteri in tre anni per rispetto del popolo, che non vuole fare del male a nessuno. **Inganno fallito**: Tenaglia scrive tutto e, accanto, il dato delle 3:12 (6,3 milioni nel sonno); risponde a Ganascia. Tights stacca lo strumento e chiude la misura.
 - G17 ~09:45 (s5): Akira accende l'aura nel laboratorio fino a metà del potenziale base (4,9 milioni sullo strumento di Tenaglia), senza trasformarsi. Tenaglia gli chiede se è il suo massimo.
 - G17 ~09:40 (s5): Akira dice a Tobias che parlerà con Tights e non sa dove arriva il Kaioshin; Tobias scrive alle unità del quartiere di non sparare. Akira abbraccia Zemi («Allora adesso tocca a te accendere le luci!») e dice a Syntia che Tobias le spiegherà. Nel laboratorio chiede se la stanza regge e parla degli incubi. Tights e Tenaglia si scontrano su base o massimo.
 - G17 ~09:30-09:35 (s5): Akira si scusa con Tobias e gli dice di Shin, del ritorno sulla vecchia Terra da solo, della famiglia se muore. Tobias si arrabbia (nave, ordine del re), prenderà cura di Zemi, gli rimanda il discorso del morire a Syntia, chiede dove e quando arriva il Kaioshin. Esce Zemi, poi Syntia, che chiede di cosa parlavano. Tenaglia lo chiama per la misura.

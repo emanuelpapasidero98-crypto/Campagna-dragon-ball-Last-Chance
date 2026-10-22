@@ -300,3 +300,9 @@ Si riparte dal g17 ~09:45, nel laboratorio di Tights, con la domanda di Tenaglia
 ### G17 ~09:46 · Clod City → comunicatore di Tenaglia
 - **Cosa**: Ganascia chiama Tenaglia due volte, poi una terza, durante la misura di Akira: vuole il numero subito (aspettava la chiamata per le 9:30). Tenaglia non risponde finché non ha la dichiarazione del soggetto.
 - **Chi lo sa**: Ganascia, Tenaglia. **Come Akira può scoprirlo**: se Tenaglia risponde davanti a lui, o se lo dice Tights («è Ganascia, scommetto»).
+
+### G17 ~09:49 · laboratorio → Clod City (Tenaglia a Ganascia)
+- **Cosa**: Inganno di Akira fallito. Tenaglia è certa che 4,9 milioni non siano il massimo: sul verbale ci sono la dichiarazione di Akira («per adesso è tutto quello che riesco a fare», in tre anni non ha usato i poteri) e, accanto, il valore delle 3:12 (6,3 milioni in quattro secondi di sonno), che la smentisce. Al telefono a Ganascia: «li ho, ma sono due»; lo richiama dall'aeromobile entro le 10:30. Ganascia avrà: Zemi OLTRE SCALA; Akira 4,9M «massimo espresso» (registro di Tights) contro 6,3M nel sonno; la dichiarazione di Akira che lo contraddice; Tights che ha chiuso lei la misura. Argomento perfetto per accusare Tights di coprire la famiglia e chiedere una seconda misura «in un luogo adatto».
+- **Chi lo sa**: Tenaglia, Ganascia (entro le 10:30), poi il Consiglio. Akira ha visto e sentito tutto.
+- **Come Akira può scoprirlo**: notiziari, Tights, la convocazione di una seconda misura.
+

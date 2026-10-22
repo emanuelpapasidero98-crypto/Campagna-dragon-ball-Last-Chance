@@ -4,3 +4,4 @@
 - `2026-10-19 20:23:47 UTC` 🎲 Akira: d10 = 9 | mod +2 → totale 11 | CD 10 → PROVA SUPERATA | Persuasione: cerco di convincere Tights a far allenare Zemi da Tobias senza rapporti
 - `2026-10-20 09:50:57 UTC` 🎲 Akira: d10 = 1 | mod +3 → totale 4 | CD 8 → PROVA FALLITA (fallimento critico) | Persuasione: chiedo a Tights cos'ha
 - `2026-10-20 16:15:31 UTC` 🎲 Akira: d10 = 6 | mod +3 → totale 9 | CD 8 → PROVA SUPERATA | Persuasione: chiedo a Tobias cosa hanno visto i satelliti
+- `2026-10-22 22:18:31 UTC` 🎲 Akira: d10 = 5 | mod -1 → totale 4 | CD 8 → PROVA FALLITA | Inganno: convinco Tenaglia che per adesso è tutto quello che riesco a fare
