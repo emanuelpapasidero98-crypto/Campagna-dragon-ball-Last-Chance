@@ -17,5 +17,6 @@
 - Tenaglia: «Il protocollo lo prevede, signore. Se lei non risponde, io scrivo che il soggetto non ha risposto alla domanda.»
 ### Momenti chiave nei rapporti
 - g17 ~09:46 (ripresa): Tights prova a chiudere la misura coprendo Akira («massimo espresso») e gli dice di spegnere. Tenaglia, spaventata, rifiuta: vuole la risposta dal soggetto, a verbale; se non risponde scrive che non ha risposto. Tights tace e lo guarda. Zemi bussa all'oblò («…tutte!»), Syntia la tira via e fissa la stilografica di Tenaglia; Tobias sorveglia il fondo del corridoio. L'aura di Akira è ancora accesa a metà base.
+- g17 ~09:48: Akira, con l'aura ancora accesa, dice a Tenaglia che per adesso è tutto quello che riesce a fare (mente: ha promesso a Tights di non trasformarsi), che lo riferisca al re, che in tre anni non si è allenato né ha usato i poteri per rispetto del popolo, che ha sempre messo la sua forza al servizio di tutti dai tempi di Freezer e Gero, che non vuole e non farà mai del male a nessuno. **In sospeso: Inganno CD 8, −1** (Rispetto 2 −2; reputazione −1; situazione +1 +1 −1; coerenza +1).
 
 ## Errori segnalati dal giocatore
