@@ -4,9 +4,9 @@
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
 - **Sessione corrente**: 5 (in corso)
-- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:40)
+- **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:45)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), laboratorio di Tights
-- **Scena in sospeso**: g17, circa le 9:40, laboratorio di Tights (porta chiusa, pareti schermate). Akira è entrato per la sua misura, in piedi. Tights: le pareti reggono la base, se si trasforma salta tutto; a mezza voce, senza farsi sentire da Tenaglia: «Solo la base, per favore… solo quella.» Tenaglia: l'ordine del re parla di potenziale massimo; ha scritto degli incubi; tiene aperto il bracciale nero per il polso sinistro: «Quanto vuole mostrarci, signore, lo decide lei.» Sul bancone il foglio di Zemi con OLTRE SCALA sottolineato due volte. Luci della parete accese al minimo. Fuori, dall'oblò: Syntia ha costretto Tobias a dirle qualcosa e ora guarda Akira attraverso il vetro, con Zemi alla gonna. Tobias ha ordinato alle unità del quartiere di non sparare a sconosciuti. Shin arriva in giornata.
+- **Scena in sospeso**: g17, circa le 9:45, laboratorio di Tights. Akira sullo sgabello, bracciale nero al polso sinistro e due dischetti alle tempie, con l'aura blu accesa a fiamma e tenuta a metà del potenziale base (la parete di luci è accesa a metà). Lo strumento di Tenaglia segna 4.900.000. Tights, sollevata, gli ha fatto di sì con la testa e ha battuto qualcosa sul pannello («Va bene così, va bene»). Tenaglia, spettinata dal vento dell'aura, chiede: «È… è questo il massimo che può fare, signore?» Fuori dall'oblò: Zemi esultante («ho vinto io»), Syntia spaventata, Tobias che controlla i sensori (niente: la schermatura regge). Shin arriva in giornata.
 
 ## Akira, condizioni
 - HP 89/89, Ki 65/65
@@ -39,6 +39,7 @@
 - La scuola per Zemi (Syntia ha detto no, per ora). La domanda di Zemi su Lace. Il "sono io che devo…" che Akira non ha finito.
 
 ## Ultimi eventi
+- G17 ~09:45 (s5): Akira accende l'aura nel laboratorio fino a metà del potenziale base (4,9 milioni sullo strumento di Tenaglia), senza trasformarsi. Tenaglia gli chiede se è il suo massimo.
 - G17 ~09:40 (s5): Akira dice a Tobias che parlerà con Tights e non sa dove arriva il Kaioshin; Tobias scrive alle unità del quartiere di non sparare. Akira abbraccia Zemi («Allora adesso tocca a te accendere le luci!») e dice a Syntia che Tobias le spiegherà. Nel laboratorio chiede se la stanza regge e parla degli incubi. Tights e Tenaglia si scontrano su base o massimo.
 - G17 ~09:30-09:35 (s5): Akira si scusa con Tobias e gli dice di Shin, del ritorno sulla vecchia Terra da solo, della famiglia se muore. Tobias si arrabbia (nave, ordine del re), prenderà cura di Zemi, gli rimanda il discorso del morire a Syntia, chiede dove e quando arriva il Kaioshin. Esce Zemi, poi Syntia, che chiede di cosa parlavano. Tenaglia lo chiama per la misura.
 - G17 ~09:20-09:30 (s5): Persuasione su Tobias riuscita (6+3 = 9 contro CD 8): sonda del g8, foto del g14, saiyan contro saiyan il g16. Finisce la misura di Zemi: tutta la parete di luci verdi.

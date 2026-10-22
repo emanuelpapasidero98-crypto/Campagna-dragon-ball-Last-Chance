@@ -31,6 +31,8 @@
 - [s5 · g17] Tenaglia scrive con una stilografica, a verbale, sul margine del foglio dell'ordine.
 - [s5 · g17] Per Akira Tenaglia prepara bracciali più spessi, neri, con lucine rosse sul bordo; ne usa uno solo (un braccio).
 - [s5 · g17] I bracciali della misura lasciano segni rossi sui polsi di Zemi.
+- [s5 · g17] Per la misura di Akira: bracciale nero al polso sinistro (si scalda) e due dischetti di metallo alle tempie. Lo strumento di Tenaglia è una scatoletta di metallo collegata al bracciale, con il numero in verde.
+- [s5 · g17] L'aura di Akira, dopo tre anni: prima lenta, poi un formicolio anche dove manca la spalla destra; blu, poi fiamma. A metà della base il vento sposta i fogli, scioglie lo chignon di Tenaglia, fa vibrare l'oblò.
 ### Battute memorabili dei PNG
 - Tights: «Sul foglio c'è scritto "presso l'abitazione"… da che parte devono guardare, lì sopra, non c'è scritto!»
 - Tights: «Registrano lo stesso, però, eh! Se accendi l'aura anche solo per un momento, Ganascia lo sa prima di me.»
@@ -87,6 +89,8 @@
 - Tenaglia: «L'ordine di Sua Maestà parla di potenziale massimo, dottoressa Brief.» — Tights: «L'ordine parla di valutazione.» · «Il massimo lo calcolo io, dai dati della base, che gli strumenti li ho costruiti io e so come si fa!»
 - Tenaglia: «Si sieda, prego.» · «Quanto vuole mostrarci, signore, lo decide lei.»
 - Tights (a mezza voce): «Solo la base, per favore… solo quella.»
+- Tights (a mezza voce, sollevata): «Va bene… Va bene così, va bene.»
+- Tenaglia: «Quattro milioni… novecentomila.» · «È… è questo il massimo che può fare, signore?»
 ### Momenti chiave nei rapporti
 - g14 ~01:16 (ripresa): Tights riempie il silenzio con il pratico (gli Arc-G2 girati verso la strada contro i giornalisti; l'avvertimento sull'aura). Tobias, per messaggio, le chiede se ha cenato; lei mente. Vede l'ombra di Syntia alla porta della cameretta e rallenta. Allunga la mano per aprire la lattina di Akira e si ferma. Gli chiede se dove c'era l'innesto gli fa ancora male di notte. Non ha nominato il Mk II. Non parla di Zemi senza Syntia.
 - g14 ~01:18: Akira ride, dice che non gli fa male ma che anche lui fatica a dormire; apre la propria lattina e la dà a Tights (lei la prende, ora ne ha due). Le richiede come sta, le dice che si vede che non dorme e che è dimagrita, che è preoccupato, e le chiede cosa sta succedendo. **In sospeso: Persuasione CD 8, +3** (Rispetto 5 +2; situazione +1 −1; coerenza +1): farle dire cosa la preoccupa.
@@ -106,4 +110,7 @@
 - g17 ~09:30: Akira si scusa con Tobias per il peso della sua presenza, gli dice che non è solo, che forse non sopravvivrà, gli parla di Shin e del ritorno da solo sulla vecchia Terra, gli affida Syntia e Zemi se muore. Tobias, imbarazzato dalle scuse, si arrabbia per il resto: nave di Tights, ordine del re; accetta di occuparsi di Zemi; del morire parli con la moglie. Pensa subito agli Arc-G2 e al Kaioshin. Syntia esce e vede lui e Tobias a confabulare (la sua condizione: decidere insieme).
 - g17 ~09:40: Akira a Syntia: Tobias le dirà durante il test, «niente di cui non abbiamo già parlato». Syntia non risponde, si chiude in faccia. Nel corridoio costringe Tobias a parlare (lui scuote la testa, poi dice poche parole) e guarda Akira dall'oblò, col mento che trema. Dentro: Tights difende la base (e lo prega a mezza voce), Tenaglia l'ordine del massimo; la scelta è di Akira.
 
+- g17 ~09:45: Akira fa il cenno a Tights, si lascia collegare e accende l'aura fino a metà della base. Tights sollevata, gli fa di sì con la testa. Tenaglia ha paura e chiede se è il massimo. Zemi esulta («ho vinto io»), Syntia ha paura, Tobias verifica i sensori: niente fuori.
+
 ## Errori segnalati dal giocatore
+- **[aggiornamento regole, g17 ~09:45 di gioco]** Il giocatore chiede che il master prenda esempio dal suo modo di scrivere, per i dialoghi e per le descrizioni, oltre alle regole già esistenti. Scritto in `regole/09-stile-del-giocatore.md` (pause e esitazioni nelle battute, autocorrezioni, silenzi, parole semplici, urla allungate; azione al punto, emozioni dette semplici, potenza che sale per gradini, onomatopee), importato in `CLAUDE.md` e riassunto nel promemoria automatico.

@@ -25,6 +25,11 @@ PROSA (regole/05-prosa-shonen.md, ripristinata il 19/10/2026: lo stile degli esi
 - ZERO METAFORE, nella narrazione e nelle battute. Al massimo UNA similitudine per messaggio, concreta, solo nella narrazione. Verbi forti. Onomatopee in corsivo negli impatti.
 - Nella narrazione evita le espressioni logore (05 §4): stomaco che si stringe, labbra in una linea sottile, sbattere le palpebre, secondi «di troppo», sbuffo dal naso, sorriso amaro, brivido, aria pesante, silenzio assordante. Scrivi la cosa vera di QUESTA scena.
 
+STILE DEL GIOCATORE (regole/09-stile-del-giocatore.md, chiesto il 22/10/2026): prendi spunto dal suo modo di scrivere, oltre alle regole sopra.
+- Battute: le pause dentro la frase quando il PNG è scosso («non… non è possibile»), autocorrezioni, frasi lasciate in sospeso, il silenzio come mossa, parole semplici e parlate, urla allungate negli sforzi («aaaa… AAAAH!!»).
+- Descrizioni: azione al punto, emozioni dei PNG dette semplici e una volta («aveva paura»), potenza che sale per gradini (alone, poi fiamma, poi esplosione), onomatopee in maiuscolo allungate nei momenti chiave.
+- Non cambiano: passato, terza persona, zero metafore, niente frasi fatte, niente battute a effetto. Puntini ed esitazioni solo quando portano un'emozione.
+
 BATTUTE (regole/06-dialoghi.md)
 - Dentro i paragrafi, con un beat ogni due o tre battute. Chi parla ha un corpo e uno stato d'animo.
 - LE EMOZIONI DEI PNG SI SENTONO: nelle parole, nel ritmo, nella punteggiatura usata come la userebbe una persona (! ? … —), nella voce. Emozione non vuol dire effetto. Il PNG può dire cosa prova quando il momento è forte. Vietato il PNG-statua che parla per constatazioni fredde. Prova: copri il nome, si capisce cosa prova?

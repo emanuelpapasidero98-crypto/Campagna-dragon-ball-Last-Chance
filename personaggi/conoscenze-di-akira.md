@@ -86,3 +86,4 @@
 | g17 ~09:30 (s5) | Alla valutazione di Zemi le luci verdi del laboratorio hanno riempito tutta la parete, fino all'ultima. Tights ha nascosto lo schermo a Tenaglia con la schiena; Tenaglia ha scritto a lungo e ha sottolineato due volte, poi ha guardato lui | L'ha visto dall'oblò |
 | g17 ~09:40 (s5) | Sul foglio di Tenaglia, alla misura di Zemi: OLTRE SCALA, sottolineato due volte | L'ha visto sul bancone |
 | g17 ~09:40 (s5) | Il laboratorio regge la sua base; se si trasforma, secondo Tights, salta tutto. L'ordine del re chiede il potenziale massimo (Tenaglia); Tights vuole calcolarlo lei dai dati della base | Tights, Tenaglia |
+| g17 ~09:45 (s5) | La schermatura del laboratorio regge la sua aura a metà della base: fuori i sensori della città non segnano niente (Tobias lo ha controllato). Lo strumento di Tenaglia legge 4.900.000 | L'ha visto, Tenaglia lo ha letto ad alta voce |
