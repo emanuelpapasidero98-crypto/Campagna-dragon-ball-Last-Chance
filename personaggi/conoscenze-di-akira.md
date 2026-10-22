@@ -87,3 +87,4 @@
 | g17 ~09:40 (s5) | Sul foglio di Tenaglia, alla misura di Zemi: OLTRE SCALA, sottolineato due volte | L'ha visto sul bancone |
 | g17 ~09:40 (s5) | Il laboratorio regge la sua base; se si trasforma, secondo Tights, salta tutto. L'ordine del re chiede il potenziale massimo (Tenaglia); Tights vuole calcolarlo lei dai dati della base | Tights, Tenaglia |
 | g17 ~09:45 (s5) | La schermatura del laboratorio regge la sua aura a metà della base: fuori i sensori della città non segnano niente (Tobias lo ha controllato). Lo strumento di Tenaglia legge 4.900.000 | L'ha visto, Tenaglia lo ha letto ad alta voce |
+| g17 ~09:46 (s6) | Tights segna la sua misura sul registro come «massimo espresso» ed è quello che manda al Consiglio. Tenaglia non lo accetta: vuole la sua risposta a verbale, altrimenti scrive che il soggetto non ha risposto | Tights e Tenaglia, in laboratorio |

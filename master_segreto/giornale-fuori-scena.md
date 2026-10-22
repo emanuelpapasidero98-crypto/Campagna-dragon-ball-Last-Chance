@@ -294,3 +294,9 @@ Si riparte dal g17 ~09:45, nel laboratorio di Tights, con la domanda di Tenaglia
 - **Consiglio**: cannoni pronti al fuoco sulle Distese del Nord; il re aspetta. Se arriva sui sensori la notizia di uno sconosciuto comparso ad Arcorp (Shin), seduta urgente: Ganascia lo collegherà ad Akira.
 - **Vecchia Terra** (nessun avanzamento automatico prima di sera del g17; poi un tiro per giorno): Zaraya ferita stringe la corte; Zarcon nella torre, saprà della morte di Ignis (crepa 5/6: alla prossima spinta forte si spezza); Babidi manda i marchiati a cercare combattimenti per l'energia (Energia 4/12) e fa cercare a Tyros notizie del namecciano (Scoperta di Kras 1/8).
 - **Come Akira può scoprirlo**: Tenaglia e la misura li vede; Tights, se le chiede; Syntia, quando lo affronta; Shin, quando arriva. La guerra al nord e la morte di Ignis: solo da Shin (che ha visto) o dai satelliti tramite Tobias e Tights.
+
+## Sessione 6
+
+### G17 ~09:46 · Clod City → comunicatore di Tenaglia
+- **Cosa**: Ganascia chiama Tenaglia due volte, poi una terza, durante la misura di Akira: vuole il numero subito (aspettava la chiamata per le 9:30). Tenaglia non risponde finché non ha la dichiarazione del soggetto.
+- **Chi lo sa**: Ganascia, Tenaglia. **Come Akira può scoprirlo**: se Tenaglia risponde davanti a lui, o se lo dice Tights («è Ganascia, scommetto»).

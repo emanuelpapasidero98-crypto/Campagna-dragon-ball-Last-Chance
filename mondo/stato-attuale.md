@@ -3,7 +3,7 @@
 > Aggiornato a ogni cambio di scena importante e a ogni `/fine-sessione`.
 
 - **Campagna**: *Dragon Ball Last Chance*, arco di Babidi (nome dell'arco da definire)
-- **Sessione corrente**: 5 conclusa (la prossima è la 6)
+- **Sessione corrente**: 6 in corso (iniziata il 22/10/2026)
 - **Data in gioco**: anno 777, giorno 17, mattina (circa le 9:45)
 - **Luogo**: Arcorp City, Capsule Corporation (fuori dal quartiere est, con scorta), laboratorio di Tights
 - **Scena in sospeso**: g17, circa le 9:45, laboratorio di Tights. Akira sullo sgabello, bracciale nero al polso sinistro e due dischetti alle tempie, con l'aura blu accesa a fiamma e tenuta a metà del potenziale base (la parete di luci è accesa a metà). Lo strumento di Tenaglia segna 4.900.000. Tights, sollevata, gli ha fatto di sì con la testa e ha battuto qualcosa sul pannello («Va bene così, va bene»). Tenaglia, spettinata dal vento dell'aura, chiede: «È… è questo il massimo che può fare, signore?» Fuori dall'oblò: Zemi esultante («ho vinto io»), Syntia spaventata, Tobias che controlla i sensori (niente: la schermatura regge). Shin arriva in giornata.
